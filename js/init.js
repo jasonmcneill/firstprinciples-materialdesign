@@ -2,15 +2,25 @@
 
 	$(function(){
 
-		$('.sidenav').sidenav();
+		var resetSidenav = function(domObj) {
+			$('#slide-out .collapsible').collapsible('close');
+		};
+
 		$('.dropdown-trigger').dropdown();
-		$('.collapsible').collapsible();
-		$('.collapsible-header').on("click", function(evt){
-			var theIcon = $(evt.target).find(".material-icons").text();
-			if(theIcon === "keyboard_arrow_right") {
-				$(evt.target).find(".material-icons").text("keyboard_arrow_down");
-			} else if(theIcon === "keyboard_arrow_down") {
-				$(evt.target).find(".material-icons").text("keyboard_arrow_right");
+		
+		$('.sidenav').sidenav({
+			edge: 'right',
+			onCloseStart: function(domObj) {
+				resetSidenav(domObj);
+			}
+		});
+
+		$('#slide-out .collapsible').collapsible({
+			onOpenStart: function(domObj) {
+				$(domObj).find(".collapsible-header > .material-icons").text("keyboard_arrow_down");
+			},
+			onCloseEnd: function(domObj) {
+				$(domObj).find(".collapsible-header > .material-icons").text("keyboard_arrow_right");
 			}
 		});
 
