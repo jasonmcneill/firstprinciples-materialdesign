@@ -70,7 +70,7 @@ jQuery(document).ready(function($){
 				resolve(value);
 			});
 		});
-	}
+	};
 
 	const setLang = function(langObj){
 		return new Promise(function(resolve, reject){
@@ -104,7 +104,7 @@ jQuery(document).ready(function($){
 			phrasesArr.push(phraseObj);
 		}
 		return phrasesArr;
-	}
+	};
 
 	const setGlobalPhrases = function(){
 		getLang().then(function(langObj){
