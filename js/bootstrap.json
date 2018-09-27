@@ -1,0 +1,122 @@
+{
+	"bootstrap": {
+		"dates": {
+			"created": {
+				"on": "2018-09-26",
+				"by": {
+					"tag": "Jason McNeill",
+					"email": "vrtjason@gmail.com"
+				}
+			},
+			"updated": {
+				"on": "2018-09-26",
+				"by": {
+					"tag": "Jason McNeill",
+					"email": "vrtjason@gmail.com"
+				}
+			},
+			"expires": {
+				"on": "2019-09-26"
+			}
+		},
+		"translations": {
+			"baseurl": "http://domain.com/translations/lang/",
+			"files": [{
+					"tag": "global",
+					"filename": "global.xml",
+					"key": "global"
+				},
+				{
+					"tag": "seeking-god",
+					"filename": "seeking-god.xml",
+					"key": "seekingGod"
+				},
+				{
+					"tag": "the-word",
+					"filename": "the-word.xml",
+					"key": "theWord"
+				},
+				{
+					"tag": "discipleship",
+					"filename": "discipleship.xml",
+					"key": "discipleship"
+				},
+				{
+					"tag": "the-kingdom",
+					"filename": "the-kingdom.xml",
+					"key": "theKingdom"
+				},
+				{
+					"tag": "light-darkness",
+					"filename": "light-darkness.xml",
+					"key": "lightAndDarkness"
+				},
+				{
+					"tag": "new-testament-conversion",
+					"filename": "new-testament-conversion.xml",
+					"key": "newTestamentConversion"
+				},
+				{
+					"tag": "the-cross",
+					"filename": "the-cross.xml",
+					"key": "theCross"
+				},
+				{
+					"tag": "medical-account",
+					"filename": "medical-account.xml",
+					"key": "medicalAccount"
+				},
+				{
+					"tag": "baptism-holy-spirit",
+					"filename": "baptism-holy-spirit.xml",
+					"key": "baptismWithTheHolySpirit"
+				},
+				{
+					"tag": "miraculous-gifts-holy-spirit",
+					"filename": "miraculous-gifts-holy-spirit.xml",
+					"key": "miraculousGiftsOfTheHolySpirit"
+				},
+				{
+					"tag": "the-church",
+					"filename": "the-church.xml",
+					"key": "theChurch"
+				},
+				{
+					"tag": "book-of-acts",
+					"filename": "book-of-acts.xml",
+					"key": "bookOfActs"
+				},
+				{
+					"tag": "after-baptism-now-what",
+					"filename": "after-baptism-now-what.xml",
+					"key": "afterBaptismNowWhat"
+				},
+				{
+					"tag": "christ-is-your-life",
+					"filename": "christ-is-your-life.xml",
+					"key": "christIsYourLife"
+				},
+				{
+					"tag": "best-friends-all-time",
+					"filename": "best-friends-all-time.xml",
+					"key": "bestFriendsOfAllTime"
+				},
+				{
+					"tag": "the-mission",
+					"filename": "the-mission.xml",
+					"key": "theMission"
+				},
+				{
+					"tag": "persecution",
+					"filename": "persecution.xml",
+					"key": "persecution"
+				},
+				{
+					"tag": "memory-scriptures",
+					"filename": "memory-scriptures.xml",
+					"key": "memoryScriptures"
+				}
+			]
+		}
+	}
+}
