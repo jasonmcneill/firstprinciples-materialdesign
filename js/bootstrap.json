@@ -26,6 +26,22 @@
 					"filename": "global.xml",
 				},
 				{
+					"tag": "dashboard",
+					"filename": "dashboard.xml",
+				},
+				{
+					"tag": "introduction",
+					"filename": "introduction.xml",
+				},
+				{
+					"tag": "course-information",
+					"filename": "course-information.xml",
+				},
+				{
+					"tag": "book-of-john",
+					"filename": "book-of-john.xml",
+				},
+				{
 					"tag": "seeking-god",
 					"filename": "seeking-god.xml",
 				},
