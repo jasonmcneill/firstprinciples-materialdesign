@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<the-kingdom lang-original="en" lang-translated="en" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			The Coming of the Kingdom
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			In this study you will see the continuity of the Old and New Testaments. 
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Questions: What is the Kingdom of God? When did it come?
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Old Testament Predictions of the Kingdom (the height of Israel's glory was under the kingship of David, approximately 1000 B.C.)
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Isaiah 2:1-4 (750 B.C.)
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" href="scriptures/isaiah-2-1-4.html">
+			<original>
+				Isaiah 2:1-4
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+		<change bold="true" italic="false" modal="false" href="">
+			<original>
+				(750 B.C.)
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="true" italic="false" modal="true" href="">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</the-kingdom>
