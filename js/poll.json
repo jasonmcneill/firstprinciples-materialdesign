@@ -1,12 +1,5 @@
 {
 	"dates": {
-		"created": {
-			"on": "2018-10-02",
-			"by": {
-				"name": "Jason McNeill",
-				"email": "vrtjason@gmail.com"
-			}
-		},
 		"updated": {
 			"on": "2018-10-02",
 			"by": {
@@ -16,13 +9,20 @@
 		},
 		"expires": {
 			"after": {
-				"years": 0,
+				"years": 3,
 				"months": 0,
-				"days": 14,
+				"days": 0,
 				"minutes": 0,
 				"seconds": 0
 			},
 			"on": "2030-12-31"
+		},
+		"created": {
+			"on": "2018-10-02",
+			"by": {
+				"name": "Jason McNeill",
+				"email": "vrtjason@gmail.com"
+			}
 		}
 	},
 	"languagesAvailable": [
