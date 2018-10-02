@@ -26,11 +26,7 @@
 		}
 	},
 	"pollFrequency": {
-		"years": 0,
-		"months": 0,
-		"days": 0,
-		"hours": 1,
-		"minutes": 0
+		"minutes": 20
 	},
 	"languagesAvailable": [
 		{
