@@ -18,7 +18,7 @@ const fp = {
 			if(!poll){
 				$.get("/js/poll.json").then(function(data){
 					localforage.setItem("poll", data).then(function(allSet){
-						fp.poll = allSet;
+						fp.poll = JSON.parse(allSet);
 					});
 				});
 			} else {
