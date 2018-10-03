@@ -30,6 +30,14 @@ const fp = {
 
 	pollServer: function(){
 	},
+	
+	detectLang: function(){
+		var lang = navigator.language || navigator.browserLanguage;
+		lang = lang.substring(0,2);
+		localforage.setItem("lang", lang).then(function(lang){
+			return lang;
+		});
+	},
 
 	checkLang: function(){
 		localforage.getItem("lang").then(function(lang){
@@ -42,9 +50,10 @@ const fp = {
 	},
 
 	init: function(){
+		fp.detectLang();
 		fp.pollInitial();
-		fp.events.attachEvents();
 		fp.checkLang();
+		fp.events.attachEvents();
 	}
 
 };
