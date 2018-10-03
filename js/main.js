@@ -35,6 +35,7 @@ const fp = {
 		var lang = navigator.language || navigator.browserLanguage;
 		lang = lang.substring(0,2);
 		lang = lang.toLowerCase();
+		if(! lang.length === 2) return;
 		localforage.setItem("lang", lang).then(function(lang){
 			return lang;
 		});
