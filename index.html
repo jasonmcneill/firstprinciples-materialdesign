@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link type="text/css" rel="stylesheet" href="/materialize-v1.0.0/materialize/css/materialize.min.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="/css/materialize.min.css"  media="screen,projection"/>
     <link type="text/css" rel="stylesheet" href="/css/style.css" media="screen,projection">
   </head>
   <body>
@@ -14,9 +14,6 @@
       <div class="nav-wrapper container">
       	<a href="#dashboard" class="left"><i class="material-icons">home</i></a>
       	<a id="logo-container" href="#dashboard" class="brand-logo flow-text center">First Principles</a>
-        <!-- <ul class="right hide-on-med-and-down">
-          <li><a href="#">Navbar Link</a></li>
-        </ul> -->
         <ul id="slide-out" class="sidenav right grey lighten-3">
           <li><a href="#!">First Sidebar Link</a></li>
           <li><a href="#!">Second Sidebar Link</a></li>
@@ -43,31 +40,18 @@
     <nav class="light-blue darken-1" role="name">
     	<div class="nav-wrapper container">
     		<div class="center flow-text fp_pagehead">
-    			Miraculous Gifts of the Holy Spirit
+    			
     		</div>
     	</div>
     </nav>
 
-    <div class="container flow-text">
-    	<div class="center">
-			<audio controls="controls" id="audiomiraculousgiftsholyspirit" crossorigin="anonymous">
-				<source src="http://www.usd21.org/m/lang/en/fp/audio/m4a/10-Miraculous_Gifts_of_the_Holy_Spirit.m4a" type="audio/aac" />
-				<source src="http://www.usd21.org/m/lang/en/fp/audio/ogg/10-Miraculous_Gifts_of_the_Holy_Spirit.ogg" type="audio/ogg" />
-				<source src="http://www.usd21.org/m/lang/en/fp/audio/mp3/10-Miraculous_Gifts_of_the_Holy_Spirit.mp3" type="audio/mpeg" />
-			</audio>
-		</div>
-		<div class="row">
-	    	<div class="col s6">
-	    		Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello
-	    	</div>
-	    </div>
-    </div>
+    <div class="fp_pagecontent"></div>
 
-
-    <!--  Scripts-->
-    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="/materialize-v1.0.0/materialize/js/materialize.min.js"></script>
-    <script src="js/init.js"></script>
+    <!--  Scripts -->
+    <script src="/js/jquery-2.1.1.min.js"></script>
+    <script src="/js/localforage.min.js"></script>
+    <script src="/js/materialize.min.js"></script>
+    <script src="/js/main.js"></script>
 
   </body>
 </html>
