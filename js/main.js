@@ -1,10 +1,10 @@
 const fp = {
 	
 	getBaseUrl: function(){
-		if(location.host === "localhost") return "http://localhost/";
-		if(location.host === "staging.usd21.org") return "http://staging.usd21.org/m/";
-		if(location.host === "usd21.org") return "http://usd21.org/m/";
-		return "http://usd21.org/m/fp/";
+		var baseUrl = "http://usd21.org/m/";
+		if(location.host === "localhost") baseUrl = "http://localhost:" + location.port + "/";
+		if(location.host === "staging.usd21.org") baseUrl = "http://staging.usd21.org/fp/";
+		return baseUrl;
 	},
 
 	events: {
