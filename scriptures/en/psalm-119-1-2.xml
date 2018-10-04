@@ -3,7 +3,6 @@
 <scripture lang="en" version="niv" edition="1984">
 	<passage title="Psalm 119:1-2" book="Psalms" book-en="Psalms">
 		<chapter number="119">
-			<verse heading="true"></verse>
 			<verse number="1">
 				Blessed are they whose ways are blameless, who walk according to the law of the Lord.
 			</verse>
@@ -13,3 +12,9 @@
 		</chapter>
 	</passage>
 </scripture>
+
+<!--
+<verse heading="true">
+	Heading text
+</verse>
+-->
