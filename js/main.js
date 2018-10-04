@@ -1,9 +1,9 @@
 const fp = {
 	
 	getBaseUrl: function(){
-		if(location.host === "localhost") return "http://localhost/fp/";
-		if(location.host === "staging.usd21.org") return "http://staging.usd21.org/m/fp/";
-		if(location.host === "usd21.org") return "http://usd21.org/m/fp/";
+		if(location.host === "localhost") return "http://localhost/";
+		if(location.host === "staging.usd21.org") return "http://staging.usd21.org/m/";
+		if(location.host === "usd21.org") return "http://usd21.org/m/";
 		return "http://usd21.org/m/fp/";
 	},
 
