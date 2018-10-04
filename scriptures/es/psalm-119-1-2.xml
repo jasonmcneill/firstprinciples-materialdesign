@@ -3,7 +3,6 @@
 <scripture lang="es" version="nvi" edition="1979">
 	<passage title="Salmo 119:1-2" book="Salmos" book-en="Psalms">
 		<chapter number="119">
-			<verse heading=""></verse>
 			<verse number="1">
 				Dichosos los que van por caminos perfectos, los que andan conforme a la ley del Señor.
 			</verse>
@@ -13,3 +12,9 @@
 		</chapter>
 	</passage>
 </scripture>
+
+<!--
+<verse heading="true">
+	Heading text
+</verse>
+-->
