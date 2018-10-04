@@ -1,4 +1,11 @@
 const fp = {
+	
+	getBaseUrl: function(){
+		if(location.host === "localhost") return "http://localhost/fp/";
+		if(location.host === "staging.usd21.org") return "http://staging.usd21.org/m/fp/";
+		if(location.host === "usd21.org") return "http://usd21.org/m/fp/";
+		return "http://usd21.org/m/fp/";
+	},
 
 	events: {
 		onHashChange: function(evt){
@@ -15,15 +22,16 @@ const fp = {
 
 	pollInitial: function(){
 		localforage.getItem("poll").then(function(poll){
+			var baseUrl = getBaseUrl();
+			var pollingUrl = baseUrl + "js/poll.json";
 			if(!poll){
-				$.get("/js/poll.json").then(function(data){
+				$.get(pollingUrl).then(function(data){
 					localforage.setItem("poll", data).then(function(allSet){
 						fp.poll = JSON.parse(allSet);
 					});
 				});
 			} else {
 				fp.poll = poll;
-				console.log(fp.poll);
 			}
 		})
 	},
