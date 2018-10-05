@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="" version="" edition="">
+	<passage title="" book="" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="4" number-en="4">
+				
+			</verse>
+			<verse number="5" number-en="5">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->
