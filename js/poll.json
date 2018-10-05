@@ -49,12 +49,17 @@
 		"staging": "http://staging.usd21.org/m/fp/services/",
 		"production": "http://usd21.org/m/fp/services/"
 	},
-	"content": {
-		"global": {
-			"data": "global.xml",
-			"format": "xml",
-			"template": "global.html",
-			"languages": [
+	"content": [
+		{
+			"key": "global",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -65,13 +70,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"dashboard": {
-			"data": "dashboard.xml",
-			"format": "xml",
-			"template": "dashboard.html",
-			"languages": [
+		{
+			"key": "whats-new",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -82,13 +93,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"whats-new": {
-			"data": "whats-new.xml",
-			"format": "xml",
-			"template": "whats-new.html",
-			"languages": [
+		{
+			"key": "dashboard",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -99,13 +116,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"introduction": {
-			"data": "introduction.xml",
-			"format": "xml",
-			"template": "introduction.html",
-			"languages": [
+		{
+			"key": "introduction",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -116,13 +139,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"course-information": {
-			"data": "course-information.xml",
-			"format": "xml",
-			"template": "course-information.html",
-			"languages": [
+		{
+			"key": "course-information",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -133,13 +162,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"book-of-john": {
-			"data": "book-of-john.xml",
-			"format": "xml",
-			"template": "book-of-john.html",
-			"languages": [
+		{
+			"key": "book-of-john",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -150,13 +185,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"seeking-god": {
-			"data": "seeking-god.xml",
-			"format": "xml",
-			"template": "seeking-god.html",
-			"languages": [
+		{
+			"key": "seeking-god",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -167,13 +208,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"the-word": {
-			"data": "the-word.xml",
-			"format": "xml",
-			"template": "the-word.html",
-			"languages": [
+		{
+			"key": "the-word",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -184,13 +231,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"discipleship": {
-			"data": "the-word.xml",
-			"format": "xml",
-			"template": "the-word.html",
-			"languages": [
+		{
+			"key": "discipleship",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -201,13 +254,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"the-kingdom": {
-			"data": "the-kingdom.xml",
-			"format": "xml",
-			"template": "the-kingdom.html",
-			"languages": [
+		{
+			"key": "the-kingdom",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -218,13 +277,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"light-darkness": {
-			"data": "light-darkness.xml",
-			"format": "xml",
-			"template": "light-darkness.html",
-			"languages": [
+		{
+			"key": "light-darkness",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -235,13 +300,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"new-testament-conversion": {
-			"data": "new-testament-conversion.xml",
-			"format": "xml",
-			"template": "new-testament-conversion.html",
-			"languages": [
+		{
+			"key": "new-testament-conversion",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -252,13 +323,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"the-cross": {
-			"data": "the-cross.xml",
-			"format": "xml",
-			"template": "the-cross.html",
-			"languages": [
+		{
+			"key": "the-cross",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -269,13 +346,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"medical-account": {
-			"data": "medical-account.xml",
-			"format": "xml",
-			"template": "medical-account.html",
-			"languages": [
+		{
+			"key": "medical-account",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -286,13 +369,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"baptism-holy-spirit": {
-			"data": "baptism-holy-spirit.xml",
-			"format": "xml",
-			"template": "baptism-holy-spirit.html",
-			"languages": [
+		{
+			"key": "baptism-holy-spirit",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -303,13 +392,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"miraculous-gifts-holy-spirit": {
-			"data": "miraculous-gifts-holy-spirit.xml",
-			"format": "xml",
-			"template": "miraculous-gifts-holy-spirit.html",
-			"languages": [
+		{
+			"key": "miraculous-gifts-holy-spirit",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -320,13 +415,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"the-church": {
-			"data": "the-church.xml",
-			"format": "xml",
-			"template": "the-church.html",
-			"languages": [
+		{
+			"key": "the-church",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -337,13 +438,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"book-of-acts": {
-			"data": "book-of-acts.xml",
-			"format": "xml",
-			"template": "book-of-acts.html",
-			"languages": [
+		{
+			"key": "book-of-acts",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -354,13 +461,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"after-baptism-now-what": {
-			"data": "after-baptism-now-what.xml",
-			"format": "xml",
-			"template": "after-baptism-now-what.html",
-			"languages": [
+		{
+			"key": "after-baptism-now-what",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -371,13 +484,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"christ-is-your-life": {
-			"data": "christ-is-your-life.xml",
-			"format": "xml",
-			"template": "christ-is-your-life.html",
-			"languages": [
+		{
+			"key": "christ-is-your-life",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -388,13 +507,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"best-friends-all-time": {
-			"data": "best-friends-all-time.xml",
-			"format": "xml",
-			"template": "best-friends-all-time.html",
-			"languages": [
+		{
+			"key": "best-friends-all-time",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -405,13 +530,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"the-mission": {
-			"data": "the-mission.xml",
-			"format": "xml",
-			"template": "the-mission.html",
-			"languages": [
+		{
+			"key": "the-mission",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -422,13 +553,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"persecution": {
-			"data": "persecution.xml",
-			"format": "xml",
-			"template": "persecution.html",
-			"languages": [
+		{
+			"key": "persecution",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -439,13 +576,19 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		},
-		"memory-scriptures": {
-			"data": "memory-scriptures.xml",
-			"format": "xml",
-			"template": "memory-scriptures.html",
-			"languages": [
+		{
+			"key": "memory-scriptures",
+			"templates": [
+				{
+					"version": "2018",
+					"updated": "2018-10-02"
+				}
+			],
+			"data-format": "xml",
+			"data": [
 				{
 					"iso": "en",
 					"version": "2018",
@@ -456,7 +599,8 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			]
+			],
+
 		}
-	}
+	]
 }
