@@ -46,9 +46,15 @@
 	],
 	"baseUrl": {
 		"local": "http://localhost:3000/",
-		"staging": "http://staging.usd21.org/m/fp/services/",
-		"production": "http://usd21.org/m/fp/services/"
+		"staging": "https://staging.usd21.org/m/fp/services/",
+		"production": "https://usd21.org/m/fp/services/"
 	},
+	"scripts": [
+		{
+			"key": "",
+			"updated": ""
+		}
+	],
 	"content": [
 		{
 			"key": "global",
