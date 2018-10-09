@@ -1,0 +1,15 @@
+{
+  "name": "First Principles",
+  "license": "SEE LICENSE IN license.txt",
+  "version": "3.0.0",
+  "author": {
+    "name": "Jason McNeill",
+    "email": "vrtjason@gmail.com"
+  },
+  "scripts": {
+    "fp": "browser-sync --start --no-notify --watch"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.0"
+  }
+}
