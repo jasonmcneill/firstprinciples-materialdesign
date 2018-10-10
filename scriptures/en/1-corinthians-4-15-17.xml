@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Corinthians 4:15-17" book="1 Corinthians" book-en="1 Corinthians">
+		<chapter number="4" number-en="4">
+			<verse number="15" number-en="15">
+				Even though you have ten thousand guardians in Christ, you do not have many fathers, for in Christ Jesus I became your father through the gospel.
+			</verse>
+			<verse number="16" number-en="16">
+				Therefore I urge you to imitate me.
+			</verse>
+			<verse number="17" number-en="17">
+				For this reason I am sending to you Timothy, my son whom I love, who is faithful in the Lord. He will remind you of my way of life in Christ Jesus, which agrees with what I teach everywhere in every church.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

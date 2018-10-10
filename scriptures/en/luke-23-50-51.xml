@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="" book="" book-en="Luke">
+		<chapter number="23" number-en="23">
+			<verse number="50" number-en="50">
+				
+			</verse>
+			<verse number="51" number-en="51">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

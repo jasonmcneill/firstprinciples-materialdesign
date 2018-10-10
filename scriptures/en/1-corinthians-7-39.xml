@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Corinthians 7:39" book="1 Corinthians" book-en="1 Corinthians">
+		<chapter number="7" number-en="7">
+			<verse number="39" number-en="39">
+				A woman is bound to her husband as long as he lives. But if her husband dies, she is free to marry anyone she wishes, but he must belong to the Lord.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

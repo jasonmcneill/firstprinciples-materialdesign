@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 14:1" book="Acts" book-en="Acts">
+		<chapter number="14" number-en="14">
+			<verse number="1" number-en="1">
+				At Iconium Paul and Barnabas went as usual into the Jewish synagogue. There they spoke so effectively that a great number of Jews and Gentiles believed.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

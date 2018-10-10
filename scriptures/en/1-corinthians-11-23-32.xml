@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Corinthians 11:23-32" book="1 Corinthians" book-en="1 Corinthians">
+		<chapter number="11" number-en="11">
+			<verse number="23" number-en="23">
+				For I received from the Lord what I also passed on to you: The Lord Jesus, on the night he was betrayed, took bread,
+			</verse>
+			<verse number="24" number-en="24" jesuswords="true">
+				and when he had given thanks, he broke it and said, '<span class="jesuswords">This is my body, which is for you; do this in remembrance of me.</span>'
+			</verse>
+			<verse number="25" number-en="25" jesuswords="true">
+				In the same way, after supper he took the cup, saying, '<span class="jesuswords">This cup is the new covenant in my blood; do this, whenever you drink it, in remembrance of me.</span>'
+			</verse>
+			<verse number="26" number-en="26">
+				For whenever you eat this bread and drink this cup, you proclaim the Lord's death until he comes.
+			</verse>
+			<verse number="27" number-en="27">
+				Therefore, whoever eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of sinning against the body and blood of the Lord.
+			</verse>
+			<verse number="28" number-en="28">
+				A man ought to examine himself before he eats of the bread and drinks of the cup.
+			</verse>
+			<verse number="29" number-en="29">
+				For anyone who eats and drinks without recognizing the body of the Lord eats and drinks judgment on himself.
+			</verse>
+			<verse number="30" number-en="30">
+				That is why many among you are weak and sick, and a number of you have fallen asleep.
+			</verse>
+			<verse number="31" number-en="31">
+				But if we judged ourselves, we would not come under judgment.
+			</verse>
+			<verse number="32" number-en="32">
+				When we are judged by the Lord, we are being disciplined so that we will not be condemned with the world.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

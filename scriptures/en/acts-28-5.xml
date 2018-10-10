@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 28:5" book="Acts" book-en="Acts">
+		<chapter number="28" number-en="28">
+			<verse number="5" number-en="5">
+				But Paul shook the snake off into the fire and suffered no ill effects.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

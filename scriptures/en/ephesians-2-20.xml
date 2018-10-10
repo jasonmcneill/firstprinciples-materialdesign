@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Ephesians 2:20" book="Ephesians" book-en="Ephesians">
+		<chapter number="2" number-en="2">
+			<verse number="20" number-en="20">
+				built on the foundation of the apostles and prophets, with Christ Jesus himself as the chief cornerstone.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

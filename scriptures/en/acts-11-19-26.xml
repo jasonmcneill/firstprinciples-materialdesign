@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 11:19-26" book="Acts" book-en="Acts">
+		<chapter number="11" number-en="11">
+			<verse number="19" number-en="19">
+				Now those who had been scattered by the persecution in connection with Stephen traveled as far as Phoenicia, Cyprus and Antioch, telling the message only to Jews.
+			</verse>
+			<verse number="20" number-en="20">
+				Some of them, however, men from Cyprus and Cyrene, went to Antioch and began to speak to Greeks also, telling them the good news about the Lord Jesus.
+			</verse>
+			<verse number="21" number-en="21">
+				The Lord's hand was with them, and a great number of people believed and turned to the Lord.
+			</verse>
+			<verse number="22" number-en="22">
+				News of this reached the ears of the church at Jerusalem, and they sent Barnabas to Antioch.
+			</verse>
+			<verse number="23" number-en="23">
+				When he arrived and saw the evidence of the grace of God, he was glad and encouraged them all to remain true to the Lord with all their hearts.
+			</verse>
+			<verse number="24" number-en="24">
+				He was a good man, full of the Holy Spirit and faith, and a great number of people were brought to the Lord.
+			</verse>
+			<verse number="25" number-en="25">
+				Then Barnabas went to Tarsus to look for Saul,
+			</verse>
+			<verse number="26" number-en="26">
+				and when he found him, he brought him to Antioch. So for a whole year Barnabas and Saul met with the church and taught great numbers of people. The disciples were called Christians first at Antioch.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 2:22-24" book="Acts" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="22" number-en="22">
+				Men of Israel, listen to this: Jesus of Nazareth was a man accredited by God to you by miracles, wonders and signs, which God did among you through him, as you yourselves know.
+			</verse>
+			<verse number="23" number-en="23">
+				This man was handed over to you by God's set purpose and foreknowledge; and you, with the help of wicked men, put him to death by nailing him to the cross.
+			</verse>
+			<verse number="24" number-en="24">
+				But God raised him from the dead, freeing him from the agony of death, because it was impossible for death to keep its hold on him.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 22:16" book="Acts" book-en="Acts">
+		<chapter number="22" number-en="22">
+			<verse number="16" number-en="16">
+				And now what are you waiting for? Get up, be baptized and wash your sins away, calling on his name.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

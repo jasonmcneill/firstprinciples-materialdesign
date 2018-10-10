@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Peter 2:9-10" book="1 Peter" book-en="1 Peter">
+		<chapter number="2" number-en="2">
+			<verse number="9" number-en="9">
+				But you are a chosen people, a royal priesthood, a holy nation, a people belonging to God, that you may declare the praises of him who called you out of darkness into his wonderful light.
+			</verse>
+			<verse number="10" number-en="10">
+				Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

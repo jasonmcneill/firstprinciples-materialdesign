@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 6:1-8" book="Acts" book-en="Acts">
+		<chapter number="6" number-en="6">
+			<verse number="1" number-en="1">
+				In those days when the number of disciples was increasing, the Grecian Jews among them complained against the Hebraic Jews because their widows were being overlooked in the daily distribution of food.
+			</verse>
+			<verse number="2" number-en="2">
+				So the Twelve gathered all the disciples together and said, 'It would not be right for us to neglect the ministry of the word of God in order to wait on tables.
+			</verse>
+			<verse number="3" number-en="3">
+				Brothers, choose seven men from among you who are known to be full of the Spirit and wisdom. We will turn this responsibility over to them
+			</verse>
+			<verse number="4" number-en="4">
+				and will give our attention to prayer and the ministry of the word.'
+			</verse>
+			<verse number="5" number-en="5">
+				This proposal pleased the whole group. They chose Stephen, a man full of faith and of the Holy Spirit; also Philip, Procorus, Nicanor, Timon, Parmenas, and Nicolas from Antioch, a convert to Judaism.
+			</verse>
+			<verse number="6" number-en="6">
+				They presented these men to the apostles, who prayed and laid their hands on them.
+			</verse>
+			<verse number="7" number-en="7">
+				So the word of God spread. The number of disciples in Jerusalem increased rapidly, and a large number of priests became obedient to the faith.
+			</verse>
+			<verse number="8" number-en="8">
+				Now Stephen, a man full of God's grace and power, did great wonders and miraculous signs among the people.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

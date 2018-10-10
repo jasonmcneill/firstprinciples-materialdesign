@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="" book="" book-en="John">
+		<chapter number="3" number-en="3">
+			<verse number="34" number-en="34">
+				
+			</verse>
+			<verse number="35" number-en="35">
+				
+			</verse>
+			<verse number="36" number-en="36">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 1:4-5" book="Acts" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="4" number-en="4" jesuswords="true">
+				On one occasion, while he was eating with them, he gave them this command: '<span class="jesuswords">Do not leave Jerusalem, but wait for the gift my Father promised, which you have heard me speak about.</span>
+			</verse>
+			<verse number="5" number-en="5" jesuswords="true">
+				'<span class="jesuswords">For John baptized with water, but in a few days you will be baptized with the Holy Spirit.</span>'
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

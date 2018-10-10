@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 28:21-22" book="Acts" book-en="Acts">
+		<chapter number="28" number-en="28">
+			<verse number="21" number-en="21">
+				When I returned to Jerusalem and was praying at the temple, I fell into a trance
+			</verse>
+			<verse number="22" number-en="22" jesuswords="true">
+				and saw the Lord speaking. '<span class="jesuswords">Quick!</span>' he said to me. '<span class="jesuswords">Leave Jerusalem immediately, because they will not accept your testimony about me.</span>'
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

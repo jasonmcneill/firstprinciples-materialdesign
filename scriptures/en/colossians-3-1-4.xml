@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Colossians 3:1-4" book="Colossians" book-en="Colossians">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				Since, then, you have been raised with Christ, set your hearts on things above, where Christ is seated at the right hand of God.
+			</verse>
+			<verse number="2" number-en="2">
+				Set your minds on things above, not on earthly things.
+			</verse>
+			<verse number="3" number-en="3">
+				For you died, and your life is now hidden with Christ in God.
+			</verse>
+			<verse number="4" number-en="4">
+				When Christ, who is your life, appears, then you also will appear with him in glory.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

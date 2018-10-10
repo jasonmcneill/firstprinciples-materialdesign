@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 17:19-26" book="Acts" book-en="Acts">
+		<chapter number="17" number-en="17">
+			<verse number="19" number-en="19">
+				Then they took him and brought him to a meeting of the Areopagus, where they said to him, 'May we know what this new teaching is that you are presenting?
+			</verse>
+			<verse number="20" number-en="20">
+				You are bringing some strange ideas to our ears, and we want to know what they mean.'
+			</verse>
+			<verse number="21" number-en="21">
+				(All the Athenians and the foreigners who lived there spent their time doing nothing but talking about and listening to the latest ideas.)
+			</verse>
+			<verse number="22" number-en="22">
+				Paul then stood up in the meeting of the Areopagus and said: 'Men of Athens! I see that in every way you are very religious.
+			</verse>
+			<verse number="23" number-en="23">
+				For as I walked around and looked carefully at your objects of worship, I even found an altar with this inscription: TO AN UNKNOWN GOD. Now what you worship as something unknown I am going to proclaim to you.
+			</verse>
+			<verse number="24" number-en="24">
+				'The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples built by hands.
+			</verse>
+			<verse number="25" number-en="25">
+				And he is not served by human hands, as if he needed anything, because he himself gives all men life and breath and everything else.
+			</verse>
+			<verse number="26" number-en="26">
+				From one man he made every nation of men, that they should inhabit the whole earth; and he determined the times set for them and the exact places where they should live.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

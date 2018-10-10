@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 4:12" book="Acts" book-en="Acts">
+		<chapter number="4" number-en="4">
+			<verse number="12" number-en="12">
+				Salvation is found in no one else, for there is no other name under heaven given to men by which we must be saved.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

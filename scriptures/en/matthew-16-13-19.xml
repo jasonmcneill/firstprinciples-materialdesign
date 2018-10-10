@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="" book="" book-en="Matthew">
+		<chapter number="16" number-en="16">
+			<verse number="13" number-en="13">
+				
+			</verse>
+			<verse number="14" number-en="14">
+				
+			</verse>
+			<verse number="15" number-en="15">
+				
+			</verse>
+			<verse number="16" number-en="16">
+				
+			</verse>
+			<verse number="17" number-en="17">
+				
+			</verse>
+			<verse number="18" number-en="18">
+				
+			</verse>
+			<verse number="19" number-en="19">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

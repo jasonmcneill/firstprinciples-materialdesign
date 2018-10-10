@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 17:4" book="Acts" book-en="Acts">
+		<chapter number="17" number-en="17">
+			<verse number="4" number-en="4">
+				Some of the Jews were persuaded and joined Paul and Silas, as did a large number of God-fearing Greeks and not a few prominent women.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

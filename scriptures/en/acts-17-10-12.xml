@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 17:10-12" book="Acts" book-en="Acts">
+		<chapter number="17" number-en="17">
+			<verse number="10" number-en="10">
+				As soon as it was night, the brothers sent Paul and Silas away to Berea. On arriving there, they went to the Jewish synagogue.
+			</verse>
+			<verse number="11" number-en="11">
+				Now the Bereans were of more noble character than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if what Paul said was true.
+			</verse>
+			<verse number="12" number-en="12">
+				Many of the Jews believed, as did also a number of prominent Greek women and many Greek men.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

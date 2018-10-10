@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="2 Timothy 3:1-5" book="2 Timothy" book-en="2 Timothy">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				But mark this: There will be terrible times in the last days.
+			</verse>
+			<verse number="2" number-en="2">
+				People will be lovers of themselves, lovers of money, boastful, proud, abusive, disobedient to their parents, ungrateful, unholy,
+			</verse>
+			<verse number="3" number-en="3">
+				without love, unforgiving, slanderous, without self-control, brutal, not lovers of the good,
+			</verse>
+			<verse number="4" number-en="4">
+				treacherous, rash, conceited, lovers of pleasure rather than lovers of God — 
+			</verse>
+			<verse number="5" number-en="5">
+				having a form of godliness but denying its power. Have nothing to do with them.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

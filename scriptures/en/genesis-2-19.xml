@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Genesis 2:19" book="Genesis" book-en="Genesis">
+		<chapter number="2" number-en="2">
+			<verse number="19" number-en="19">
+				Now the LORD God had formed out of the ground all the beasts of the field and all the birds of the air. He brought them to the man to see what he would name them; and whatever the man called each living creature, that was its name.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

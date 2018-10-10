@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Corinthians 12:8-10" book="1 Corinthians" book-en="1 Corinthians">
+		<chapter number="12" number-en="12">
+			<verse number="8" number-en="8">
+				To one there is given through the Spirit the message of wisdom, to another the message of knowledge by means of the same Spirit,
+			</verse>
+			<verse number="9" number-en="9">
+				to another faith by the same Spirit, to another gifts of healing by that one Spirit,
+			</verse>
+			<verse number="10" number-en="10">
+				to another miraculous powers, to another prophecy, to another distinguishing between spirits, to another speaking in different kinds of tongues, and to still another the interpretation of tongues.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

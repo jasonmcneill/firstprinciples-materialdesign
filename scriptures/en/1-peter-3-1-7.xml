@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Peter 3:1-7" book="1 Peter" book-en="1 Peter">
+		<chapter number="3" number-en="3">
+			<verse number="1" number-en="1">
+				Wives, in the same way be submissive to your husbands so that, if any of them do not believe the word, they may be won over without words by the behavior of their wives,
+			</verse>
+			<verse number="2" number-en="2">
+				when they see the purity and reverence of your lives.
+			</verse>
+			<verse number="3" number-en="3">
+				Your beauty should not come from outward adornment, such as braided hair and the wearing of gold jewelry and fine clothes.
+			</verse>
+			<verse number="4" number-en="4">
+				Instead, it should be that of your inner self, the unfading beauty of a gentle and quiet spirit, which is of great worth in God's sight.
+			</verse>
+			<verse number="5" number-en="5">
+				For this is the way the holy women of the past who put their hope in God used to make themselves beautiful. They were submissive to their own husbands,
+			</verse>
+			<verse number="6" number-en="6">
+				like Sarah, who obeyed Abraham and called him her master. You are her daughters if you do what is right and do not give way to fear.
+			</verse>
+			<verse number="7" number-en="7">
+				Husbands, in the same way be considerate as you live with your wives, and treat them with respect as the weaker partner and as heirs with you of the gracious gift of life, so that nothing will hinder your prayers.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

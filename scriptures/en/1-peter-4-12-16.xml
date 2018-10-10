@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Peter 4:12-16" book="1 Peter" book-en="1 Peter">
+		<chapter number="4" number-en="4">
+			<verse number="12" number-en="12">
+				Dear friends, do not be surprised at the painful trial you are suffering, as though something strange were happening to you.
+			</verse>
+			<verse number="13" number-en="13">
+				But rejoice that you participate in the sufferings of Christ, so that you may be overjoyed when his glory is revealed.
+			</verse>
+			<verse number="14" number-en="14">
+				If you are insulted because of the name of Christ, you are blessed, for the Spirit of glory and of God rests on you.
+			</verse>
+			<verse number="15" number-en="15">
+				If you suffer, it should not be as a murderer or thief or any other kind of criminal, or even as a meddler.
+			</verse>
+			<verse number="16" number-en="16">
+				However, if you suffer as a Christian, do not be ashamed, but praise God that you bear that name.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

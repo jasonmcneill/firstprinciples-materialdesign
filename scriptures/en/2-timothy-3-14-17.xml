@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="2 Timothy 3:14-17" book="2 Timothy" book-en="2 Timothy">
+		<chapter number="3" number-en="3">
+			<verse number="14" number-en="14">
+				But as for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it,
+			</verse>
+			<verse number="15" number-en="15">
+				and how from infancy you have known the holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus.
+			</verse>
+			<verse number="16" number-en="16">
+				All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,
+			</verse>
+			<verse number="17" number-en="17">
+				so that the man of God may be thoroughly equipped for every good work.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Colossians 1:15-18" book="Colossians" book-en="Colossians">
+		<chapter number="1" number-en="1">
+			<verse number="15" number-en="15">
+				He is the image of the invisible God, the firstborn over all creation.
+			</verse>
+			<verse number="16" number-en="16">
+				For by him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things were created by him and for him.
+			</verse>
+			<verse number="17" number-en="17">
+				He is before all things, and in him all things hold together.
+			</verse>
+			<verse number="18" number-en="18">
+				And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

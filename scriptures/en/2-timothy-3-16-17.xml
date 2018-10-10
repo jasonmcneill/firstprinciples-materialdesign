@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="2 Timothy 3:16-17" book="2 Timothy" book-en="2 Timothy">
+		<chapter number="3" number-en="3">
+			<verse number="16" number-en="16">
+				All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness,
+			</verse>
+			<verse number="17" number-en="17">
+				so that the man of God may be thoroughly equipped for every good work.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Corinthians 12:21" book="1 Corinthians" book-en="1 Corinthians">
+		<chapter number="12" number-en="12">
+			<verse number="21" number-en="21">
+				The eye cannot say to the hand, 'I don't need you!' And the head cannot say to the feet, 'I don't need you!'
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

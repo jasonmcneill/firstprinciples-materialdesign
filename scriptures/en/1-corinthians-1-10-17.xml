@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Corinthians 1:10-17" book="1 Corinthians" book-en="1 Corinthians">
+		<chapter number="1" number-en="1">
+			<verse number="10" number-en="10">
+				I appeal to you, brothers, in the name of our Lord Jesus Christ, that all of you agree with one another so that there may be no divisions among you and that you may be perfectly united in mind and thought.
+			</verse>
+			<verse number="11" number-en="11">
+				My brothers, some from Chloe's household have informed me that there are quarrels among you.
+			</verse>
+			<verse number="12" number-en="12">
+				What I mean is this: One of you says, 'I follow Paul'; another, 'I follow Apollos'; another, 'I follow Cephas'; still another, 'I follow Christ.'
+			</verse>
+			<verse number="13" number-en="13">
+				Is Christ divided? Was Paul crucified for you? Were you baptized into the name of Paul?
+			</verse>
+			<verse number="14" number-en="14">
+				I am thankful that I did not baptize any of you except Crispus and Gaius,
+			</verse>
+			<verse number="15" number-en="15">
+				so no one can say that you were baptized into my name.
+			</verse>
+			<verse number="16" number-en="16">
+				(Yes, I also baptized the household of Stephanas; beyond that, I don't remember if I baptized anyone else.)
+			</verse>
+			<verse number="17" number-en="17">
+				For Christ did not send me to baptize, but to preach the gospel — not with words of human wisdom, lest the cross of Christ be emptied of its power.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

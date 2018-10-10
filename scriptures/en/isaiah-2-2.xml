@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Isaiah 2:2" book="Isaiah" book-en="Isaiah">
+		<chapter number="2" number-en="2">
+			<verse number="2" number-en="2">
+				In the last days the mountain of the Lord's temple will be established as chief among the mountains; it will be raised above the hills, and all nations will stream to it.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

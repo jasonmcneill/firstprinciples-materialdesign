@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Colossians 1:28-29" book="Colossians" book-en="Colossians">
+		<chapter number="1" number-en="1">
+			<verse number="28" number-en="28">
+				We proclaim him, admonishing and teaching everyone with all wisdom, so that we may present everyone perfect in Christ.
+			</verse>
+			<verse number="29" number-en="29">
+				To this end I labor, struggling with all his energy, which so powerfully works in me.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

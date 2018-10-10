@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 20:24" book="Acts" book-en="Acts">
+		<chapter number="20" number-en="20">
+			<verse number="24" number-en="24">
+				However, I consider my life worth nothing to me, if only I may finish the race and complete the task the Lord Jesus has given me — the task of testifying to the gospel of God's grace.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

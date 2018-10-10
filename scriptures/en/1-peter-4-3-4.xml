@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Peter 4:3-4" book="1 Peter" book-en="1 Peter">
+		<chapter number="4" number-en="4">
+			<verse number="3" number-en="3">
+				For you have spent enough time in the past doing what pagans choose to do — living in debauchery, lust, drunkenness, orgies, carousing and detestable idolatry.
+			</verse>
+			<verse number="4" number-en="4">
+				They think it strange that you do not plunge with them into the same flood of dissipation, and they heap abuse on you.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

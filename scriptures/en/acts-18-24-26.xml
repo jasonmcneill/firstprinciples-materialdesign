@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 18:24-26" book="Acts" book-en="Acts">
+		<chapter number="18" number-en="18">
+			<verse number="24" number-en="24">
+				Meanwhile a Jew named Apollos, a native of Alexandria, came to Ephesus. He was a learned man, with a thorough knowledge of the Scriptures.
+			</verse>
+			<verse number="25" number-en="25">
+				He had been instructed in the way of the Lord, and he spoke with great fervor and taught about Jesus accurately, though he knew only the baptism of John.
+			</verse>
+			<verse number="26" number-en="26">
+				He began to speak boldly in the synagogue. When Priscilla and Aquila heard him, they invited him to their home and explained to him the way of God more adequately.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

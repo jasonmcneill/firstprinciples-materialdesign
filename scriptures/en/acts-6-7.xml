@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 6:7" book="Acts" book-en="Acts">
+		<chapter number="6" number-en="6">
+			<verse number="7" number-en="7">
+				So the word of God spread. The number of disciples in Jerusalem increased rapidly, and a large number of priests became obedient to the faith.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

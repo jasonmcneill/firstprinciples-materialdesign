@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Peter 3:18-21" book="1 Peter" book-en="1 Peter">
+		<chapter number="3" number-en="3">
+			<verse number="18" number-en="18">
+				For Christ died for sins once for all, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive by the Spirit,
+			</verse>
+			<verse number="19" number-en="19">
+				through whom also he went and preached to the spirits in prison
+			</verse>
+			<verse number="20" number-en="20">
+				who disobeyed long ago when God waited patiently in the days of Noah while the ark was being built. In it only a few people, eight in all, were saved through water,
+			</verse>
+			<verse number="21" number-en="21">
+				and this water symbolizes baptism that now saves you also — not the removal of dirt from the body but the pledge of a good conscience toward God. It saves you by the resurrection of Jesus Christ,
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

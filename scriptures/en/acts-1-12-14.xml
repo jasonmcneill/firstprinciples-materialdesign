@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 1:12-14" book="Acts" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="12" number-en="12">
+				Then they returned to Jerusalem from the hill called the Mount of Olives, a Sabbath day's walk from the city.
+			</verse>
+			<verse number="13" number-en="13">
+				When they arrived, they went upstairs to the room where they were staying. Those present were Peter, John, James and Andrew; Philip and Thomas, Bartholomew and Matthew; James son of Alphaeus and Simon the Zealot, and Judas son of James.
+			</verse>
+			<verse number="14" number-en="14">
+				They all joined together constantly in prayer, along with the women and Mary the mother of Jesus, and with his brothers.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

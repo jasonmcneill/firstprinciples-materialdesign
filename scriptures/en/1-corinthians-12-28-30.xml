@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="1 Corinthians 12:28-30" book="1 Corinthians" book-en="1 Corinthians">
+		<chapter number="12" number-en="12">
+			<verse number="28" number-en="28">
+				And in the church God has appointed first of all apostles, second prophets, third teachers, then workers of miracles, also those having gifts of healing, those able to help others, those with gifts of administration, and those speaking in different kinds of tongues.
+			</verse>
+			<verse number="29" number-en="29">
+				Are all apostles? Are all prophets? Are all teachers? Do all work miracles?
+			</verse>
+			<verse number="30" number-en="30">
+				Do all have gifts of healing? Do all speak in tongues ? Do all interpret?
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 2:24" book="Acts" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="24" number-en="24">
+				But God raised him from the dead, freeing him from the agony of death, because it was impossible for death to keep its hold on him.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture lang="en" version="niv" edition="1984">
+	<passage title="Acts 8:18" book="Acts" book-en="Acts">
+		<chapter number="8" number-en="8">
+			<verse number="18" number-en="18">
+				When Simon saw that the Spirit was given at the laying on of the apostles' hands, he offered them money
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->
