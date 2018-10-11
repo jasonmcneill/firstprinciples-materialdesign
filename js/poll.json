@@ -28,8 +28,7 @@
 	"pollFrequency": {
 		"minutes": 20
 	},
-	"languagesAvailable": [
-		{
+	"languagesAvailable": [{
 			"name": {
 				"en": "English",
 				"native": "English"
@@ -49,23 +48,17 @@
 		"staging": "https://staging.usd21.org/m/fp/services/",
 		"production": "https://usd21.org/m/fp/services/"
 	},
-	"scripts": [
-		{
-			"key": "",
-			"updated": ""
-		}
-	],
-	"content": [
-		{
+	"scripts": [{
+		"key": "",
+		"updated": ""
+	}],
+	"content": [{
 			"key": "global",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
@@ -79,23 +72,21 @@
 					"version": "2018",
 					"updated": "2018-10-02"
 				}
-			],
+			]
 
 		},
 		{
 			"key": "whats-new",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				},
 				{
@@ -103,25 +94,24 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
+			]
 
 		},
 		{
 			"key": "dashboard",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				},
 				{
@@ -129,50 +119,48 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
+			]
 
 		},
 		{
 			"key": "introduction",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				},
 				{
 					"iso": "es",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
+			]
 
 		},
 		{
 			"key": "course-information",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				},
 				{
@@ -180,25 +168,34 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
+			]
 
 		},
 		{
 			"key": "book-of-john",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -206,25 +203,34 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
+			]
 
 		},
 		{
 			"key": "seeking-god",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -232,25 +238,34 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
+			]
 
 		},
 		{
 			"key": "the-word",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -258,25 +273,34 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
+			]
 
 		},
 		{
 			"key": "discipleship",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -284,25 +308,33 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "the-kingdom",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -310,25 +342,33 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "light-darkness",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -336,25 +376,33 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "new-testament-conversion",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -362,25 +410,33 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "the-cross",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -388,25 +444,23 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "medical-account",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				},
 				{
@@ -414,25 +468,33 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "baptism-holy-spirit",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -440,25 +502,33 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "miraculous-gifts-holy-spirit",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -466,25 +536,33 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "the-church",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -492,25 +570,33 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "book-of-acts",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -518,25 +604,23 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "after-baptism-now-what",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				},
 				{
@@ -544,25 +628,23 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "christ-is-your-life",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				},
 				{
@@ -570,25 +652,23 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "best-friends-all-time",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				},
 				{
@@ -596,25 +676,23 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "the-mission",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				},
 				{
@@ -622,25 +700,33 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "persecution",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [{
+						"name": "",
+						"year": "",
+						"desc": "",
+						"img": "",
+						"urls": {
+							"m4a": "",
+							"ogg": "",
+							"mp3": ""
+						}
+					}],
 					"updated": "2018-10-02"
 				},
 				{
@@ -648,25 +734,23 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		},
 		{
 			"key": "memory-scriptures",
-			"templates": [
-				{
-					"version": "2018",
-					"updated": "2018-10-02"
-				}
-			],
-			"translations": [
-				{
+			"templates": [{
+				"version": "2018",
+				"updated": "2018-10-02"
+			}],
+			"translations": [{
 					"iso": "en",
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				},
 				{
@@ -674,10 +758,10 @@
 					"format": "xml",
 					"images": [],
 					"version": "2018",
+					"audio": [],
 					"updated": "2018-10-02"
 				}
-			],
-
+			]
 		}
 	],
 	"scriptures": [
