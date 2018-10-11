@@ -586,7 +586,7 @@
 					"format": "xml",
 					"images": [],
 					"audio": [{
-							"part": "",
+							"part": "1-8",
 							"audio": [{
 								"name": "",
 								"year": "",
@@ -600,7 +600,7 @@
 							}]
 						},
 						{
-							"part": "",
+							"part": "9-15",
 							"audio": [{
 								"name": "",
 								"year": "",
@@ -614,7 +614,7 @@
 							}]
 						},
 						{
-							"part": "",
+							"part": "16-21",
 							"audio": [{
 								"name": "",
 								"year": "",
@@ -628,7 +628,7 @@
 							}]
 						},
 						{
-							"part": "",
+							"part": "22-28",
 							"audio": [{
 								"name": "",
 								"year": "",
