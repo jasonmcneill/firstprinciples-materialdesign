@@ -1,0 +1,44 @@
+{
+  "key": "book-of-john",
+  "lang": "en",
+  "title": "",
+  "description": "",
+  "media": [{
+    "speaker": {
+      "native-name": {
+        "full": "Kip McKean"
+      },
+      "key": "kip-mckean"
+    },
+    "year": "",
+    "parts": [{
+      "label": "",
+      "uuid": "69a70d34-3ea5-4f14-99b5-40100a69f1f6",
+      "embed": {
+        "type": "audio",
+        "sources": [{
+            "type": "audio/ogg",
+            "url": "http://usd21.org/m/lang/en/fp/audio/ogg/01-The_Book_of_John.ogg"
+          },
+          {
+            "type": "audio/aac",
+            "url": "http://usd21.org/m/lang/en/fp/audio/m4a/01-The_Book_of_John.m4a"
+          },
+          {
+            "type": "audio/mp3",
+            "url": "http://usd21.org/m/lang/en/fp/audio/mp3/01-The_Book_of_John.mp3"
+          }
+        ],
+        "poster": {
+          "url": "",
+          "width": "",
+          "height": ""
+        }
+      },
+      "link": {
+        "text": "",
+        "url": ""
+      }
+    }]
+  }]
+}

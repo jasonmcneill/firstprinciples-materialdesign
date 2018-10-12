@@ -1,0 +1,130 @@
+{
+  "key": "book-of-acts",
+  "lang": "en",
+  "title": "",
+  "description": "",
+  "media": [{
+    "speaker": {
+      "native-name": {
+        "full": "Kip McKean"
+      },
+      "key": "kip-mckean"
+    },
+    "year": "",
+    "parts": [{
+        "label": "Chapters 1-8",
+        "uuid": "224fadde-660d-47e5-ace1-f0911926565a",
+        "embed": {
+          "type": "audio",
+          "sources": [{
+              "type": "audio/ogg",
+              "url": "http://usd21.org/m/lang/en/fp/audio/ogg/12-Acts_ch._1-8.ogg"
+            },
+            {
+              "type": "audio/aac",
+              "url": "http://usd21.org/m/lang/en/fp/audio/m4a/12-Acts_ch._1-8.m4a"
+            },
+            {
+              "type": "audio/mp3",
+              "url": "http://usd21.org/m/lang/en/fp/audio/m4a/12-Acts_ch._1-8.m4a"
+            }
+          ],
+          "poster": {
+            "url": "",
+            "width": "",
+            "height": ""
+          }
+        },
+        "link": {
+          "text": "",
+          "url": ""
+        }
+      }, {
+        "label": "Chapters 9-15",
+        "uuid": "b8f6cd1d-9477-402e-8628-83bbd77c4757",
+        "embed": {
+          "type": "audio",
+          "sources": [{
+              "type": "audio/ogg",
+              "url": "http://usd21.org/m/lang/en/fp/audio/ogg/13-Acts_ch._9-15.ogg"
+            },
+            {
+              "type": "audio/aac",
+              "url": "http://usd21.org/m/lang/en/fp/audio/m4a/12-Acts_ch._1-8.m4a"
+            },
+            {
+              "type": "audio/mp3",
+              "url": "http://usd21.org/m/lang/en/fp/audio/mp3/12-Acts_ch._1-8.mp3"
+            }
+          ],
+          "poster": {
+            "url": "",
+            "width": "",
+            "height": ""
+          }
+        },
+        "link": {
+          "text": "",
+          "url": ""
+        }
+      }, {
+        "label": "Chapters 16-21",
+        "uuid": "e4a4a0ac-4ab6-40b4-9d9e-3b3a3ba4f6c2",
+        "embed": {
+          "type": "audio",
+          "sources": [{
+              "type": "audio/ogg",
+              "url": "http://usd21.org/m/lang/en/fp/audio/ogg/14-Acts_ch._16-21.ogg"
+            },
+            {
+              "type": "audio/aac",
+              "url": "http://usd21.org/m/lang/en/fp/audio/m4a/14-Acts_ch._16-21.m4a"
+            },
+            {
+              "type": "audio/mp3",
+              "url": "http://usd21.org/m/lang/en/fp/audio/m4a/14-Acts_ch._16-21.m4a"
+            }
+          ],
+          "poster": {
+            "url": "",
+            "width": "",
+            "height": ""
+          }
+        },
+        "link": {
+          "text": "",
+          "url": ""
+        }
+      },
+      {
+        "label": "Chapters 22-28",
+        "uuid": "a581d5fd-6860-484d-9e6a-2c55351d8be3",
+        "embed": {
+          "type": "audio",
+          "sources": [{
+              "type": "audio/ogg",
+              "url": "http://usd21.org/m/lang/en/fp/audio/ogg/15-Acts_ch._22-28.ogg"
+            },
+            {
+              "type": "audio/aac",
+              "url": "http://usd21.org/m/lang/en/fp/audio/m4a/15-Acts_ch._22-28.m4a"
+            },
+            {
+              "type": "audio/mp3",
+              "url": "http://usd21.org/m/lang/en/fp/audio/m4a/15-Acts_ch._22-28.m4a"
+            }
+          ],
+          "poster": {
+            "url": "",
+            "width": "",
+            "height": ""
+          }
+        },
+        "link": {
+          "text": "",
+          "url": ""
+        }
+      }
+    ]
+  }]
+}

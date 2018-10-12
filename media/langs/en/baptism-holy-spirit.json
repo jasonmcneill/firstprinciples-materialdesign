@@ -1,0 +1,44 @@
+{
+  "key": "baptism-holy-spirit",
+  "lang": "en",
+  "title": "",
+  "description": "",
+  "media": [{
+    "speaker": {
+      "native-name": {
+        "full": "Kip McKean"
+      },
+      "key": "kip-mckean"
+    },
+    "year": "",
+    "parts": [{
+      "label": "",
+      "uuid": "1398f4cd-b564-45df-98ba-5fcd2f0c1f2e",
+      "embed": {
+        "type": "audio",
+        "sources": [{
+            "type": "audio/ogg",
+            "url": "http://usd21.org/m/lang/en/fp/audio/mp3/08-The_Cross.mp3"
+          },
+          {
+            "type": "audio/aac",
+            "url": "http://usd21.org/m/lang/en/fp/audio/m4a/09-Baptism_With_the_Holy_Spirit.m4a"
+          },
+          {
+            "type": "audio/mp3",
+            "url": "http://usd21.org/m/lang/en/fp/audio/mp3/09-Baptism_With_the_Holy_Spirit.mp3"
+          }
+        ],
+        "poster": {
+          "url": "",
+          "width": "",
+          "height": ""
+        }
+      },
+      "link": {
+        "text": "",
+        "url": ""
+      }
+    }]
+  }]
+}

@@ -1,0 +1,44 @@
+{
+  "key": "the-cross",
+  "lang": "en",
+  "title": "",
+  "description": "",
+  "media": [{
+    "speaker": {
+      "native-name": {
+        "full": "Kip McKean"
+      },
+      "key": "kip-mckean"
+    },
+    "year": "",
+    "parts": [{
+      "label": "",
+      "uuid": "22f726e8-2796-4dbf-9893-6e803f9b2dc6",
+      "embed": {
+        "type": "audio",
+        "sources": [{
+            "type": "audio/ogg",
+            "url": "http://usd21.org/m/lang/en/fp/audio/mp3/16-Persecution.mp3"
+          },
+          {
+            "type": "audio/aac",
+            "url": "http://usd21.org/m/lang/en/fp/audio/m4a/08-The_Cross.m4a"
+          },
+          {
+            "type": "audio/mp3",
+            "url": "http://usd21.org/m/lang/en/fp/audio/mp3/08-The_Cross.mp3"
+          }
+        ],
+        "poster": {
+          "url": "",
+          "width": "",
+          "height": ""
+        }
+      },
+      "link": {
+        "text": "",
+        "url": ""
+      }
+    }]
+  }]
+}
