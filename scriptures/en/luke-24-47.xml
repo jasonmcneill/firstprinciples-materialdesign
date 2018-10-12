@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Luke">
+	<passage title="Luke 24:47" book="Luke" book-en="Luke">
 		<chapter number="24" number-en="24">
-			<verse number="47" number-en="47">
-				
+			<verse number="47" number-en="47" jesuswords="true">
+				<span class="jesuswords">and repentance and forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem.</span>
 			</verse>
 		</chapter>
 	</passage>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Mark">
+	<passage title="Mark 1:14-18" book="Mark" book-en="Mark">
 		<chapter number="1" number-en="1">
 			<verse number="14" number-en="14">
-				
+				After John was put in prison, Jesus went into Galilee, proclaiming the good news of God.
 			</verse>
-			<verse number="15" number-en="15">
-				
+			<verse number="15" number-en="15" jesuswords="true">
+				'<span class="jesuswords">The time has come,</span>' he said. '<span class="jesuswords">The kingdom of God is near. Repent and believe the good news!</span>'
 			</verse>
 			<verse number="16" number-en="16">
-				
+				As Jesus walked beside the Sea of Galilee, he saw Simon and his brother Andrew casting a net into the lake, for they were fishermen.
 			</verse>
-			<verse number="17" number-en="17">
-				
+			<verse number="17" number-en="17" jesuswords="true">
+				'<span class="jesuswords">Come, follow me,</span>' Jesus said, '<span class="jesuswords">and I will make you fishers of men.</span>'
 			</verse>
 			<verse number="18" number-en="18">
-				
+				At once they left their nets and followed him.
 			</verse>
 		</chapter>
 	</passage>

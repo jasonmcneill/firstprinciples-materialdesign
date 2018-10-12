@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Matthew">
+	<passage title="Matthew 15:6-9" book="Matthew" book-en="Matthew">
 		<chapter number="15" number-en="15">
-			<verse number="6" number-en="6">
-				
+			<verse number="6" number-en="6" jesuswords="true">
+				<span class="jesuswords">he is not to 'honor his father' with it. Thus you nullify the word of God for the sake of your tradition.</span>
 			</verse>
-			<verse number="7" number-en="7">
-				
+			<verse number="7" number-en="7" jesuswords="true">
+				<span class="jesuswords">You hypocrites! Isaiah was right when he prophesied about you:</span>
 			</verse>
-			<verse number="8" number-en="8">
-				
+			<verse number="8" number-en="8" jesuswords="true">
+				<span class="jesuswords">"These people honor me with their lips, but their hearts are far from me.</span>
 			</verse>
-			<verse number="9" number-en="9">
-				
+			<verse number="9" number-en="9" jesuswords="true">
+				<span class="jesuswords">"They worship me in vain; their teachings are but rules taught by men."</span>
 			</verse>
 		</chapter>
 	</passage>

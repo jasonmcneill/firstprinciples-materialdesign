@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Mark">
+	<passage title="Mark 9:1" book="Mark" book-en="Mark">
 		<chapter number="9" number-en="9">
-			<verse number="1" number-en="1">
-				
+			<verse number="1" number-en="1" jesuswords="true">
+				And he said to them, '<span class="jesuswords">I tell you the truth, some who are standing here will not taste death before they see the kingdom of God come with power.</span>'
 			</verse>
 		</chapter>
 	</passage>
