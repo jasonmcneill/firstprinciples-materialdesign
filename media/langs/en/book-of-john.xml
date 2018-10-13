@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<media key="book-of-john" lang="en" last-updated="2018-09-29" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+
+  <title>
+
+  </title>
+
+  <description>
+
+  </description>
+
+  <item year="">
+    <speaker key="kip-mckean">
+      <native-name>
+        <full>
+          Kip McKean
+        </full>
+      </native-name>
+    </speaker>
+    <recording uuid="69a70d34-3ea5-4f14-99b5-40100a69f1f6" label="">
+      <link text="" url="" />
+      <poster width="" height="" url="" />
+      <embed type="audio">
+        <source type="audio/ogg" url="http://usd21.org/m/lang/en/fp/audio/ogg/01-The_Book_of_John.ogg" />
+        <source type="audio/aac" url="http://usd21.org/m/lang/en/fp/audio/m4a/01-The_Book_of_John.m4a" />
+        <source type="audio/mp3" url="http://usd21.org/m/lang/en/fp/audio/mp3/01-The_Book_of_John.mp3" />
+      </embed>
+    </recording>
+  </item>
+
+</media>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<media key="" lang="" last-updated="" last-updated-by="" last-updated-by-email="" created="" created-by="" created-by-email="">
+
+  <title>
+
+  </title>
+
+  <description>
+
+  </description>
+
+  <item year="">
+    <speaker key="">
+      <native-name>
+        <full>
+          
+        </full>
+      </native-name>
+    </speaker>
+    <recording uuid="" label="">
+      <link text="" url="" />
+      <poster width="" height="" url="" />
+      <embed type="audio">
+        <source type="audio/ogg" url="" />
+        <source type="audio/aac" url="" />
+        <source type="audio/mp3" url="" />
+      </embed>
+    </recording>
+  </item>
+
+</media>
