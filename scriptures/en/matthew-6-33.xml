@@ -3,8 +3,8 @@
 <scripture lang="en" version="niv" edition="1984">
 	<passage title="" book="" book-en="Matthew">
 		<chapter number="6" number-en="6">
-			<verse number="33" number-en="33">
-				
+			<verse number="33" number-en="33" jesuswords="true">
+				<span class="jesuswords">But seek first his kingdom and his righteousness, and all these things will be given to you as well.</span>
 			</verse>
 		</chapter>
 	</passage>

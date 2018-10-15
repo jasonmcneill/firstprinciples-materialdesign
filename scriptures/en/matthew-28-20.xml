@@ -3,8 +3,8 @@
 <scripture lang="en" version="niv" edition="1984">
 	<passage title="" book="" book-en="Matthew">
 		<chapter number="28" number-en="28">
-			<verse number="20" number-en="20">
-				
+			<verse number="20" number-en="20" jesuswords="true">
+				<span class="jesuswords">and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.</span>
 			</verse>
 		</chapter>
 	</passage>

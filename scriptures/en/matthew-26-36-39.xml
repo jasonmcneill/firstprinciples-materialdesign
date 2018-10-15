@@ -3,17 +3,17 @@
 <scripture lang="en" version="niv" edition="1984">
 	<passage title="" book="" book-en="Matthew">
 		<chapter number="26" number-en="26">
-			<verse number="36" number-en="36">
-				
+			<verse number="36" number-en="36" jesuswords="true">
+				Then Jesus went with his disciples to a place called Gethsemane, and he said to them, 'Sit here while I go over there and pray.'
 			</verse>
 			<verse number="37" number-en="37">
-				
+				He took Peter and the two sons of Zebedee along with him, and he began to be sorrowful and troubled.
 			</verse>
-			<verse number="38" number-en="38">
-				
+			<verse number="38" number-en="38" jesuswords="true">
+				Then he said to them, 'My soul is overwhelmed with sorrow to the point of death. Stay here and keep watch with me.'
 			</verse>
-			<verse number="39" number-en="39">
-				
+			<verse number="39" number-en="39" jesuswords="true">
+				Going a little farther, he fell with his face to the ground and prayed, 'My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will.'
 			</verse>
 		</chapter>
 	</passage>

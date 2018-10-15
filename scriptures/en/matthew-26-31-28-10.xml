@@ -3,41 +3,41 @@
 <scripture lang="en" version="niv" edition="1984">
 	<passage title="Matthew 26:31 - 28:10" book="Matthew" book-en="Matthew">
 		<chapter number="26" number-en="26">
-			<verse number="31" number-en="31">
-				Then Jesus told them, 'This very night you will all fall away on account of me, for it is written: "I will strike the shepherd, and the sheep of the flock will be scattered."
+			<verse number="31" number-en="31" jesuswords="true">
+				Then Jesus told them, '<span class="jesuswords">This very night you will all fall away on account of me, for it is written: "I will strike the shepherd, and the sheep of the flock will be scattered."</span>
 			</verse>
-			<verse number="32" number-en="32">
-				But after I have risen, I will go ahead of you into Galilee.'
+			<verse number="32" number-en="32" jesuswords="true">
+				<span class="jesuswords">But after I have risen, I will go ahead of you into Galilee.</span>'
 			</verse>
 			<verse number="33" number-en="33">
 				Peter replied, 'Even if all fall away on account of you, I never will.'
 			</verse>
-			<verse number="34" number-en="34">
-				'I tell you the truth,' Jesus answered, 'this very night, before the rooster crows, you will disown me three times.'
+			<verse number="34" number-en="34" jesuswords="true">
+				'<span class="jesuswords">I tell you the truth,</span>' Jesus answered, '<span class="jesuswords">this very night, before the rooster crows, you will disown me three times.</span>'
 			</verse>
 			<verse number="35" number-en="35">
 				But Peter declared, 'Even if I have to die with you, I will never disown you.' And all the other disciples said the same.
 			</verse>
-			<verse number="36" number-en="36">
-				Then Jesus went with his disciples to a place called Gethsemane, and he said to them, 'Sit here while I go over there and pray.'
+			<verse number="36" number-en="36" jesuswords="true">
+				Then Jesus went with his disciples to a place called Gethsemane, and he said to them, '<span class="jesuswords">Sit here while I go over there and pray.</span>'
 			</verse>
 			<verse number="37" number-en="37">
 				He took Peter and the two sons of Zebedee along with him, and he began to be sorrowful and troubled.
 			</verse>
-			<verse number="38" number-en="38">
-				Then he said to them, 'My soul is overwhelmed with sorrow to the point of death. Stay here and keep watch with me.'
+			<verse number="38" number-en="38" jesuswords="true">
+				Then he said to them, '<span class="jesuswords">My soul is overwhelmed with sorrow to the point of death. Stay here and keep watch with me.</span>'
 			</verse>
-			<verse number="39" number-en="39">
-				Going a little farther, he fell with his face to the ground and prayed, 'My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will.'
+			<verse number="39" number-en="39" jesuswords="true">
+				Going a little farther, he fell with his face to the ground and prayed, '<span class="jesuswords">My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will.</span>'
 			</verse>
-			<verse number="40" number-en="40">
-				Then he returned to his disciples and found them sleeping. 'Could you men not keep watch with me for one hour?' he asked Peter.
+			<verse number="40" number-en="40" jesuswords="true">
+				Then he returned to his disciples and found them sleeping. '<span class="jesuswords">Could you men not keep watch with me for one hour?</span>' he asked Peter.
 			</verse>
-			<verse number="41" number-en="41">
-				'Watch and pray so that you will not fall into temptation. The spirit is willing, but the body is weak.'
+			<verse number="41" number-en="41" jesuswords="true">
+				'<span class="jesuswords">Watch and pray so that you will not fall into temptation. The spirit is willing, but the body is weak.</span>'
 			</verse>
-			<verse number="42" number-en="42">
-				He went away a second time and prayed, 'My Father, if it is not possible for this cup to be taken away unless I drink it, may your will be done.'
+			<verse number="42" number-en="42" jesuswords="true">
+				He went away a second time and prayed, '<span class="jesuswords">My Father, if it is not possible for this cup to be taken away unless I drink it, may your will be done.</span>'
 			</verse>
 			<verse number="43" number-en="43">
 				When he came back, he again found them sleeping, because their eyes were heavy.
@@ -45,11 +45,11 @@
 			<verse number="44" number-en="44">
 				So he left them and went away once more and prayed the third time, saying the same thing.
 			</verse>
-			<verse number="45" number-en="45">
-				Then he returned to the disciples and said to them, 'Are you still sleeping and resting? Look, the hour is near, and the Son of Man is betrayed into the hands of sinners.
+			<verse number="45" number-en="45" jesuswords="true">
+				Then he returned to the disciples and said to them, '<span class="jesuswords">Are you still sleeping and resting? Look, the hour is near, and the Son of Man is betrayed into the hands of sinners.</span>
 			</verse>
-			<verse number="46" number-en="46">
-				Rise, let us go! Here comes my betrayer!'
+			<verse number="46" number-en="46" jesuswords="true">
+				<span class="jesuswords">Rise, let us go! Here comes my betrayer!</span>'
 			</verse>
 			<verse number="47" number-en="47">
 				While he was still speaking, Judas, one of the Twelve, arrived. With him was a large crowd armed with swords and clubs, sent from the chief priests and the elders of the people.
@@ -60,26 +60,26 @@
 			<verse number="49" number-en="49">
 				Going at once to Jesus, Judas said, 'Greetings, Rabbi!' and kissed him.
 			</verse>
-			<verse number="50" number-en="50">
-				Jesus replied, 'Friend, do what you came for.' Then the men stepped forward, seized Jesus and arrested him.
+			<verse number="50" number-en="50" jesuswords="true">
+				Jesus replied, '<span class="jesuswords">Friend, do what you came for.</span>' Then the men stepped forward, seized Jesus and arrested him.
 			</verse>
 			<verse number="51" number-en="51">
 				With that, one of Jesus' companions reached for his sword, drew it out and struck the servant of the high priest, cutting off his ear.
 			</verse>
-			<verse number="52" number-en="52">
-				'Put your sword back in its place,' Jesus said to him, 'for all who draw the sword will die by the sword.
+			<verse number="52" number-en="52" jesuswords="true">
+				'<span class="jesuswords">Put your sword back in its place,</span>' Jesus said to him, '<span class="jesuswords">for all who draw the sword will die by the sword.</span>
 			</verse>
-			<verse number="53" number-en="53">
-				Do you think I cannot call on my Father, and he will at once put at my disposal more than twelve legions of angels?
+			<verse number="53" number-en="53" jesuswords="true">
+				<span class="jesuswords">Do you think I cannot call on my Father, and he will at once put at my disposal more than twelve legions of angels?</span>
 			</verse>
-			<verse number="54" number-en="54">
-				But how then would the Scriptures be fulfilled that say it must happen in this way?'
+			<verse number="54" number-en="54" jesuswords="true">
+				<span class="jesuswords">But how then would the Scriptures be fulfilled that say it must happen in this way?</span>'
 			</verse>
-			<verse number="55" number-en="55">
-				At that time Jesus said to the crowd, 'Am I leading a rebellion, that you have come out with swords and clubs to capture me? Every day I sat in the temple courts teaching, and you did not arrest me.
+			<verse number="55" number-en="55" jesuswords="true">
+				At that time Jesus said to the crowd, '<span class="jesuswords">Am I leading a rebellion, that you have come out with swords and clubs to capture me? Every day I sat in the temple courts teaching, and you did not arrest me.</span>
 			</verse>
-			<verse number="56" number-en="56">
-				But this has all taken place that the writings of the prophets might be fulfilled.' Then all the disciples deserted him and fled.
+			<verse number="56" number-en="56" jesuswords="true">
+				<span class="jesuswords">But this has all taken place that the writings of the prophets might be fulfilled.</span>' Then all the disciples deserted him and fled.
 			</verse>
 			<verse number="57" number-en="57">
 				Those who had arrested Jesus took him to Caiaphas, the high priest, where the teachers of the law and the elders had assembled.
@@ -94,7 +94,7 @@
 				But they did not find any, though many false witnesses came forward. Finally two came forward
 			</verse>
 			<verse number="61" number-en="61">
-				and declared, 'This fellow said, 'I am able to destroy the temple of God and rebuild it in three days.''
+				and declared, 'This fellow said, "I am able to destroy the temple of God and rebuild it in three days."
 			</verse>
 			<verse number="62" number-en="62">
 				Then the high priest stood up and said to Jesus, 'Are you not going to answer? What is this testimony that these men are bringing against you?'
@@ -102,8 +102,8 @@
 			<verse number="63" number-en="63">
 				But Jesus remained silent. The high priest said to him, 'I charge you under oath by the living God: Tell us if you are the Christ, the Son of God.'
 			</verse>
-			<verse number="64" number-en="64">
-				'Yes, it is as you say,' Jesus replied. 'But I say to all of you: In the future you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.'
+			<verse number="64" number-en="64" jesuswords="true">
+				'<span class="jesuswords">Yes, it is as you say,</span>' Jesus replied. '<span class="jesuswords">But I say to all of you: In the future you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.</span>'
 			</verse>
 			<verse number="65" number-en="65">
 				Then the high priest tore his clothes and said, 'He has spoken blasphemy! Why do we need any more witnesses? Look, now you have heard the blasphemy.
@@ -170,8 +170,8 @@
 			<verse number="10" number-en="10">
 				and they used them to buy the potter's field, as the Lord commanded me.'
 			</verse>
-			<verse number="11" number-en="11">
-				Meanwhile Jesus stood before the governor, and the governor asked him, 'Are you the king of the Jews?' 'Yes, it is as you say,' Jesus replied.
+			<verse number="11" number-en="11" jesuswords="true">
+				Meanwhile Jesus stood before the governor, and the governor asked him, 'Are you the king of the Jews?' '<span class="jesuswords">Yes, it is as you say,</span>' Jesus replied.
 			</verse>
 			<verse number="12" number-en="12">
 				When he was accused by the chief priests and the elders, he gave no answer.
@@ -267,7 +267,7 @@
 				'He saved others,' they said, 'but he can't save himself! He's the King of Israel! Let him come down now from the cross, and we will believe in him.
 			</verse>
 			<verse number="43" number-en="43">
-				He trusts in God. Let God rescue him now if he wants him, for he said, 'I am the Son of God.''
+				He trusts in God. Let God rescue him now if he wants him, for he said, "I am the Son of God."'
 			</verse>
 			<verse number="44" number-en="44">
 				In the same way the robbers who were crucified with him also heaped insults on him.
@@ -275,8 +275,8 @@
 			<verse number="45" number-en="45">
 				From the sixth hour until the ninth hour darkness came over all the land.
 			</verse>
-			<verse number="46" number-en="46">
-				About the ninth hour Jesus cried out in a loud voice, 'Eloi, Eloi, lama sabachthani?' — which means, 'My God, my God, why have you forsaken me?'
+			<verse number="46" number-en="46" jesuswords="true">
+				About the ninth hour Jesus cried out in a loud voice, '<span class="jesuswords">Eloi, Eloi, lama sabachthani?</span>' — which means, 'My God, my God, why have you forsaken me?'
 			</verse>
 			<verse number="47" number-en="47">
 				When some of those standing there heard this, they said, 'He's calling Elijah.'
@@ -341,34 +341,34 @@
 		</chapter>
 		<chapter number="28" number-en="28">
 			<verse number="1" number-en="1">
-				
+				After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.
 			</verse>
 			<verse number="2" number-en="2">
-				
+				There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it.
 			</verse>
 			<verse number="3" number-en="3">
-				
+				His appearance was like lightning, and his clothes were white as snow.
 			</verse>
 			<verse number="4" number-en="4">
-				
+				The guards were so afraid of him that they shook and became like dead men.
 			</verse>
 			<verse number="5" number-en="5">
-				
+				The angel said to the women, 'Do not be afraid, for I know that you are looking for Jesus, who was crucified.
 			</verse>
 			<verse number="6" number-en="6">
-				
+				He is not here; he has risen, just as he said. Come and see the place where he lay.
 			</verse>
 			<verse number="7" number-en="7">
-				
+				Then go quickly and tell his disciples: "He has risen from the dead and is going ahead of you into Galilee. There you will see him." Now I have told you.'
 			</verse>
 			<verse number="8" number-en="8">
-				
+				So the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples.
 			</verse>
-			<verse number="9" number-en="9">
-				
+			<verse number="9" number-en="9" jesuswords="true">
+				Suddenly Jesus met them. '<span class="jesuswords">Greetings,</span>' he said. They came to him, clasped his feet and worshiped him.
 			</verse>
-			<verse number="10" number-en="10">
-				
+			<verse number="10" number-en="10" jesuswords="true">
+				Then Jesus said to them, '<span class="jesuswords">Do not be afraid. Go and tell my brothers to go to Galilee; there they will see me.</span>'
 			</verse>
 		</chapter>
 	</passage>

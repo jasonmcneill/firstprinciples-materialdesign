@@ -3,8 +3,8 @@
 <scripture lang="en" version="niv" edition="1984">
 	<passage title="" book="" book-en="Matthew">
 		<chapter number="4" number-en="4">
-			<verse number="17" number-en="17">
-				
+			<verse number="17" number-en="17" jesuswords="true">
+				From that time on Jesus began to preach, '<span class="jesuswords">Repent, for the kingdom of heaven is near.</span>'
 			</verse>
 		</chapter>
 	</passage>
