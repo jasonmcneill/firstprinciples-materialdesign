@@ -1,5 +1,21 @@
 const fp = {
 	
+	lang: {
+		default: 'en',
+		available: ['en', 'es']
+	},
+
+	setManifest: function(){
+		var lang, manifest;
+		navigator.languages ? lang = navigator.languages[0] : lang = navigator.browserLanguage;
+		lang = lang.substr(0,2);
+		if (fp.lang.langsAvailable.indexOf(lang) <= -1) lang = fp.lang.langDefault;
+		manifest = document.createElement('link');
+		manifest.rel = 'manifest';
+		manifest.href = '/manifest-' + lang + '.json';
+		document.head.appendChild(manifest);
+	},
+	
 	getBaseUrl: function(){
 		var baseUrl = "http://usd21.org/m/";
 		if(location.host === "localhost") baseUrl = "http://localhost:" + location.port + "/";
