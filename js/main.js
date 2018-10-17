@@ -2,7 +2,7 @@ const fp = {
 	
 	lang: {
 		default: 'en',
-		available: ['en', 'es']
+		available: ['en']
 	},
 
 	setManifest: function(){
