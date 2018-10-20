@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Matthew">
+	<passage title="Matthew 5:10-12" book="Matthew" book-en="Matthew">
 		<chapter number="5" number-en="5">
 			<verse number="10" number-en="10" jesuswords="true">
 				<span class="jesuswords">Blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me.</span>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Matthew">
+	<passage title="Matthew 28:19-20" book="Matthew" book-en="Matthew">
 		<chapter number="28" number-en="28">
 			<verse number="19" number-en="19" jesuswords="true">
 				<span class="jesuswords">Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,</span>

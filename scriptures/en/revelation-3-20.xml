@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Revelation">
+	<passage title="Revelation 3:20" book="Revelation" book-en="Revelation">
 		<chapter number="3" number-en="3">
-			<verse number="20" number-en="20">
-				
+			<verse number="20" number-en="20" jesuswords="true">
+				<span class="jesuswords">Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with him, and he with me.</span>
 			</verse>
 		</chapter>
 	</passage>

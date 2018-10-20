@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Proverbs">
+	<passage title="Proverbs 13:12" book="Proverbs" book-en="Proverbs">
 		<chapter number="13" number-en="13">
 			<verse number="12" number-en="12">
-				
+				Hope deferred makes the heart sick, but a longing fulfilled is a tree of life.
 			</verse>
 		</chapter>
 	</passage>

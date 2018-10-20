@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Matthew">
+	<passage title="Matthew 3:1-6" book="Matthew" book-en="Matthew">
 		<chapter number="3" number-en="3">
 			<verse number="1" number-en="1">
 				In those days John the Baptist came, preaching in the Desert of Judea
 			</verse>
 			<verse number="2" number-en="2">
-				and saying, 'Repent, for the kingdom of heaven is near.'
+				and saying, "Repent, for the kingdom of heaven is near."
 			</verse>
-			<verse number="3" number-en="3">
-				This is he who was spoken of through the prophet Isaiah: 'A voice of one calling in the desert, "Prepare the way for the Lord, make straight paths for him."'
+			<verse number="3" number-en="3" scripturequote="true">
+				This is he who was spoken of through the prophet Isaiah: <span class="scripturequote">"A voice of one calling in the desert, 'Prepare the way for the Lord, make straight paths for him.'"</span>
 			</verse>
 			<verse number="4" number-en="4">
 				John's clothes were made of camel's hair, and he had a leather belt around his waist. His food was locusts and wild honey.

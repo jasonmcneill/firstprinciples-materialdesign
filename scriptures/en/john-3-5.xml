@@ -4,7 +4,7 @@
 	<passage title="John 3:5" book="John" book-en="John">
 		<chapter number="3" number-en="3">
 			<verse number="5" number-en="5" jesuswords="true">
-				Jesus answered, '<span class="jesuswords">I tell you the truth, no one can enter the kingdom of God unless he is born of water and the Spirit.</span>'
+				Jesus answered, "<span class="jesuswords">I tell you the truth, no one can enter the kingdom of God unless he is born of water and the Spirit.</span>'
 			</verse>
 		</chapter>
 	</passage>

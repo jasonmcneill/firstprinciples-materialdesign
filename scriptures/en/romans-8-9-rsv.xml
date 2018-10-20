@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
-<scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Romans">
+<scripture lang="en" version="rsv" edition="1984">
+	<passage title="Romans 8:9 (RSV)" book="Romans" book-en="Romans">
 		<chapter number="8" number-en="8">
 			<verse number="9" number-en="9">
-				
+				For we know that since Christ was raised from the dead, he cannot die again; death no longer has mastery over him.
 			</verse>
 		</chapter>
 	</passage>

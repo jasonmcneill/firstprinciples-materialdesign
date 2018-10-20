@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Romans">
+	<passage title="Romans 10:9" book="Romans" book-en="Romans">
 		<chapter number="10" number-en="10">
 			<verse number="9" number-en="9">
-				
+				That if you confess with your mouth, "Jesus is Lord," and believe in your heart that God raised him from the dead, you will be saved.
 			</verse>
 		</chapter>
 	</passage>

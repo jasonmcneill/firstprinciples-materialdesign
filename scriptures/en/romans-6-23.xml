@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Romans">
+	<passage title="Romans 6:23" book="Romans" book-en="Romans">
 		<chapter number="6" number-en="6">
 			<verse number="23" number-en="23">
-				
+				For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
 			</verse>
 		</chapter>
 	</passage>

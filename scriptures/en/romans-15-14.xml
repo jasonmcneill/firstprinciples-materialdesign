@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture lang="en" version="niv" edition="1984">
-	<passage title="" book="" book-en="Romans">
+	<passage title="Romans 15:14" book="Romans" book-en="Romans">
 		<chapter number="15" number-en="15">
 			<verse number="14" number-en="14">
-				
+				I have written you quite boldly on some points, as if to remind you of them again, because of the grace God gave me
 			</verse>
 		</chapter>
 	</passage>
