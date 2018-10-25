@@ -7,9 +7,9 @@
     "email": "vrtjason@gmail.com"
   },
   "scripts": {
-    "start": "browser-sync --start --no-notify --watch"
+    "start": "git clone https://github.com/jasonmcneill/firstprinciples-materialdesign.git public/fp && opn http://localhost:3000 && node ./bin/www"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.0"
+    "opn": "^5.4.0"
   }
 }
