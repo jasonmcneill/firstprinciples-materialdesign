@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="colossians-1-6-1-23" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Colossians">
+		<chapter number="1" number-en="1">
+			<verse number="6" number-en="6">
+				
+			</verse>
+		</chapter>
+	</passage>
+	<passage title="" book="" book-en="Colossians">
+		<chapter number="1" number-en="1">
+			<verse number="23" number-en="23">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

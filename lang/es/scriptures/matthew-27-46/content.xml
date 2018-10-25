@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="matthew-27-46" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Matthew">
+		<chapter number="27" number-en="27">
+			<verse number="46" number-en="46" jesuswords="true">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

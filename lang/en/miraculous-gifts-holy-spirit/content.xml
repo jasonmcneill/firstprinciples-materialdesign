@@ -559,6 +559,27 @@
 			</translated>
 		</change>
 	</phrase>
+
+	<media>
+	  <item year="2004">
+	    <speaker key="kip-mckean">
+	      <native-name>
+	        <full>
+	          Kip McKean
+	        </full>
+	      </native-name>
+	    </speaker>
+	    <recording uuid="c54054d9-49c7-4027-92c1-1b2c8c97a9f3" label="">
+	      <link text="" url="" />
+	      <poster width="" height="" url="" />
+	      <embed type="audio">
+	        <source type="audio/ogg" url="http://usd21.org/m/lang/en/fp/audio/ogg/10-Miraculous_Gifts_of_the_Holy_Spirit.ogg" />
+	        <source type="audio/aac" url="http://usd21.org/m/lang/en/fp/audio/m4a/10-Miraculous_Gifts_of_the_Holy_Spirit.m4a" />
+	        <source type="audio/mp3" url="http://usd21.org/m/lang/en/fp/audio/mp3/10-Miraculous_Gifts_of_the_Holy_Spirit.mp3" />
+	      </embed>
+	    </recording>
+	  </item>
+	</media>
 	
 	<!--
 

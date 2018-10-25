@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="2-corinthians-6-14-7-1" lang="es" version="nvi" edition="2015">
+	<passage title="2 Corintios 6:14-7:1" book="2 Corintios" book-en="2 Corinthians">
+		<chapter number="6" number-en="6">
+			<verse number="14" number-en="14" heading="No formen yunta con los incrédulos">
+				No formen yunta con los incrédulos. ¿Qué tienen en común la justicia y la maldad? ¿O qué comunión puede tener la luz con la oscuridad? 
+			</verse>
+			<verse number="15" number-en="15">
+				¿Qué armonía tiene Cristo con el diablo? ¿Qué tiene en común un creyente con un incrédulo?
+			</verse>
+			<verse number="16" number-en="16" scripturequote="true">
+				¿En qué concuerdan el templo de Dios y los ídolos? Porque nosotros somos templo del Dios viviente. Como él ha dicho: «Viviré con ellos y caminaré entre ellos. Yo seré su Dios, y ellos serán mi pueblo». Por tanto, el Señor añade:
+			</verse>
+			<verse number="17" number-en="17" scripturequote="true">
+				«Salgan de en medio de ellos
+				    y apártense.
+				No toquen nada impuro,
+				    y yo los recibiré».
+			</verse>
+			<verse number="18" number-en="18" scripturequote="true">
+				«Yo seré un padre para ustedes,
+			    y ustedes serán mis hijos y mis hijas,
+			            dice el Señor Todopoderoso».
+			</verse>
+		</chapter>
+		<chapter number="7" number-en="7">
+			<verse number="1" number-en="1">
+				Como tenemos estas promesas, queridos hermanos, purifiquémonos de todo lo que contamina el cuerpo y el espíritu, para completar en el temor de Dios la obra de nuestra santificación.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

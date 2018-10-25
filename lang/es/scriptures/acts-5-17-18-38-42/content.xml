@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="acts-5-17-18-38-42" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Acts">
+		<chapter number="5" number-en="5">
+			<verse number="17" number-en="17">
+				
+			</verse>
+			<verse number="18" number-en="18">
+				
+			</verse>
+		</chapter>
+	</passage>
+	<passage title="" book="" book-en="Acts">
+		<chapter number="5" number-en="5">
+			<verse number="38" number-en="38">
+				
+			</verse>
+			<verse number="39" number-en="39">
+				
+			</verse>
+			<verse number="40" number-en="40">
+				
+			</verse>
+			<verse number="41" number-en="41">
+				
+			</verse>
+			<verse number="42" number-en="42">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

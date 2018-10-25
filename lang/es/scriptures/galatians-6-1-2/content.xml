@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="galatians-6-1-2" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Galatians">
+		<chapter number="6" number-en="6">
+			<verse number="1" number-en="1">
+				
+			</verse>
+			<verse number="2" number-en="2">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

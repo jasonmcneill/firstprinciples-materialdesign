@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="luke-12-51-53" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Luke">
+		<chapter number="12" number-en="12">
+			<verse number="51" number-en="51" jesuswords="true">
+				
+			</verse>
+			<verse number="52" number-en="52" jesuswords="true">
+				
+			</verse>
+			<verse number="53" number-en="53" jesuswords="true">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

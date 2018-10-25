@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="luke-9-1" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Luke">
+		<chapter number="9" number-en="9">
+			<verse number="1" number-en="1">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

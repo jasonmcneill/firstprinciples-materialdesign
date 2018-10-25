@@ -954,6 +954,27 @@
 			</translated>
 		</change>
 	</phrase>
+
+	<media>
+	  <item year="2004">
+	    <speaker key="kip-mckean">
+	      <native-name>
+	        <full>
+	          Kip McKean
+	        </full>
+	      </native-name>
+	    </speaker>
+	    <recording uuid="d60b6b39-4997-4c2d-b921-230e5379fb0f" label="">
+	      <link text="" url="" />
+	      <poster width="" height="" url="" />
+	      <embed type="audio">
+	        <source type="audio/ogg" url="http://usd21.org/m/lang/en/fp/audio/ogg/04-Discipleship.ogg" />
+	        <source type="audio/aac" url="http://usd21.org/m/lang/en/fp/audio/m4a/05-The_Coming_of_the_Kingdom.m4a" />
+	        <source type="audio/mp3" url="http://usd21.org/m/lang/en/fp/audio/mp3/05-The_Coming_of_the_Kingdom.mp3" />
+	      </embed>
+	    </recording>
+	  </item>
+	</media>
 	
 	<!--
 

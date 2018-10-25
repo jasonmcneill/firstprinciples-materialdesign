@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="acts-10-48" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Acts">
+		<chapter number="10" number-en="10">
+			<verse number="48" number-en="48">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="acts-2-36-37" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Acts">
+		<chapter number="2" number-en="2">
+			<verse number="36" number-en="36">
+				
+			</verse>
+			<verse number="37" number-en="37">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

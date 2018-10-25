@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="2-timothy-3-12" lang="es" version="nvi" edition="2015">
+	<passage title="2 Timoteo 3:12" book="2 Timoteo" book-en="2 Timothy">
+		<chapter number="3" number-en="3">
+			<verse number="12" number-en="12">
+				Así mismo serán perseguidos todos los que quieran llevar una vida piadosa en Cristo Jesús,
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

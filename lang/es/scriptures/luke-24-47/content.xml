@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="luke-24-47" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Luke">
+		<chapter number="24" number-en="24">
+			<verse number="47" number-en="47" jesuswords="true">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

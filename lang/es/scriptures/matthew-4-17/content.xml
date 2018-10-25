@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="matthew-4-17" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Matthew">
+		<chapter number="4" number-en="4">
+			<verse number="17" number-en="17" jesuswords="true">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

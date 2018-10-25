@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="james-1-22-25" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="James">
+		<chapter number="1" number-en="1">
+			<verse number="22" number-en="22">
+				
+			</verse>
+			<verse number="23" number-en="23">
+				
+			</verse>
+			<verse number="24" number-en="24">
+				
+			</verse>
+			<verse number="25" number-en="25">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

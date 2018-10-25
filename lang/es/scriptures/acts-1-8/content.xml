@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="acts-1-8" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Acts">
+		<chapter number="1" number-en="1">
+			<verse number="8" number-en="8" jesuswords="true">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

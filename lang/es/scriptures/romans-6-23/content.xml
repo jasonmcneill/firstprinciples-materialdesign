@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="romans-6-23" lang="es" version="nvi" edition="2015">
+	<passage title="" book="" book-en="Romans">
+		<chapter number="6" number-en="6">
+			<verse number="23" number-en="23">
+				
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->

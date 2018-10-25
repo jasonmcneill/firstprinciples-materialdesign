@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<scripture key="1-corinthians-14-20-22" lang="es" version="nvi" edition="2015">
+	<passage title="1 Corintios 14:20-22" book="1 Corintios" book-en="1 Corinthians">
+		<chapter number="14" number-en="14">
+			<verse number="20" number-en="20">
+				Hermanos, no sean niños en su modo de pensar. Sean niños en cuanto a la malicia, pero adultos en su modo de pensar.
+			</verse>
+			<verse number="21" number-en="21" scripturequote="true">
+				En la ley está escrito:
+
+				«Por medio de gente de lengua extraña
+				    y por boca de extranjeros
+				hablaré a este pueblo,
+				    pero ni aun así me escucharán», dice el Señor.
+			</verse>
+			<verse number="22" number-en="22">
+				De modo que el hablar en lenguas es una señal no para los creyentes, sino para los incrédulos; en cambio, la profecía no es señal para los incrédulos, sino para los creyentes.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse heading="true">
+				Heading text
+			</verse>
+-->
