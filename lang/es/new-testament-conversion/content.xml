@@ -36,7 +36,7 @@
 		<translated>
 			Hechos 2:36-47
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2-36-47.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-36-47">
 			<original>
 				Acts 2:36-47
 			</original>
@@ -62,7 +62,7 @@
 		<translated>
 			Hechos 8:26-39
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-8-26-39.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-8-26-39">
 			<original>
 				Acts 8:26-39
 			</original>
@@ -88,7 +88,7 @@
 		<translated>
 			Hechos 16:22-34
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-16-22-34.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-16-22-34">
 			<original>
 				Acts 16:22-34
 			</original>
@@ -114,7 +114,7 @@
 		<translated>
 			Hechos 9:1-22
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-9-1-22.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-9-1-22">
 			<original>
 				Acts 9:1-22
 			</original>
@@ -140,7 +140,7 @@
 		<translated>
 			Hechos 22:3-16
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-22-3-16.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-22-3-16">
 			<original>
 				Acts 22:3-16
 			</original>
@@ -166,7 +166,7 @@
 		<translated>
 			Hechos 18:24-26
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-18-24-26.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-18-24-26">
 			<original>
 				Acts 18:24-26
 			</original>
@@ -192,7 +192,7 @@
 		<translated>
 			Hechos 19:1-5
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-19-1-5.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-19-1-5">
 			<original>
 				Acts 19:1-5
 			</original>
@@ -281,7 +281,7 @@
 		<translated>
 			Esta frase nunca es mencionada en la Biblia. La gente probablemente use Apocalipsis 3:20 acerca de Jesús tocando a la puerta, pero debemos examinar la Escritura en contexto. Esta Escritura no enseña como hacerse un cristiano y ser salvo, sino como regresar a Dios después de haber estado tibio. Es dirigida a discipulos que ya han respondido a Cristo con fe, arrepentimiento, confesión y bautizmo.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/revelation-3-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="revelation-3-20">
 			<original>
 				Revelation 3:20
 			</original>
@@ -307,7 +307,7 @@
 		<translated>
 			(Es la misma enseñanza que orar a Cristo en tu corazón solo que con diferente terminologia.) Se basa en Romanos 10:9. Hay que ver la Escritura en su contexto. Pablo está hablando del problema de los Israelitas: No creer que Jesús era el Cristo, el Hijo de Dios. Leer hasta Romanos 10:13. ¿Cuándo imploras el nombre del Señor? En el bautizmo (Hechos 22:16).
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/romans-10-9.html">
+		<change bold="true" italic="false" modal="true" scripturekey="romans-10-9">
 			<original>
 				Romans 10:9
 			</original>
@@ -315,7 +315,7 @@
 				Romanos 10:9
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/romans-10-13.html">
+		<change bold="true" italic="false" modal="true" scripturekey="romans-10-13">
 			<original>
 				Romans 10:13
 			</original>
@@ -323,7 +323,7 @@
 				Romanos 10:13
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-22-16.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-22-16">
 			<original>
 				Acts 22:16
 			</original>
@@ -349,7 +349,7 @@
 		<translated>
 			Un bebé no puede tener fe, y ya que nos bautizamos por la fe en el poder de Dios (Colosenses 2:12), los bebes no se pueden bautizar. El pecado original: Ezequiel 18:20 enseña que no existe el pecado original; cada persona es responsable por sus propias acciones y será juzgado de acuerdo a ellas. Por lo tanto los bebes nacen sin pecado y serán salvos si se mueren.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/colossians-2-12.html">
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-12">
 			<original>
 				Colossians 2:12
 			</original>
@@ -357,7 +357,7 @@
 				Colosenses 2:12
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/ezekiel-18-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ezekiel-18-20">
 			<original>
 				Ezekiel 18:20
 			</original>
@@ -383,7 +383,7 @@
 		<translated>
 			1a Pedro 3:18-21 dice que el bautizmo sí salva por la resurreccion de Jesucristo. Hechos 2:38 enseña que los pecados son perdonados en el bautizmo — uno se salva en el momento de ser perdonado.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-peter-3-18-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-peter-3-18-21">
 			<original>
 				1 Peter 3:18-21
 			</original>
@@ -391,7 +391,7 @@
 				1a Pedro 3:18-21
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2-38.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
 			<original>
 				Acts 2:38
 			</original>
@@ -417,7 +417,7 @@
 		<translated>
 			(Efesios 2:8): Colosenses 2:12-15 enseña que somos salvos por la fe — por la obra de Dios en el bautismo (v.12). Este pasaje también enseña que la circuncisión como un bebé de ocho días en el antiguo pacto tiene su paralelo espiritual en el nuevo pacto con el bautismo, ya que este es el momento en que Cristo corta su antigua vida. En el bautismo, una persona entra en un "pacto" con Dios: la salvación.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-2-8.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-2-8">
 			<original>
 				Ephesians 2:8
 			</original>
@@ -425,7 +425,7 @@
 				Efesios 2:8
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/colossians-2-11-15.html">
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-11-15">
 			<original>
 				Colossians 2:11-15
 			</original>
@@ -433,7 +433,7 @@
 				Colosenses 2:12-15
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/colossians-2-12.html">
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-12">
 			<original>
 				v.12
 			</original>
@@ -459,7 +459,7 @@
 		<translated>
 			Romanos 6:2-4 afirma que el bautismo es una participación en la muerte, sepultura, y resurección de Cristo. No es solo un sello o símbolo.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/romans-6-2-4.html">
+		<change bold="true" italic="false" modal="true" scripturekey="romans-6-2-4">
 			<original>
 				Romans 6:2-4
 			</original>
@@ -476,7 +476,7 @@
 		<translated>
 			"El Bautizmo no es importante, después de todo mira lo que dice Pablo acerca de él en 1a Corintios 1:17"
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-1-17.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-1-17">
 			<original>
 				1 Corinthians 1:17
 			</original>
@@ -493,7 +493,7 @@
 		<translated>
 			Pablo no le quita importancia al bautizmo en este pasaje. (El mismo Pablo fue bautizado para el perdón de sus pecados en Hechos 22:16). En contexto (lee 1a Corintios 1:10-17), está haciendo el punto que él no quiere que la genta siga a los hombres (las denominaciones). Menciona al bautismo varias veces en el pasaje.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-22-16.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-22-16">
 			<original>
 				Acts 22:16
 			</original>
@@ -501,7 +501,7 @@
 				Hechos 22:16
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-1-10-17.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-1-10-17">
 			<original>
 				1 Corinthians 1:10-17
 			</original>
@@ -527,7 +527,7 @@
 		<translated>
 			Jesús ni siquiera había muerto, y el bautizmo es la participación en su muerte (Romanos 6:2-4); también Jesús en la tierra, tenía todo el poder para perdonar pecados (Mateo 9:2-6)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/romans-6-2-4.html">
+		<change bold="true" italic="false" modal="true" scripturekey="romans-6-2-4">
 			<original>
 				Romans 6:2-4
 			</original>
@@ -535,7 +535,7 @@
 				Romanos 6:2-4
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-9-2-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-9-2-6">
 			<original>
 				Matthew 9:2-6
 			</original>
@@ -561,7 +561,7 @@
 		<translated>
 			Eso es bautizmo como adulto, pero no se hace con el entendimiento de que es el punto en que uno es salvo (Juan 3:5, Hechos 2:38). El "entendimiento retroactivo" no es suficiente para la salvación.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-3-5.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-3-5">
 			<original>
 				John 3:5
 			</original>
@@ -569,7 +569,7 @@
 				Juan 3:5
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2-38.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
 			<original>
 				Acts 2:38
 			</original>
@@ -597,7 +597,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				
 			</original>

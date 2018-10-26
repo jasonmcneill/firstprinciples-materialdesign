@@ -18,7 +18,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/colossians-1-15-18.html">
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-1-15-18">
 			<original>
 				Colossians 1:15-18
 			</original>
@@ -80,7 +80,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-2-19-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-2-19-21">
 			<original>
 				Ephesians 2:19-21
 			</original>
@@ -169,7 +169,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-12-13.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-12-13">
 			<original>
 				1 Corinthians 12:12-13
 			</original>
@@ -186,7 +186,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/romans-6-3-4.html">
+		<change bold="true" italic="false" modal="true" scripturekey="romans-6-3-4">
 			<original>
 				Romans 6:3-4
 			</original>
@@ -203,7 +203,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-2-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-2-20">
 			<original>
 				Ephesians 2:20
 			</original>
@@ -265,7 +265,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Have you ever wondered why there are so many denominations — divisions?
 			</original>
@@ -291,7 +291,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-4-4-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
 			<original>
 				Ephesians 4:4-6
 			</original>
@@ -308,7 +308,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/romans-12-4-5.html">
+		<change bold="true" italic="false" modal="true" scripturekey="romans-12-4-5">
 			<original>
 				Romans 12:4-5
 			</original>
@@ -325,7 +325,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-12-13.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-12-13">
 			<original>
 				1 Corinthians 12:12-13
 			</original>
@@ -351,7 +351,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-1-10-13.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-1-10-13">
 			<original>
 				1 Corinthians 1:10-13
 			</original>
@@ -359,7 +359,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-15-6-9.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-15-6-9">
 			<original>
 				Matthew 15:6-9
 			</original>
@@ -376,7 +376,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/luke-12-51-53.html">
+		<change bold="true" italic="false" modal="true" scripturekey="luke-12-51-53">
 			<original>
 				Luke 12:51-53
 			</original>
@@ -384,7 +384,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-10-19-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-10-19-21">
 			<original>
 				John 10:19-21
 			</original>
@@ -410,7 +410,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Catholic Church
 			</original>
@@ -418,7 +418,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Eastern Orthodox Church
 			</original>
@@ -426,7 +426,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Roman Catholic Church
 			</original>
@@ -443,7 +443,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				1500's Reformation Movement
 			</original>
@@ -460,7 +460,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				1700's Great Awakening Movement
 			</original>
@@ -477,7 +477,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				1800's Restoration Movement
 			</original>
@@ -494,7 +494,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				1967 Crossroads Movement
 			</original>
@@ -511,7 +511,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				1979 Boston Movement
 			</original>
@@ -528,7 +528,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				2006 SoldOut Movement
 			</original>
@@ -554,7 +554,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-11-25-26.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-11-25-26">
 			<original>
 				Acts 11:25-26
 			</original>
@@ -562,7 +562,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Church = Disciples = Christians.
 			</original>
@@ -570,7 +570,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-4-4-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
 			<original>
 				Ephesians 4:4-6
 			</original>
@@ -632,7 +632,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				We believe the Bible is inspired by God and is our sole authority.
 			</original>
@@ -649,7 +649,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				We are a Bible Church, not simply a New Testament Church.
 			</original>
@@ -657,7 +657,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/2-timothy-3-14-17.html">
+		<change bold="true" italic="false" modal="true" scripturekey="2-timothy-3-14-17">
 			<original>
 				2 Timothy 3:14-17
 			</original>
@@ -683,7 +683,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				"Be silent where the Bible speaks, and speak where the Bible is silent."
 			</original>
@@ -691,7 +691,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/genesis-2-19.html">
+		<change bold="true" italic="false" modal="true" scripturekey="genesis-2-19">
 			<original>
 				Genesis 2:19
 			</original>
@@ -708,7 +708,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				We believe in a Central Leadership.
 			</original>
@@ -716,7 +716,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-4-15-17.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-4-15-17">
 			<original>
 				1 Corinthians 4:15-17
 			</original>
@@ -724,7 +724,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/titus-1-5.html">
+		<change bold="true" italic="false" modal="true" scripturekey="titus-1-5">
 			<original>
 				Titus 1:5
 			</original>
@@ -741,7 +741,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-28-19-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-19-20">
 			<original>
 				Matthew 28:19-20
 			</original>
@@ -749,7 +749,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Our vision — the evangelization of all nations in this generation — 
 			</original>
@@ -766,7 +766,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-14-27.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-14-27">
 			<original>
 				1 Corinthians 12:14-27
 			</original>
@@ -783,7 +783,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-21">
 			<original>
 				v. 21
 			</original>
@@ -800,7 +800,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-26.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-26">
 			<original>
 				v. 26
 			</original>
@@ -817,7 +817,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-26.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-26">
 			<original>
 				v. 26
 			</original>
@@ -834,7 +834,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/hebrews-10-23-25.html">
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-10-23-25">
 			<original>
 				Hebrews 10:23-25
 			</original>
@@ -860,7 +860,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/hebrews-10-23.html">
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-10-23">
 			<original>
 				v. 23
 			</original>
@@ -877,7 +877,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/hebrews-10-24.html">
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-10-24">
 			<original>
 				v. 24
 			</original>
@@ -912,7 +912,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-16-1-2.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-16-1-2">
 			<original>
 				1 Corinthians 16:1-2
 			</original>
@@ -929,7 +929,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/2-corinthians-9-6-8.html">
+		<change bold="true" italic="false" modal="true" scripturekey="2-corinthians-9-6-8">
 			<original>
 				2 Corinthians 9:6-8
 			</original>
@@ -969,7 +969,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				
 			</original>

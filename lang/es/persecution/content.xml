@@ -27,7 +27,7 @@
 		<translated>
 			Introducción — 2 Timoteo 3:12: Todos quienes quieren vivir como discípulos de Jesús van a ser perseguidos.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Introduction
 			</original>
@@ -35,7 +35,7 @@
 				Introducción
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/2-timothy-3-12.html">
+		<change bold="true" italic="false" modal="true" scripturekey="2-timothy-3-12">
 			<original>
 				2 Timothy 3:12
 			</original>
@@ -70,7 +70,7 @@
 		<translated>
 			Marcos 3:20-21: La familia de Jesús pensó que El estaba loco (lavado del coco, bajo control mental)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/mark-3-20-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="mark-3-20-21">
 			<original>
 				Mark 3:20-21
 			</original>
@@ -87,7 +87,7 @@
 		<translated>
 			Marcos 3:31-35: Jesús puso la prioridad en Su familia espiritual antes que Su familia física.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/mark-3-31-35.html">
+		<change bold="true" italic="false" modal="true" scripturekey="mark-3-31-35">
 			<original>
 				Mark 3:31-35
 			</original>
@@ -104,7 +104,7 @@
 		<translated>
 			Hechos 1:12-14: Esa convicción causa conflicto. Sin embargo, después de Su resurrección y ascensión, Su madre y hermanos ya eran discípulos.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-1-12-14.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-1-12-14">
 			<original>
 				Acts 1:12-14
 			</original>
@@ -130,7 +130,7 @@
 		<translated>
 			Juan 7:12-13: La gente chismea acerca de Jesús y le acusan de engañar a la gente.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-7-12-13.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-7-12-13">
 			<original>
 				John 7:12-13
 			</original>
@@ -147,7 +147,7 @@
 		<translated>
 			Juan 10:19-21: Los judíos — gente religiosa — perseguía agresivamente a Jesús por medio de ponerle sobrenombres y difamación de su carácter. Las enseñanzas de Jesús siempre dividían a Sus oyentes.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-10-19-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-10-19-21">
 			<original>
 				John 10:19-21
 			</original>
@@ -173,7 +173,7 @@
 		<translated>
 			Lucas 23:1-5: Jesús recibe la pena de muerte por crucifixión a través de verdades a medias.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/luke-23-1-3.html">
+		<change bold="true" italic="false" modal="true" scripturekey="luke-23-1-3">
 			<original>
 				Luke 23:1-3
 			</original>
@@ -208,7 +208,7 @@
 		<translated>
 			Hechos 5:17-18, 38-42
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-5-17-18-38-42.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-5-17-18-38-42">
 			<original>
 				Acts 5:17-18
 			</original>
@@ -216,7 +216,7 @@
 				Hechos 5:17-18
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-5-17-18-38-42.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-5-17-18-38-42">
 			<original>
 				38-42
 			</original>
@@ -269,7 +269,7 @@
 		<translated>
 			Hechos 28:21-22
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-28-21-22.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-28-21-22">
 			<original>
 				Acts 28:21-22
 			</original>
@@ -313,7 +313,7 @@
 		<translated>
 			Los motivos de la persecución. 1 Timoteo 4:16 — El Estilo de Vida y la Doctrina
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-timothy-4-16.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-timothy-4-16">
 			<original>
 				1 Timothy 4:16
 			</original>
@@ -339,7 +339,7 @@
 		<translated>
 			1 Pedro 4:3-4: El mundo se siente condenado por los que ya no participan en su pecado.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-peter-4-3-4.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-peter-4-3-4">
 			<original>
 				1 Peter 4:3-4
 			</original>
@@ -356,7 +356,7 @@
 		<translated>
 			1 Pedro 4:12-16: No te sorprendas ni te avergüences por la persecución, pero asegúrate que te están persiguiendo por causa de tu justicia.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				1 Peter 4:12-16
 			</original>
@@ -382,7 +382,7 @@
 		<translated>
 			Predicando la Palabra — Juan 15:18-20; 16:1-4
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-15-18-20-16-1-4.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-15-18-20-16-1-4">
 			<original>
 				John 15:18-20
 			</original>
@@ -390,7 +390,7 @@
 				Juan 15:18-20
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-15-18-20-16-1-4.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-15-18-20-16-1-4">
 			<original>
 				16:1-4
 			</original>
@@ -425,7 +425,7 @@
 		<translated>
 			El Camino Estrecho de la Salvación — Mateo 7:13-14
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-7-13-14.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-7-13-14">
 			<original>
 				Matthew 7:13-14
 			</original>
@@ -442,7 +442,7 @@
 		<translated>
 			Hechos 4:12: Solamente quien cree en Jesús es salvo (Esta verdad condena a los ateos, los politeístas, los judíos, los musulmanes, los hindúes, los budistas, etc…)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-4-12.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-4-12">
 			<original>
 				Acts 4:12
 			</original>
@@ -459,7 +459,7 @@
 		<translated>
 			Hechos 2:36-38: Solamente un adulto que está bautizado en agua para el perdón de sus pecados es salvo. (Esta verdad condena a quienes practican al bautismo de los bebés y el "orar para recibir a Jesucristo en tu corazón" como doctrinas de la salvación.)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2-36-38.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-36-38">
 			<original>
 				Acts 2:36-38
 			</original>
@@ -476,7 +476,7 @@
 		<translated>
 			Mateo 28:19-20: Solamente la persona que toma la decisión de bautizarse como discípulo es salvo. (Esta verdad condena a los que aunque bauticen para el perdón de los pecados, pero que no los hacen discípulos antes de y después de bautizarse.)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-28-19-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-19-20">
 			<original>
 				Matthew 28:19-20
 			</original>
@@ -511,7 +511,7 @@
 		<translated>
 			Mateo 28:19-20: El discipulado, o sea el llamar a las personas a obedecer a la Palabra de Dios, es muchas veces visto por el mundo como controlador.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-28-19-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-19-20">
 			<original>
 				Matthew 28:19-20
 			</original>
@@ -537,7 +537,7 @@
 		<translated>
 			Mateo 5:10-12
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-5-10-12.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-5-10-12">
 			<original>
 				Matthew 5:10-12
 			</original>
@@ -572,7 +572,7 @@
 		<translated>
 			Efesios 6:10-18
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-6-10-18.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-6-10-18">
 			<original>
 				Ephesians 6:10-18
 			</original>
@@ -598,7 +598,7 @@
 		<translated>
 			La Conclusión — Las Iglesias Cristianas Internacionales somos un movimiento controversial. Unos dicen que somos una secta y nos acusan de lavar mentes y el control mental. Muchos rumores falsos y medias-verdades han sido difundidas. Los artículos en los periódicos, programas de televisión y especialmente en el Internet han tratado de difamar a las ICI, y sin embargo, la verdad es que ¡las vidas han sido radicalmente cambiadas, los matrimonios han sido sanados, drogadictos han sido liberados, los pobres han sido alimentados y cuidados, y este movimiento — el Movimiento de Discipulado y Compromiso Total — se está extendiendo alrededor del mundo en nuestra generación! ¡Exactamente como pasó en el primer siglo!
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Conclusion
 			</original>
@@ -624,7 +624,7 @@
 		<translated>
 			El estudio de Persecución ha demostrado ser de gran utilidad después del estudio de Discipulado.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="discipleship.html">
+		<change bold="true" italic="false" modal="false" href="#discipleship">
 			<original>
 				Discipleship
 			</original>
@@ -676,7 +676,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				
 			</original>

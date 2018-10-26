@@ -27,7 +27,7 @@
 		<translated>
 			I Corintios 12:8-10
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-8-10.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-8-10">
 			<original>
 				1 Corinthians 12:8-10
 			</original>
@@ -125,7 +125,7 @@
 		<translated>
 			(Marcos 16:16-18) Algunos tendrán la habilidad de:
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/mark-16-16-18.html">
+		<change bold="true" italic="false" modal="true" scripturekey="mark-16-16-18">
 			<original>
 				Mark 16:16-18
 			</original>
@@ -151,7 +151,7 @@
 		<translated>
 			Ser mordido por víboras y no morir (Hechos 28:8)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-28-5.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-28-5">
 			<original>
 				Acts 28:5
 			</original>
@@ -177,7 +177,7 @@
 		<translated>
 			La bendición (Hechos 13:3)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-13-3.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-13-3">
 			<original>
 				Acts 13:3
 			</original>
@@ -203,7 +203,7 @@
 		<translated>
 			Ananías sana la ceguera de Pablo (Hechos 9:17-18)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-9-17-18.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-9-17-18">
 			<original>
 				Acts 9:17-18
 			</original>
@@ -220,7 +220,7 @@
 		<translated>
 			Pablo sana al padre de Publio en Malta (Hechos 28:8)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-28-8.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-28-8">
 			<original>
 				Acts 28:8
 			</original>
@@ -246,7 +246,7 @@
 		<translated>
 			Los apóstoles podían pasar los dones a otros (Hechos 8:18)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-8-18.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-8-18">
 			<original>
 				Acts 8:18
 			</original>
@@ -272,7 +272,7 @@
 		<translated>
 			Hechos 6:1-8: El contexto es la selección de "Los Siete." Esta es la primera ocasión que los dones son transferidos. Esteban inmediatamente comienza a hacer milagros entre la gente con el poder de Dios. (v 8)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-6-1-8.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-6-1-8">
 			<original>
 				Acts 6:1-8
 			</original>
@@ -289,7 +289,7 @@
 		<translated>
 			Hechos 8:1-25: El contexto es después del martirio de Esteban. Una gran persecución se desenlaza. Muchos salen, pero los apóstoles permanecen en Jerusalén. Felipe, uno de los Siete que había recibido los dones en Hechos 6:1-8, va a Samaria. Realiza muchos señales milagrosos y sanaciones para hacer que la gente crea (v 6), incluyendo a Simón el Mago (v 13) y son bautizados. (Se convertieron en Cristianos y así recibieron el perdón de los pecados y el don (interno) del Espíritu Santo, Hechos 2:38). Cuando los apóstoles vienen a Samaria, Simón se da cuenta que los dones se dan solamente cuando los apóstoles imponían sus manos y les ofrece dinero para recibir la habilidad (Hechos 8:18). Noten: Simón no le pidió a Felipe los dones porque Felipe no los podía transmitir. Simón es reprendido por tener la motivación equivocada.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-8-1-25.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-8-1-25">
 			<original>
 				Acts 8:1-25
 			</original>
@@ -297,7 +297,7 @@
 				Hechos 8:1-25
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-6-1-8.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-6-1-8">
 			<original>
 				Acts 6:1-8
 			</original>
@@ -305,7 +305,7 @@
 				Hechos 6:1-8
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-8-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-8-6">
 			<original>
 				v. 6
 			</original>
@@ -313,7 +313,7 @@
 				v 6
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-8-13.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-8-13">
 			<original>
 				v. 13
 			</original>
@@ -321,7 +321,7 @@
 				v 13
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2-38.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
 			<original>
 				Acts 2:38
 			</original>
@@ -329,7 +329,7 @@
 				Hechos 2:38
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-8-18.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-8-18">
 			<original>
 				Acts 8:18
 			</original>
@@ -346,7 +346,7 @@
 		<translated>
 			Hechos 19:1-6: Pablo encuentra discípulos en Éfeso que no sabían qué era el Espíritu Santo porque solamente recibieron el bautismo de arrepentimiento de Juan. Entonces fueron bautizados en el nombre de Jesucristo para recibir el perdón de sus pecados y la residencia interna del Espíritu Santo (v 5). Después en ellos reciben los dones milagrosos de la profecía y hablar en lenguas a través de la imposición de las manos de Pablo. (v 6) Pablo es un apóstol.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-19-1-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-19-1-6">
 			<original>
 				Acts 19:1-6
 			</original>
@@ -354,7 +354,7 @@
 				Hechos 19:1-6
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-19-5.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-19-5">
 			<original>
 				v. 5
 			</original>
@@ -362,7 +362,7 @@
 				v 5
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-19-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-19-6">
 			<original>
 				v. 6
 			</original>
@@ -388,7 +388,7 @@
 		<translated>
 			Los apóstoles tenían la habilidad de transmitir los dones porque eran apóstoles. Los apóstoles poseían la habilidad de realizar milagros aún durante el ministerio de Cristo (Lucas 9:1). Esta habilidad de transmitir y realizar los dones no fue dada en Pentecostés.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				Luke 9:1
 			</original>
@@ -405,7 +405,7 @@
 		<translated>
 			I Corintios 12 y 14 no son directivas acerca como recibir lenguas (la iglesia allí ya las había recibido), sino las correctivas acerca como usarlas ya que muchos hablaban al mismo tiempo y mal usaban las lenguas. I Corintios 12:28-30 enseña que el don de lenguas no se daba a todos en la iglesia. Por lo tanto el concepto de una "iglesia Pentecostés" (todo miembro hablando en lenguas) contradice las escrituras.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				1 Corinthians
 			</original>
@@ -413,7 +413,7 @@
 				I Corintios
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12">
 			<original>
 				12
 			</original>
@@ -421,7 +421,7 @@
 				12
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-14.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-14">
 			<original>
 				14
 			</original>
@@ -429,7 +429,7 @@
 				14
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-28-30.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-28-30">
 			<original>
 				1 Corinthians 12:28-30
 			</original>
@@ -446,7 +446,7 @@
 		<translated>
 			I Corintios 13:8-10. "Perfección" aquí no puede significar la venida de Cristo ya que está en el género neutro en Griego, y no el género masculino. Cuando venga la perfección probablemente se refiere a la canonización de la Biblia un tiempo después del primer siglo. En ese tiempo, todos los dones milagrosos ya habrían desaparecido porque todos los apóstoles y aquellos a quienes les pasaron los dones ya habrían muerto.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-13-8-10.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-13-8-10">
 			<original>
 				1 Corinthians 13:8-10
 			</original>
@@ -463,7 +463,7 @@
 		<translated>
 			El propósito de los dones milagrosos — I Corintios 14:20-22:
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-14-20-22.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-14-20-22">
 			<original>
 				1 Corinthians 14:20-22
 			</original>
@@ -507,7 +507,7 @@
 		<translated>
 			II Tesalonicenses 2:9-10 demuestra que pueden haber milagros por Satanás hoy día. El propósito de Satanás es de engañar a la gente acerca a la verdad, para que no sean salvos.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/2-thessalonians-2-9-12.html">
+		<change bold="true" italic="false" modal="true" scripturekey="2-thessalonians-2-9-12">
 			<original>
 				2 Thessalonians 2:9-12
 			</original>
@@ -533,7 +533,7 @@
 		<translated>
 			Una persona puede estar llena del Espíritu sin poder hablar en lenguas (Efesios 5:18-19).
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-5-18-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-5-18-20">
 			<original>
 				Ephesians 5:18-20
 			</original>
@@ -550,7 +550,7 @@
 		<translated>
 			Jesús nunca habló en lenguas y recibió el Espíritu en toda plenitud, sin limite (Juan 3:34-36).
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-3-34-36.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-3-34-36">
 			<original>
 				John 3:34-36
 			</original>
@@ -578,7 +578,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				
 			</original>

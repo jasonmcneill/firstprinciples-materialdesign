@@ -45,7 +45,7 @@
 		<translated>
 			Hechos 2:36-47: La Conversión de los 3,000
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2-36-47.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-36-47">
 			<original>
 				Acts 2:36-47
 			</original>
@@ -152,7 +152,7 @@
 		<translated>
 			Hablar de la expectativa de los líderes de dar un diezmo los domingos y dar una ofrenda de benevolencia en las reuniones de entre semana. Lean juntos Malaquías 3:6-12 y Hebreos 13:17.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/malachi-3-6-12.html">
+		<change bold="true" italic="false" modal="true" scripturekey="malachi-3-6-12">
 			<original>
 				Malachi 3:6-12
 			</original>
@@ -160,7 +160,7 @@
 				Malaquías 3:6-12
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/hebrews-13-17.html">
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-13-17">
 			<original>
 				Hebrews 13:17
 			</original>
@@ -177,7 +177,7 @@
 		<translated>
 			Devotos al partimiento del pan — la Comunión (1 Corintios 11:23-32)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-11-23-32.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-11-23-32">
 			<original>
 				1 Corinthians 11:23-32
 			</original>
@@ -203,7 +203,7 @@
 		<translated>
 			Platica de lo que es ponerse "débil, enfermo, y dormido" espiritualmente. ¿Cómo ayuda a estas condiciones la comunión? (enfermo: Proverbios 13:12)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/proverbs-13-12.html">
+		<change bold="true" italic="false" modal="true" scripturekey="proverbs-13-12">
 			<original>
 				Proverbs 13:12
 			</original>
@@ -229,7 +229,7 @@
 		<translated>
 			Platicar de cómo la oración trae la paz. (Filipenses 4:4-7)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/philippians-4-4-7.html">
+		<change bold="true" italic="false" modal="true" scripturekey="philippians-4-4-7">
 			<original>
 				Philippians 4:4-7
 			</original>
@@ -255,7 +255,7 @@
 		<translated>
 			Hechos 9:1-22: La Conversión de Pablo
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-9-1-22.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-9-1-22">
 			<original>
 				Acts 9:1-22
 			</original>
@@ -317,7 +317,7 @@
 		<translated>
 			Hebreos 5:11 - 6:6: Las Enseñanzas Elementales
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/hebrews-5-11-6-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-5-11-6-6">
 			<original>
 				Hebrews 5:11 - 6:6
 			</original>
@@ -354,7 +354,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				
 			</original>

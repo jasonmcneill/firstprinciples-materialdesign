@@ -18,7 +18,7 @@
 		<translated>
 			Colosenses 1:15-18
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/colossians-1-15-18.html">
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-1-15-18">
 			<original>
 				Colossians 1:15-18
 			</original>
@@ -80,7 +80,7 @@
 		<translated>
 			Efesios 2:19-21
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-2-19-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-2-19-21">
 			<original>
 				Ephesians 2:19-21
 			</original>
@@ -169,7 +169,7 @@
 		<translated>
 			I Corintios 12:12-13 nos enseña que en el bautismo, nos unimos al cuerpo de Cristo, la iglesia.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-12-13.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-12-13">
 			<original>
 				1 Corinthians 12:12-13
 			</original>
@@ -186,7 +186,7 @@
 		<translated>
 			Romanos 6:3-4 nos enseña que también nos unimos a Cristo en el bautismo. El bautismo es cuando nos convertimos en un Cristiano, hijo/a de Dios, y al mismo tiempo llegamos a formar parte de la iglesia, la familia de Dios.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/romans-6-3-4.html">
+		<change bold="true" italic="false" modal="true" scripturekey="romans-6-3-4">
 			<original>
 				Romans 6:3-4
 			</original>
@@ -203,7 +203,7 @@
 		<translated>
 			Efesios 2:20
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-2-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-2-20">
 			<original>
 				Ephesians 2:20
 			</original>
@@ -265,7 +265,7 @@
 		<translated>
 			¿Te has preguntado porque existen tantas denominaciones/divisiones? (450 o más existen solo en los Estados Unidos)
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Have you ever wondered why there are so many denominations/divisions?
 			</original>
@@ -291,7 +291,7 @@
 		<translated>
 			Efesios 4:4-6 — Un solo cuerpo
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-4-4-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
 			<original>
 				Ephesians 4:4-6
 			</original>
@@ -308,7 +308,7 @@
 		<translated>
 			Romanos 12:4-5 — Un solo cuerpo
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/romans-12-4-5.html">
+		<change bold="true" italic="false" modal="true" scripturekey="romans-12-4-5">
 			<original>
 				Romans 12:4-5
 			</original>
@@ -325,7 +325,7 @@
 		<translated>
 			I Corintios 12:12-13 — Un solo cuerpo
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-12-13.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-12-13">
 			<original>
 				1 Corinthians 12:12-13
 			</original>
@@ -351,7 +351,7 @@
 		<translated>
 			I Corintios 1:10-13. No haya divisiones. Siguiendo personalidades y después su literatura (las tradiciones de los hombres que contradicen la Palabra de Dios — doctrinas falsas.) (Mateo 15:6-9)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-1-10-13.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-1-10-13">
 			<original>
 				1 Corinthians 1:10-13
 			</original>
@@ -359,7 +359,7 @@
 				I Corintios 1:10-13
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-15-6-9.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-15-6-9">
 			<original>
 				Matthew 15:6-9
 			</original>
@@ -376,7 +376,7 @@
 		<translated>
 			Luke 12:51-53; Juan 10:19-21 La división va a ocurrir y es justo, cuando una persona, iglesia, o movimiento se alinea con la Palabra de Dios. Los judíos se consideraban el "pueblo de Dios", sin embargo las palabras de Jesús (la verdad) los dividió en dos grupos - los que se oponían y los que le obedecían.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/luke-12-51-53.html">
+		<change bold="true" italic="false" modal="true" scripturekey="luke-12-51-53">
 			<original>
 				Luke 12:51-53
 			</original>
@@ -384,7 +384,7 @@
 				Luke 12:51-53
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-10-19-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-10-19-21">
 			<original>
 				John 10:19-21
 			</original>
@@ -410,7 +410,7 @@
 		<translated>
 			A través de los siglos la iglesia se corrumpió con las tradiciones de los hombres — las falsas doctrinas, tales como: el bautismo de los bebés, el pecado original, la virginidad perpétua de María, el sacerdocio, la infalibilidad del papa, etc... Esta llega a ser la Iglesia Católica Romana. En 364 d.C. el Impirio Romano se divide en dos partes. Esa división causa una rotura en el cristianismo — la parte en el este se convierte en la Iglesia Ortodoxa del Este y la parte en el oeste se vuelve la Iglesia Católica. Sus prácticas empiezan a ser distintas, por ejemplo — la Iglesia Ortodoxa tiene sacerdotes casados, los sacerdotes de la Iglesia Católica son celibatos. El "Gran Cisma" ocurre en 1054, y los líderes de "cada iglesia" expulsan a los otros.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Catholic Church
 			</original>
@@ -418,7 +418,7 @@
 				Iglesia Católica
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Eastern Orthodox Church
 			</original>
@@ -426,7 +426,7 @@
 				Iglesia Ortodoxa
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Roman Catholic Church
 			</original>
@@ -443,7 +443,7 @@
 		<translated>
 			El Moviemiento de la Reforma de los años 1500 — Martín Lutero (la Iglesia Luterana). El toma una posición en contra de la Iglesia Católica por estas convicciones: La Biblia tiene autoridad sobre la iglesia, la salvación por fe y no por obras, y el sacerdocio de todos los creyentes, sin embargo todavía bautiza a los infantes. Otros reformistas notables fueron: Juan Calvino (la Iglesia Prebeteriana), Ulrich Zwingli y Conrad Grebel (los anabautistas). Los anabautistas fueron severamente perseguidos por los católicos y por algunos de los reformistas por su posición en favor del bautismo de los adultos. Enrique VIII (la Iglesia Anglicana / la Iglesia de Inglaterra) El rompe con la Iglesia Católica para tener el derecho de divorciarse de su esposa. El se nombra a sí mismo la cabeza de la iglesia. Luego en los Estados Unidos, se vuelve la Iglesia Episcopal, ya que los miembros no iban a seguir al rey de Inglaterra.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				1500's Reformation Movement
 			</original>
@@ -460,7 +460,7 @@
 		<translated>
 			El Moviento del Gran Despertar de los años 1700 — Juan y Carlos Wesley (la Iglesia Metodista). Los seguidores se dividen de la Iglesia de Inglaterra por: una decisión personal transformador por Cristo y no la religión del estado, la alta contabilidad para los miembros, y predicando a los "inconversos;" también practicaban el bautismo de infantes.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				1700's Great Awakening Movement
 			</original>
@@ -477,7 +477,7 @@
 		<translated>
 			El Movimiento de la Restauración de los años 1800 — Alejandro Campbell y Barton Stone (la iglesia tradicional de Cristo y la Iglesia Cristiana Conservadora) Ellos se ponen en contra de las doctrinas de salvación católica y protestante también. Ellos predican que para poder ser salvo uno debe tener una fe personal en Cristo, arrepentirse y bautizarse (por inmersión) para el perdón de los pecados y para recibir al Espíritu Santo. En reacción del catolicismo, sus congregaciones son autónomas — se gobierna cada una a sí misma. (1906 es el año oficial de la división entre las iglesias tradicionales de Cristo, que no usa instrumentos) musicales, y la Iglesia Cristiana Conservadora, la cual sí usa instrumentos. José Smith (la Iglesia Mormona) se divide con el Movimiento de la Restauración en 1830 por una "nueva revelación" — el Libro de Mormón.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				1800's Restoration Movement
 			</original>
@@ -494,7 +494,7 @@
 		<translated>
 			El Movimiento de la Encrucijada (Crossroads) de 1967 (el Movimiento del Compromiso Total) Controversial, aunque nunca se separó de las iglesias tradicionales de Cristo, la Igesia de la Encucijada cerca de la Universidad de la Florida inicia el evangelización de los campus universitarios de los Estados Unidos, "contando el costo" con cada persona que deseaba bautizarse, y el cuidado espiritual de los nuevos cristianos.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				1967 Crossroads Movement
 			</original>
@@ -511,7 +511,7 @@
 		<translated>
 			El Movimiento de Boston (las Iglesias Internacionales de Cristo) 1979 — Kip McKean — Bautizado en la Universidad de la Florida en 1972, se divide de las iglesias tradicionales de Cristo y el Movimiento de la Encrucijada por: ser una iglesia de la Biblia y no solamente del Nuevo Testamento, solamente los discípulos son verdaderos cristianos, cada miembro de la iglesia tenía que ser un discípulo, cada miembro debe tener una relación de discipulado, la visión de evangelizar al mundo en una generación, el plantar a nuevas iglesias para alcazar esa visión, un liderazgo central y no congregaciones autónomas, y el papel de las mujeres. En 2002, las Iglesias Internacionales de Cristo regresan a la doctrina de las iglesias tradicionales de Cristo — cada congregación se vuelve autónoma (se auto-gobierna), diciendo que un liderazgo central y la visión de evangelizar al mundo en una generación son "anti-bíblicos." Alrededor del mundo, miles se caen de la fe.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				1979 Boston Movement
 			</original>
@@ -528,7 +528,7 @@
 		<translated>
 			El Movimiento de Discipulado y Compromiso Total (El Movimiento de Portland / La Iglesia Cristiana Internacional) Empieza en Pórtland, Oregon en el año 2006 como un movimiento de reavivamiento dentro de las Iglesias Internacionales de Cristo. La Iglesia Internacional de Cristo se separa del Movimiento de Discipulado y Compromiso Total por la postura del nuevo movimiento aceca de las siguientes convicciones: ser una iglesia de la Biblia y no solamente del Nuevo Testamento, solamente los discípulos son verdaderos cristianos, cada miembro de la iglesia tiene que ser un discípulo, cada miembro debe tener una relación de discipulado, la visión de evangelizar al mundo en una generación, el plantar a nuevas iglesias para alcazar esa visión, un liderazgo central y no congregaciones autónomas, y el papel de las mujeres.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				2006 SoldOut Movement
 			</original>
@@ -554,7 +554,7 @@
 		<translated>
 			Hechos 11:25-26: Iglesia = Discípulos = Cristianos. Cuando Dios se mira hacia abajo desde el cielo, El ve a una sola iglesia — todos los discípulos bautizados alrededor del mundo, quienes están "completamente comprometidos" en obedecer a Su Palabra. Ese se llama la "iglesia universal" — la única iglesia verdadera. (Efesios 4:4-6)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-11-25-26.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-11-25-26">
 			<original>
 				Acts 11:25-26
 			</original>
@@ -562,7 +562,7 @@
 				Hechos 11:25-26
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Church = Disciples = Christians.
 			</original>
@@ -570,7 +570,7 @@
 				Iglesia = Discípulos = Cristianos
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-4-4-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
 			<original>
 				Ephesians 4:4-6
 			</original>
@@ -632,7 +632,7 @@
 		<translated>
 			Creemos que la Biblia es inspirada por Dios y es nuestra única autoridad. Por eso, ya que no nos hemos separado (dividido) de la verdad, nos consideramos no-denominacional.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				We believe the Bible is inspired by God and is our sole authority.
 			</original>
@@ -649,7 +649,7 @@
 		<translated>
 			Somos una Iglesia de la Biblia, no solamente una Iglesia del Nuevo Testamento. 2 Timoteo 3:14-17 El contexto de la palabra "Escritura" se refiere al Antiguo Testamento. Creemos que en Antiguo Testamento se aplica a nuestras vidas — tanto como el Nuevo Testamento — menos la Ley de Moisés y cualquier enseñanza del Antiguo Testamento que es superada por otra enseñanza en el Nuevo Testamento. (Por ejemplo: los motivos para un divorcio)
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				We are a Bible Church, not simply a New Testament Church.
 			</original>
@@ -657,7 +657,7 @@
 				Somos una Iglesia de la Biblia, no solamente una Iglesia del Nuevo Testamento.
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/2-timothy-3-14-17.html">
+		<change bold="true" italic="false" modal="true" scripturekey="2-timothy-3-14-17">
 			<original>
 				2 Timothy 3:14-17
 			</original>
@@ -683,7 +683,7 @@
 		<translated>
 			"Callarnos cuando la Biblia habla, y hablar cuando la Biblia se calla." En aplicar los principios de la Escritura para construir a la iglesia visible, creemos que tenemos que obedecer a la Palabra de Dios, pero donde la Biblia no prohibe una práctica o nombre, somos libres a usar nuestra creatividad que Dios nos ha dado. Génesis 2:19 (Ejemplos: los principios para las "charlas bíblicas," "evangelista principal," "parejas de discipulado," y "regiones" se encuentran en la Escritura, aunque eses nombres no. Sin embargo, en ningún lugar son prohibidos. También, la música instrumental y el pagar a los Líderes de Ministerio de Mujeres no son prohibidos en la Escrituras.)
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				"Be silent where the Bible speaks, and speak where the Bible is silent."
 			</original>
@@ -691,7 +691,7 @@
 				"Callarnos cuando la Biblia habla, y hablar cuando la Biblia se calla."
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/genesis-2-19.html">
+		<change bold="true" italic="false" modal="true" scripturekey="genesis-2-19">
 			<original>
 				Genesis 2:19
 			</original>
@@ -708,7 +708,7 @@
 		<translated>
 			Creemos en un Liderazgo Central. A travéz de la Palabra de Dios, cuando Su puebo estaba unido, hubo un liderazgo central fuerte y un líder central espiritual. (Ejemlos: Moisés, Josué, David y claro Jesús y los apóstoles.) 1 Corintios 4:15-17 y Tito 1:5 enseñan que las congregaciones locales tuvieron un evangelista supervisor, quien unía a los discípulos "en todas partes y en cada iglesia." En el primer siglo, las congregaciones eran un movimiento colectivo — no autónomas, no auto-gobernadas.)
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				We believe in a Central Leadership.
 			</original>
@@ -716,7 +716,7 @@
 				Creemos en un Liderazgo Central.
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-4-15-17.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-4-15-17">
 			<original>
 				1 Corinthians 4:15-17
 			</original>
@@ -724,7 +724,7 @@
 				1 Corintios 4:15-17
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/titus-1-5.html">
+		<change bold="true" italic="false" modal="true" scripturekey="titus-1-5">
 			<original>
 				Titus 1:5
 			</original>
@@ -741,7 +741,7 @@
 		<translated>
 			Mateo 28:19-20: Nuestra visión — la evangelización de todas las naciones en nuestra generación — se va a cumplir por medio de que cada discípulo hace discípulos y cada discípulo tiene relaciones de discipulado.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-28-19-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-19-20">
 			<original>
 				Matthew 28:19-20
 			</original>
@@ -749,7 +749,7 @@
 				Mateo 28:19-20
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Our vision — the evangelization of all nations in this generation — 
 			</original>
@@ -766,7 +766,7 @@
 		<translated>
 			I Corintios 12:14-27
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-14-27.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-14-27">
 			<original>
 				1 Corinthians 12:14-27
 			</original>
@@ -783,7 +783,7 @@
 		<translated>
 			Necesitamos al cuerpo. El cuerpo nos necesita (v. 21).
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-21">
 			<original>
 				v. 21
 			</original>
@@ -800,7 +800,7 @@
 		<translated>
 			Involúcrate en un nivel de relaciones profundas dentro de la iglesia (v. 26).
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-26.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-26">
 			<original>
 				v. 26
 			</original>
@@ -817,7 +817,7 @@
 		<translated>
 			Involúcrate en un nivel de relaciones profundas dentro de la iglesia (v. 26).
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-12-26.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-12-26">
 			<original>
 				v. 26
 			</original>
@@ -834,7 +834,7 @@
 		<translated>
 			Hebreos 10:23-25
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/hebrews-10-23-25.html">
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-10-23-25">
 			<original>
 				Hebrews 10:23-25
 			</original>
@@ -860,7 +860,7 @@
 		<translated>
 			La confraternidad nos ayuda a mantenernos firmes en nuestro compromiso (v. 23).
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/hebrews-10-23.html">
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-10-23">
 			<original>
 				v. 23
 			</original>
@@ -877,7 +877,7 @@
 		<translated>
 			Otro propósito de la confraternidad es animarnos con el fin de seguir fieles (v. 24).
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/hebrews-10-24.html">
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-10-24">
 			<original>
 				v. 24
 			</original>
@@ -912,7 +912,7 @@
 		<translated>
 			I Corintios 16:1-2: Pablo dio un plan para apartar dinero el primer día de la semana para el Señor y las necesidades de su pueblo. Nuestro plan es apartar una décima parte de nuestro salario como la guía inicial de nuestro sacrificio los domingos para satisfacer las necesidades del ministerio. Las ofertas de benévolencia se dan en las reuniones de entre-semana.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-corinthians-16-1-2.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-corinthians-16-1-2">
 			<original>
 				1 Corinthians 16:1-2
 			</original>
@@ -929,7 +929,7 @@
 		<translated>
 			2 Corintios 9:6-8: Dar debe salir de un corazón alegre, no por obligación.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/2-corinthians-9-6-8.html">
+		<change bold="true" italic="false" modal="true" scripturekey="2-corinthians-9-6-8">
 			<original>
 				2 Corinthians 9:6-8
 			</original>
@@ -948,7 +948,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				
 			</original>

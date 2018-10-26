@@ -18,7 +18,7 @@
 		<translated>
 			II Timoteo 3:16-17
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/2-timothy-3-16-17.html">
+		<change bold="true" italic="false" modal="true" scripturekey="2-timothy-3-16-17">
 			<original>
 				2 Timothy 3:16-17
 			</original>
@@ -53,7 +53,7 @@
 		<translated>
 			Hebreos 4:12-13
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/hebrews-4-12-13.html">
+		<change bold="true" italic="false" modal="true" scripturekey="hebrews-4-12-13">
 			<original>
 				Hebrews 4:12-13
 			</original>
@@ -97,7 +97,7 @@
 		<translated>
 			II Pedro 1:20-21
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/2-peter-1-20-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="2-peter-1-20-21">
 			<original>
 				2 Peter 1:20-21
 			</original>
@@ -132,7 +132,7 @@
 		<translated>
 			Juan 8:31-32
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-8-31-32.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-8-31-32">
 			<original>
 				John 8:31-32
 			</original>
@@ -185,7 +185,7 @@
 		<translated>
 			Mateo 15:1-9
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-15-1-9.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-15-1-9">
 			<original>
 				Matthew 15:1-9
 			</original>
@@ -220,7 +220,7 @@
 		<translated>
 			I Timoteo 4:16
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-timothy-4-16.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-timothy-4-16">
 			<original>
 				1 Timothy 4:16
 			</original>
@@ -264,7 +264,7 @@
 		<translated>
 			Hechos 17:10-12
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-17-10-12.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-17-10-12">
 			<original>
 				Acts 17:10-12
 			</original>
@@ -308,7 +308,7 @@
 		<translated>
 			Santiago 1:22-25
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/james-1-22-25.html">
+		<change bold="true" italic="false" modal="true" scripturekey="james-1-22-25">
 			<original>
 				James 1:22-25
 			</original>
@@ -343,7 +343,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-12-48.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-12-48">
 			<original>
 				John 12:48
 			</original>
@@ -369,7 +369,7 @@
 		<translated>
 			Decisión: ¿Viviré por la Biblia ó por lo que dicten mis sentimientos, tradiciones, necesidades, etc...?
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Decision
 			</original>
@@ -398,7 +398,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				
 			</original>

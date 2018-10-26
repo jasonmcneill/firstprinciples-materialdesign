@@ -27,7 +27,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-26-31-28-10.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-26-31-28-10">
 			<original>
 				Matthew 26:31-28:10
 			</original>
@@ -179,7 +179,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="medicalaccount.html">
+		<change bold="true" italic="false" modal="false" href="#medicalaccount">
 			<original>
 				medical account
 			</original>
@@ -214,7 +214,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/romans-3-23.html">
+		<change bold="true" italic="false" modal="true" scripturekey="romans-3-23">
 			<original>
 				Romans 3:23
 			</original>
@@ -231,7 +231,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/isaiah-59-1-2.html">
+		<change bold="true" italic="false" modal="true" scripturekey="isaiah-59-1-2">
 			<original>
 				Isaiah 59:1-2
 			</original>
@@ -248,7 +248,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-27-46.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-27-46">
 			<original>
 				Matthew 27:46
 			</original>
@@ -274,7 +274,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/isaiah-53-4-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="isaiah-53-4-6">
 			<original>
 				Isaiah 53:4-6
 			</original>
@@ -291,7 +291,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				The Cross
 			</original>
@@ -299,7 +299,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				The Passion
 			</original>
@@ -348,7 +348,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				
 			</original>

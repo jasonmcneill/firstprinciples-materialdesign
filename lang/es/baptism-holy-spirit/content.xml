@@ -18,7 +18,7 @@
 		<translated>
 			Introducción: Jesús recibió el Espíritu en toda plenitud, sin límite. (Juan 3:24) Hay tres medidas del Espíritu Santo:
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Introduction:
 			</original>
@@ -26,7 +26,7 @@
 				Introducción:
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-3-34-rsv.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-3-34-rsv">
 			<original>
 				John 3:34
 			</original>
@@ -52,7 +52,7 @@
 		<translated>
 			Terminología de Romanos 8:9
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/romans-8-9-rsv.html">
+		<change bold="true" italic="false" modal="true" scripturekey="romans-8-9-rsv">
 			<original>
 				Romans 8:9
 			</original>
@@ -60,7 +60,7 @@
 				Romanos 8:9
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				(RSV)
 			</original>
@@ -77,7 +77,7 @@
 		<translated>
 			Se recibe en el bautismo (Hechos 2:38)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2-38.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
 			<original>
 				Acts 2:38
 			</original>
@@ -103,7 +103,7 @@
 		<translated>
 			Sus características en Hechos 2 y Hechos 10
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2">
 			<original>
 				Acts 2
 			</original>
@@ -111,7 +111,7 @@
 				Hechos 2
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-10.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-10">
 			<original>
 				Acts 10
 			</original>
@@ -129,7 +129,7 @@
 		<translated>
 			Una promesa (no un mandato), Hechos 1:4-5
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-1-4-5.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-1-4-5">
 			<original>
 				Acts 1:4-5
 			</original>
@@ -173,7 +173,7 @@
 		<translated>
 			Su propósito: anunciar la venida del Reino con poder. (Marcos 9:1, Hechos 1:8)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/mark-9.html">
+		<change bold="true" italic="false" modal="true" scripturekey="mark-9">
 			<original>
 				Mark 9:1
 			</original>
@@ -181,7 +181,7 @@
 				Marcos 9:1
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-1-8.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-1-8">
 			<original>
 				Acts 1:8
 			</original>
@@ -207,7 +207,7 @@
 		<translated>
 			A los judíos — en Jerusalén (Hechos 2)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2">
 			<original>
 				Acts 2
 			</original>
@@ -224,7 +224,7 @@
 		<translated>
 			A los no judíos — Comienza con Cornelio (Hechos 10)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-10.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-10">
 			<original>
 				Acts 10
 			</original>
@@ -241,7 +241,7 @@
 		<translated>
 			Noten que Cornelio y su familia fueron bautizados en agua en Hechos 10:48, salvados al bautizarse.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-10-48.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-10-48">
 			<original>
 				Acts 10:48
 			</original>
@@ -258,7 +258,7 @@
 		<translated>
 			Pedro explicó sus acciones a los judíos. (Hechos 11:1-18)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-11-1-18.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-11-1-18">
 			<original>
 				Acts 11:1-18
 			</original>
@@ -275,7 +275,7 @@
 		<translated>
 			"Al principio" (Hechos 11:15)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-11-15.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-11-15">
 			<original>
 				Acts 11:15
 			</original>
@@ -301,7 +301,7 @@
 		<translated>
 			¿Existe aún hoy día el bautismo con el Espíritu Santo? Efesios 4:4-6: Hay UN SOLO bautismo - ¿Cual? (Escrito por los años 60-62 D.C.). Hay tres opciones:
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-4-4-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
 			<original>
 				Ephesians 4:4-6
 			</original>
@@ -309,7 +309,7 @@
 				Efesios 4:4-6
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				60-62 A.D.
 			</original>
@@ -326,7 +326,7 @@
 		<translated>
 			El bautismo de Juan - Dejó de existir con el inicio del Nuevo Pacto (Hechos 19:1-5).
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-19-1-5.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-19-1-5">
 			<original>
 				Acts 19:1-5
 			</original>
@@ -343,7 +343,7 @@
 		<translated>
 			El bautismo con el Espíritu Santo (Hechos 2 y Hechos 10). Ya no existe ya que fue una profecía/promesa que ha sido cumplida. Nunca fue un mandato general para todos los cristianos.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Acts 2 and Acts 10
 			</original>
@@ -351,7 +351,7 @@
 				Hechos 2 y Hechos 10
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2">
 			<original>
 				Acts 2
 			</original>
@@ -359,7 +359,7 @@
 				Hechos 2
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-10.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-10">
 			<original>
 				Acts 10
 			</original>
@@ -385,7 +385,7 @@
 		<translated>
 			Jesús nos mandó tomar este bautismo (Mateo 28:18-20)
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-28-18-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-18-20">
 			<original>
 				Matthew 28:18-20
 			</original>
@@ -402,7 +402,7 @@
 		<translated>
 			Este bautismo está documentado a través de todo el libro de Hechos y las epístolas. De hecho, Pedro estuvo presente en todos los bautismos: el bautismo de Juan, ambos relatos del Bautismo del Espíritu Santo, y predicó el bautismo en agua en el nombre de Jesús en Hechos 2 (33 DC) y en 1 Pedro 3:18-21 (escrito alrededor del año 64 dC), bien después de todos los eventos del libro de Hechos.
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				33 A.D.
 			</original>
@@ -410,7 +410,7 @@
 				33 DC
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-peter-3-18-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-peter-3-18-21">
 			<original>
 				1 Peter 3:18-21
 			</original>
@@ -418,7 +418,7 @@
 				1 Pedro 3:18-21
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				64 A.D.
 			</original>
@@ -435,7 +435,7 @@
 		<translated>
 			Tendría que ser el "un solo" bautismo de Efesios 4:4-6 ya que era el único en práctica en los años 60-62 D.C. cuando fue escrito Efesios.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/ephesians-4-4-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="ephesians-4-4-6">
 			<original>
 				Ephesians 4:4-6
 			</original>
@@ -443,7 +443,7 @@
 				Efesios 4:4-6
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				60-62 A.D.
 			</original>
@@ -460,7 +460,7 @@
 		<translated>
 			Los Dones Milagrosos del Espíritu Santo (siguiente lección)
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				The miraculous gifts of the Holy Spirit
 			</original>
@@ -468,7 +468,7 @@
 				Los Dones Milagrosos del Espíritu Santo
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="miraculousgiftsholyspirit.html">
+		<change bold="true" italic="false" modal="false" href="#miraculousgiftsholyspirit">
 			<original>
 				miraculous gifts of the Holy Spirit
 			</original>
@@ -514,7 +514,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				
 			</original>

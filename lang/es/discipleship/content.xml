@@ -18,7 +18,7 @@
 		<translated>
 			Introducción: Mateo 28:18 - 20
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Introduction:
 			</original>
@@ -26,7 +26,7 @@
 				Introducción:
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-28-18-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-18-20">
 			<original>
 				Matthew 28:18-20
 			</original>
@@ -52,7 +52,7 @@
 		<translated>
 			¿Cuál es la palabra más común — discípulo ó cristiano? La palabra "cristiano" aparece solamente 3 veces en el Nuevo Testamento. Fue el nombre que el mundo le dio a los discípulos, siete años después de comenzar la Iglesia (Hechos 11:19-26). La palabra "discípulo" aparece más que 270 veces en el Nuevo Testamento.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-11-19-26.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-11-19-26">
 			<original>
 				Acts 11:19-26
 			</original>
@@ -96,7 +96,7 @@
 		<translated>
 			Marcos 1:14-18
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/mark-1-14-18.html">
+		<change bold="true" italic="false" modal="true" scripturekey="mark-1-14-18">
 			<original>
 				Mark 1:14-18
 			</original>
@@ -149,7 +149,7 @@
 		<translated>
 			Lucas 9:23-26
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/luke-9-23-26.html">
+		<change bold="true" italic="false" modal="true" scripturekey="luke-9-23-26">
 			<original>
 				Luke 9:23-26
 			</original>
@@ -175,7 +175,7 @@
 		<translated>
 			Negarse a si mismo. Observa a Jesús en Getsemaní (Mateo 26:36-39) — "...pero que no se haga lo que yo quiero, sino lo que quieres tú." No te dejes llevar por tus emociones.
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-26-36-39.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-26-36-39">
 			<original>
 				Matthew 26:36-39
 			</original>
@@ -210,7 +210,7 @@
 		<translated>
 			Lucas 14:25-33
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/luke-14-25-33.html">
+		<change bold="true" italic="false" modal="true" scripturekey="luke-14-25-33">
 			<original>
 				Luke 14:25-33
 			</original>
@@ -281,7 +281,7 @@
 		<translated>
 			Lucas 11:1-4
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/luke-11-1-4.html">
+		<change bold="true" italic="false" modal="true" scripturekey="luke-11-1-4">
 			<original>
 				Luke 11:1-4
 			</original>
@@ -316,7 +316,7 @@
 		<translated>
 			Juan 13:34-35
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-13-34-35.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-13-34-35">
 			<original>
 				John 13:34-35
 			</original>
@@ -351,7 +351,7 @@
 		<translated>
 			Mateo 28:18-20
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-28-18-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-18-20">
 			<original>
 				Matthew 28:18-20
 			</original>
@@ -566,7 +566,7 @@
 		<translated>
 			Preguntas de Conclusión: ¿Soy un discípulo? ¿Soy un Cristiano? ¿Qué necesito hacer para ser un discipulo?
 		</translated>
-		<change bold="true" italic="false" modal="false" href="">
+		<change bold="true" italic="false" modal="false">
 			<original>
 				Conclusion Question:
 			</original>
@@ -593,7 +593,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				
 			</original>

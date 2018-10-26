@@ -54,7 +54,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/luke-19-10.html">
+		<change bold="true" italic="false" modal="true" scripturekey="luke-19-10">
 			<original>
 				Luke 19:10
 			</original>
@@ -71,7 +71,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/1-timothy-1-15.html">
+		<change bold="true" italic="false" modal="true" scripturekey="1-timothy-1-15">
 			<original>
 				1 Timothy 1:15
 			</original>
@@ -88,7 +88,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-28-19-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-19-20">
 			<original>
 				Matthew 28:19-20
 			</original>
@@ -105,7 +105,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-20-24.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-20-24">
 			<original>
 				Acts 20:24
 			</original>
@@ -149,7 +149,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-15-1-16.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-15-1-16">
 			<original>
 				John 15:1-16
 			</original>
@@ -166,7 +166,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-15.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-15">
 			<original>
 				John 15
 			</original>
@@ -174,7 +174,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-28-19.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-19">
 			<original>
 				Matthew 28:19
 			</original>
@@ -182,7 +182,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/john-15-16.html">
+		<change bold="true" italic="false" modal="true" scripturekey="john-15-16">
 			<original>
 				John 15:16
 			</original>
@@ -217,7 +217,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/matthew-28-20.html">
+		<change bold="true" italic="false" modal="true" scripturekey="matthew-28-20">
 			<original>
 				Matthew 28:20
 			</original>
@@ -243,7 +243,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2-41.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-41">
 			<original>
 				Acts 2:41
 			</original>
@@ -260,7 +260,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-2-47.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-47">
 			<original>
 				Acts 2:47
 			</original>
@@ -277,7 +277,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-4-4.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-4-4">
 			<original>
 				Acts 4:4
 			</original>
@@ -294,7 +294,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-5-14.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-5-14">
 			<original>
 				Acts 5:14
 			</original>
@@ -311,7 +311,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-6-1.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-6-1">
 			<original>
 				Acts 6:1
 			</original>
@@ -328,7 +328,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-6-7.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-6-7">
 			<original>
 				Acts 6:7
 			</original>
@@ -345,7 +345,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-8-4.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-8-4">
 			<original>
 				Acts 8:4
 			</original>
@@ -362,7 +362,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-9-31.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-9-31">
 			<original>
 				Acts 9:31
 			</original>
@@ -379,7 +379,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-11-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-11-21">
 			<original>
 				Acts 11:21
 			</original>
@@ -396,7 +396,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-12-24.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-12-24">
 			<original>
 				Acts 12:24
 			</original>
@@ -413,7 +413,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-13-49.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-13-49">
 			<original>
 				Acts 13:49
 			</original>
@@ -430,7 +430,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-14-1.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-14-1">
 			<original>
 				Acts 14:1
 			</original>
@@ -447,7 +447,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-14-21.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-14-21">
 			<original>
 				Acts 14:21
 			</original>
@@ -464,7 +464,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-16-5.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-16-5">
 			<original>
 				Acts 16:5
 			</original>
@@ -481,7 +481,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-17-4.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-17-4">
 			<original>
 				Acts 17:4
 			</original>
@@ -498,7 +498,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-17-6.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-17-6">
 			<original>
 				Acts 17:6
 			</original>
@@ -515,7 +515,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="scriptures/colossians-1-6-1-23.html">
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-1-6-1-23">
 			<original>
 				Colossians 1:6
 			</original>
@@ -523,7 +523,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/colossians-1-6-1-23.html">
+		<change bold="true" italic="false" modal="true" scripturekey="colossians-1-6-1-23">
 			<original>
 				23
 			</original>
@@ -531,7 +531,7 @@
 				
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="true" href="scriptures/acts-28.html">
+		<change bold="true" italic="false" modal="true" scripturekey="acts-28">
 			<original>
 				Acts 28
 			</original>
@@ -586,7 +586,7 @@
 		<translated>
 			
 		</translated>
-		<change bold="true" italic="false" modal="true" href="">
+		<change bold="true" italic="false" modal="true">
 			<original>
 				
 			</original>
