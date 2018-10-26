@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture key="john-15-18-20-16-1-4" lang="" version="" edition="">
-	<passage title="" book="" book-en="John">
+	<passage title="" book="" title-en="" book-en="John">
 		<chapter number="15" number-en="15">
 			<verse number="18" number-en="18" jesuswords="true">
 				
@@ -14,7 +14,7 @@
 			</verse>
 		</chapter>
 	</passage>
-	<passage title="" book="" book-en="John">
+	<passage title="" book="" title-en="" book-en="John">
 		<chapter number="16" number-en="16">
 			<verse number="1" number-en="1" jesuswords="true">
 				
