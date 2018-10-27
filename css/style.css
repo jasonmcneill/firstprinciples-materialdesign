@@ -24,3 +24,27 @@ audio {
 .fp_pagehead {
 	font-size: 1.2rem;
 }
+
+.scripture {
+  border-top: 1px solid #eee;
+}
+
+.scripture > div:nth-child(1) {
+  padding: 5px 10px 0 0;
+}
+
+div.verseref {
+  position: relative;
+}
+
+div.verseref > span {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 8px 6px 4px 6px;
+  margin: inherit inherit inherit 10px;
+  font-weight: 600;
+  font-size: .8rem;
+  background-color: #eee;
+  border-radius: 0 0 4px 4px;
+}

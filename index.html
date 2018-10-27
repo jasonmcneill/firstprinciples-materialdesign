@@ -11,8 +11,8 @@
   <body>
 
     <nav>
-      <div class="nav-wrapper">
-      <a href="#!" class="brand-logo">First Principles</a>
+      <div class="nav-wrapper blue darken-3">
+      <a href="#!" class="brand-logo center">First Principles</a>
       <a href="#" data-target="sidenav1" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </nav>
     <ul class="sidenav" id="sidenav1">
@@ -29,13 +29,47 @@
     	</div>
     </nav>
 
-    <div class="fp_pagecontent"></div>
+    <div class="container">
+      <div class="fp_pagecontent"></div>
+    </div>
+
 
     <!--  Scripts -->
     <script src="/js/jquery-2.1.1.min.js"></script>
     <script src="/js/localforage.min.js"></script>
     <script src="/js/materialize.min.js"></script>
-    <script src="/js/main.js"></script>
+    <!-- <script src="/js/main.js"></script> -->
+
+    <script>
+      $(document).ready(function($){
+        M.AutoInit();
+        const lang = navigator.languages[0].substr(0,2) || navigator.browser_language.substr(0,2);
+        const scripturekey = '1-corinthians-1-10-13';
+        $.ajax({
+          url: 'lang/' + lang + '/scriptures/' + scripturekey + '/content.xml'
+        }).error(function(err){
+          console.error(err);
+        }).success(function(data){          
+          let html = '<br>';
+          const pageTitle = $(data).find('passage').attr('title');
+          const verses = $(data).find('verse');
+          for(let i=0; i<verses.length; i++) {
+            let num = $(verses[i]).attr('number');
+            let txt = $(verses[i]).html().trim();
+            html += `
+              <div class="row scripture">
+                <div class="col s11">${txt}</div>
+                <div class="col s1 right-align verseref">
+                  <span class="verseref">${num}</span>
+                </div>
+              </div>
+            `;
+          };
+          $('.fp_pagehead').text(pageTitle);
+          $('.fp_pagecontent').html(html);
+        });
+      })
+    </script>
 
   </body>
 </html>
