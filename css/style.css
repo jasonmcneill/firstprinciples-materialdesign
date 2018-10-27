@@ -49,17 +49,17 @@ div.verseref > span {
   border-radius: 0 0 4px 4px;
 }
 
-.scripture-expand {
+.scripture_expand {
   margin-top: 2rem;
 }
 
-.scripture-expand a {
+.scripture_expand a {
   font-size: 1.2rem;
   font-style: italic;
   text-transform: capitalize;
 }
 
-.scripture-expand i {
+.scripture_expand i {
   font-size: 1.0rem;
   text-transform: none;
 }
