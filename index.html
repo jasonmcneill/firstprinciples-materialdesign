@@ -55,8 +55,8 @@
           const verses = $(data).find('verse');
           const version = $(data).find('scripture').attr('version');
           for(let i=0; i<verses.length; i++) {
-            let num = $(verses[i]).attr('number');
-            let txt = $(verses[i]).html().trim();
+            const num = $(verses[i]).attr('number');
+            const txt = $(verses[i]).html().trim();
             html += `
               <div class="row scripture">
                 <div class="col s11">${txt}</div>
