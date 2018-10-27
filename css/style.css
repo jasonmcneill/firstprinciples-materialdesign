@@ -48,3 +48,18 @@ div.verseref > span {
   background-color: #eee;
   border-radius: 0 0 4px 4px;
 }
+
+.scripture-expand {
+  margin-top: 2rem;
+}
+
+.scripture-expand a {
+  font-size: 1.2rem;
+  font-style: italic;
+  text-transform: capitalize;
+}
+
+.scripture-expand i {
+  font-size: 1.0rem;
+  text-transform: none;
+}
