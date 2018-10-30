@@ -3,7 +3,10 @@
 <scripture key="acts-1-1-2-47" lang="es" version="nvi" edition="2015">
 	<passage title="Hechos 1-2" book="Hechos" title-en="Acts 1-2" book-en="Acts">
 		<chapter number="1" number-en="1">
-			<verse number="1" number-en="1" heading="Jesús llevado al cielo">
+			<verse number="1" number-en="1">
+				<heading>
+					Jesús llevado al cielo
+				</heading>
 				Estimado Teófilo, en mi primer libro me referí a todo lo que Jesús comenzó a hacer y enseñar
 			</verse>
 			<verse number="2" number-en="2">
@@ -40,7 +43,10 @@
 			<verse number="11" number-en="11">
 				—Galileos, ¿qué hacen aquí mirando al cielo? Este mismo Jesús, que ha sido llevado de entre ustedes al cielo, vendrá otra vez de la misma manera que lo han visto irse.
 			</verse>
-			<verse number="12" number-en="12" heading="Elección de Matías para reemplazar a Judas">
+			<verse number="12" number-en="12">
+				<heading>
+					Elección de Matías para reemplazar a Judas
+				</heading>
 				Entonces regresaron a Jerusalén desde el monte llamado de los Olivos, situado aproximadamente a un kilómetro de la ciudad.
 			</verse>
 			<verse number="13" number-en="13">
@@ -94,7 +100,10 @@
 			</verse>
 		</chapter>
 		<chapter number="2" number-en="2">
-			<verse number="1" number-en="1" heading="El Espíritu Santo desciende en Pentecostés">
+			<verse number="1" number-en="1">
+				<heading>
+					El Espíritu Santo desciende en Pentecostés
+				</heading>
 				Cuando llegó el día de Pentecostés, estaban todos juntos en el mismo lugar.
 			</verse>
 			<verse number="2" number-en="2">
@@ -133,7 +142,10 @@
 			<verse number="13" number-en="13">
 				Otros se burlaban y decían: «Lo que pasa es que están borrachos».
 			</verse>
-			<verse number="14" number-en="14" heading="Pedro se dirige a la multitud">
+			<verse number="14" number-en="14">
+				<heading>
+					Pedro se dirige a la multitud
+				</heading>
 				Entonces Pedro, con los once, se puso de pie y dijo a voz en cuello: «Compatriotas judíos y todos ustedes que están en Jerusalén, déjenme explicarles lo que sucede; presten atención a lo que les voy a decir. 
 			</verse>
 			<verse number="15" number-en="15">
@@ -240,7 +252,10 @@
 
 				—¡Sálvense de esta generación perversa!
 			</verse>
-			<verse number="41" number-en="41" heading="La comunidad de los creyentes">
+			<verse number="41" number-en="41">
+				<heading>
+					La comunidad de los creyentes
+				</heading>
 				Así, pues, los que recibieron su mensaje fueron bautizados, y aquel día se unieron a la iglesia unas tres mil personas.
 			</verse>
 			<verse number="42" number-en="42">
@@ -269,7 +284,9 @@
 			<verse number="" number-en="">
 				
 			</verse>
-			<verse heading="true">
-				Heading text
+			<verse number="" number-en="">
+				<heading>
+					Heading text
+				</heading>
 			</verse>
 -->

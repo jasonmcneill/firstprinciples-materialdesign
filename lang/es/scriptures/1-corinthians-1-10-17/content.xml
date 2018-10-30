@@ -3,7 +3,10 @@
 <scripture key="1-corinthians-1-10-17" lang="es" version="nvi" edition="2015">
 	<passage title="1 Corintios 1:10-17" book="1 Corintios" title-en="1 Corinthians 1:10-17" book-en="1 Corinthians">
 		<chapter number="1" number-en="1">
-			<verse number="10" number-en="10" heading="Divisiones en la iglesia">
+			<verse number="10" number-en="10">
+				<heading>
+					Divisiones en la iglesia
+				</heading>
 				Les suplico, hermanos, en el nombre de nuestro Señor Jesucristo, que todos vivan en armonía y que no haya divisiones entre ustedes, sino que se mantengan unidos en un mismo pensar y en un mismo propósito. 
 			</verse>
 			<verse number="11" number-en="11">
@@ -35,7 +38,9 @@
 			<verse number="" number-en="">
 				
 			</verse>
-			<verse heading="true">
-				Heading text
+			<verse number="" number-en="">
+				<heading>
+					Heading text
+				</heading>
 			</verse>
 -->

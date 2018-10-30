@@ -101,7 +101,9 @@
 			<verse number="" number-en="">
 				
 			</verse>
-			<verse heading="true">
-				Heading text
+			<verse number="" number-en="">
+				<heading>
+					Heading text
+				</heading>
 			</verse>
 -->

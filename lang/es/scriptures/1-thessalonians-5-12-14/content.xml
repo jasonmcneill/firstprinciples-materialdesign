@@ -3,7 +3,10 @@
 <scripture key="1-thessalonians-5-12-14" lang="es" version="nvi" edition="2015">
 	<passage title="1 Tesalonicenses 5:12-14" book="1 Tesalonicenses" title-en="1 Thessalonians 5:12-14" book-en="1 Thessalonians">
 		<chapter number="5" number-en="5">
-			<verse number="12" number-en="12" heading="Instrucciones finales">
+			<verse number="12" number-en="12">
+				<heading>
+					Instrucciones finales
+				</heading>
 				Hermanos, les pedimos que sean considerados con los que trabajan arduamente entre ustedes, y los guían y amonestan en el Señor. 
 			</verse>
 			<verse number="13" number-en="13">
@@ -20,7 +23,9 @@
 			<verse number="" number-en="">
 				
 			</verse>
-			<verse heading="true">
-				Heading text
+			<verse number="" number-en="">
+				<heading>
+					Heading text
+				</heading>
 			</verse>
 -->

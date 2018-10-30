@@ -3,7 +3,10 @@
 <scripture key="1-peter-4-12-16" lang="es" version="nvi" edition="2015">
 	<passage title="1 Pedro 4:12-16" book="1 Pedro" title-en="1 Peter 4:12-16" book-en="1 Peter">
 		<chapter number="4" number-en="4">
-			<verse number="12" number-en="12" heading="Sufriendo por seguir a Cristo">
+			<verse number="12" number-en="12">
+				<heading>
+					Sufriendo por seguir a Cristo
+				</heading>
 				Queridos hermanos, no se extrañen del fuego de la prueba que están soportando, como si fuera algo insólito.
 			</verse>
 			<verse number="13" number-en="13">
@@ -26,7 +29,9 @@
 			<verse number="" number-en="">
 				
 			</verse>
-			<verse heading="true">
-				Heading text
+			<verse number="" number-en="">
+				<heading>
+					Heading text
+				</heading>
 			</verse>
 -->

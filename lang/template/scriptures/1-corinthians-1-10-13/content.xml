@@ -20,7 +20,9 @@
 </scripture>
 
 <!--
-<verse heading="true">
-	Heading text
-</verse>
+			<verse number="" number-en="">
+				<heading>
+					Heading text
+				</heading>
+			</verse>
 -->
