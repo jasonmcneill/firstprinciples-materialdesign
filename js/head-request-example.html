@@ -1,0 +1,75 @@
+<!doctype html>
+
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	<title>Test</title>
+</head>
+<body>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/localforage/1.7.3/localforage.min.js"></script>
+<script type="text/javascript">
+<!--
+
+jQuery(document).ready(function($){
+	var env;
+	var envs = {
+		local: {
+			baseUrl: "http://localhost:" + location.port + "/"
+		},
+		staging: {
+			baseUrl: "https://staging.usd21.org/fp/"
+		},
+		prod: {
+			baseUrl: "https://usd21.org/fp/"
+		}
+	};
+	var keys = [
+		{key: "cat1", url: "images/cat1.jpg"}
+	];
+	switch(location.hostname){
+		case "localhost":
+			env = envs.local;
+			break;
+		case "staging.usd21.org":
+			env = envs.staging;
+			break;
+		case "usd21.org":
+			env = envs.prod;
+			break;
+	}
+	function store(keyObj){
+		$.ajax({
+			url: env.baseUrl + keyObj.url,
+			type: "HEAD",
+			timeout: 6000,
+			cache: false,
+			error: function(err){
+				console.error(err);
+			},
+			success: function(res, code, xhr){
+				let headObj = {
+					key: keyObj.key,
+					url: env.baseUrl + keyObj.url,
+					modified: xhr.getResponseHeader("Last-Modified") || "",
+					length: xhr.getResponseHeader("Content-Length") || "",
+					type: xhr.getResponseHeader("Content-Type") || "",
+					date: xhr.getResponseHeader("Date") || ""
+				};
+				localforage.setItem(keyObj.key + "__head", headObj);
+			}
+		});
+	}
+	keys.map(function(keyObj){
+		store(keyObj);
+	});
+});
+
+//-->
+</script>
+
+</body>
+</html>
