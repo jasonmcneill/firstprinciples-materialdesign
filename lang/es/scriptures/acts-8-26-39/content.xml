@@ -1,49 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture key="acts-8-26-39" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Acts 8:26-39" book-en="Acts">
+	<passage title="Hechos 8:26-39" book="Hechos" title-en="Acts 8:26-39" book-en="Acts">
 		<chapter number="8" number-en="8">
 			<verse number="26" number-en="26">
-				
+				<heading>
+					Felipe y el etíope
+				</heading>
+				Un ángel del Señor le dijo a Felipe: «Ponte en marcha hacia el sur, por el camino del desierto que baja de Jerusalén a Gaza».
 			</verse>
 			<verse number="27" number-en="27">
-				
+				Felipe emprendió el viaje, y resulta que se encontró con un etíope eunuco, alto funcionario encargado de todo el tesoro de la Candace, reina de los etíopes. Este había ido a Jerusalén para adorar
 			</verse>
 			<verse number="28" number-en="28">
-				
+				y, en el viaje de regreso a su país, iba sentado en su carroza, leyendo el libro del profeta Isaías.
 			</verse>
 			<verse number="29" number-en="29">
-				
+				El Espíritu le dijo a Felipe: «Acércate y júntate a ese carro».
 			</verse>
 			<verse number="30" number-en="30">
-				
+				Felipe se acercó de prisa a la carroza y, al oír que el hombre leía al profeta Isaías, le preguntó:
+
+				—¿Acaso entiende usted lo que está leyendo?
 			</verse>
 			<verse number="31" number-en="31">
-				
+				—¿Y cómo voy a entenderlo —contestó— si nadie me lo explica?
+
+				Así que invitó a Felipe a subir y sentarse con él.
 			</verse>
 			<verse number="32" number-en="32" scripturequote="true">
-				
+				El pasaje de la Escritura que estaba leyendo era el siguiente:
+
+				«Como oveja, fue llevado al matadero;
+			    y como cordero que enmudece ante su trasquilador,
+			    ni siquiera abrió su boca.
 			</verse>
 			<verse number="33" number-en="33" scripturequote="true">
-				
+				Lo humillaron y no le hicieron justicia.
+			    ¿Quién describirá su descendencia?
+			    Porque su vida fue arrancada de la tierra».
 			</verse>
 			<verse number="34" number-en="34">
-				
+				—Dígame usted, por favor, ¿de quién habla aquí el profeta, de sí mismo o de algún otro? —le preguntó el eunuco a Felipe.
 			</verse>
 			<verse number="35" number-en="35">
-				
+				Entonces Felipe, comenzando con ese mismo pasaje de la Escritura, le anunció las buenas nuevas acerca de Jesús.
 			</verse>
 			<verse number="36" number-en="36">
-				
+				Mientras iban por el camino, llegaron a un lugar donde había agua, y dijo el eunuco:
+
+				—Mire usted, aquí hay agua. ¿Qué impide que yo sea bautizado?
 			</verse>
 			<verse number="37" number-en="37">
 				
 			</verse>
 			<verse number="38" number-en="38">
-				
+				Entonces mandó parar la carroza, y ambos bajaron al agua, y Felipe lo bautizó.
 			</verse>
 			<verse number="39" number-en="39">
-				
+				Cuando subieron del agua, el Espíritu del Señor se llevó de repente a Felipe. El eunuco no volvió a verlo, pero siguió alegre su camino.
 			</verse>
 		</chapter>
 	</passage>

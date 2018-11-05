@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture key="colossians-3-18-21" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Colossians 3:18-21" book-en="Colossians">
+	<passage title="Colosenses 3:18-21" book="Colosenses" title-en="Colossians 3:18-21" book-en="Colossians">
 		<chapter number="3" number-en="3">
 			<verse number="18" number-en="18">
-				
+				<heading>
+					Normas para la familia cristiana
+				</heading>
+				Esposas, sométanse a sus esposos, como conviene en el Señor.
 			</verse>
 			<verse number="19" number-en="19">
-				
+				Esposos, amen a sus esposas y no sean duros con ellas.
 			</verse>
 			<verse number="20" number-en="20">
-				
+				Hijos, obedezcan a sus padres en todo, porque esto agrada al Señor.
 			</verse>
 			<verse number="21" number-en="21">
-				
+				Padres, no exasperen a sus hijos, no sea que se desanimen.
 			</verse>
 		</chapter>
 	</passage>

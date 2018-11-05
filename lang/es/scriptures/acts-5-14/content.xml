@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture key="acts-5-14" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Acts 5:14" book-en="Acts">
+	<passage title="Hechos 5:14" book="Hechos" title-en="Acts 5:14" book-en="Acts">
 		<chapter number="5" number-en="5">
 			<verse number="14" number-en="14">
-				
+				Y seguía aumentando el número de los que confiaban en el Señor.
 			</verse>
 		</chapter>
 	</passage>

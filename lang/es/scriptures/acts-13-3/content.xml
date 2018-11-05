@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture key="acts-13-3" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Acts 13:3" book-en="Acts">
+	<passage title="Hechos 13:3" book="Hechos" title-en="Acts 13:3" book-en="Acts">
 		<chapter number="13" number-en="13">
 			<verse number="3" number-en="3">
-				
+				Así que después de ayunar, orar e imponerles las manos, los despidieron.
 			</verse>
 		</chapter>
 	</passage>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 <scripture key="acts-11-25-26" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Acts 11:25-26" book-en="Acts">
+	<passage title="Hechos 11:25-26" book="Hechos" title-en="Acts 11:25-26" book-en="Acts">
 		<chapter number="11" number-en="11">
 			<verse number="25" number-en="25">
-				
+				Después partió Bernabé para Tarso en busca de Saulo,
 			</verse>
 			<verse number="26" number-en="26">
-				
+				y, cuando lo encontró, lo llevó a Antioquía. Durante todo un año se reunieron los dos con la iglesia y enseñaron a mucha gente. Fue en Antioquía donde a los discípulos se les llamó «cristianos» por primera vez.
 			</verse>
 		</chapter>
 	</passage>
