@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="colossians-1-15-18" lang="en" version="niv" edition="1984">
 	<passage title="Colossians 1:15-18" book="Colossians" book-en="Colossians">
 		<chapter number="1" number-en="1">
 			<verse number="15" number-en="15">
+				<heading>
+					The Supremacy of Christ
+				</heading>
 				He is the image of the invisible God, the firstborn over all creation.
 			</verse>
 			<verse number="16" number-en="16">

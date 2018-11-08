@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="colossians-3-1-4" lang="en" version="niv" edition="1984">
 	<passage title="Colossians 3:1-4" book="Colossians" book-en="Colossians">
 		<chapter number="3" number-en="3">
 			<verse number="1" number-en="1">
+				<heading>
+					Rules for Holy Living
+				</heading>
 				Since, then, you have been raised with Christ, set your hearts on things above, where Christ is seated at the right hand of God.
 			</verse>
 			<verse number="2" number-en="2">

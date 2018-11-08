@@ -1,22 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="matthew-9-2-6" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Matthew 9:2-6" book-en="Matthew">
+	<passage title="Mateo 9:2-6" book="Mateo" title-en="Matthew 9:2-6" book-en="Matthew">
 		<chapter number="9" number-en="9">
 			<verse number="2" number-en="2" jesuswords="true">
-				
+				Unos hombres le llevaron un paralítico, acostado en una camilla. Al ver Jesús la fe de ellos, le dijo al paralítico:
+
+				—¡Ánimo, hijo; tus pecados quedan perdonados!
 			</verse>
 			<verse number="3" number-en="3">
-				
+				Algunos de los maestros de la ley murmuraron entre ellos: «¡Este hombre blasfema!»
 			</verse>
 			<verse number="4" number-en="4" jesuswords="true">
-				
+				Como Jesús conocía sus pensamientos, les dijo:
+
+				—¿Por qué dan lugar a tan malos pensamientos?
 			</verse>
 			<verse number="5" number-en="5" jesuswords="true">
-				
+				¿Qué es más fácil, decir: “Tus pecados quedan perdonados”, o decir: “Levántate y anda”?
 			</verse>
 			<verse number="6" number-en="6" jesuswords="true">
-				
+				Pues para que sepan que el Hijo del hombre tiene autoridad en la tierra para perdonar pecados —se dirigió entonces al paralítico—: Levántate, toma tu camilla y vete a tu casa.
 			</verse>
 		</chapter>
 	</passage>

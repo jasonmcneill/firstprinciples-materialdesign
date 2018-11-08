@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="matthew-27-46" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Matthew 27:46" book-en="Matthew">
+	<passage title="Mateo 27:46" book="Mateo" title-en="Matthew 27:46" book-en="Matthew">
 		<chapter number="27" number-en="27">
 			<verse number="46" number-en="46" jesuswords="true">
-				
+				Como a las tres de la tarde, Jesús gritó con fuerza:
+
+				—Elí, Elí, ¿lama sabactani? (que significa: “Dios mío, Dios mío, ¿por qué me has desamparado?”).
 			</verse>
 		</chapter>
 	</passage>

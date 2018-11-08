@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="acts-19-1-6" lang="en" version="niv" edition="1984">
 	<passage title="Acts 19:1-6" book="Acts" book-en="Acts">
 		<chapter number="19" number-en="19">
 			<verse number="1" number-en="1">
+				<heading>
+					Paul in Ephesus
+				</heading>
 				While Apollos was at Corinth, Paul took the road through the interior and arrived at Ephesus. There he found some disciples
 			</verse>
 			<verse number="2" number-en="2">

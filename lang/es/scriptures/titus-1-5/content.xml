@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="titus-1-5" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Titus 1:5" book-en="Titus">
+	<passage title="Tito 1:5" book="Tito" title-en="Titus 1:5" book-en="Titus">
 		<chapter number="1" number-en="1">
 			<verse number="5" number-en="5">
-				
+				<heading>
+					Tarea de Tito en Creta
+				</heading>
+				Te dejé en Creta para que pusieras en orden lo que quedaba por hacer y en cada pueblo nombraras ancianos de la iglesia, de acuerdo con las instrucciones que te di.s
 			</verse>
 		</chapter>
 	</passage>

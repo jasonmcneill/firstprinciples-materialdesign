@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="matthew-18-15-17" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Matthew 18:15-17" book-en="Matthew">
+	<passage title="Mateo 18:15-17" book="Mateo" title-en="Matthew 18:15-17" book-en="Matthew">
 		<chapter number="18" number-en="18">
 			<verse number="15" number-en="15" jesuswords="true">
-				
+				<heading>
+					El hermano que peca contra ti
+				</heading>
+				»Si tu hermano peca contra ti, ve a solas con él y hazle ver su falta. Si te hace caso, has ganado a tu hermano.
 			</verse>
 			<verse number="16" number-en="16" jesuswords="true" scripturequote="true">
-				
+				Pero, si no, lleva contigo a uno o dos más, para que “todo asunto se resuelva mediante el testimonio de dos o tres testigos”.
 			</verse>
 			<verse number="17" number-en="17" jesuswords="true">
-				
+				Si se niega a hacerles caso a ellos, díselo a la iglesia; y, si incluso a la iglesia no le hace caso, trátalo como si fuera un incrédulo o un renegado.
 			</verse>
 		</chapter>
 	</passage>

@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="acts-11-1-18" lang="en" version="niv" edition="1984">
 	<passage title="Acts 11:1-18" book="Acts" book-en="Acts">
 		<chapter number="11" number-en="11">
 			<verse number="1" number-en="1">
+				<heading>
+					Peter Explains His Actions
+				</heading>
 				The apostles and the brothers throughout Judea heard that the Gentiles also had received the word of God.
 			</verse>
 			<verse number="2" number-en="2">

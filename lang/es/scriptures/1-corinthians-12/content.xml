@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="1-corinthians-12" lang="es" version="nvi" edition="2015">
 	<passage title="1 Corintios 12" book="1 Corintios" title-en="1 Corinthians 12" book-en="1 Corinthians">
@@ -97,7 +97,14 @@
 				¿Son todos apóstoles? ¿Son todos profetas? ¿Son todos maestros? ¿Hacen todos milagros?
 			</verse>
 			<verse number="30" number-en="30">
-				¿Tienen todos dones para sanar enfermos? ¿Hablan todos en lenguas? ¿Acaso interpretan todos? 31 Ustedes, por su parte, ambicionen los mejores dones. Ahora les voy a mostrar un camino más excelente.
+				¿Tienen todos dones para sanar enfermos? ¿Hablan todos en lenguas? ¿Acaso interpretan todos?
+			</verse>
+			<verse number="31" number-en="31">
+				Ustedes, por su parte, ambicionen los mejores dones.
+				<heading>
+					El amor
+				</heading>
+				Ahora les voy a mostrar un camino más excelente.
 			</verse>
 		</chapter>
 	</passage>

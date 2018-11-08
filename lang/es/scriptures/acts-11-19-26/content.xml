@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="acts-11-19-26" lang="es" version="nvi" edition="2015">
 	<passage title="Hechos 11:19-26" book="Hechos" title-en="Acts 11:19-26" book-en="Acts">
 		<chapter number="11" number-en="11">
 			<verse number="19" number-en="19">
-				<header>
+				<heading>
 					La iglesia en Antioquía
-				</header>
+				</heading>
 				Los que se habían dispersado a causa de la persecución que se desató por el caso de Esteban llegaron hasta Fenicia, Chipre y Antioquía, sin anunciar a nadie el mensaje excepto a los judíos.
 			</verse>
 			<verse number="20" number-en="20">

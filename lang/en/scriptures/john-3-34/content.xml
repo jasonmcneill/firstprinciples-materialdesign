@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="john-3-34" lang="en" version="niv" edition="1984">
 	<passage title="John 3:34" book="John" book-en="John">
 		<chapter number="3" number-en="3">
-			<verse number="34" number-en="34" jesuswords="true">
-				<span class="jesuswords">A new command I give you: Love one another. As I have loved you, so you must love one another.</span>
+			<verse number="34" number-en="34">
+				For the one whom God has sent speaks the words of God, for God gives the Spirit without limit.
 			</verse>
 		</chapter>
 	</passage>

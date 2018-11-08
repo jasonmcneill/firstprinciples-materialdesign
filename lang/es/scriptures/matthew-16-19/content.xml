@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="matthew-16-19" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Matthew 16:19" book-en="Matthew">
+	<passage title="Mateo 16:19" book="Mateo" title-en="Matthew 16:19" book-en="Matthew">
 		<chapter number="16" number-en="16">
 			<verse number="19" number-en="19" jesuswords="true">
-				
+				Te daré las llaves del reino de los cielos; todo lo que ates en la tierra quedará atado en el cielo, y todo lo que desates en la tierra quedará desatado en el cielo.
 			</verse>
 		</chapter>
 	</passage>

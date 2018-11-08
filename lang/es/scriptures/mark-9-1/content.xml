@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="mark-9-1" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Mark 9:1" book-en="Mark">
+	<passage title="Marcos 9:1" book="Marcos" title-en="Mark 9:1" book-en="Mark">
 		<chapter number="9" number-en="9">
 			<verse number="1" number-en="1" jesuswords="true">
-				
+				Y añadió:
+
+				—Les aseguro que algunos de los aquí presentes no sufrirán la muerte sin antes haber visto el reino de Dios llegar con poder.
 			</verse>
 		</chapter>
 	</passage>

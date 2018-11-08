@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="1-thessalonians-5-12-14" lang="en" version="niv" edition="1984">
 	<passage title="1 Thessalonians 5:12-14" book="1 Thessalonians" book-en="1 Thessalonians">
 		<chapter number="5" number-en="5">
 			<verse number="12" number-en="12">
+				<heading>
+					Final Instructions
+				</heading>
 				Now we ask you, brothers, to respect those who work hard among you, who are over you in the Lord and who admonish you.
 			</verse>
 			<verse number="13" number-en="13">

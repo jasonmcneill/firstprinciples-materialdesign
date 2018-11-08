@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="acts-10" lang="en" version="niv" edition="1984">
 	<passage title="Acts 10" book="Acts" book-en="Acts">
 		<chapter number="10" number-en="10">
 			<verse number="1" number-en="1">
+				<heading>
+					Cornelius Calls for Peter
+				</heading>
 				At Caesarea there was a man named Cornelius, a centurion in what was known as the Italian Regiment.
 			</verse>
 			<verse number="2" number-en="2">
@@ -28,6 +31,9 @@
 				He told them everything that had happened and sent them to Joppa.
 			</verse>
 			<verse number="9" number-en="9">
+				<heading>
+					Peter's Vision
+				</heading>
 				About noon the following day as they were on their journey and approaching the city, Peter went up on the roof to pray.
 			</verse>
 			<verse number="10" number-en="10">
@@ -70,7 +76,11 @@
 				The men replied, "We have come from Cornelius the centurion. He is a righteous and God-fearing man, who is respected by all the Jewish people. A holy angel told him to have you come to his house so that he could hear what you have to say."
 			</verse>
 			<verse number="23" number-en="23">
-				Then Peter invited the men into the house to be his guests. The next day Peter started out with them, and some of the brothers from Joppa went along.
+				Then Peter invited the men into the house to be his guests. 
+				<heading>
+					Peter at Cornelius' House
+				</heading>
+				The next day Peter started out with them, and some of the brothers from Joppa went along.
 			</verse>
 			<verse number="24" number-en="24">
 				The following day he arrived in Caesarea. Cornelius was expecting them and had called together his relatives and close friends.

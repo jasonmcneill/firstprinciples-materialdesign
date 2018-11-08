@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="acts-8-4" lang="en" version="niv" edition="1984">
 	<passage title="Acts 8:4" book="Acts" book-en="Acts">
 		<chapter number="8" number-en="8">
 			<verse number="4" number-en="4">
+				<heading>
+					Philip in Samaria
+				</heading>
 				Those who had been scattered preached the word wherever they went.
 			</verse>
 		</chapter>

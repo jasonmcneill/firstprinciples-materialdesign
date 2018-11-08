@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="acts-1-12-14" lang="en" version="niv" edition="1984">
 	<passage title="Acts 1:12-14" book="Acts" book-en="Acts">
 		<chapter number="1" number-en="1">
 			<verse number="12" number-en="12">
+				<heading>
+					Matthias Chosen to Replace Judas
+				</heading>
 				Then they returned to Jerusalem from the hill called the Mount of Olives, a Sabbath day's walk from the city.
 			</verse>
 			<verse number="13" number-en="13">

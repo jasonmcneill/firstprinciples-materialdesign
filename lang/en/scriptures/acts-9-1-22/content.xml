@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="acts-9-1-22" lang="en" version="niv" edition="1984">
 	<passage title="Acts 9:1-22" book="Acts" book-en="Acts">
 		<chapter number="9" number-en="9">
 			<verse number="1" number-en="1">
+				<heading>
+					Saul's Conversion
+				</heading>
 				Meanwhile, Saul was still breathing out murderous threats against the Lord's disciples. He went to the high priest
 			</verse>
 			<verse number="2" number-en="2">
@@ -58,7 +61,11 @@
 				Immediately, something like scales fell from Saul's eyes, and he could see again. He got up and was baptized,
 			</verse>
 			<verse number="19" number-en="19">
-				and after taking some food, he regained his strength. Saul spent several days with the disciples in Damascus.
+				and after taking some food, he regained his strength. 
+				<heading>
+					Saul in Damascus and Jerusalem
+				</heading>
+				Saul spent several days with the disciples in Damascus.
 			</verse>
 			<verse number="20" number-en="20">
 				At once he began to preach in the synagogues that Jesus is the Son of God.

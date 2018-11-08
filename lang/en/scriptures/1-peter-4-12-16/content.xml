@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="1-peter-4-12-16" lang="en" version="niv" edition="1984">
 	<passage title="1 Peter 4:12-16" book="1 Peter" book-en="1 Peter">
 		<chapter number="4" number-en="4">
 			<verse number="12" number-en="12">
+				<heading>
+					Suffering for Being a Christian
+				</heading>
 				Dear friends, do not be surprised at the painful trial you are suffering, as though something strange were happening to you.
 			</verse>
 			<verse number="13" number-en="13">

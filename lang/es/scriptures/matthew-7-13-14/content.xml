@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="matthew-7-13-14" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Matthew 7:13-14" book-en="Matthew">
+	<passage title="Mateo 7:13-14" book="Mateo" title-en="Matthew 7:13-14" book-en="Matthew">
 		<chapter number="7" number-en="7">
 			<verse number="13" number-en="13" jesuswords="true">
-				
+				<heading>
+					La puerta estrecha y la puerta ancha
+				</heading>
+				»Entren por la puerta estrecha. Porque es ancha la puerta y espacioso el camino que conduce a la destrucción, y muchos entran por ella.
 			</verse>
 			<verse number="14" number-en="14" jesuswords="true">
-				
+				Pero estrecha es la puerta y angosto el camino que conduce a la vida, y son pocos los que la encuentran.
 			</verse>
 		</chapter>
 	</passage>

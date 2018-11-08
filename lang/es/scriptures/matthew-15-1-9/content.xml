@@ -1,34 +1,41 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="matthew-15-1-9" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Matthew 15:1-9" book-en="Matthew">
+	<passage title="Mateo 15:1-9" book="Mateo" title-en="Matthew 15:1-9" book-en="Matthew">
 		<chapter number="15" number-en="15">
 			<verse number="1" number-en="1">
-				
+				<heading>
+					Lo limpio y lo impuro
+				</heading>
+				Se acercaron a Jesús algunos fariseos y maestros de la ley que habían llegado de Jerusalén, y le preguntaron:
 			</verse>
 			<verse number="2" number-en="2">
-				
+				—¿Por qué quebrantan tus discípulos la tradición de los ancianos? ¡Comen sin cumplir primero el rito de lavarse las manos!
 			</verse>
 			<verse number="3" number-en="3" jesuswords="true">
-				
+				Jesús les contestó:
+
+				—¿Y por qué ustedes quebrantan el mandamiento de Dios a causa de la tradición?
 			</verse>
 			<verse number="4" number-en="4" jesuswords="true" scripturequote="true">
-				
+				Dios dijo: “Honra a tu padre y a tu madre”, y también: “El que maldiga a su padre o a su madre será condenado a muerte”.
 			</verse>
 			<verse number="5" number-en="5" jesuswords="true">
-				
+				Ustedes, en cambio, enseñan que un hijo puede decir a su padre o a su madre: “Cualquier ayuda que pudiera darte ya la he dedicado como ofrenda a Dios”.
 			</verse>
 			<verse number="6" number-en="6" jesuswords="true">
-				
+				En ese caso, el tal hijo no tiene que honrar a su padre. Así por causa de la tradición anulan ustedes la palabra de Dios.
 			</verse>
 			<verse number="7" number-en="7" jesuswords="true">
-				
+				¡Hipócritas! Tenía razón Isaías cuando profetizó de ustedes:
 			</verse>
 			<verse number="8" number-en="8" jesuswords="true" scripturequote="true">
-				
+				»“Este pueblo me honra con los labios,
+    			pero su corazón está lejos de mí.
 			</verse>
 			<verse number="9" number-en="9" jesuswords="true" scripturequote="true">
-				
+				En vano me adoran;
+    			sus enseñanzas no son más que reglas humanas”».
 			</verse>
 		</chapter>
 	</passage>

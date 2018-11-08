@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="acts-8-26-39" lang="en" version="niv" edition="1984">
 	<passage title="Acts 8:26-39" book="Acts" book-en="Acts">
 		<chapter number="8" number-en="8">
 			<verse number="26" number-en="26">
+				<heading>
+					Philip and the Ethiopian
+				</heading>
 				Now an angel of the Lord said to Philip, "Go south to the road — the desert road — that goes down from Jerusalem to Gaza."
 			</verse>
 			<verse number="27" number-en="27">

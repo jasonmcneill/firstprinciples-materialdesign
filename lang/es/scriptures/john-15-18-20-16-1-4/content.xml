@@ -1,32 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="john-15-18-20-16-1-4" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="John 15:18-20" book-en="John">
+	<passage title="Juan 15:18-20" book="Juan" title-en="John 15:18-20" book-en="John">
 		<chapter number="15" number-en="15">
 			<verse number="18" number-en="18" jesuswords="true">
-				
+				<heading>
+					Jesús y sus discípulos aborrecidos por el mundo
+				</heading>
+				»Si el mundo los aborrece, tengan presente que antes que a ustedes, me aborreció a mí.
 			</verse>
 			<verse number="19" number-en="19" jesuswords="true">
-				
+				Si fueran del mundo, el mundo los amaría como a los suyos. Pero ustedes no son del mundo, sino que yo los he escogido de entre el mundo. Por eso el mundo los aborrece.
 			</verse>
 			<verse number="20" number-en="20" jesuswords="true">
-				
+				Recuerden lo que les dije: “Ningún siervo es más que su amo”. Si a mí me han perseguido, también a ustedes los perseguirán. Si han obedecido mis enseñanzas, también obedecerán las de ustedes.
 			</verse>
 		</chapter>
 	</passage>
-	<passage title="" book="" title-en="John 16:1-4" book-en="John">
+	<passage title="Juan 16:1-4" book="Juan" title-en="John 16:1-4" book-en="John">
 		<chapter number="16" number-en="16">
 			<verse number="1" number-en="1" jesuswords="true">
-				
+				»Todo esto les he dicho para que no flaquee su fe.
 			</verse>
 			<verse number="2" number-en="2" jesuswords="true">
-				
+				Los expulsarán de las sinagogas; y hasta viene el día en que cualquiera que los mate pensará que le está prestando un servicio a Dios.
 			</verse>
 			<verse number="3" number-en="3" jesuswords="true">
-				
+				Actuarán de este modo porque no nos han conocido ni al Padre ni a mí.
 			</verse>
 			<verse number="4" number-en="4" jesuswords="true">
-				
+				Y les digo esto para que cuando llegue ese día se acuerden de que ya se lo había advertido. Sin embargo, no les dije esto al principio porque yo estaba con ustedes.
 			</verse>
 		</chapter>
 	</passage>

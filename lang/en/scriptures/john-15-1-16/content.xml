@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="john-15-1-16" lang="en" version="niv" edition="1984">
 	<passage title="John 1-16" book="John" book-en="John">
 		<chapter number="15" number-en="15">
 			<verse number="1" number-en="1" jesuswords="true">
+				<heading>
+					The Vine and the Branches
+				</heading>
 				<span class="jesuswords">I am the true vine, and my Father is the gardener.</span>
 			</verse>
 			<verse number="2" number-en="2" jesuswords="true">

@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="matthew-5-10-12" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Matthew 5:10-12" book-en="Matthew">
+	<passage title="Mateo 5:10-12" book="Mateo" title-en="Matthew 5:10-12" book-en="Matthew">
 		<chapter number="5" number-en="5">
 			<verse number="10" number-en="10" jesuswords="true">
-				
+				Dichosos los perseguidos por causa de la justicia,
+    			porque el reino de los cielos les pertenece.
 			</verse>
 			<verse number="11" number-en="11" jesuswords="true">
-				
+				»Dichosos serán ustedes cuando por mi causa la gente los insulte, los persiga y levante contra ustedes toda clase de calumnias.
 			</verse>
 			<verse number="12" number-en="12" jesuswords="true">
-				
+				Alégrense y llénense de júbilo, porque les espera una gran recompensa en el cielo. Así también persiguieron a los profetas que los precedieron a ustedes.
 			</verse>
 		</chapter>
 	</passage>

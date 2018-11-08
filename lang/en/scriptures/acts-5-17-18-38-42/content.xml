@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="acts-5-17-18-38-42" lang="en" version="niv" edition="1984">
 	<passage title="Acts 5:17-18" book="Acts" book-en="Acts">
 		<chapter number="5" number-en="5">
 			<verse number="17" number-en="17">
+				<heading>
+					The Apostles Persecuted
+				</heading>
 				Then the high priest and all his associates, who were members of the party of the Sadducees, were filled with jealousy.
 			</verse>
 			<verse number="18" number-en="18">

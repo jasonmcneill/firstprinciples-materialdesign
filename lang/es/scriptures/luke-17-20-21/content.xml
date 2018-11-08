@@ -1,13 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="luke-17-20-21" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Luke 17:20-21" book-en="Luke">
+	<passage title="Lucas 17:20-21" book="Lucas" title-en="Luke 17:20-21" book-en="Luke">
 		<chapter number="17" number-en="17">
 			<verse number="20" number-en="20" jesuswords="true">
-				
+				<heading>
+					La venida del reino de Dios
+				</heading>
+				Los fariseos le preguntaron a Jesús cuándo iba a venir el reino de Dios, y él les respondió:
+
+				—La venida del reino de Dios no se puede someter a cálculos.
 			</verse>
 			<verse number="21" number-en="21" jesuswords="true">
-				
+				No van a decir: “¡Mírenlo acá! ¡Mírenlo allá!” Dense cuenta de que el reino de Dios está entre ustedes.
 			</verse>
 		</chapter>
 	</passage>

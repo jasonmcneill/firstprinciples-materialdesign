@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="1-corinthians-14" lang="en" version="niv" edition="1984">
 	<passage title="1 Corinthians 14" book="1 Corinthians" book-en="1 Corinthians">
 		<chapter number="14" number-en="14">
 			<verse number="1" number-en="1">
+				<heading>
+					Gifts of Prophecy and Tongues
+				</heading>
 				Follow the way of love and eagerly desire spiritual gifts, especially the gift of prophecy.
 			</verse>
 			<verse number="2" number-en="2">
@@ -79,6 +82,9 @@
 				and the secrets of his heart will be laid bare. So he will fall down and worship God, exclaiming, "God is really among you!""
 			</verse>
 			<verse number="26" number-en="26">
+				<heading>
+					Orderly Worship
+				</heading>
 				What then shall we say, brothers? When you come together, everyone has a hymn, or a word of instruction, a revelation, a tongue or an interpretation. All of these must be done for the strengthening of the church.
 			</verse>
 			<verse number="27" number-en="27">

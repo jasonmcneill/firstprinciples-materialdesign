@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="luke-9-1" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Luke 9:1" book-en="Luke">
+	<passage title="Lucas 9:1" book="Lucas" title-en="Luke 9:1" book-en="Luke">
 		<chapter number="9" number-en="9">
 			<verse number="1" number-en="1">
-				
+				<heading>
+					Jesús envía a los doce
+				</heading>
+				Habiendo reunido a los doce, Jesús les dio poder y autoridad para expulsar a todos los demonios y para sanar enfermedades.
 			</verse>
 		</chapter>
 	</passage>

@@ -1,19 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="matthew-26-36-39" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Matthew 26:36-39" book-en="Matthew">
+	<passage title="Mateo 26:36-39" book="Mateo" title-en="Matthew 26:36-39" book-en="Matthew">
 		<chapter number="26" number-en="26">
 			<verse number="36" number-en="36" jesuswords="true">
-				
+				<heading>
+					Jesús en Getsemaní
+				</heading>
+				Luego fue Jesús con sus discípulos a un lugar llamado Getsemaní, y les dijo: «Siéntense aquí mientras voy más allá a orar».
 			</verse>
 			<verse number="37" number-en="37">
-				
+				Se llevó a Pedro y a los dos hijos de Zebedeo, y comenzó a sentirse triste y angustiado.
 			</verse>
 			<verse number="38" number-en="38" jesuswords="true">
-				
+				«Es tal la angustia que me invade, que me siento morir —les dijo—. Quédense aquí y manténganse despiertos conmigo».
 			</verse>
 			<verse number="39" number-en="39" jesuswords="true">
-				
+				Yendo un poco más allá, se postró sobre su rostro y oró: «Padre mío, si es posible, no me hagas beber este trago amargo. Pero no sea lo que yo quiero, sino lo que quieres tú».
 			</verse>
 		</chapter>
 	</passage>

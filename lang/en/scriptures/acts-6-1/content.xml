@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="acts-6-1" lang="en" version="niv" edition="1984">
 	<passage title="Acts 6:1" book="Acts" book-en="Acts">
 		<chapter number="6" number-en="6">
 			<verse number="1" number-en="1">
+				<heading>
+					The Choosing of the Seven
+				</heading>
 				In those days when the number of disciples was increasing, the Grecian Jews among them complained against the Hebraic Jews because their widows were being overlooked in the daily distribution of food.
 			</verse>
 		</chapter>

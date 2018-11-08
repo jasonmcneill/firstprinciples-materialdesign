@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="acts-1-1-2-47" lang="en" version="niv" edition="1984">
 	<passage title="Acts 1:1 - 2:47" book="Acts" book-en="Acts">
 		<chapter number="1" number-en="1">
 			<verse number="1" number-en="1">
+				<heading>
+					Jesus Taken Up Into Heaven
+				</heading>
 				In my former book, Theophilus, I wrote about all that Jesus began to do and to teach
 			</verse>
 			<verse number="2" number-en="2">
@@ -37,6 +40,9 @@
 				"Men of Galilee," they said, "why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen him go into heaven."
 			</verse>
 			<verse number="12" number-en="12">
+				<heading>
+					Matthias Chosen to Replace Judas
+				</heading>
 				Then they returned to Jerusalem from the hill called the Mount of Olives, a Sabbath day's walk from the city.
 			</verse>
 			<verse number="13" number-en="13">
@@ -84,6 +90,9 @@
 		</chapter>
 		<chapter number="2" number-en="2">
 			<verse number="1" number-en="1">
+				<heading>
+					The Holy Spirit Comes at Pentecost
+				</heading>
 				When the day of Pentecost came, they were all together in one place.
 			</verse>
 			<verse number="2" number-en="2">
@@ -123,6 +132,9 @@
 				Some, however, made fun of them and said, "They have had too much wine."
 			</verse>
 			<verse number="14" number-en="14">
+				<heading>
+					Peter Addresses the Crowd
+				</heading>
 				Then Peter stood up with the Eleven, raised his voice and addressed the crowd: "Fellow Jews and all of you who live in Jerusalem, let me explain this to you; listen carefully to what I say.
 			</verse>
 			<verse number="15" number-en="15">
@@ -207,6 +219,9 @@
 				Those who accepted his message were baptized, and about three thousand were added to their number that day.
 			</verse>
 			<verse number="42" number-en="42">
+				<heading>
+					The Fellowship of the Believers
+				</heading>
 				They devoted themselves to the apostles' teaching and to the fellowship, to the breaking of bread and to prayer.
 			</verse>
 			<verse number="43" number-en="43">

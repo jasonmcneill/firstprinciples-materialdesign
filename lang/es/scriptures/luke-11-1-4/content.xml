@@ -1,19 +1,32 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="luke-11-1-4" lang="es" version="nvi" edition="2015">
-	<passage title="" book="" title-en="Luke 11:1-4" book-en="Luke">
+	<passage title="Lucas 11:1-4" book="Lucas" title-en="Luke 11:1-4" book-en="Luke">
 		<chapter number="11" number-en="11">
 			<verse number="1" number-en="1">
-				
+				<heading>
+					Jesús enseña sobre la oración
+				</heading>
+				Un día estaba Jesús orando en cierto lugar. Cuando terminó, le dijo uno de sus discípulos:
+
+				—Señor, enséñanos a orar, así como Juan enseñó a sus discípulos.
 			</verse>
 			<verse number="2" number-en="2" jesuswords="true">
-				
+				Él les dijo:
+
+				—Cuando oren, digan:
+
+					»“Padre,
+					santificado sea tu nombre.
+					Venga tu reino.
 			</verse>
 			<verse number="3" number-en="3" jesuswords="true">
-				
+				Danos cada día nuestro pan cotidiano.
 			</verse>
 			<verse number="4" number-en="4" jesuswords="true">
-				
+				Perdónanos nuestros pecados,
+    			porque también nosotros perdonamos a todos los que nos ofenden.
+				Y no nos metas en tentación”.
 			</verse>
 		</chapter>
 	</passage>

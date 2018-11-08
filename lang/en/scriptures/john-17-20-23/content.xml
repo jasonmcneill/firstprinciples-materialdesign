@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="john-17-20-23" lang="en" version="niv" edition="1984">
 	<passage title="John 17:20-23" book="John" book-en="John">
 		<chapter number="17" number-en="17">
 			<verse number="20" number-en="20" jesuswords="true">
+				<heading>
+					Jesus Prays for All Believers
+				</heading>
 				<span class="jesuswords">My prayer is not for them alone. I pray also for those who will believe in me through their message,</span>
 			</verse>
 			<verse number="21" number-en="21" jesuswords="true">

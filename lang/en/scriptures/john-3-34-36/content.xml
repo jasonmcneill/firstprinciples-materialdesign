@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="john-3-34-36" lang="en" version="niv" edition="1984">
-	<passage title="John 13:34-36" book="John" book-en="John">
+	<passage title="John 3:34-36" book="John" book-en="John">
 		<chapter number="3" number-en="3">
-			<verse number="34" number-en="34" jesuswords="true">
-				"<span class="jesuswords">A new command I give you: Love one another. As I have loved you, so you must love one another.</span>
+			<verse number="34" number-en="34">
+				For the one whom God has sent speaks the words of God, for God gives the Spirit without limit.
 			</verse>
-			<verse number="35" number-en="35" jesuswords="true">
-				<span class="jesuswords">By this all men will know that you are my disciples, if you love one another.</span>"
+			<verse number="35" number-en="35">
+				The Father loves the Son and has placed everything in his hands.
 			</verse>
-			<verse number="36" number-en="36" jesuswords="true">
-				Simon Peter asked him, "Lord, where are you going?" Jesus replied, "<span class="jesuswords">Where I am going, you cannot follow now, but you will follow later.</span>"
+			<verse number="36" number-en="36">
+				Whoever believes in teh Son has eternal life, but whoever rejects the Son will not see life, for God's wrath remains on him.
 			</verse>
 		</chapter>
 	</passage>
