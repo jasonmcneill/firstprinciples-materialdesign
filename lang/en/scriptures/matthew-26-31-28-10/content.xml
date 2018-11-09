@@ -4,6 +4,9 @@
 	<passage title="Matthew 26:31 - 28:10" book="Matthew" book-en="Matthew">
 		<chapter number="26" number-en="26">
 			<verse number="31" number-en="31" jesuswords="true" scripturequote="true">
+				<heading>
+					Jesus Predicts Peter's Denial
+				</heading>
 				Then Jesus told them, "<span class="jesuswords">This very night you will all fall away on account of me, for it is written: <span class="scripturequote">'I will strike the shepherd, and the sheep of the flock will be scattered.'</span></span>
 			</verse>
 			<verse number="32" number-en="32" jesuswords="true">
@@ -19,6 +22,9 @@
 				But Peter declared, "Even if I have to die with you, I will never disown you." And all the other disciples said the same.
 			</verse>
 			<verse number="36" number-en="36" jesuswords="true">
+				<heading>
+					Gethsemane
+				</heading>
 				Then Jesus went with his disciples to a place called Gethsemane, and he said to them, "<span class="jesuswords">Sit here while I go over there and pray.</span>"
 			</verse>
 			<verse number="37" number-en="37">
@@ -52,6 +58,9 @@
 				<span class="jesuswords">Rise, let us go! Here comes my betrayer!</span>"
 			</verse>
 			<verse number="47" number-en="47">
+				<heading>
+					Jesus Arrested
+				</heading>
 				While he was still speaking, Judas, one of the Twelve, arrived. With him was a large crowd armed with swords and clubs, sent from the chief priests and the elders of the people.
 			</verse>
 			<verse number="48" number-en="48">
@@ -82,6 +91,9 @@
 				<span class="jesuswords">But this has all taken place that the writings of the prophets might be fulfilled.</span>" Then all the disciples deserted him and fled.
 			</verse>
 			<verse number="57" number-en="57">
+				<heading>
+					Before the Sanhedrin
+				</heading>
 				Those who had arrested Jesus took him to Caiaphas, the high priest, where the teachers of the law and the elders had assembled.
 			</verse>
 			<verse number="58" number-en="58">
@@ -118,6 +130,9 @@
 				and said, "Prophesy to us, Christ. Who hit you?"
 			</verse>
 			<verse number="69" number-en="69">
+				<heading>
+					Peter Disowns Jesus
+				</heading>
 				Now Peter was sitting out in the courtyard, and a servant girl came to him. "You also were with Jesus of Galilee," she said.
 			</verse>
 			<verse number="70" number-en="70">
@@ -141,6 +156,9 @@
 		</chapter>
 		<chapter number="27" number-en="27">
 			<verse number="1" number-en="1">
+				<heading>
+					Judas Hangs Himself
+				</heading>
 				Early in the morning, all the chief priests and the elders of the people came to the decision to put Jesus to death.
 			</verse>
 			<verse number="2" number-en="2">
@@ -171,6 +189,9 @@
 				and they used them to buy the potter's field, as the Lord commanded me."
 			</verse>
 			<verse number="11" number-en="11" jesuswords="true">
+				<heading>
+					Jesus Before Pilate
+				</heading>
 				Meanwhile Jesus stood before the governor, and the governor asked him, "Are you the king of the Jews?" "<span class="jesuswords">Yes, it is as you say,</span>" Jesus replied.
 			</verse>
 			<verse number="12" number-en="12">
@@ -219,6 +240,9 @@
 				Then he released Barabbas to them. But he had Jesus flogged, and handed him over to be crucified.
 			</verse>
 			<verse number="27" number-en="27">
+				<heading>
+					The Soldiers Mock Jesus
+				</heading>
 				Then the governor's soldiers took Jesus into the Praetorium and gathered the whole company of soldiers around him.
 			</verse>
 			<verse number="28" number-en="28">
@@ -234,6 +258,9 @@
 				After they had mocked him, they took off the robe and put his own clothes on him. Then they led him away to crucify him.
 			</verse>
 			<verse number="32" number-en="32">
+				<heading>
+					The Crucifixion
+				</heading>
 				As they were going out, they met a man from Cyrene, named Simon, and they forced him to carry the cross.
 			</verse>
 			<verse number="33" number-en="33">
@@ -273,6 +300,9 @@
 				In the same way the robbers who were crucified with him also heaped insults on him.
 			</verse>
 			<verse number="45" number-en="45">
+				<heading>
+					The Death of Jesus
+				</heading>
 				From the sixth hour until the ninth hour darkness came over all the land.
 			</verse>
 			<verse number="46" number-en="46" jesuswords="true">
@@ -309,6 +339,9 @@
 				Among them were Mary Magdalene, Mary the mother of James and Joses, and the mother of Zebedee's sons.
 			</verse>
 			<verse number="57" number-en="57">
+				<heading>
+					The Burial of Jesus
+				</heading>
 				As evening approached, there came a rich man from Arimathea, named Joseph, who had himself become a disciple of Jesus.
 			</verse>
 			<verse number="58" number-en="58">
@@ -324,6 +357,9 @@
 				Mary Magdalene and the other Mary were sitting there opposite the tomb.
 			</verse>
 			<verse number="62" number-en="62">
+				<heading>
+					The Guard at the Tomb
+				</heading>
 				The next day, the one after Preparation Day, the chief priests and the Pharisees went to Pilate.
 			</verse>
 			<verse number="63" number-en="63">
@@ -341,6 +377,9 @@
 		</chapter>
 		<chapter number="28" number-en="28">
 			<verse number="1" number-en="1">
+				<heading>
+					The Resurrection
+				</heading>
 				After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.
 			</verse>
 			<verse number="2" number-en="2">
