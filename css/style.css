@@ -10,6 +10,19 @@ body {
   overscroll-behavior-y: contain;
 }
 
+span.jesuswords {
+  color: #cc0000; 
+}
+
+span.scripturequote {
+  color: #333;
+  display: inline-block;
+  width: 90%;
+  border-left: 4px solid #999;
+  margin-left: 10%;
+  padding-left: 1.5rem;
+}
+
 .container.main,
 .container-fluid.main {
   padding-bottom: 3rem;

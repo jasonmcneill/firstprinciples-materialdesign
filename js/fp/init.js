@@ -1,6 +1,6 @@
 fp.init = function() {
   fp.language.global.renderTitle();
-  fp.scripture.renderScripture('1-corinthians-1-10-13');
+  fp.scripture.renderScripture('acts-1-1-2-47');
 };
 
 fp.init();
