@@ -6,6 +6,15 @@
  * Made By MaterializeCSS.com
  */
 
+body {
+  overscroll-behavior-y: contain;
+}
+
+.container.main,
+.container-fluid.main {
+  padding-bottom: 3rem;
+}
+
 .icon-block {
   padding: 0 15px;
 }
@@ -62,4 +71,10 @@ div.verseref > span {
 .scripture_expand i {
   font-size: 1.0rem;
   text-transform: none;
+}
+
+.scripture-heading {
+  margin-top: 0;
+  font-weight: bold;
+  font-style: italic;
 }

@@ -1,18 +1,19 @@
 <!doctype html>
 <html>
   <head>
-    <title>Template</title>
+    <title></title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit: cover">
+    <meta name="google" content="notranslate">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link type="text/css" rel="stylesheet" href="/css/materialize.min.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="/css/materialize.min.css"  media="screen,projection">
     <link type="text/css" rel="stylesheet" href="/css/style.css" media="screen,projection">
   </head>
   <body>
 
     <nav>
       <div class="nav-wrapper blue darken-3">
-      <a href="#!" class="brand-logo center">First Principles</a>
+      <a href="#!" class="brand-logo center">FP</a>
       <a href="#" data-target="sidenav1" class="sidenav-trigger"><i class="material-icons">menu</i></a>
     </nav>
     <ul class="sidenav" id="sidenav1">
@@ -23,61 +24,25 @@
     </ul>
     <nav class="light-blue darken-1" role="name">
     	<div class="nav-wrapper container">
-    		<div class="center flow-text fp_pagehead">
-    			Page Title
-    		</div>
+    		<div class="center flow-text fp_pagehead"></div>
     	</div>
     </nav>
 
-    <div class="container">
+    <div class="container main">
       <div class="fp_pagecontent"></div>
     </div>
 
 
     <!--  Scripts -->
-    <script src="/js/jquery-2.1.1.min.js"></script>
-    <script src="/js/localforage.min.js"></script>
-    <script src="/js/materialize.min.js"></script>
-    <!-- <script src="/js/main.js"></script> -->
-
+    <script src="js/jquery-2.1.1.min.js"></script>
+    <script src="js/localforage.min.js"></script>
+    <script src="js/materialize.min.js"></script>
+    <script src="js/fp/main.js"></script>
+    <script src="js/fp/language.js"></script>
+    <script src="js/fp/scripture.js"></script>
+    <script src="js/fp/init.js"></script>
     <script>
-      $(document).ready(function($){
-        M.AutoInit();
-        const lang = 'es';
-        const scripturekey = '1-corinthians-1-10-13';
-        $.ajax({
-          url: 'lang/' + lang + '/scriptures/' + scripturekey + '/content.xml'
-        }).error(function(err){
-          console.error(err);
-        }).success(function(data){
-          let html = '<br>';
-          const pageTitle = $(data).find('passage').attr('title');
-          const verses = $(data).find('verse');
-          const version = $(data).find('scripture').attr('version');
-          for(let i=0; i<verses.length; i++) {
-            const num = $(verses[i]).attr('number');
-            const txt = $(verses[i]).html().trim();
-            html += `
-              <div class="row scripture">
-                <div class="col s11">${txt}</div>
-                <div class="col s1 right-align verseref">
-                  <span class="verseref">${num}</span>
-                </div>
-              </div>
-            `;
-          };
-          html += `
-            <div class="right-align scripture_expand">
-              <a href="http://www.biblegateway.com/passage/?search=${encodeURI(pageTitle)}&version=${version}" class="btn light-blue lighten-1 waves-effect waves-light">
-                  Expand 
-                  <i class="material-icons">keyboard_arrow_right</i>
-              </a>
-            </div>
-          `;
-          $('.fp_pagehead').text(pageTitle);
-          $('.fp_pagecontent').html(html);
-        });
-      })
+      M.AutoInit();
     </script>
 
   </body>

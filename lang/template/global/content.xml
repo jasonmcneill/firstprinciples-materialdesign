@@ -2,6 +2,24 @@
 
 <content key="global" lang-original="en" lang-translated="" last-updated="2018-09-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
+	<phrase id="1" desc="App title">
+		<original>
+			First Principles
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+	
+	<phrase id="2" desc="Expand button.  This is shown in a scripture.">
+		<original>
+			Expand
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+	
 	<!--
 	<phrase id="" desc="">
 		<original>
