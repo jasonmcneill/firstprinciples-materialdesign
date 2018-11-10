@@ -4,9 +4,9 @@
 	<passage title="Hechos 8:26-39" book="Hechos" title-en="Acts 8:26-39" book-en="Acts">
 		<chapter number="8" number-en="8">
 			<verse number="26" number-en="26">
-				<heading>
+				<p class="scripture-heading">
 					Felipe y el etíope
-				</heading>
+				</p>
 				Un ángel del Señor le dijo a Felipe: «Ponte en marcha hacia el sur, por el camino del desierto que baja de Jerusalén a Gaza».
 			</verse>
 			<verse number="27" number-en="27">
@@ -69,8 +69,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

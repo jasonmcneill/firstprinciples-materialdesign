@@ -4,9 +4,9 @@
 	<passage title="Mateo 7:7-8" book="Mateo" title-en="Matthew 7:7-8" book-en="Matthew">
 		<chapter number="7" number-en="7">
 			<verse number="7" number-en="7" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Pidan, busquen, llamen
-				</heading>
+				</p>
 				»Pidan, y se les dará; busquen, y encontrarán; llamen, y se les abrirá.
 			</verse>
 			<verse number="8" number-en="8" jesuswords="true">
@@ -21,8 +21,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

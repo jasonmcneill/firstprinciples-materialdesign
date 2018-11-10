@@ -4,9 +4,9 @@
 	<passage title="Acts 5:17-18" book="Acts" book-en="Acts">
 		<chapter number="5" number-en="5">
 			<verse number="17" number-en="17">
-				<heading>
+				<p class="scripture-heading">
 					The Apostles Persecuted
-				</heading>
+				</p>
 				Then the high priest and all his associates, who were members of the party of the Sadducees, were filled with jealousy.
 			</verse>
 			<verse number="18" number-en="18">
@@ -40,8 +40,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

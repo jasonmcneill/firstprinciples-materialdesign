@@ -4,9 +4,9 @@
 	<passage title="Matthew 6:25-34" book="Matthew" book-en="Matthew">
 		<chapter number="6" number-en="6">
 			<verse number="25" number-en="25" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Do Not Worry
-				</heading>
+				</p>
 				<span class="jesuswords">Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more important than food, and the body more important than clothes?</span>
 			</verse>
 			<verse number="26" number-en="26" jesuswords="true">
@@ -45,8 +45,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

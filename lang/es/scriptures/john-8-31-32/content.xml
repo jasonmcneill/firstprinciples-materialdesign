@@ -4,9 +4,9 @@
 	<passage title="Juan 8:31-32" book="Juan" title-en="John 8:31-32" book-en="John">
 		<chapter number="8" number-en="8">
 			<verse number="31" number-en="31" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Los hijos de Abraham
-				</heading>
+				</p>
 				Jesús se dirigió entonces a los judíos que habían creído en él, y les dijo:
 
 				—Si se mantienen fieles a mis enseñanzas, serán realmente mis discípulos;
@@ -23,8 +23,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

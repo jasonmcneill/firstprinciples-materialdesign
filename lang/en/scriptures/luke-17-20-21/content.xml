@@ -4,9 +4,9 @@
 	<passage title="Luke 17:20-21" book="Luke" book-en="Luke">
 		<chapter number="17" number-en="17">
 			<verse number="20" number-en="20" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					The Coming of the Kingdom of God
-				</heading>
+				</p>
 				Once, having been asked by the Pharisees when the kingdom of God would come, Jesus replied, "<span class="jesuswords">The kingdom of God does not come with your careful observation,</span>
 			</verse>
 			<verse number="21" number-en="21" jesuswords="true">
@@ -21,8 +21,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

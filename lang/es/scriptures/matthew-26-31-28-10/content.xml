@@ -4,9 +4,9 @@
 	<passage title="Mateo 26:31-28:10" book="Mateo" title-en="Matthew 26:31 - 28:10" book-en="Matthew">
 		<chapter number="26" number-en="26">
 			<verse number="31" number-en="31" jesuswords="true" scripturequote="true">
-				<heading>
+				<p class="scripture-heading">
 					Jesús predice la negación de Pedro
-				</heading>
+				</p>
 				—Esta misma noche —les dijo Jesús— todos ustedes me abandonarán, porque está escrito:
 
 				»“Heriré al pastor,
@@ -27,9 +27,9 @@
 				Y los demás discípulos dijeron lo mismo.
 			</verse>
 			<verse number="36" number-en="36" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Jesús en Getsemaní
-				</heading>
+				</p>
 				Luego fue Jesús con sus discípulos a un lugar llamado Getsemaní, y les dijo: «Siéntense aquí mientras voy más allá a orar».
 			</verse>
 			<verse number="37" number-en="37">
@@ -63,9 +63,9 @@
 				¡Levántense! ¡Vámonos! ¡Ahí viene el que me traiciona!»
 			</verse>
 			<verse number="47" number-en="47">
-				<heading>
+				<p class="scripture-heading">
 					Arresto de Jesús
-				</heading>
+				</p>
 				Todavía estaba hablando Jesús cuando llegó Judas, uno de los doce. Lo acompañaba una gran turba armada con espadas y palos, enviada por los jefes de los sacerdotes y los ancianos del pueblo.
 			</verse>
 			<verse number="48" number-en="48">
@@ -104,9 +104,9 @@
 				Entonces todos los discípulos lo abandonaron y huyeron.
 			</verse>
 			<verse number="57" number-en="57">
-				<heading>
+				<p class="scripture-heading">
 					Jesús ante el Consejo
-				</heading>
+				</p>
 				Los que habían arrestado a Jesús lo llevaron ante Caifás, el sumo sacerdote, donde se habían reunido los maestros de la ley y los ancianos.
 			</verse>
 			<verse number="58" number-en="58">
@@ -155,9 +155,9 @@
 				—A ver, Cristo, ¡adivina quién te pegó!
 			</verse>
 			<verse number="69" number-en="69">
-				<heading>
+				<p class="scripture-heading">
 					Pedro niega a Jesús
-				</heading>
+				</p>
 				Mientras tanto, Pedro estaba sentado afuera, en el patio, y una criada se le acercó.
 
 				—Tú también estabas con Jesús de Galilea —le dijo.
@@ -195,9 +195,9 @@
 		</chapter>
 		<chapter number="27" number-en="27">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Judas se ahorca
-				</heading>
+				</p>
 				Muy de mañana, todos los jefes de los sacerdotes y los ancianos del pueblo tomaron la decisión de condenar a muerte a Jesús.
 			</verse>
 			<verse number="2" number-en="2">
@@ -230,9 +230,9 @@
 				y con ellas compraron el campo del alfarero, como me ordenó el Señor».
 			</verse>
 			<verse number="11" number-en="11" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Jesús ante Pilato
-				</heading>
+				</p>
 				Mientras tanto, Jesús compareció ante el gobernador, y este le preguntó:
 
 				—¿Eres tú el rey de los judíos?
@@ -295,9 +295,9 @@
 				Entonces les soltó a Barrabás; pero a Jesús lo mandó azotar, y lo entregó para que lo crucificaran.
 			</verse>
 			<verse number="27" number-en="27">
-				<heading>
+				<p class="scripture-heading">
 					Los soldados se burlan de Jesús
-				</heading>
+				</p>
 				Los soldados del gobernador llevaron a Jesús al palacio y reunieron a toda la tropa alrededor de él.
 			</verse>
 			<verse number="28" number-en="28">
@@ -315,9 +315,9 @@
 				Después de burlarse de él, le quitaron el manto, le pusieron su propia ropa y se lo llevaron para crucificarlo.
 			</verse>
 			<verse number="32" number-en="32">
-				<heading>
+				<p class="scripture-heading">
 					La crucifixión
-				</heading>
+				</p>
 				Al salir encontraron a un hombre de Cirene que se llamaba Simón, y lo obligaron a llevar la cruz.
 			</verse>
 			<verse number="33" number-en="33">
@@ -357,9 +357,9 @@
 				Así también lo insultaban los bandidos que estaban crucificados con él.
 			</verse>
 			<verse number="45" number-en="45">
-				<heading>
+				<p class="scripture-heading">
 					Muerte de Jesús
-				</heading>
+				</p>
 				Desde el mediodía y hasta la media tarde toda la tierra quedó en oscuridad.
 			</verse>
 			<verse number="46" number-en="46" jesuswords="true">
@@ -404,9 +404,9 @@
 				Entre ellas se encontraban María Magdalena, María la madre de Jacobo y de José, y la madre de los hijos de Zebedeo.
 			</verse>
 			<verse number="57" number-en="57">
-				<heading>
+				<p class="scripture-heading">
 					Sepultura de Jesús
-				</heading>
+				</p>
 				Al atardecer, llegó un hombre rico de Arimatea, llamado José, que también se había convertido en discípulo de Jesús.
 			</verse>
 			<verse number="58" number-en="58">
@@ -422,9 +422,9 @@
 				Allí estaban, sentadas frente al sepulcro, María Magdalena y la otra María.
 			</verse>
 			<verse number="62" number-en="62">
-				<heading>
+				<p class="scripture-heading">
 					La guardia ante el sepulcro
-				</heading>
+				</p>
 				Al día siguiente, después del día de la preparación, los jefes de los sacerdotes y los fariseos se presentaron ante Pilato.
 			</verse>
 			<verse number="63" number-en="63">
@@ -442,9 +442,9 @@
 		</chapter>
 		<chapter number="28" number-en="28">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					La resurrección
-				</heading>
+				</p>
 				Después del sábado, al amanecer del primer día de la semana, María Magdalena y la otra María fueron a ver el sepulcro.
 			</verse>
 			<verse number="2" number-en="2">
@@ -485,8 +485,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

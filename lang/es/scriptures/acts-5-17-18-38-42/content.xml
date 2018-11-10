@@ -4,9 +4,9 @@
 	<passage title="Hechos 5:17-18" book="Hechos" title-en="Acts 5:17-18" book-en="Acts">
 		<chapter number="5" number-en="5">
 			<verse number="17" number-en="17">
-				<heading>
+				<p class="scripture-heading">
 					Persiguen a los apóstoles
-				</heading>
+				</p>
 				El sumo sacerdote y todos sus partidarios, que pertenecían a la secta de los saduceos, se llenaron de envidia.
 			</verse>
 			<verse number="18" number-en="18">
@@ -42,8 +42,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

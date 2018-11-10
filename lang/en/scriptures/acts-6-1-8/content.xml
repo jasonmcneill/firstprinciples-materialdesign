@@ -4,9 +4,9 @@
 	<passage title="Acts 6:1-8" book="Acts" book-en="Acts">
 		<chapter number="6" number-en="6">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					The Choosing of the Seven
-				</heading>
+				</p>
 				In those days when the number of disciples was increasing, the Grecian Jews among them complained against the Hebraic Jews because their widows were being overlooked in the daily distribution of food.
 			</verse>
 			<verse number="2" number-en="2">
@@ -28,9 +28,9 @@
 				So the word of God spread. The number of disciples in Jerusalem increased rapidly, and a large number of priests became obedient to the faith.
 			</verse>
 			<verse number="8" number-en="8">
-				<heading>
+				<p class="scripture-heading">
 					Stephen Seized
-				</heading>
+				</p>
 				Now Stephen, a man full of God's grace and power, did great wonders and miraculous signs among the people.
 			</verse>
 		</chapter>
@@ -42,8 +42,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

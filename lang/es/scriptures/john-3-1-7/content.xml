@@ -4,9 +4,9 @@
 	<passage title="Juan 3:1-7" book="Juan" title-en="John 3:1-7" book-en="John">
 		<chapter number="3" number-en="3">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Jesús enseña a Nicodemo
-				</heading>
+				</p>
 				Había entre los fariseos un dirigente de los judíos llamado Nicodemo. 
 			</verse>
 			<verse number="2" number-en="2">
@@ -38,8 +38,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

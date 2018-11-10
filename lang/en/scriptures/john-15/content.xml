@@ -4,9 +4,9 @@
 	<passage title="John 15" book="John" book-en="John">
 		<chapter number="15" number-en="15">
 			<verse number="1" number-en="1" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					The Vine and the Branches
-				</heading>
+				</p>
 				<span class="jesuswords">I am the true vine, and my Father is the gardener.</span>
 			</verse>
 			<verse number="2" number-en="2" jesuswords="true">
@@ -58,9 +58,9 @@
 				<span class="jesuswords">This is my command: Love each other.</span>
 			</verse>
 			<verse number="18" number-en="18" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					The World Hates the Disciples
-				</heading>
+				</p>
 				<span class="jesuswords">If the world hates you, keep in mind that it hated me first.</span>
 			</verse>
 			<verse number="19" number-en="19" jesuswords="true">
@@ -99,8 +99,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

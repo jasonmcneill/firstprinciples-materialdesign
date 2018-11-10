@@ -5,9 +5,9 @@
 		<chapter number="8" number-en="8">
 			<verse number="1" number-en="1">
 				And Saul was there, giving approval to his death. 
-				<heading>
+				<p class="scripture-heading">
 					The Church Persecuted and Scattered
-				</heading>
+				</p>
 				On that day a great persecution broke out against the church at Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.
 			</verse>
 			<verse number="2" number-en="2">
@@ -17,9 +17,9 @@
 				But Saul began to destroy the church. Going from house to house, he dragged off men and women and put them in prison.
 			</verse>
 			<verse number="4" number-en="4">
-				<heading>
+				<p class="scripture-heading">
 					Philip in Samaria
-				</heading>
+				</p>
 				Those who had been scattered preached the word wherever they went.
 			</verse>
 			<verse number="5" number-en="5">
@@ -35,9 +35,9 @@
 				So there was great joy in that city.
 			</verse>
 			<verse number="9" number-en="9">
-				<heading>
+				<p class="scripture-heading">
 					Simon the Sorcerer
-				</heading>
+				</p>
 				Now for some time a man named Simon had practiced sorcery in the city and amazed all the people of Samaria. He boasted that he was someone great,
 			</verse>
 			<verse number="10" number-en="10">
@@ -97,8 +97,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

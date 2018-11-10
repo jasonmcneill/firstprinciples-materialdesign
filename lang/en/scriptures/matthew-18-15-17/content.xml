@@ -4,9 +4,9 @@
 	<passage title="Matthew 18:15-17" book="Matthew" book-en="Matthew">
 		<chapter number="18" number-en="18">
 			<verse number="15" number-en="15" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					A Brother Who Sins Against You
-				</heading>
+				</p>
 				<span class="jesuswords">If your brother sins against you, go and show him his fault, just between the two of you. If he listens to you, you have won your brother over.</span>
 			</verse>
 			<verse number="16" number-en="16" jesuswords="true" scripturequote="true">
@@ -24,8 +24,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

@@ -4,9 +4,9 @@
 	<passage title="Hechos 6:1-8" book="Hechos" title-en="Acts 6:1-8" book-en="Acts">
 		<chapter number="6" number-en="6">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Elección de los siete
-				</heading>
+				</p>
 				En aquellos días, al aumentar el número de los discípulos, se quejaron los judíos de habla griega contra los de habla aramea de que sus viudas eran desatendidas en la distribución diaria de los alimentos.
 			</verse>
 			<verse number="2" number-en="2">
@@ -28,9 +28,9 @@
 				Y la palabra de Dios se difundía: el número de los discípulos aumentaba considerablemente en Jerusalén, e incluso muchos de los sacerdotes obedecían a la fe.
 			</verse>
 			<verse number="8" number-en="8">
-				<heading>
+				<p class="scripture-heading">
 					Arresto de Esteban
-				</heading>
+				</p>
 				Esteban, hombre lleno de la gracia y del poder de Dios, hacía grandes prodigios y señales milagrosas entre el pueblo.
 			</verse>
 		</chapter>
@@ -42,8 +42,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

@@ -4,9 +4,9 @@
 	<passage title="2 Corinthians 9:6-8" book="2 Corinthians" book-en="2 Corinthians">
 		<chapter number="9" number-en="9">
 			<verse number="6" number-en="6">
-				<heading>
+				<p class="scripture-heading">
 					Sowing Generously
-				</heading>
+				</p>
 				Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously.
 			</verse>
 			<verse number="7" number-en="7">
@@ -24,8 +24,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

@@ -13,9 +13,9 @@
 				Y todo lo que hagan, de palabra o de obra, háganlo en el nombre del Señor Jesús, dando gracias a Dios el Padre por medio de él.
 			</verse>
 			<verse number="18" number-en="18">
-				<heading>
+				<p class="scripture-heading">
 					Normas para la familia cristiana
-				</heading>
+				</p>
 				Esposas, sométanse a sus esposos, como conviene en el Señor.
 			</verse>
 			<verse number="19" number-en="19">
@@ -45,8 +45,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

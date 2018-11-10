@@ -4,9 +4,9 @@
 	<passage title="Juan 17:20-23" book="Juan" title-en="John 17:20-23" book-en="John">
 		<chapter number="17" number-en="17">
 			<verse number="20" number-en="20" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Jesús ora por todos los creyentes
-				</heading>
+				</p>
 				»No ruego solo por estos. Ruego también por los que han de creer en mí por el mensaje de ellos,
 			</verse>
 			<verse number="21" number-en="21" jesuswords="true">
@@ -27,8 +27,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

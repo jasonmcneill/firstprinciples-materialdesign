@@ -4,9 +4,9 @@
 	<passage title="Acts 9:1-22" book="Acts" book-en="Acts">
 		<chapter number="9" number-en="9">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Saul's Conversion
-				</heading>
+				</p>
 				Meanwhile, Saul was still breathing out murderous threats against the Lord's disciples. He went to the high priest
 			</verse>
 			<verse number="2" number-en="2">
@@ -62,9 +62,9 @@
 			</verse>
 			<verse number="19" number-en="19">
 				and after taking some food, he regained his strength. 
-				<heading>
+				<p class="scripture-heading">
 					Saul in Damascus and Jerusalem
-				</heading>
+				</p>
 				Saul spent several days with the disciples in Damascus.
 			</verse>
 			<verse number="20" number-en="20">
@@ -85,8 +85,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

@@ -4,9 +4,9 @@
 	<passage title="Hechos 10" book="Hechos" title-en="Acts 10" book-en="Acts">
 		<chapter number="10" number-en="10">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Cornelio manda llamar a Pedro
-				</heading>
+				</p>
 				Vivía en Cesarea un centurión llamado Cornelio, del regimiento conocido como el Italiano.
 			</verse>
 			<verse number="2" number-en="2">
@@ -35,9 +35,9 @@
 				Les explicó todo lo que había sucedido y los envió a Jope.
 			</verse>
 			<verse number="9" number-en="9">
-				<heading>
+				<p class="scripture-heading">
 					La visión de Pedro
-				</heading>
+				</p>
 				Al día siguiente, mientras ellos iban de camino y se acercaban a la ciudad, Pedro subió a la azotea a orar. Era casi el mediodía.
 			</verse>
 			<verse number="10" number-en="10">
@@ -87,9 +87,9 @@
 			</verse>
 			<verse number="23" number-en="23">
 				Entonces Pedro los invitó a pasar y los hospedó.
-				<heading>
+				<p class="scripture-heading">
 					Pedro en casa de Cornelio
-				</heading>
+				</p>
 				Al día siguiente, Pedro se fue con ellos acompañado de algunos creyentes de Jope.
 			</verse>
 			<verse number="24" number-en="24">
@@ -187,8 +187,8 @@
 				Heading text
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

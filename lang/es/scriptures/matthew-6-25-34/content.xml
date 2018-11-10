@@ -4,9 +4,9 @@
 	<passage title="Mateo 6:25-34" book="Mateo" title-en="Matthew 6:25-34" book-en="Matthew">
 		<chapter number="6" number-en="6">
 			<verse number="25" number-en="25" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					De nada sirve preocuparse
-				</heading>
+				</p>
 				»Por eso les digo: No se preocupen por su vida, qué comerán o beberán; ni por su cuerpo, cómo se vestirán. ¿No tiene la vida más valor que la comida, y el cuerpo más que la ropa?
 			</verse>
 			<verse number="26" number-en="26" jesuswords="true">
@@ -45,8 +45,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

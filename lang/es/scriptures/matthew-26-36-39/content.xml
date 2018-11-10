@@ -4,9 +4,9 @@
 	<passage title="Mateo 26:36-39" book="Mateo" title-en="Matthew 26:36-39" book-en="Matthew">
 		<chapter number="26" number-en="26">
 			<verse number="36" number-en="36" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Jesús en Getsemaní
-				</heading>
+				</p>
 				Luego fue Jesús con sus discípulos a un lugar llamado Getsemaní, y les dijo: «Siéntense aquí mientras voy más allá a orar».
 			</verse>
 			<verse number="37" number-en="37">
@@ -27,8 +27,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

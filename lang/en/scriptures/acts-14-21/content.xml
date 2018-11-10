@@ -4,9 +4,9 @@
 	<passage title="Acts 14:21" book="Acts" book-en="Acts">
 		<chapter number="14" number-en="14">
 			<verse number="21" number-en="21">
-				<heading>
+				<p class="scripture-heading">
 					The Return to Antioch in Syria
-				</heading>
+				</p>
 				They preached the good news in that city and won a large number of disciples. Then they returned to Lystra, Iconium and Antioch,
 			</verse>
 		</chapter>
@@ -18,8 +18,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

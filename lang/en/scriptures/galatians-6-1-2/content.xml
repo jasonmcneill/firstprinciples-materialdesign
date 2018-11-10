@@ -4,9 +4,9 @@
 	<passage title="Galatians 6:1-2" book="Galatians" book-en="Galatians">
 		<chapter number="6" number-en="6">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Doing Good to All
-				</heading>
+				</p>
 				Brothers, if someone is caught in a sin, you who are spiritual should restore him gently. But watch yourself, or you also may be tempted.
 			</verse>
 			<verse number="2" number-en="2">
@@ -21,8 +21,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

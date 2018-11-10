@@ -4,9 +4,9 @@
 	<passage title="1 Corinthians 1:10-17" book="1 Corinthians" book-en="1 Corinthians">
 		<chapter number="1" number-en="1">
 			<verse number="10" number-en="10">
-				<heading>
+				<p class="scripture-heading">
 					A Church Divided Over Leaders
-				</heading>
+				</p>
 				I appeal to you, brothers, in the name of our Lord Jesus Christ, that all of you agree with one another so that there may be no divisions among you and that you may be perfectly united in mind and thought.
 			</verse>
 			<verse number="11" number-en="11">
@@ -39,8 +39,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

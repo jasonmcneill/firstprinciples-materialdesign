@@ -4,9 +4,9 @@
 	<passage title="Colossians 1:15-18" book="Colossians" book-en="Colossians">
 		<chapter number="1" number-en="1">
 			<verse number="15" number-en="15">
-				<heading>
+				<p class="scripture-heading">
 					The Supremacy of Christ
-				</heading>
+				</p>
 				He is the image of the invisible God, the firstborn over all creation.
 			</verse>
 			<verse number="16" number-en="16">
@@ -27,8 +27,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

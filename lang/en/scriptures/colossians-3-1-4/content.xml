@@ -4,9 +4,9 @@
 	<passage title="Colossians 3:1-4" book="Colossians" book-en="Colossians">
 		<chapter number="3" number-en="3">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Rules for Holy Living
-				</heading>
+				</p>
 				Since, then, you have been raised with Christ, set your hearts on things above, where Christ is seated at the right hand of God.
 			</verse>
 			<verse number="2" number-en="2">
@@ -27,8 +27,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

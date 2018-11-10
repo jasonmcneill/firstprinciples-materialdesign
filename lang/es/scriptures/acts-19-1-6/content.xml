@@ -4,9 +4,9 @@
 	<passage title="Hechos 19:1-6" book="Hechos" title-en="Acts 19:1-6" book-en="Acts">
 		<chapter number="19" number-en="19">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Pablo en Éfeso
-				</heading>
+				</p>
 				Mientras Apolos estaba en Corinto, Pablo recorrió las regiones del interior y llegó a Éfeso. Allí encontró a algunos discípulos.
 			</verse>
 			<verse number="2" number-en="2">
@@ -39,8 +39,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

@@ -4,9 +4,9 @@
 	<passage title="Malachi 3:6-12" book="Malachi" book-en="Malachi">
 		<chapter number="3" number-en="3">
 			<verse number="6" number-en="6">
-				<heading>
+				<p class="scripture-heading">
 					Robbing God
-				</heading>
+				</p>
 				"I the LORD do not change. So you, O descendants of Jacob, are not destroyed.
 			</verse>
 			<verse number="7" number-en="7">
@@ -36,8 +36,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

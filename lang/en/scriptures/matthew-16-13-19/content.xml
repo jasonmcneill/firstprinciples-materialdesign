@@ -4,9 +4,9 @@
 	<passage title="Matthew 16:13-19" book="Matthew" book-en="Matthew">
 		<chapter number="16" number-en="16">
 			<verse number="13" number-en="13" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Peter's Confession of Christ
-				</heading>
+				</p>
 				When Jesus came to the region of Caesarea Philippi, he asked his disciples, "<span class="jesuswords">Who do people say the Son of Man is?</span>"
 			</verse>
 			<verse number="14" number-en="14">
@@ -36,8 +36,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

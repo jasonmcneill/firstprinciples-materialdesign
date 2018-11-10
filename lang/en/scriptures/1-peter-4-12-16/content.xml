@@ -4,9 +4,9 @@
 	<passage title="1 Peter 4:12-16" book="1 Peter" book-en="1 Peter">
 		<chapter number="4" number-en="4">
 			<verse number="12" number-en="12">
-				<heading>
+				<p class="scripture-heading">
 					Suffering for Being a Christian
-				</heading>
+				</p>
 				Dear friends, do not be surprised at the painful trial you are suffering, as though something strange were happening to you.
 			</verse>
 			<verse number="13" number-en="13">
@@ -30,8 +30,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

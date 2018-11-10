@@ -4,9 +4,9 @@
 	<passage title="Acts 28" book="Acts" book-en="Acts">
 		<chapter number="28" number-en="28">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Ashore on Malta
-				</heading>
+				</p>
 				Once safely on shore, we found out that the island was called Malta.
 			</verse>
 			<verse number="2" number-en="2">
@@ -37,9 +37,9 @@
 				They honored us in many ways and when we were ready to sail, they furnished us with the supplies we needed.
 			</verse>
 			<verse number="11" number-en="11">
-				<heading>
+				<p class="scripture-heading">
 					Arrival at Rome
-				</heading>
+				</p>
 				After three months we put out to sea in a ship that had wintered in the island. It was an Alexandrian ship with the figurehead of the twin gods Castor and Pollux.
 			</verse>
 			<verse number="12" number-en="12">
@@ -58,9 +58,9 @@
 				When we got to Rome, Paul was allowed to live by himself, with a soldier to guard him.
 			</verse>
 			<verse number="17" number-en="17">
-				<heading>
+				<p class="scripture-heading">
 					Paul Preaches at Rome Under Guard
-				</heading>
+				</p>
 				Three days later he called together the leaders of the Jews. When they had assembled, Paul said to them, "My brothers, although I have done nothing against our people or against the customs of our ancestors, I was arrested in Jerusalem and handed over to the Romans.
 			</verse>
 			<verse number="18" number-en="18">
@@ -114,8 +114,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

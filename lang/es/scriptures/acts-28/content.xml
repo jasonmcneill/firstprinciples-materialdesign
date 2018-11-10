@@ -4,9 +4,9 @@
 	<passage title="Hechos 28" book="Hechos" title-en="Acts 28" book-en="Acts">
 		<chapter number="28" number-en="28">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					En la isla de Malta
-				</heading>
+				</p>
 				Una vez a salvo, nos enteramos de que la isla se llamaba Malta. 
 			</verse>
 			<verse number="2" number-en="2">
@@ -37,9 +37,9 @@
 				Nos colmaron de muchas atenciones y nos proveyeron de todo lo necesario para el viaje.
 			</verse>
 			<verse number="11" number-en="11">
-				<heading>
+				<p class="scripture-heading">
 					Llegada a Roma
-				</heading>
+				</p>
 				Al cabo de tres meses en la isla, zarpamos en un barco que había invernado allí. Era una nave de Alejandría que tenía por insignia a los dioses Dióscuros.
 			</verse>
 			<verse number="12" number-en="12">
@@ -58,9 +58,9 @@
 				Cuando llegamos a Roma, a Pablo se le permitió tener su domicilio particular, con un soldado que lo custodiara.
 			</verse>
 			<verse number="17" number-en="17">
-				<heading>
+				<p class="scripture-heading">
 					Pablo predica bajo custodia en Roma
-				</heading>
+				</p>
 				Tres días más tarde, Pablo convocó a los dirigentes de los judíos. Cuando estuvieron reunidos, les dijo:
 
 				—A mí, hermanos, a pesar de no haber hecho nada contra mi pueblo ni contra las costumbres de nuestros antepasados, me arrestaron en Jerusalén y me entregaron a los romanos.
@@ -124,8 +124,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

@@ -4,9 +4,9 @@
 	<passage title="Hebreos 12:14-15" book="Hebreos" title-en="Hebrews 12:14-15" book-en="Hebrews">
 		<chapter number="12" number-en="12">
 			<verse number="14" number-en="14">
-				<heading>
+				<p class="scripture-heading">
 					Advertencia a los que rechazan a Dios
-				</heading>
+				</p>
 				Busquen la paz con todos, y la santidad, sin la cual nadie verá al Señor.
 			</verse>
 			<verse number="15" number-en="15">
@@ -21,8 +21,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

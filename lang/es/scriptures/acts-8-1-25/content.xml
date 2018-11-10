@@ -5,9 +5,9 @@
 		<chapter number="8" number-en="8">
 			<verse number="1" number-en="1">
 				Y Saulo estaba allí, aprobando la muerte de Esteban.
-				<heading>
+				<p class="scripture-heading">
 					La iglesia perseguida y dispersa
-				</heading>
+				</p>
 				Aquel día se desató una gran persecución contra la iglesia en Jerusalén, y todos, excepto los apóstoles, se dispersaron por las regiones de Judea y Samaria.
 			</verse>
 			<verse number="2" number-en="2">
@@ -17,9 +17,9 @@
 				Saulo, por su parte, causaba estragos en la iglesia: entrando de casa en casa, arrastraba a hombres y mujeres y los metía en la cárcel.
 			</verse>
 			<verse number="4" number-en="4">
-				<heading>
+				<p class="scripture-heading">
 					Felipe en Samaria
-				</heading>
+				</p>
 				Los que se habían dispersado predicaban la palabra por dondequiera que iban.
 			</verse>
 			<verse number="5" number-en="5">
@@ -35,9 +35,9 @@
 				Y aquella ciudad se llenó de alegría.
 			</verse>
 			<verse number="9" number-en="9">
-				<heading>
+				<p class="scripture-heading">
 					Simón el hechicero
-				</heading>
+				</p>
 				Ya desde antes había en esa ciudad un hombre llamado Simón que, jactándose de ser un gran personaje, practicaba la hechicería y asombraba a la gente de Samaria.
 			</verse>
 			<verse number="10" number-en="10">
@@ -99,8 +99,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

@@ -4,9 +4,9 @@
 	<passage title="Marcos 1:14-18" book="Marcos" title-en="Mark 1:14-18" book-en="Mark">
 		<chapter number="1" number-en="1">
 			<verse number="14" number-en="14">
-				<heading>
+				<p class="scripture-heading">
 					Llamamiento de los primeros discípulos
-				</heading>
+				</p>
 				Después de que encarcelaron a Juan, Jesús se fue a Galilea a anunciar las buenas nuevas de Dios.
 			</verse>
 			<verse number="15" number-en="15" jesuswords="true">
@@ -30,8 +30,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

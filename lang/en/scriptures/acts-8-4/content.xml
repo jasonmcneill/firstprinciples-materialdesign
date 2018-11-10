@@ -4,9 +4,9 @@
 	<passage title="Acts 8:4" book="Acts" book-en="Acts">
 		<chapter number="8" number-en="8">
 			<verse number="4" number-en="4">
-				<heading>
+				<p class="scripture-heading">
 					Philip in Samaria
-				</heading>
+				</p>
 				Those who had been scattered preached the word wherever they went.
 			</verse>
 		</chapter>
@@ -18,8 +18,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

@@ -23,9 +23,9 @@
 				—¡Sálvense de esta generación perversa!
 			</verse>
 			<verse number="41" number-en="41">
-				<heading>
+				<p class="scripture-heading">
 					La comunidad de los creyentes
-				</heading>
+				</p>
 				Así, pues, los que recibieron su mensaje fueron bautizados, y aquel día se unieron a la iglesia unas tres mil personas.
 			</verse>
 			<verse number="42" number-en="42">
@@ -55,8 +55,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

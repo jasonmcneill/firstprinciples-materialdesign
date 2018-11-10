@@ -4,9 +4,9 @@
 	<passage title="1 Corinthians 12" book="1 Corinthians" book-en="1 Corinthians">
 		<chapter number="12" number-en="12">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Spiritual Gifts
-				</heading>
+				</p>
 				Now about spiritual gifts, brothers, I do not want you to be ignorant.
 			</verse>
 			<verse number="2" number-en="2">
@@ -40,9 +40,9 @@
 				All these are the work of one and the same Spirit, and he gives them to each one, just as he determines.
 			</verse>
 			<verse number="12" number-en="12">
-				<heading>
+				<p class="scripture-heading">
 					One Body, Many Parts
-				</heading>
+				</p>
 				The body is a unit, though it is made up of many parts; and though all its parts are many, they form one body. So it is with Christ.
 			</verse>
 			<verse number="13" number-en="13">
@@ -101,9 +101,9 @@
 			</verse>
 			<verse number="31" number-en="31">
 				Now eagerly desire the greater gifts.
-				<heading>
+				<p class="scripture-heading">
 					Love
-				</heading>
+				</p>
 				And now I will show you the most excellent way.
 			</verse>
 		</chapter>
@@ -115,8 +115,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

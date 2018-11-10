@@ -4,9 +4,9 @@
 	<passage title="Tito 1:5" book="Tito" title-en="Titus 1:5" book-en="Titus">
 		<chapter number="1" number-en="1">
 			<verse number="5" number-en="5">
-				<heading>
+				<p class="scripture-heading">
 					Tarea de Tito en Creta
-				</heading>
+				</p>
 				Te dejé en Creta para que pusieras en orden lo que quedaba por hacer y en cada pueblo nombraras ancianos de la iglesia, de acuerdo con las instrucciones que te di.s
 			</verse>
 		</chapter>
@@ -18,8 +18,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

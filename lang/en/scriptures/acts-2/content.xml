@@ -4,9 +4,9 @@
 	<passage title="Acts 2" book="Acts" book-en="Acts">
 		<chapter number="2" number-en="2">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					The Holy Spirit Comes at Pentecost
-				</heading>
+				</p>
 				When the day of Pentecost came, they were all together in one place.
 			</verse>
 			<verse number="2" number-en="2">
@@ -46,9 +46,9 @@
 				Some, however, made fun of them and said, "They have had too much wine."
 			</verse>
 			<verse number="14" number-en="14">
-				<heading>
+				<p class="scripture-heading">
 					Peter Addresses the Crowd
-				</heading>
+				</p>
 				Then Peter stood up with the Eleven, raised his voice and addressed the crowd: "Fellow Jews and all of you who live in Jerusalem, let me explain this to you; listen carefully to what I say.
 			</verse>
 			<verse number="15" number-en="15">
@@ -133,9 +133,9 @@
 				Those who accepted his message were baptized, and about three thousand were added to their number that day.
 			</verse>
 			<verse number="42" number-en="42">
-				<heading>
+				<p class="scripture-heading">
 					The Fellowship of the Believers
-				</heading>
+				</p>
 				They devoted themselves to the apostles' teaching and to the fellowship, to the breaking of bread and to prayer.
 			</verse>
 			<verse number="43" number-en="43">
@@ -162,8 +162,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

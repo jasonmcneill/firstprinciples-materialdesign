@@ -4,9 +4,9 @@
 	<passage title="Juan 15" book="Juan" title-en="John 15" book-en="John">
 		<chapter number="15" number-en="15">
 			<verse number="1" number-en="1" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Jesús, la vid verdadera
-				</heading>
+				</p>
 				»Yo soy la vid verdadera, y mi Padre es el labrador.
 			</verse>
 			<verse number="2" number-en="2" jesuswords="true">
@@ -58,9 +58,9 @@
 				Este es mi mandamiento: que se amen los unos a los otros.
 			</verse>
 			<verse number="18" number-en="18" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Jesús y sus discípulos aborrecidos por el mundo
-				</heading>
+				</p>
 				»Si el mundo los aborrece, tengan presente que antes que a ustedes, me aborreció a mí.
 			</verse>
 			<verse number="19" number-en="19" jesuswords="true">
@@ -99,8 +99,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

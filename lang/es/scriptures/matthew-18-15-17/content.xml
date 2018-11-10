@@ -4,9 +4,9 @@
 	<passage title="Mateo 18:15-17" book="Mateo" title-en="Matthew 18:15-17" book-en="Matthew">
 		<chapter number="18" number-en="18">
 			<verse number="15" number-en="15" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					El hermano que peca contra ti
-				</heading>
+				</p>
 				»Si tu hermano peca contra ti, ve a solas con él y hazle ver su falta. Si te hace caso, has ganado a tu hermano.
 			</verse>
 			<verse number="16" number-en="16" jesuswords="true" scripturequote="true">
@@ -24,8 +24,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

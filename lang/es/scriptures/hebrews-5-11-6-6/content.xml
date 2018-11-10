@@ -4,9 +4,9 @@
 	<passage title="Hebreos 5:11-6:6" book="Hebreos" title-en="Hebrews 5:11 - 6:6" book-en="Hebrews">
 		<chapter number="5" number-en="5">
 			<verse number="11" number-en="11">
-				<heading>
+				<p class="scripture-heading">
 					Advertencia contra la apostasía
-				</heading>
+				</p>
 				Sobre este tema tenemos mucho que decir aunque es difícil explicarlo, porque a ustedes lo que les entra por un oído les sale por el otro.
 			</verse>
 			<verse number="12" number-en="12">
@@ -47,8 +47,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

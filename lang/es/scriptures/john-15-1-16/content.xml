@@ -4,9 +4,9 @@
 	<passage title="Juan 15:1-16" book="Juan" title-en="John 15:1-16" book-en="John">
 		<chapter number="15" number-en="15">
 			<verse number="1" number-en="1" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Jesús, la vid verdadera
-				</heading>
+				</p>
 				»Yo soy la vid verdadera, y mi Padre es el labrador.
 			</verse>
 			<verse number="2" number-en="2" jesuswords="true">
@@ -63,8 +63,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

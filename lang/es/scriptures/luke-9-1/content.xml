@@ -4,9 +4,9 @@
 	<passage title="Lucas 9:1" book="Lucas" title-en="Luke 9:1" book-en="Luke">
 		<chapter number="9" number-en="9">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Jesús envía a los doce
-				</heading>
+				</p>
 				Habiendo reunido a los doce, Jesús les dio poder y autoridad para expulsar a todos los demonios y para sanar enfermedades.
 			</verse>
 		</chapter>
@@ -18,8 +18,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

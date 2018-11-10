@@ -4,9 +4,9 @@
 	<passage title="1 Reyes 11:1-10" book="1 Reyes" title-en="1 Kings 11:1-10" book-en="1 Kings">
 		<chapter number="11" number-en="11">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Las mujeres de Salomón
-				</heading>
+				</p>
 				Ahora bien, además de casarse con la hija del faraón, el rey Salomón tuvo amoríos con muchas mujeres moabitas, amonitas, edomitas, sidonias e hititas, todas ellas mujeres extranjeras
 			</verse>
 			<verse number="2" number-en="2">
@@ -45,8 +45,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

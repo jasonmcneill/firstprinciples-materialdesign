@@ -4,9 +4,9 @@
 	<passage title="1 Corintios 14" book="1 Corintios" title-en="1 Corinthians 14" book-en="1 Corinthians">
 		<chapter number="14" number-en="14">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					El don de lenguas y el de profecía
-				</heading>
+				</p>
 				Empéñense en seguir el amor y ambicionen los dones espirituales, sobre todo el de profecía.
 			</verse>
 			<verse number="2" number-en="2">
@@ -87,9 +87,9 @@
 				y los secretos de su corazón quedarán al descubierto. Así que se postrará ante Dios y lo adorará, exclamando: «¡Realmente Dios está entre ustedes!»
 			</verse>
 			<verse number="26" number-en="26">
-				<heading>
+				<p class="scripture-heading">
 					Orden en los cultos
-				</heading>
+				</p>
 				¿Qué concluimos, hermanos? Que, cuando se reúnan, cada uno puede tener un himno, una enseñanza, una revelación, un mensaje en lenguas, o una interpretación. Todo esto debe hacerse para la edificación de la iglesia.
 			</verse>
 			<verse number="27" number-en="27">
@@ -143,8 +143,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

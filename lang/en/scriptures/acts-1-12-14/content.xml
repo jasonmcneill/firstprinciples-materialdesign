@@ -4,9 +4,9 @@
 	<passage title="Acts 1:12-14" book="Acts" book-en="Acts">
 		<chapter number="1" number-en="1">
 			<verse number="12" number-en="12">
-				<heading>
+				<p class="scripture-heading">
 					Matthias Chosen to Replace Judas
-				</heading>
+				</p>
 				Then they returned to Jerusalem from the hill called the Mount of Olives, a Sabbath day's walk from the city.
 			</verse>
 			<verse number="13" number-en="13">
@@ -24,8 +24,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

@@ -4,9 +4,9 @@
 	<passage title="Hechos 2:41" book="Hechos" title-en="Acts 2:41" book-en="Acts">
 		<chapter number="2" number-en="2">
 			<verse number="41" number-en="41">
-				<heading>
+				<p class="scripture-heading">
 					La comunidad de los creyentes
-				</heading>
+				</p>
 				Así, pues, los que recibieron su mensaje fueron bautizados, y aquel día se unieron a la iglesia unas tres mil personas.
 			</verse>
 		</chapter>
@@ -18,8 +18,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

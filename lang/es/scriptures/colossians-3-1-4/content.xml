@@ -4,9 +4,9 @@
 	<passage title="Colosenses 3:1-4" book="Colosenses" title-en="Colossians 3:1-4" book-en="Colossians">
 		<chapter number="3" number-en="3">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Normas para una vida santa
-				</heading>
+				</p>
 				Ya que han resucitado con Cristo, busquen las cosas de arriba, donde está Cristo sentado a la derecha de Dios.
 			</verse>
 			<verse number="2" number-en="2">
@@ -27,8 +27,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

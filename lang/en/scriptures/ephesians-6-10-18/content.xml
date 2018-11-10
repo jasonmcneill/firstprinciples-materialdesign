@@ -4,9 +4,9 @@
 	<passage title="Ephesians 6:10-18" book="Ephesians" book-en="Ephesians">
 		<chapter number="6" number-en="6">
 			<verse number="10" number-en="10">
-				<heading>
+				<p class="scripture-heading">
 					The Armor of God
-				</heading>
+				</p>
 				Finally, be strong in the Lord and in his mighty power.
 			</verse>
 			<verse number="11" number-en="11">
@@ -42,8 +42,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

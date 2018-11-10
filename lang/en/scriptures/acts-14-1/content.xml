@@ -4,9 +4,9 @@
 	<passage title="Acts 14:1" book="Acts" book-en="Acts">
 		<chapter number="14" number-en="14">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					In Iconium
-				</heading>
+				</p>
 				At Iconium Paul and Barnabas went as usual into the Jewish synagogue. There they spoke so effectively that a great number of Jews and Gentiles believed.
 			</verse>
 		</chapter>
@@ -18,8 +18,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

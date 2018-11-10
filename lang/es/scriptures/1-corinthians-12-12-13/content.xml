@@ -4,9 +4,9 @@
 	<passage title="1 Corintios 12:12-13" book="1 Corintios" title-en="1 Corinthians 12:12-13" book-en="1 Corinthians">
 		<chapter number="12" number-en="12">
 			<verse number="12" number-en="12">
-				<heading>
+				<p class="scripture-heading">
 					Un cuerpo con muchos miembros
-				</heading>
+				</p>
 				De hecho, aunque el cuerpo es uno solo, tiene muchos miembros, y todos los miembros, no obstante ser muchos, forman un solo cuerpo. Así sucede con Cristo.
 			</verse>
 			<verse number="13" number-en="13">
@@ -21,8 +21,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

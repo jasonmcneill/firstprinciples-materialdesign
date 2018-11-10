@@ -4,9 +4,9 @@
 	<passage title="Malaquías 3:6-12" book="Malaquías" title-en="Malachi 3:6-12" book-en="Malachi">
 		<chapter number="3" number-en="3">
 			<verse number="6" number-en="6">
-				<heading>
+				<p class="scripture-heading">
 					Fidelidad en las ofrendas
-				</heading>
+				</p>
 				»Yo, el Señor, no cambio. Por eso ustedes, descendientes de Jacob, no han sido exterminados.
 			</verse>
 			<verse number="7" number-en="7">
@@ -42,8 +42,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

@@ -4,9 +4,9 @@
 	<passage title="Lucas 17:20-21" book="Lucas" title-en="Luke 17:20-21" book-en="Luke">
 		<chapter number="17" number-en="17">
 			<verse number="20" number-en="20" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					La venida del reino de Dios
-				</heading>
+				</p>
 				Los fariseos le preguntaron a Jesús cuándo iba a venir el reino de Dios, y él les respondió:
 
 				—La venida del reino de Dios no se puede someter a cálculos.
@@ -23,8 +23,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

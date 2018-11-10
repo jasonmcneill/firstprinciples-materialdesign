@@ -4,9 +4,9 @@
 	<passage title="1 Corintios 12" book="1 Corintios" title-en="1 Corinthians 12" book-en="1 Corinthians">
 		<chapter number="12" number-en="12">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Los dones espirituales
-				</heading>
+				</p>
 				En cuanto a los dones espirituales, hermanos, quiero que entiendan bien este asunto.
 			</verse>
 			<verse number="2" number-en="2">
@@ -40,9 +40,9 @@
 				Todo esto lo hace un mismo y único Espíritu, quien reparte a cada uno según él lo determina.
 			</verse>
 			<verse number="12" number-en="12">
-				<heading>
+				<p class="scripture-heading">
 					Un cuerpo con muchos miembros
-				</heading>
+				</p>
 				De hecho, aunque el cuerpo es uno solo, tiene muchos miembros, y todos los miembros, no obstante ser muchos, forman un solo cuerpo. Así sucede con Cristo.
 			</verse>
 			<verse number="13" number-en="13">
@@ -101,9 +101,9 @@
 			</verse>
 			<verse number="31" number-en="31">
 				Ustedes, por su parte, ambicionen los mejores dones.
-				<heading>
+				<p class="scripture-heading">
 					El amor
-				</heading>
+				</p>
 				Ahora les voy a mostrar un camino más excelente.
 			</verse>
 		</chapter>
@@ -115,8 +115,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

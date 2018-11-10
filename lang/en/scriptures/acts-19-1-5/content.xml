@@ -4,9 +4,9 @@
 	<passage title="Acts 19:1-5" book="Acts" book-en="Acts">
 		<chapter number="19" number-en="19">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Paul in Ephesus
-				</heading>
+				</p>
 				While Apollos was at Corinth, Paul took the road through the interior and arrived at Ephesus. There he found some disciples
 			</verse>
 			<verse number="2" number-en="2">
@@ -30,8 +30,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

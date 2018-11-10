@@ -4,9 +4,9 @@
 	<passage title="Acts 17:10-12" book="Acts" book-en="Acts">
 		<chapter number="17" number-en="17">
 			<verse number="10" number-en="10">
-				<heading>
+				<p class="scripture-heading">
 					In Berea
-				</heading>
+				</p>
 				As soon as it was night, the brothers sent Paul and Silas away to Berea. On arriving there, they went to the Jewish synagogue.
 			</verse>
 			<verse number="11" number-en="11">
@@ -24,8 +24,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

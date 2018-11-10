@@ -4,9 +4,9 @@
 	<passage title="Marcos 3:20-21" book="Marcos" title-en="Mark 3:20-21" book-en="Mark">
 		<chapter number="3" number-en="3">
 			<verse number="20" number-en="20">
-				<heading>
+				<p class="scripture-heading">
 					Jesús y Beelzebú
-				</heading>
+				</p>
 				Luego entró en una casa, y de nuevo se aglomeró tanta gente que ni siquiera podían comer él y sus discípulos.
 			</verse>
 			<verse number="21" number-en="21">
@@ -21,8 +21,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

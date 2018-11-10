@@ -4,9 +4,9 @@
 	<passage title="Marcos 3:31-35" book="Marcos" title-en="Mark 3:31-35" book-en="Mark">
 		<chapter number="3" number-en="3">
 			<verse number="31" number-en="31">
-				<heading>
+				<p class="scripture-heading">
 					La madre y los hermanos de Jesús
-				</heading>
+				</p>
 				En eso llegaron la madre y los hermanos de Jesús. Se quedaron afuera y enviaron a alguien a llamarlo,
 			</verse>
 			<verse number="32" number-en="32">
@@ -34,8 +34,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

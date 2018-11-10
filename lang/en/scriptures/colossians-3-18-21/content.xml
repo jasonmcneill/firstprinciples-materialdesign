@@ -4,9 +4,9 @@
 	<passage title="Colossians 3:18-21" book="Colossians" book-en="Colossians">
 		<chapter number="3" number-en="3">
 			<verse number="18" number-en="18">
-				<heading>
+				<p class="scripture-heading">
 					Rules for Christian Households
-				</heading>
+				</p>
 				Wives, submit to your husbands, as is fitting in the Lord.
 			</verse>
 			<verse number="19" number-en="19">
@@ -27,8 +27,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

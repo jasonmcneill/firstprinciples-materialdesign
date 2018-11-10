@@ -4,9 +4,9 @@
 	<passage title="John 17:20-23" book="John" book-en="John">
 		<chapter number="17" number-en="17">
 			<verse number="20" number-en="20" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					Jesus Prays for All Believers
-				</heading>
+				</p>
 				<span class="jesuswords">My prayer is not for them alone. I pray also for those who will believe in me through their message,</span>
 			</verse>
 			<verse number="21" number-en="21" jesuswords="true">
@@ -27,8 +27,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

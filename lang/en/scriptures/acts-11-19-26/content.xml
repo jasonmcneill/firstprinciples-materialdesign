@@ -4,9 +4,9 @@
 	<passage title="Acts 11:19-26" book="Acts" book-en="Acts">
 		<chapter number="11" number-en="11">
 			<verse number="19" number-en="19">
-				<heading>
+				<p class="scripture-heading">
 					The Church in Antioch
-				</heading>
+				</p>
 				Now those who had been scattered by the persecution in connection with Stephen traveled as far as Phoenicia, Cyprus and Antioch, telling the message only to Jews.
 			</verse>
 			<verse number="20" number-en="20">
@@ -39,8 +39,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

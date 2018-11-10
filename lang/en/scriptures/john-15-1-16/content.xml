@@ -4,9 +4,9 @@
 	<passage title="John 1-16" book="John" book-en="John">
 		<chapter number="15" number-en="15">
 			<verse number="1" number-en="1" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					The Vine and the Branches
-				</heading>
+				</p>
 				<span class="jesuswords">I am the true vine, and my Father is the gardener.</span>
 			</verse>
 			<verse number="2" number-en="2" jesuswords="true">
@@ -63,8 +63,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

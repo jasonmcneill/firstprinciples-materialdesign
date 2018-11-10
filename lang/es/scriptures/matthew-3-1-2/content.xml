@@ -4,9 +4,9 @@
 	<passage title="Mateo 3:1-2" book="Mateo" title-en="Matthew 3:1-2" book-en="Matthew">
 		<chapter number="3" number-en="3">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					Juan el Bautista prepara el camino
-				</heading>
+				</p>
 				En aquellos días se presentó Juan el Bautista predicando en el desierto de Judea.
 			</verse>
 			<verse number="2" number-en="2">
@@ -21,8 +21,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

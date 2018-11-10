@@ -4,9 +4,9 @@
 	<passage title="Matthew 7:7" book="Matthew" book-en="Matthew">
 		<chapter number="7" number-en="7">
 			<verse number="13" number-en="13" jesuswords="true">
-				<heading>
+				<p class="scripture-heading">
 					The Narrow and Wide Gates
-				</heading>
+				</p>
 				<span class="jesuswords">Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it.</span>
 			</verse>
 			<verse number="14" number-en="14" jesuswords="true">
@@ -21,8 +21,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->

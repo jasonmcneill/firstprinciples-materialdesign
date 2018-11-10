@@ -4,9 +4,9 @@
 	<passage title="Gálatas 6:1-2" book="Gálatas" title-en="Galatians 6:1-2" book-en="Galatians">
 		<chapter number="6" number-en="6">
 			<verse number="1" number-en="1">
-				<heading>
+				<p class="scripture-heading">
 					La ayuda mutua
-				</heading>
+				</p>
 				Hermanos, si alguien es sorprendido en pecado, ustedes que son espirituales deben restaurarlo con una actitud humilde. Pero cuídese cada uno, porque también puede ser tentado.
 			</verse>
 			<verse number="2" number-en="2">
@@ -21,8 +21,8 @@
 				
 			</verse>
 			<verse number="" number-en="">
-				<heading>
+				<p class="scripture-heading">
 					Heading text
-				</heading>
+				</p>
 			</verse>
 -->
