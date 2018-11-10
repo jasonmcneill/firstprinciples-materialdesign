@@ -4,7 +4,7 @@
 	<passage title="Mateo 6:33" book="Mateo" title-en="Matthew 6:33" book-en="Matthew">
 		<chapter number="6" number-en="6">
 			<verse number="33" number-en="33" jesuswords="true">
-				Más bien, busquen primeramente el reino de Dios y su justicia, y todas estas cosas les serán añadidas.
+				<span class="jesuswords">Más bien, busquen primeramente el reino de Dios y su justicia, y todas estas cosas les serán añadidas.</span>
 			</verse>
 		</chapter>
 	</passage>

@@ -9,7 +9,7 @@
 				</p>
 				Cuando llegó a la región de Cesarea de Filipo, Jesús preguntó a sus discípulos:
 
-				—¿Quién dice la gente que es el Hijo del hombre?
+				<span class="jesuswords">—¿Quién dice la gente que es el Hijo del hombre?</span>
 
 				Le respondieron:
 			</verse>
@@ -17,19 +17,19 @@
 				—Unos dicen que es Juan el Bautista, otros que Elías, y otros que Jeremías o uno de los profetas.
 			</verse>
 			<verse number="15" number-en="15" jesuswords="true">
-				—Y ustedes, ¿quién dicen que soy yo?
+				<span class="jesuswords">—Y ustedes, ¿quién dicen que soy yo?</span>
 			</verse>
 			<verse number="16" number-en="16">
 				—Tú eres el Cristo, el Hijo del Dios viviente —afirmó Simón Pedro.
 			</verse>
 			<verse number="17" number-en="17" jesuswords="true">
-				—Dichoso tú, Simón, hijo de Jonás —le dijo Jesús—, porque eso no te lo reveló ningún mortal, sino mi Padre que está en el cielo.
+				<span class="jesuswords">—Dichoso tú, Simón, hijo de Jonás</span> —le dijo Jesús—, <span class="jesuswords">porque eso no te lo reveló ningún mortal, sino mi Padre que está en el cielo.</span>
 			</verse>
 			<verse number="18" number-en="18" jesuswords="true">
-				Yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi iglesia, y las puertas del reino de la muerte no prevalecerán contra ella.
+				<span class="jesuswords">Yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi iglesia, y las puertas del reino de la muerte no prevalecerán contra ella.</span>
 			</verse>
 			<verse number="19" number-en="19" jesuswords="true">
-				Te daré las llaves del reino de los cielos; todo lo que ates en la tierra quedará atado en el cielo, y todo lo que desates en la tierra quedará desatado en el cielo.
+				<span class="jesuswords">Te daré las llaves del reino de los cielos; todo lo que ates en la tierra quedará atado en el cielo, y todo lo que desates en la tierra quedará desatado en el cielo.</span>
 			</verse>
 		</chapter>
 	</passage>

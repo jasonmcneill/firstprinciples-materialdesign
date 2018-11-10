@@ -7,10 +7,10 @@
 				<p class="scripture-heading">
 					La puerta estrecha y la puerta ancha
 				</p>
-				»Entren por la puerta estrecha. Porque es ancha la puerta y espacioso el camino que conduce a la destrucción, y muchos entran por ella.
+				<span class="jesuswords">»Entren por la puerta estrecha. Porque es ancha la puerta y espacioso el camino que conduce a la destrucción, y muchos entran por ella.</span>
 			</verse>
 			<verse number="14" number-en="14" jesuswords="true">
-				Pero estrecha es la puerta y angosto el camino que conduce a la vida, y son pocos los que la encuentran.
+				<span class="jesuswords">Pero estrecha es la puerta y angosto el camino que conduce a la vida, y son pocos los que la encuentran.</span>
 			</verse>
 		</chapter>
 	</passage>

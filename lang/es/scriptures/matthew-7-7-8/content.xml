@@ -7,10 +7,10 @@
 				<p class="scripture-heading">
 					Pidan, busquen, llamen
 				</p>
-				»Pidan, y se les dará; busquen, y encontrarán; llamen, y se les abrirá.
+				<span class="jesuswords">»Pidan, y se les dará; busquen, y encontrarán; llamen, y se les abrirá.</span>
 			</verse>
 			<verse number="8" number-en="8" jesuswords="true">
-				Porque todo el que pide, recibe; el que busca, encuentra; y al que llama, se le abre.
+				<span class="jesuswords">Porque todo el que pide, recibe; el que busca, encuentra; y al que llama, se le abre.</span>
 			</verse>
 		</chapter>
 	</passage>

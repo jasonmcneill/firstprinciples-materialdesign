@@ -4,7 +4,7 @@
 	<passage title="Mateo 28:20" book="Mateo" title-en="Matthew 28:20" book-en="Matthew">
 		<chapter number="28" number-en="28">
 			<verse number="20" number-en="20" jesuswords="true">
-				enseñándoles a obedecer todo lo que les he mandado a ustedes. Y les aseguro que estaré con ustedes siempre, hasta el fin del mundo.
+				<span class="jesuswords">enseñándoles a obedecer todo lo que les he mandado a ustedes. Y les aseguro que estaré con ustedes siempre, hasta el fin del mundo.</span>
 			</verse>
 		</chapter>
 	</passage>

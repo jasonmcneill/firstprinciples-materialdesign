@@ -4,18 +4,18 @@
 	<passage title="" book="" title-en="Matthew 15:6-9" book-en="Matthew">
 		<chapter number="15" number-en="15">
 			<verse number="6" number-en="6" jesuswords="true">
-				En ese caso, el tal hijo no tiene que honrar a su padre. Así por causa de la tradición anulan ustedes la palabra de Dios.
+				<span class="jesuswords">En ese caso, el tal hijo no tiene que honrar a su padre. Así por causa de la tradición anulan ustedes la palabra de Dios.</span>
 			</verse>
 			<verse number="7" number-en="7" jesuswords="true">
-				¡Hipócritas! Tenía razón Isaías cuando profetizó de ustedes:
+				<span class="jesuswords">¡Hipócritas! Tenía razón Isaías cuando profetizó de ustedes:</span>
 			</verse>
 			<verse number="8" number-en="8" jesuswords="true" scripturequote="true">
-				»“Este pueblo me honra con los labios,
-    			pero su corazón está lejos de mí.
+				<span class="jesuswords">»“Este pueblo me honra con los labios,</span>
+    			<span class="jesuswords">pero su corazón está lejos de mí.</span>
 			</verse>
 			<verse number="9" number-en="9" jesuswords="true" scripturequote="true">
-				En vano me adoran;
-    			sus enseñanzas no son más que reglas humanas”».
+				<span class="jesuswords">En vano me adoran;</span>
+    			<span class="jesuswords">sus enseñanzas no son más que reglas humanas”».</span>
 			</verse>
 		</chapter>
 	</passage>

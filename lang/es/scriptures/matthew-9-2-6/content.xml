@@ -6,7 +6,7 @@
 			<verse number="2" number-en="2" jesuswords="true">
 				Unos hombres le llevaron un paralítico, acostado en una camilla. Al ver Jesús la fe de ellos, le dijo al paralítico:
 
-				—¡Ánimo, hijo; tus pecados quedan perdonados!
+				<span class="jesuswords">—¡Ánimo, hijo; tus pecados quedan perdonados!</span>
 			</verse>
 			<verse number="3" number-en="3">
 				Algunos de los maestros de la ley murmuraron entre ellos: «¡Este hombre blasfema!»
@@ -14,13 +14,13 @@
 			<verse number="4" number-en="4" jesuswords="true">
 				Como Jesús conocía sus pensamientos, les dijo:
 
-				—¿Por qué dan lugar a tan malos pensamientos?
+				<span class="jesuswords">—¿Por qué dan lugar a tan malos pensamientos?</span>
 			</verse>
 			<verse number="5" number-en="5" jesuswords="true">
-				¿Qué es más fácil, decir: “Tus pecados quedan perdonados”, o decir: “Levántate y anda”?
+				<span class="jesuswords">¿Qué es más fácil, decir: “Tus pecados quedan perdonados”, o decir: “Levántate y anda”?</span>
 			</verse>
 			<verse number="6" number-en="6" jesuswords="true">
-				Pues para que sepan que el Hijo del hombre tiene autoridad en la tierra para perdonar pecados —se dirigió entonces al paralítico—: Levántate, toma tu camilla y vete a tu casa.
+				<span class="jesuswords">Pues para que sepan que el Hijo del hombre tiene autoridad en la tierra para perdonar pecados</span> —se dirigió entonces al paralítico—: <span class="jesuswords">Levántate, toma tu camilla y vete a tu casa.</span>
 			</verse>
 		</chapter>
 	</passage>

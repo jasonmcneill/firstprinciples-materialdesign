@@ -4,7 +4,7 @@
 	<passage title="Juan 3:34" book="Juan" title-en="John 3:34" book-en="John">
 		<chapter number="3" number-en="3">
 			<verse number="34" number-en="34" jesuswords="true">
-				El enviado de Dios comunica el mensaje divino, pues Dios mismo le da su Espíritu sin restricción.
+				<span class="jesuswords">El enviado de Dios comunica el mensaje divino, pues Dios mismo le da su Espíritu sin restricción.</span>
 			</verse>
 		</chapter>
 	</passage>

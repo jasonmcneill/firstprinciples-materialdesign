@@ -7,13 +7,13 @@
 				<p class="scripture-heading">
 					Jesús predice la negación de Pedro
 				</p>
-				—Esta misma noche —les dijo Jesús— todos ustedes me abandonarán, porque está escrito:
+				<span class="jesuswords">—Esta misma noche</span> —les dijo Jesús— <span class="jesuswords">todos ustedes me abandonarán, porque está escrito:</span>
 
-				»“Heriré al pastor,
-					y se dispersarán las ovejas del rebaño”.
+				<span class="jesuswords">»“Heriré al pastor,</span>
+					<span class="jesuswords">y se dispersarán las ovejas del rebaño”.</span>
 			</verse>
 			<verse number="32" number-en="32" jesuswords="true">
-				Pero, después de que yo resucite, iré delante de ustedes a Galilea».
+				<span class="jesuswords">Pero, después de que yo resucite, iré delante de ustedes a Galilea».</span>
 			</verse>
 			<verse number="33" number-en="33">
 				—Aunque todos te abandonen —declaró Pedro—, yo jamás lo haré.
@@ -30,25 +30,25 @@
 				<p class="scripture-heading">
 					Jesús en Getsemaní
 				</p>
-				Luego fue Jesús con sus discípulos a un lugar llamado Getsemaní, y les dijo: «Siéntense aquí mientras voy más allá a orar».
+				Luego fue Jesús con sus discípulos a un lugar llamado Getsemaní, y les dijo: <span class="jesuswords">«Siéntense aquí mientras voy más allá a orar».</span>
 			</verse>
 			<verse number="37" number-en="37">
 				Se llevó a Pedro y a los dos hijos de Zebedeo, y comenzó a sentirse triste y angustiado.
 			</verse>
 			<verse number="38" number-en="38" jesuswords="true">
-				«Es tal la angustia que me invade, que me siento morir —les dijo—. Quédense aquí y manténganse despiertos conmigo».
+				<span class="jesuswords">«Es tal la angustia que me invade, que me siento morir</span> —les dijo—. <span class="jesuswords">Quédense aquí y manténganse despiertos conmigo».</span>
 			</verse>
 			<verse number="39" number-en="39" jesuswords="true">
-				Yendo un poco más allá, se postró sobre su rostro y oró: «Padre mío, si es posible, no me hagas beber este trago amargo. Pero no sea lo que yo quiero, sino lo que quieres tú».
+				Yendo un poco más allá, se postró sobre su rostro y oró: <span class="jesuswords">«Padre mío, si es posible, no me hagas beber este trago amargo. Pero no sea lo que yo quiero, sino lo que quieres tú».</span>
 			</verse>
 			<verse number="40" number-en="40" jesuswords="true">
-				Luego volvió adonde estaban sus discípulos y los encontró dormidos. «¿No pudieron mantenerse despiertos conmigo ni una hora? —le dijo a Pedro—.
+				Luego volvió adonde estaban sus discípulos y los encontró dormidos. <span class="jesuswords">«¿No pudieron mantenerse despiertos conmigo ni una hora?</span> —le dijo a Pedro—.
 			</verse>
 			<verse number="41" number-en="41" jesuswords="true">
-				Estén alerta y oren para que no caigan en tentación. El espíritu está dispuesto, pero el cuerpo es débil».
+				<span class="jesuswords">Estén alerta y oren para que no caigan en tentación. El espíritu está dispuesto, pero el cuerpo es débil».</span>
 			</verse>
 			<verse number="42" number-en="42" jesuswords="true">
-				Por segunda vez se retiró y oró: «Padre mío, si no es posible evitar que yo beba este trago amargo, hágase tu voluntad».
+				Por segunda vez se retiró y oró: <span class="jesuswords">«Padre mío, si no es posible evitar que yo beba este trago amargo, hágase tu voluntad».</span>
 			</verse>
 			<verse number="43" number-en="43">
 				Cuando volvió, otra vez los encontró dormidos, porque se les cerraban los ojos de sueño.
@@ -57,10 +57,10 @@
 				Así que los dejó y se retiró a orar por tercera vez, diciendo lo mismo.
 			</verse>
 			<verse number="45" number-en="45" jesuswords="true">
-				Volvió de nuevo a los discípulos y les dijo: «¿Siguen durmiendo y descansando? Miren, se acerca la hora, y el Hijo del hombre va a ser entregado en manos de pecadores.
+				Volvió de nuevo a los discípulos y les dijo: <span class="jesuswords">«¿Siguen durmiendo y descansando? Miren, se acerca la hora, y el Hijo del hombre va a ser entregado en manos de pecadores.</span>
 			</verse>
 			<verse number="46" number-en="46" jesuswords="true">
-				¡Levántense! ¡Vámonos! ¡Ahí viene el que me traiciona!»
+				<span class="jesuswords">¡Levántense! ¡Vámonos! ¡Ahí viene el que me traiciona!»</span>
 			</verse>
 			<verse number="47" number-en="47">
 				<p class="scripture-heading">
@@ -77,7 +77,7 @@
 				—¡Rabí! —le dijo, y lo besó.
 			</verse>
 			<verse number="50" number-en="50" jesuswords="true">
-				—Amigo —le replicó Jesús—, ¿a qué vienes?
+				<span class="jesuswords">—Amigo</span> —le replicó Jesús—, <span class="jesuswords">¿a qué vienes?</span>
 
 				Entonces los hombres se acercaron y prendieron a Jesús.
 			</verse>
@@ -85,7 +85,7 @@
 				En eso, uno de los que estaban con él extendió la mano, sacó la espada e hirió al siervo del sumo sacerdote, cortándole una oreja.
 			</verse>
 			<verse number="52" number-en="52" jesuswords="true">
-				—Guarda tu espada —le dijo Jesús—, porque los que a hierro matan, a hierro mueren.
+				<span class="jesuswords">—Guarda tu espada</span> —le dijo Jesús—, <span class="jesuswords">porque los que a hierro matan, a hierro mueren.</span>
 			</verse>
 			<verse number="53" number-en="53" jesuswords="true">
 				¿Crees que no puedo acudir a mi Padre, y al instante pondría a mi disposición más de doce batallones de ángeles?
@@ -96,10 +96,10 @@
 			<verse number="55" number-en="55" jesuswords="true">
 				Y de inmediato dijo a la turba:
 
-				—¿Acaso soy un bandido, para que vengan con espadas y palos a arrestarme? Todos los días me sentaba a enseñar en el templo, y no me prendieron.
+				<span class="jesuswords">—¿Acaso soy un bandido, para que vengan con espadas y palos a arrestarme? Todos los días me sentaba a enseñar en el templo, y no me prendieron.</span>
 			</verse>
 			<verse number="56" number-en="56" jesuswords="true">
-				Pero todo esto ha sucedido para que se cumpla lo que escribieron los profetas.
+				<span class="jesuswords">Pero todo esto ha sucedido para que se cumpla lo que escribieron los profetas.</span>
 
 				Entonces todos los discípulos lo abandonaron y huyeron.
 			</verse>
@@ -136,7 +136,7 @@
 				—Te ordeno en el nombre del Dios viviente que nos digas si eres el Cristo, el Hijo de Dios.
 			</verse>
 			<verse number="64" number-en="64" jesuswords="true">
-				—Tú lo has dicho —respondió Jesús—. Pero yo les digo a todos: De ahora en adelante verán ustedes al Hijo del hombre sentado a la derecha del Todopoderoso, y viniendo en las nubes del cielo.
+				<span class="jesuswords">—Tú lo has dicho</span> —respondió Jesús—. <span class="jesuswords">Pero yo les digo a todos: De ahora en adelante verán ustedes al Hijo del hombre sentado a la derecha del Todopoderoso, y viniendo en las nubes del cielo.</span>
 			</verse>
 			<verse number="65" number-en="65">
 				—¡Ha blasfemado! —exclamó el sumo sacerdote, rasgándose las vestiduras—. ¿Para qué necesitamos más testigos? ¡Miren, ustedes mismos han oído la blasfemia!
@@ -190,7 +190,7 @@
 				En ese instante cantó un gallo.
 			</verse>
 			<verse number="75" number-en="75" jesuswords="true">
-				Entonces Pedro se acordó de lo que Jesús había dicho: «Antes de que cante el gallo, me negarás tres veces». Y saliendo de allí, lloró amargamente.
+				Entonces Pedro se acordó de lo que Jesús había dicho: <span class="jesuswords">«Antes de que cante el gallo, me negarás tres veces».</span> Y saliendo de allí, lloró amargamente.
 			</verse>
 		</chapter>
 		<chapter number="27" number-en="27">
@@ -237,7 +237,7 @@
 
 				—¿Eres tú el rey de los judíos?
 
-				—Tú lo dices —respondió Jesús.
+				<span class="jesuswords">—Tú lo dices</span> —respondió Jesús.
 			</verse>
 			<verse number="12" number-en="12">
 				Al ser acusado por los jefes de los sacerdotes y por los ancianos, Jesús no contestó nada.
@@ -365,7 +365,7 @@
 			<verse number="46" number-en="46" jesuswords="true">
 				Como a las tres de la tarde, Jesús gritó con fuerza:
 
-				—Elí, Elí, ¿lama sabactani? (que significa: “Dios mío, Dios mío, ¿por qué me has desamparado?”).
+				<span class="jesuswords">—Elí, Elí, ¿lama sabactani?</span> (que significa: <span class="jesuswords">“Dios mío, Dios mío, ¿por qué me has desamparado?”</span>).
 			</verse>
 			<verse number="47" number-en="47">
 				Cuando lo oyeron, algunos de los que estaban allí dijeron:
@@ -474,7 +474,7 @@
 				En eso Jesús les salió al encuentro y las saludó. Ellas se le acercaron, le abrazaron los pies y lo adoraron.
 			</verse>
 			<verse number="10" number-en="10" jesuswords="true">
-				—No tengan miedo —les dijo Jesús—. Vayan a decirles a mis hermanos que se dirijan a Galilea, y allí me verán.
+				<span class="jesuswords">—No tengan miedo</span> —les dijo Jesús—. <span class="jesuswords">Vayan a decirles a mis hermanos que se dirijan a Galilea, y allí me verán.</span>
 			</verse>
 		</chapter>
 	</passage>

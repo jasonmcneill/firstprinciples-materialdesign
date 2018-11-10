@@ -4,7 +4,7 @@
 	<passage title="Lucas 19:10" book="Lucas" title-en="Luke 19:10" book-en="Luke">
 		<chapter number="19" number-en="19">
 			<verse number="10" number-en="10" jesuswords="true">
-				Porque el Hijo del hombre vino a buscar y a salvar lo que se había perdido.
+				<span class="jesuswords">Porque el Hijo del hombre vino a buscar y a salvar lo que se había perdido.</span>
 			</verse>
 		</chapter>
 	</passage>

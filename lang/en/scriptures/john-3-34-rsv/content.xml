@@ -3,8 +3,8 @@
 <scripture key="john-3-34-rsv" lang="en" version="rsv" edition="1971">
 	<passage title="John 3:34 (RSV)" book="John" book-en="John">
 		<chapter number="3" number-en="3">
-			<verse number="34" number-en="34" jesuswords="true">
-				<span class="jesuswords">For he whom God has sent utters the words of God, for it is not by measure that he gives the Spirit;</span>
+			<verse number="34" number-en="34">
+				For he whom God has sent utters the words of God, for it is not by measure that he gives the Spirit;
 			</verse>
 		</chapter>
 	</passage>
