@@ -65,9 +65,9 @@ div.verseref > span {
   top: 0;
   right: 0;
   padding: 8px 6px 4px 6px;
-  margin: inherit inherit inherit 10px;
   font-weight: 600;
-  font-size: .7rem;
+  font-size: .6rem;
+  font-family: verdana, sans-serif;
   border: 1px solid #ddd;
   border-top: 0;
   border-radius: 0 0 4px 4px;
@@ -75,7 +75,7 @@ div.verseref > span {
 
 .scripture-expand {
   font-size: 1.2rem;
-  margin-bottom: 5rem;
+  margin-bottom: 6rem;
 }
 
 .scripture-expand .btn {
