@@ -11,5 +11,6 @@
   },
   "devDependencies": {
     "browser-sync": "^2.26.0"
-  }
+  },
+  "dependencies": {}
 }

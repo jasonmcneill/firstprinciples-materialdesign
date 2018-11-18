@@ -76,7 +76,7 @@ fp.language = {
               };
               $('html')
                 .find('title').text(text.pageTitle).end()
-                .find('.scripture-expand .btn').text(text.expandButton).end()
+                .find('.scripture-expand .btn').html(text.expandButton + '<i class="fas fa-angle-right"></i>').end()
               ;
             }
           })

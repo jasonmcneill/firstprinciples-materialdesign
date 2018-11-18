@@ -27,8 +27,7 @@ fp.scripture = {
       pageHtml += `
         <div class="right-align scripture-expand">
           <a href="http://www.biblegateway.com/passage/?search=${encodeURI(passageTitle)}&version=${version}" class="btn light-blue lighten-1 waves-effect waves-light">
-              Expand 
-              <i class="material-icons">keyboard_arrow_right</i>
+              Expand
           </a>
         </div>
       `;
