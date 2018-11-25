@@ -64,7 +64,7 @@ fp.language = {
       fp.language.get().then(function(iso){
         return new Promise(function(resolve, reject) {
           $.ajax({
-            url: 'lang/' + iso + '/global/content.xml',
+            url: '/lang/' + iso + '/global/content.xml',
             error: function(err) {
               console.error(err);
             },
