@@ -1,10 +1,8 @@
 (function(){
 
-
-  function phrase(phraseID) {
+  const phrase = function (phraseID) {
     return data.find('phrase[id=' + phraseID + '] translated')[0].innerHTML.trim();
   };
-
   const data = $(fp.view.content);
   const key = data.find('content')[0].attributes['key'].value;
   const title = phrase(1);
