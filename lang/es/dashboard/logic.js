@@ -1,8 +1,38 @@
 (function(){
 
-  const phrase = function (phraseID) {
-    return data.find('phrase[id=' + phraseID + '] translated')[0].innerHTML.trim();
+  const phrase = function(phraseID) {
+    let phrase = data.find('phrase[id=' + phraseID + ']')[0];
+    let phraseHTML = $(phrase).find('translated')[0].innerHTML.trim();
+    let changes = $(phrase).find('change');
+    let i;
+    if (changes.length === 0) return phraseHTML;
+    for (i = 0; i < changes.length; i++) {
+      let change = changes[i];
+      let changeHTMLBefore = $(change).find('translated')[0].innerHTML.trim();
+      let changeHTMLAfter = changeHTMLBefore;
+      let bold = $(change)[0].attributes['bold'].value;
+      let italic = $(change)[0].attributes['italic'].value;
+      let modal = $(change)[0].attributes['modal'].value;
+      let scripturekey = $(change)[0].attributes['scripturekey'];
+      if (changeHTMLAfter.length === 0) continue;
+      if ((typeof bold !== 'undefined') && (bold === 'true')) {
+        changeHTMLAfter = '<strong>' + changeHTMLAfter + '</strong>';
+      }
+      if ((typeof italic !== 'undefined') && (italic === 'true')) {
+        changeHTMLAfter = '<em>' + changeHTMLAfter + '</em>';
+      }
+      if ((typeof scripturekey !== 'undefined') && (scripturekey.length > 0)) {
+        if ((typeof modal !== 'undefined') && (modal === 'true')) {
+          changeHTMLAfter = '<a href="#" data-key="' + scripturekey.trim() + '" data-modal="true">' + changeHTMLAfter + '</a>'
+        } else {
+          changeHTMLAfter = '<a href="#" data-key="' + scripturekey.trim() + '">' + changeHTMLAfter + '</a>';
+        }
+      }
+      phraseHTML = phraseHTML.replace(changeHTMLBefore, changeHTMLAfter);
+    }
+    return phraseHTML;
   };
+
   const data = $(fp.view.content);
   const key = data.find('content')[0].attributes['key'].value;
   const title = phrase(1);
