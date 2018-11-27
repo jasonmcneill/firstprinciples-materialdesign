@@ -53,8 +53,8 @@ fp.showContent = async function(key, selector) {
 }
 
 fp.phrase = function(phraseObj) {
-  let phraseHTML = $(phraseObj).find('translated')[0].innerHTML.trim();
-  let changes = $(phraseObj).find('change');
+  const phraseHTML = $(phraseObj).find('translated')[0].innerHTML.trim();
+  const changes = $(phraseObj).find('change');
   let i;
   if (changes.length === 0) return phraseHTML;
   for (i = 0; i < changes.length; i++) {
