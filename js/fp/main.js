@@ -52,6 +52,42 @@ fp.showContent = async function(key, selector) {
   $.getScript(urlLogic);
 }
 
+fp.phrase = function(phraseObj) {
+  let phraseHTML = $(phraseObj).find('translated')[0].innerHTML.trim();
+  let changes = $(phraseObj).find('change');
+  let i;
+  if (changes.length === 0) return phraseHTML;
+  for (i = 0; i < changes.length; i++) {
+    let change = changes[i];
+    let changeHTMLBefore = $(change).find('translated')[0].innerHTML.trim();
+    let changeHTMLAfter = changeHTMLBefore;
+    let bold = $(change)[0].attributes['bold'].value;
+    let italic = $(change)[0].attributes['italic'].value;
+    let modal = $(change)[0].attributes['modal'].value;
+    let scripturekey = $(change)[0].attributes['scripturekey'].trim();
+    if (changeHTMLAfter.length === 0) continue;
+    if ((typeof bold !== 'undefined') && (bold === 'true')) {
+      changeHTMLAfter = '<strong>' + changeHTMLAfter + '</strong>';
+    }
+    if ((typeof italic !== 'undefined') && (italic === 'true')) {
+      changeHTMLAfter = '<em>' + changeHTMLAfter + '</em>';
+    }
+    if ((typeof scripturekey !== 'undefined') && (scripturekey.length > 0)) {
+      if ((typeof modal !== 'undefined') && (modal === 'true')) {
+        changeHTMLAfter = '<a href="../' + scripturekey + '/" data-modal="true">' + changeHTMLAfter + '</a>'
+      } else {
+        if (scripturekey.indexOf('http') > -1) {
+          changeHTMLAfter = '<a href="' + scripturekey + '">' + changeHTMLAfter + '</a>';
+        } else {
+          changeHTMLAfter = '<a href="../' + scripturekey + '/">' + changeHTMLAfter + '</a>';
+        }
+      }
+    }
+    phraseHTML = phraseHTML.replace(changeHTMLBefore, changeHTMLAfter);
+  }
+  return phraseHTML;
+}
+
 fp.init = async function(key) {
   await fp.loadKeys();
   await fp.language.global.renderTitle();
