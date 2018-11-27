@@ -57,7 +57,7 @@ fp.phrase = function(phraseObj) {
   const changes = $(phraseObj).find('change');
   const changesLength = changes.length;
   let i;
-  if (changes.length === 0) return phraseHTML;
+  if (changesLength === 0) return phraseHTML;
   for (i = 0; i < changesLength; i++) {
     const change = changes[i];
     const changeHTMLBefore = $(change).find('translated')[0].innerHTML.trim();
