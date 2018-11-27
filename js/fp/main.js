@@ -51,3 +51,9 @@ fp.showContent = async function(key, selector) {
   };
   $.getScript(urlLogic);
 }
+
+fp.init = async function(key) {
+  await fp.loadKeys();
+  await fp.language.global.renderTitle();
+  fp.showContent(key);
+};

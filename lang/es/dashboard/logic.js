@@ -23,9 +23,9 @@
       }
       if ((typeof scripturekey !== 'undefined') && (scripturekey.length > 0)) {
         if ((typeof modal !== 'undefined') && (modal === 'true')) {
-          changeHTMLAfter = '<a href="#" data-key="' + scripturekey.trim() + '" data-modal="true">' + changeHTMLAfter + '</a>'
+          changeHTMLAfter = '<a href="../' + scripturekey.trim() + '/" data-modal="true">' + changeHTMLAfter + '</a>'
         } else {
-          changeHTMLAfter = '<a href="#" data-key="' + scripturekey.trim() + '">' + changeHTMLAfter + '</a>';
+          changeHTMLAfter = '<a href="../' + scripturekey.trim() + '/">' + changeHTMLAfter + '</a>';
         }
       }
       phraseHTML = phraseHTML.replace(changeHTMLBefore, changeHTMLAfter);
@@ -39,7 +39,7 @@
   const html = `
     <br>
     <div class="row">
-      <div class="col xl6 l8 m10 s12 offset-xl3 offset-l2 offset-m1">
+      <div class="col xl6 offset-xl3 l8 offset-l2 m8 offset-m2 s12">
         <div class="collection">
           <a href="introduction/" class="collection-item">${phrase(2)}</a>
           <a href="course-information/" class="collection-item">${phrase(3)}</a>
