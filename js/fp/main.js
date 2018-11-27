@@ -75,16 +75,12 @@ fp.phrase = function(phraseObj) {
     }
     if ((typeof scripturekey !== 'undefined') && (scripturekey.length > 0)) {
       if ((typeof modal !== 'undefined') && (modal === 'true')) {
-        changeHTMLAfter = '<a href="../' + scripturekey + '/" data-modal="true">' + changeHTMLAfter + '</a>'
+        changeHTMLAfter = '<a href="#" data-scripturekey="' + scripturekey + '" data-modal="true">' + changeHTMLAfter + '</a>'
       } else {
         if ((scripturekey.substr(0,8) === 'https://') || (scripturekey.substr(0,7) === 'http://')) {
           changeHTMLAfter = '<a href="' + scripturekey + '">' + changeHTMLAfter + '</a>';
         } else {
-          if (scripturekey === 'dashboard') {
-            changeHTMLAfter = '<a href="../">' + changeHTMLAfter + '</a>';
-          } else {
-            changeHTMLAfter = '<a href="../' + scripturekey + '/">' + changeHTMLAfter + '</a>';
-          }
+          changeHTMLAfter = '<a href="#" data-scripturekey="' + scripturekey + '">' + changeHTMLAfter + '</a>';
         }
       }
     }
