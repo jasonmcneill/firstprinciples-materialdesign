@@ -80,7 +80,11 @@ fp.phrase = function(phraseObj) {
         if ((scripturekey.substr(0,8) === 'https://') || (scripturekey.substr(0,7) === 'http://')) {
           changeHTMLAfter = '<a href="' + scripturekey + '">' + changeHTMLAfter + '</a>';
         } else {
-          changeHTMLAfter = '<a href="../' + scripturekey + '/">' + changeHTMLAfter + '</a>';
+          if (scripturekey === 'dashboard') {
+            changeHTMLAfter = '<a href="../">' + changeHTMLAfter + '</a>';
+          } else {
+            changeHTMLAfter = '<a href="../' + scripturekey + '/">' + changeHTMLAfter + '</a>';
+          }
         }
       }
     }
