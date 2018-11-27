@@ -58,13 +58,13 @@ fp.phrase = function(phraseObj) {
   let i;
   if (changes.length === 0) return phraseHTML;
   for (i = 0; i < changes.length; i++) {
-    let change = changes[i];
-    let changeHTMLBefore = $(change).find('translated')[0].innerHTML.trim();
+    const change = changes[i];
+    const changeHTMLBefore = $(change).find('translated')[0].innerHTML.trim();
     let changeHTMLAfter = changeHTMLBefore;
-    let bold = $(change)[0].attributes['bold'].value;
-    let italic = $(change)[0].attributes['italic'].value;
-    let modal = $(change)[0].attributes['modal'].value;
-    let scripturekey = $(change)[0].attributes['scripturekey'].trim();
+    const bold = $(change)[0].attributes['bold'].value;
+    const italic = $(change)[0].attributes['italic'].value;
+    const modal = $(change)[0].attributes['modal'].value;
+    const scripturekey = $(change)[0].attributes['scripturekey'].trim();
     if (changeHTMLAfter.length === 0) continue;
     if ((typeof bold !== 'undefined') && (bold === 'true')) {
       changeHTMLAfter = '<strong>' + changeHTMLAfter + '</strong>';
@@ -76,7 +76,7 @@ fp.phrase = function(phraseObj) {
       if ((typeof modal !== 'undefined') && (modal === 'true')) {
         changeHTMLAfter = '<a href="../' + scripturekey + '/" data-modal="true">' + changeHTMLAfter + '</a>'
       } else {
-        if (scripturekey.indexOf('http') > -1) {
+        if ((scripturekey.substr(0,8) === 'https://') || (scripturekey.substr(0,7) === 'http://')) {
           changeHTMLAfter = '<a href="' + scripturekey + '">' + changeHTMLAfter + '</a>';
         } else {
           changeHTMLAfter = '<a href="../' + scripturekey + '/">' + changeHTMLAfter + '</a>';
