@@ -13,7 +13,7 @@
       let bold = $(change)[0].attributes['bold'].value;
       let italic = $(change)[0].attributes['italic'].value;
       let modal = $(change)[0].attributes['modal'].value;
-      let scripturekey = $(change)[0].attributes['scripturekey'];
+      let scripturekey = $(change)[0].attributes['scripturekey'].trim();
       if (changeHTMLAfter.length === 0) continue;
       if ((typeof bold !== 'undefined') && (bold === 'true')) {
         changeHTMLAfter = '<strong>' + changeHTMLAfter + '</strong>';
@@ -23,9 +23,13 @@
       }
       if ((typeof scripturekey !== 'undefined') && (scripturekey.length > 0)) {
         if ((typeof modal !== 'undefined') && (modal === 'true')) {
-          changeHTMLAfter = '<a href="../' + scripturekey.trim() + '/" data-modal="true">' + changeHTMLAfter + '</a>'
+          changeHTMLAfter = '<a href="../' + scripturekey + '/" data-modal="true">' + changeHTMLAfter + '</a>'
         } else {
-          changeHTMLAfter = '<a href="../' + scripturekey.trim() + '/">' + changeHTMLAfter + '</a>';
+          if (scripturekey.indexOf('http') > -1) {
+            changeHTMLAfter = '<a href="' + scripturekey + '">' + changeHTMLAfter + '</a>';
+          } else {
+            changeHTMLAfter = '<a href="../' + scripturekey + '/">' + changeHTMLAfter + '</a>';
+          }
         }
       }
       phraseHTML = phraseHTML.replace(changeHTMLBefore, changeHTMLAfter);
