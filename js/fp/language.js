@@ -46,6 +46,7 @@ fp.language = {
       localforage.getItem('lang').then(function(iso) {
         let lang = iso;
         if(typeof iso === 'undefined') lang = fp.language.detect();
+        fp.lang = lang;
         resolve(lang);
       });
     });

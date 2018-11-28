@@ -53,29 +53,51 @@ fp.showContent = async function(key, selector) {
 }
 
 fp.phrase = function(phraseObj) {
-  let phraseHTML = $(phraseObj).find('translated')[0].innerHTML.trim();
+  let phraseHTML;
+  if (fp.lang === 'en') {
+    phraseHTML = $(phraseObj).find('original')[0].innerHTML.trim();
+  } else {
+    phraseHTML = $(phraseObj).find('translated')[0].innerHTML.trim();
+  }
   const changes = $(phraseObj).find('change');
   const changesLength = changes.length;
   let i;
   if (changesLength === 0) return phraseHTML;
   for (i = 0; i < changesLength; i++) {
     const change = changes[i];
-    const changeHTMLBefore = $(change).find('translated')[0].innerHTML.trim();
+    let changeHTMLBefore;
+    if (fp.lang === 'en') {
+      changeHTMLBefore = $(change).find('original')[0].innerHTML.trim();
+    } else {
+      changeHTMLBefore = $(change).find('translated')[0].innerHTML.trim();
+    }
     let changeHTMLAfter = changeHTMLBefore;
-    const bold = $(change)[0].attributes['bold'].value;
-    const italic = $(change)[0].attributes['italic'].value;
-    const modal = $(change)[0].attributes['modal'].value;
-    const scripturekey = $(change)[0].attributes['scripturekey'].trim();
+    let bold = 'false';
+    let italic = 'false';
+    let modal = 'false';
+    let scripturekey = '';
+    if (change.attributes.hasOwnProperty('bold')) {
+      bold = change.attributes['bold'].value;
+    }
+    if (change.attributes.hasOwnProperty('italic')) {
+      italic = change.attributes['italic'].value;
+    }
+    if (change.attributes.hasOwnProperty('modal')) {
+      modal = change.attributes['modal'].value;
+    }
+    if (change.attributes.hasOwnProperty('scripturekey')) {
+      scripturekey = change.attributes['scripturekey'].value;
+    }
     if (changeHTMLAfter.length === 0) continue;
-    if ((typeof bold !== 'undefined') && (bold === 'true')) {
+    if (bold === 'true') {
       changeHTMLAfter = '<strong>' + changeHTMLAfter + '</strong>';
     }
-    if ((typeof italic !== 'undefined') && (italic === 'true')) {
+    if (italic === 'true') {
       changeHTMLAfter = '<em>' + changeHTMLAfter + '</em>';
     }
-    if ((typeof scripturekey !== 'undefined') && (scripturekey.length > 0)) {
-      if ((typeof modal !== 'undefined') && (modal === 'true')) {
-        changeHTMLAfter = '<a href="#" data-scripturekey="' + scripturekey + '" data-modal="true">' + changeHTMLAfter + '</a>'
+    if (scripturekey.length > 0) {
+      if (modal === 'true') {
+        changeHTMLAfter = '<a href="#" data-scripturekey="' + scripturekey + '" data-modal="true">' + changeHTMLAfter + '</a>';
       } else {
         if ((scripturekey.substr(0,8) === 'https://') || (scripturekey.substr(0,7) === 'http://')) {
           changeHTMLAfter = '<a href="' + scripturekey + '">' + changeHTMLAfter + '</a>';
