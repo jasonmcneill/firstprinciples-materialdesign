@@ -49,7 +49,8 @@ fp.showContent = async function(key, selector) {
     },
     content: content
   };
-  $.getScript(urlLogic);
+  await $.getScript(urlLogic);
+  // fp.attachEvents();
 }
 
 fp.phrase = function(phraseObj) {
@@ -111,8 +112,57 @@ fp.phrase = function(phraseObj) {
   return phraseHTML;
 }
 
+fp.events = {
+
+  handlers: {
+
+    showScripture: function(evt) {
+      return new Promise(function(resolve, reject){
+        var scripturekey = evt.currentTarget.attributes['data-scripturekey'].value;
+        $.ajax({
+          url: '../scriptures/' + scripturekey + '/content.xml',
+          error: function(err){
+            console.error(err);
+            reject(err);
+          },
+          success: function(xml) {
+            const $xml = $(xml);
+            console.log($xml);
+            resolve($xml);
+          }
+        });
+      });
+    }
+
+  },
+
+  listeners: {
+
+    scriptureClicked: async function() {
+      return new Promise(function(resolve, reject){
+        $('a[data-scripturekey][data-modal]').on('click', function(evt) {
+          evt.preventDefault();
+          fp.events.handlers.showScripture(evt);
+          resolve(evt);
+        });
+      });
+    },
+
+    attach: async function() {
+      Promise.all([
+        fp.events.listeners.scriptureClicked()
+      ]).then(function(values){
+        return values;
+      });
+    }
+
+  }
+
+};
+
 fp.init = async function(key) {
   await fp.loadKeys();
   await fp.language.global.renderTitle();
-  fp.showContent(key);
+  await fp.showContent(key);
+  await fp.events.listeners.attach();
 };
