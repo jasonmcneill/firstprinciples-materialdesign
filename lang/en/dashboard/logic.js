@@ -1,8 +1,7 @@
 (function(){
-
   const data = $(fp.view.content);
   const phrase = function(phraseID) {
-    const phraseObj = data.find('phrase[id=' + phraseID + ']')[0];
+    const phraseObj = $(data).find('phrase[id=' + phraseID + ']');
     const phraseHTML = fp.phrase(phraseObj);
     return phraseHTML;
   };
@@ -38,7 +37,8 @@
       </div>
     </div>
   `;
+  $('title').text(title);
   $(fp.view.containers.title).html(title);
   $(fp.view.containers.content).html(html);
-
+  $('nav[role="name"').addClass('hide');
 })();

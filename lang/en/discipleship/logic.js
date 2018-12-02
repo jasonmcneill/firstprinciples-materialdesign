@@ -20,6 +20,7 @@
       </div>
     </div>
   `;
+  $('title').text(title);
   $(fp.view.containers.title).html(title);
   $(fp.view.containers.content).html(html);
 

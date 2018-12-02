@@ -1,9 +1,22 @@
 const fp = {};
 
-fp.loadKeys = function() {
-  fp.language.get()
-  .then(function(lang){
-    var url = '/lang/' + lang + '/keys.json';
+fp.getPath = function(fromKey, lang) {
+  let path;
+  if (fromKey === 'index') {
+    path = 'lang/' + lang + '/';
+  } else if (fromKey === 'dashboard') {
+    path = './';
+  } else {
+    path = '../';
+  }
+  return path;
+}
+
+fp.loadKeys = async function(fromKey) {
+  let lang = await fp.language.get();
+  let path = fp.getPath(fromKey, lang);
+  let url = path + 'keys.json';
+  return new Promise(function(resolve, reject) {
     $.ajax({
       url: url,
       error: function(err) {
@@ -11,31 +24,18 @@ fp.loadKeys = function() {
       },
       success: function(data) {
         fp.keys = data;
-        return(data);
+        fp.language.set(fp.keys.lang);
+        resolve(data);
       }
     });
-  })
-};
-
-fp.showView = function(view) {
-  return new Promise(function(resolve, reject) {
-    if (! view) view = '/';
-    const stateObj = {
-      key: view
-    };
-    const pushState = history.pushState(stateObj);    
-    console.log(pushState);
-    resolve(pushState);
   });
 };
 
-fp.showContent = async function(key, selector) {
-  if (! key) return;
+fp.showContent = async function(key, lang, selector) {
   if (! selector) selector = '.fp_pagecontent';
-  const lang = await fp.language.get();
-  const urlPrefix = '/lang/' + lang + '/' + key + '/';
-  const urlContent = urlPrefix + 'content.xml';
-  const urlLogic = urlPrefix + 'logic.js';
+  let urlPrefix = fp.getPath(key, lang);
+  const urlContent = urlPrefix + key + '/content.xml';
+  const urlLogic = urlPrefix + key + '/logic.js';
   const content = await $.ajax({
     url: urlContent,
     error: function(err) {
@@ -49,13 +49,12 @@ fp.showContent = async function(key, selector) {
     },
     content: content
   };
-  await $.getScript(urlLogic);
-  // fp.attachEvents();
+  $.getScript(urlLogic);
 }
 
 fp.phrase = function(phraseObj) {
   let phraseHTML;
-  if (fp.lang === 'en') {
+  if (fp.language.current === 'en') {
     phraseHTML = $(phraseObj).find('original')[0].innerHTML.trim();
   } else {
     phraseHTML = $(phraseObj).find('translated')[0].innerHTML.trim();
@@ -67,7 +66,7 @@ fp.phrase = function(phraseObj) {
   for (i = 0; i < changesLength; i++) {
     const change = changes[i];
     let changeHTMLBefore;
-    if (fp.lang === 'en') {
+    if (fp.language.current === 'en') {
       changeHTMLBefore = $(change).find('original')[0].innerHTML.trim();
     } else {
       changeHTMLBefore = $(change).find('translated')[0].innerHTML.trim();
@@ -160,9 +159,14 @@ fp.events = {
 
 };
 
-fp.init = async function(key) {
-  await fp.loadKeys();
-  await fp.language.global.renderTitle();
-  await fp.showContent(key);
-  await fp.events.listeners.attach();
+fp.init = async function(fromKey) {
+  await fp.loadKeys(fromKey);
+  fp.language.global.setAppTitle(fromKey, fp.keys.lang);
+  if (fromKey === 'index') {
+    fp.language.indexPage.loadTitle();
+    fp.language.indexPage.loadContent();
+    return;
+  }
+  fp.showContent(fromKey, fp.keys.lang);
+  // await fp.events.listeners.attach();
 };
