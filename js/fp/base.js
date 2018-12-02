@@ -76,6 +76,7 @@ fp.phrase = function(phraseObj) {
     let italic = 'false';
     let modal = 'false';
     let scripturekey = '';
+    let href = '';
     if (change.attributes.hasOwnProperty('bold')) {
       bold = change.attributes['bold'].value;
     }
@@ -87,6 +88,9 @@ fp.phrase = function(phraseObj) {
     }
     if (change.attributes.hasOwnProperty('scripturekey')) {
       scripturekey = change.attributes['scripturekey'].value;
+    }
+    if (change.attributes.hasOwnProperty('href')) {
+      href = change.attributes['href'].value;
     }
     if (changeHTMLAfter.length === 0) continue;
     if (bold === 'true') {
@@ -105,6 +109,9 @@ fp.phrase = function(phraseObj) {
           changeHTMLAfter = '<a href="#" data-scripturekey="' + scripturekey + '">' + changeHTMLAfter + '</a>';
         }
       }
+    }
+    if (href.length > 0) {
+      changeHTMLAfter = '<a href="' + href + '">' + changeHTMLAfter + '</a>';
     }
     phraseHTML = phraseHTML.replace(changeHTMLBefore, changeHTMLAfter);
   }
