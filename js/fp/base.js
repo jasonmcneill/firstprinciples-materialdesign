@@ -162,6 +162,7 @@ fp.events = {
 fp.init = async function(fromKey) {
   await fp.loadKeys(fromKey);
   fp.language.global.setAppTitle(fromKey, fp.keys.lang);
+  fp.language.global.setExpandButton(fromKey, fp.keys.lang);
   if (fromKey === 'index') {
     fp.language.indexPage.loadTitle();
     fp.language.indexPage.loadContent();
