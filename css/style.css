@@ -96,3 +96,7 @@ div.verseref > span {
   font-weight: bold;
   font-style: italic;
 }
+
+blockquote {
+  border-left-color: #bbb;
+}
