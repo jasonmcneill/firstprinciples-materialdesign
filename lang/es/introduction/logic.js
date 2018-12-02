@@ -7,10 +7,20 @@
   };
   const key = data.find('content')[0].attributes['key'].value;
   const title = phrase(1);
+  let mediaHTML = '';
+  const media = function() {
+    const mediaObj = $(data).find('media');
+    mediaHTML = fp.media(mediaObj);
+  };
+  media();
   const html = `
     <br>
     <div class="row">
       <div class="col">
+
+        <div class="center hide" id="fpmedia">
+          ${mediaHTML}
+        </div>
         
         <blockquote>
           <em>${phrase(2)}</em> &mdash; ${phrase(3)}
@@ -31,4 +41,5 @@
   $('title').text(title);
   $(fp.view.containers.title).html(title);
   $(fp.view.containers.content).html(html);
+  if (mediaHTML !== '') $('#fpmedia').removeClass('hide');
 })();

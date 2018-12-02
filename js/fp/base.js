@@ -118,6 +118,98 @@ fp.phrase = function(phraseObj) {
   return phraseHTML;
 }
 
+fp.media = function(mediaObj) {
+  let mediaHTML = '';
+  if (mediaObj.length === 0) return mediaHTML;
+  const recordings = mediaObj.find('recording');
+  if (recordings.length === 0) return mediaHTML;
+  let recordingsLength = recordings.length;
+  for(let i=0; i<recordingsLength; i++) {
+    const recording = $(recordings[i]);
+    const recordingID = recording.attr('uuid');
+    const recordingLabel = recording.attr('label');
+    const embeds = recording.find('embed');
+    if (embeds.length > 0) {
+      let embedHTML = '';
+      const embed = embeds[0];
+      const embedType = embed.attributes['type'].value;
+      const sources = $(embed).find('source');
+      if (sources.length > 0) {
+        if (embedType === 'audio') {
+          embedHTML += `
+            <audio 
+              controls 
+              crossorigin="anonymous" 
+              id="recording-${recordingID}"
+            >`;
+          for (let j=0; j<sources.length; j++) {
+            let source = sources[j];
+            embedHTML += `<source type="${source.attributes['type'].value}" src="${source.attributes['url'].value}">`;
+          }
+          embedHTML += `</audio>`;
+        } else if (embedType === 'video') {
+          const poster = $(recording).find('poster');
+          const posterWidth = poster[0].attributes['width'].value.trim();
+          const posterHeight = poster[0].attributes['height'].value.trim();
+          const posterUrl = poster[0].attributes['url'].value.trim();
+          if ( 
+            (poster.length > 0) && 
+            (posterUrl !== '') && 
+            (posterWidth !== '') && 
+            (posterHeight !== '') 
+          ) {
+            let videoHTML = `
+              <video 
+                controls 
+                crossorigin="anonymous" 
+                poster="${posterUrl}" 
+                width="${parseInt(posterWidth)}" 
+                height="${parseInt(posterHeight)}" 
+                id="recording-${recordingID}" 
+                style="width: 67%; max-width: ${parseInt(posterWidth)}px; height: auto"
+              >
+            `;
+            embedHTML += videoHTML;
+          } else {
+            let videoHTML = `
+              <video 
+                controls 
+                crossorigin="anonymous" 
+                id="recording-${recordingID}"
+              >
+            `;
+            embedHTML += videoHTML;
+          }
+          for (let j=0; j<sources.length; j++) {
+            let source = sources[j];
+            embedHTML += `<source type="${source.attributes['type'].value}" src="${source.attributes['url'].value}">`;
+          }
+          embedHTML += `</video>`;
+        }
+        if (recordingLabel !== '') {
+          const isLastRecording = (i === (recordingsLength - 1) );
+          mediaHTML += `
+            <p class="center">
+              <strong>
+                ${recordingLabel}
+              </strong>
+            </p>
+            <div class="center">
+              ${embedHTML}
+            </div>
+          `;
+          if (! isLastRecording) {
+            mediaHTML += `<hr>`;
+          }
+        } else {
+          mediaHTML += embedHTML;
+        }
+      }
+    }
+  }
+  return mediaHTML;
+};
+
 fp.events = {
 
   handlers: {
