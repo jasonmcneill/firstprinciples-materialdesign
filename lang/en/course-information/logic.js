@@ -46,11 +46,9 @@
           </li>
         </ol>
 
-        <p>
-          <strong>
-            ${phrase(9)}
-          </strong>
-        </p>
+        <h5>
+          ${phrase(9)}
+        </h5>
 
         <table>
           <tbody>
@@ -66,7 +64,7 @@
               <td>
                 ${phrase(12)}
               </td>
-              <td
+              <td>
                 ${phrase(13)}
               </td>
             </tr>
@@ -169,11 +167,9 @@
           </tbody>
         </table>
 
-        <p>
-          <strong>
-            ${phrase(38)}
-          </strong>
-        </p>
+        <h5>
+          ${phrase(38)}
+        </h5>
 
         <p>
           ${phrase(39)}
@@ -200,11 +196,9 @@
           </li>
         </ul>
 
-        <p>
-          <strong>
-            ${phrase(55)}
-          </strong>
-        </p>
+        <h5>
+          ${phrase(55)}
+        </h5>
 
         <table>
           <tbody>
