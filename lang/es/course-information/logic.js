@@ -36,12 +36,6 @@
             ${phrase(5)}
           </li>
           <li class="collection-item">
-            ${phrase(6)}
-          </li>
-          <li class="collection-item">
-            ${phrase(7)}
-          </li>
-          <li class="collection-item">
             ${phrase(8)}
           </li>
         </ul>
@@ -166,89 +160,21 @@
             </tr>
           </tbody>
         </table>
-
+        
         <h5>
-          ${phrase(38)}
+          ${phrase(9)}
         </h5>
 
         <p>
-          ${phrase(39)}
+          ${phrase(40)}
         </p>
 
         <ul>
-          <li>
-            ${phrase(40)} &mdash; ${phrase(41)}
-          </li>
-          <li>
-            ${phrase(42)} &mdash; ${phrase(43)} &mdash; ${phrase(44)}
-          </li>
-          <li>
-            ${phrase(45)} &mdash; ${phrase(46)} &mdash; ${phrase(47)}
-          </li>
-          <li>
-            ${phrase(48)} &mdash; ${phrase(49)} &mdash; ${phrase(50)}
-          </li>
-          <li>
-            ${phrase(51)} &mdash; ${phrase(52)}
-          </li>
-          <li>
-            ${phrase(53)} &mdash; ${phrase(54)}
-          </li>
+          <li>${phrase(41)}: ${phrase(42)}</li>
+          <li>${phrase(43)}: ${phrase(44)}</li>
+          <li>${phrase(45)}: ${phrase(46)}</li>
         </ul>
 
-        <h5>
-          ${phrase(55)}
-        </h5>
-
-        <table>
-          <tbody>
-            <tr>
-              <td>
-                ${phrase(56)}
-              </td>
-              <td>
-                ${phrase(57)}
-              </td>
-              <td>
-                ${phrase(58)}
-              </td>
-            </tr>
-            <tr>
-              <td>
-                ${phrase(59)}
-              </td>
-              <td>
-                ${phrase(60)}
-              </td>
-              <td>
-                ${phrase(61)}
-              </td>
-            </tr>
-            <tr>
-              <td>
-                ${phrase(62)}
-              </td>
-              <td>
-                ${phrase(63)}
-              </td>
-              <td>
-                ${phrase(64)}
-              </td>
-            </tr>
-            <tr>
-              <td>
-                ${phrase(65)}
-              </td>
-              <td>
-                ${phrase(66)}
-              </td>
-              <td>
-                ${phrase(67)}
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        
       </div>
     </div>
   `;

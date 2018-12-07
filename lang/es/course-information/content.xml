@@ -359,6 +359,102 @@
 		</translated>
 	</phrase>
 
+	<phrase id="38" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Libros Recomendados
+		</translated>
+	</phrase>
+
+	<phrase id="40" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			Los siguientes libros son recomendados como herramientas informativas y para hacerte pensar, y útiles para entender la Palabra de Dios. De ninguna manera se sugiere que tengan enseñanzas bíblicas en todos los aspectos de la doctrina. 
+		</translated>
+	</phrase>
+
+	<phrase id="41" desc="">
+		<original>
+			Chapman
+		</original>
+		<translated>
+			Chapman
+		</translated>
+	</phrase>
+
+	<phrase id="42" desc="">
+		<original>
+			The Five Love Languages
+		</original>
+		<translated>
+			Los 5 lenguajes del amor
+		</translated>
+		<change bold="true" italic="false" modal="false" href="http://a.co/d/5TjolCa">
+			<original>
+				The Five Love Languages
+			</original>
+			<translated>
+				Los 5 lenguajes del amor
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="43" desc="">
+		<original>
+			Coleman
+		</original>
+		<translated>
+			Coleman
+		</translated>
+	</phrase>
+
+	<phrase id="44" desc="">
+		<original>
+			The Master Plan of Evangelism
+		</original>
+		<translated>
+			El Plan Maestro del Evangelismo
+		</translated>
+		<change bold="true" italic="false" modal="false" href="http://a.co/d/iY3P7KB">
+			<original>
+				The Master Plan of Evangelism
+			</original>
+			<translated>
+				El Plan Maestro del Evangelismo
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="45" desc="">
+		<original>
+			Taylor
+		</original>
+		<translated>
+			Taylor
+		</translated>
+	</phrase>
+
+	<phrase id="46" desc="">
+		<original>
+			The Disciplined Life
+		</original>
+		<translated>
+			La Vida Disiplinada
+		</translated>
+		<change bold="true" italic="false" modal="false" href="http://a.co/d/1RY5oWz">
+			<original>
+				The Disciplined Life
+			</original>
+			<translated>
+				La Vida Disiplinada
+			</translated>
+		</change>
+	</phrase>
+
 	<!--
 	<phrase id="" desc="">
 		<original>
