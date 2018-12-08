@@ -15,7 +15,7 @@
         <div class="collection">
           <a href="introduction/" class="collection-item">${phrase(2)}</a>
           <a href="course-information/" class="collection-item">${phrase(3)}</a>
-          <a href="book-of-john/" class="collection-item">${phrase(4)}</a>
+          <a href="book-of-john/" class="collection-item hide">${phrase(4)}</a>
           <a href="seeking-god/" class="collection-item">${phrase(5)}</a>
           <a href="the-word/" class="collection-item">${phrase(6)}</a>
           <a href="discipleship/" class="collection-item">${phrase(7)}</a>
