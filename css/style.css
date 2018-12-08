@@ -10,6 +10,12 @@ body {
   overscroll-behavior-y: contain;
 }
 
+.homeicon {
+  margin: 0 18px;
+  float: left;
+  position: relative;
+}
+
 span.jesuswords {
   color: #cc0000; 
 }
