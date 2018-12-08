@@ -6,8 +6,33 @@
  * Made By MaterializeCSS.com
  */
 
+.fp_pagecontent a {
+  text-decoration: underline;
+}
+
+a.collection-item {
+  text-decoration: none;
+}
+
+.fp_pagecontent p:first-child {
+  margin-top: 0;
+}
+
 body {
   overscroll-behavior-y: contain;
+}
+
+ol li {
+  margin-bottom: 1.5rem;
+}
+
+ol li ol {
+  list-style-type: upper-alpha;
+  margin-top: 1rem;
+}
+
+ol li ol li {
+  margin-bottom: 1rem;
 }
 
 .homeicon {
@@ -47,7 +72,7 @@ nav .brand-logo {
 }
 
 audio {
-	margin: 1rem 0 0 0;
+	margin: 1rem 0 1rem 0;
 }
 
 .fp_pagehead {

@@ -16,7 +16,7 @@
   const html = `
     <br>
     <div class="row">
-      <div class="col s12">
+      <div class="col xl6 offset-xl3 l8 offset-l2 m8 offset-m2 s12">
 
         <div class="center hide" id="fpmedia">
           ${mediaHTML}
