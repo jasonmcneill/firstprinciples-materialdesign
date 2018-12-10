@@ -26,12 +26,23 @@ ol li {
   margin-bottom: 1.5rem;
 }
 
-ol li ol {
+ol ol {
   list-style-type: upper-alpha;
   margin-top: 1rem;
 }
 
-ol li ol li {
+ol ol ol {
+  list-style-type: decimal;
+  margin-top: 1rem;
+}
+
+ol ol ol ol {
+  list-style-type: lower-alpha;
+  margin-top: 1rem;
+}
+
+ol ol li,
+ol ol ol li {
   margin-bottom: 1rem;
 }
 
