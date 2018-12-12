@@ -47,7 +47,7 @@ ol ol ol li {
 }
 
 .homeicon {
-  margin: 0 18px;
+  margin: 4px 18px;
   float: left;
   position: relative;
 }
@@ -141,4 +141,12 @@ div.verseref > span {
 
 blockquote {
   border-left-color: #bbb;
+}
+
+.fp_pagehead {
+    clear: both;
+}
+
+nav[role='name'] {
+    line-height: 14px;
 }
