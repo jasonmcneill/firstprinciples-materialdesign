@@ -236,22 +236,15 @@ fp.events = {
 
   listeners: {
 
-    scriptureClicked: async function() {
-      return new Promise(function(resolve, reject){
-        $('a[data-scripturekey][data-modal]').on('click', function(evt) {
-          evt.preventDefault();
-          fp.events.handlers.showScripture(evt);
-          resolve(evt);
-        });
+    scriptureClicked: function() {
+      $('a[data-scripturekey][data-modal]').on('click', function(evt) {
+        evt.preventDefault();
+        fp.events.handlers.showScripture(evt);
       });
     },
 
-    attach: async function() {
-      Promise.all([
-        fp.events.listeners.scriptureClicked()
-      ]).then(function(values){
-        return values;
-      });
+    attach: function() {
+      fp.events.listeners.scriptureClicked();
     }
 
   }
@@ -268,5 +261,5 @@ fp.init = async function(fromKey) {
     return;
   }
   fp.showContent(fromKey, fp.keys.lang);
-  // await fp.events.listeners.attach();
+  fp.events.listeners.attach();
 };
