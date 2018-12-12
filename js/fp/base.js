@@ -237,9 +237,11 @@ fp.events = {
   listeners: {
 
     scriptureClicked: function() {
-      $('a[data-scripturekey][data-modal]').on('click', function(evt) {
+      $('.fp_pagecontent').on('click', 'a[data-scripturekey]', function(evt) {
+        const key = $(evt.currentTarget).data('scripturekey');
         evt.preventDefault();
         fp.events.handlers.showScripture(evt);
+        console.log("Clicked:", key);
       });
     },
 
@@ -260,6 +262,6 @@ fp.init = async function(fromKey) {
     fp.language.indexPage.loadContent();
     return;
   }
-  fp.showContent(fromKey, fp.keys.lang);
-  fp.events.listeners.attach();
+  await fp.showContent(fromKey, fp.keys.lang);
+  await fp.events.listeners.attach();
 };
