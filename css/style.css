@@ -146,3 +146,10 @@ blockquote {
 .fp_pagehead {
     clear: both;
 }
+
+@media only screen and (max-width: 600) {
+    .fp_pagehead {
+        width: 100%;
+        line-height: 15px;
+    }
+}
