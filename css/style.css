@@ -148,3 +148,7 @@ blockquote {
   width: 100%;
   position: absolute;
 }
+
+table.firstColNoWrap td:nth-child(1) {
+  white-space: nowrap;
+}
