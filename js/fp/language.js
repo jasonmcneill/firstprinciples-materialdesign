@@ -72,6 +72,7 @@ fp.language = {
             };
             $('html')
               .find('.brand-logo').text(text.appTitle).end()
+              .find('title').text(text.appTitle).end()
             ;
           }
         })
@@ -115,7 +116,7 @@ fp.language = {
           const $data = $(data);
           const pageTitle = $data.find('phrase[id=3] translated')[0].innerHTML.trim();
           $('.fp_pagehead').html(pageTitle);
-          $('title').text(pageTitle);
+          $('title').text(appTitle);
         }
       });
     },
