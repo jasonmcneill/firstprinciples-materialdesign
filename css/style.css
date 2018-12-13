@@ -22,11 +22,17 @@ body {
   overscroll-behavior-y: contain;
 }
 
+ol {
+  padding-left: 0;
+}
+
 ol li {
+  padding-left: 0.5rem;
   margin-bottom: 1.5rem;
 }
 
 ol ol {
+  padding-left: 1rem;
   list-style-type: upper-alpha;
   margin-top: 1rem;
 }
