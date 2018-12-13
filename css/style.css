@@ -143,20 +143,27 @@ blockquote {
   border-left-color: #bbb;
 }
 
-.fp_pagehead {
-    clear: both;
-    line-height: 51px;
-    width: 100%;
-}
-
 @media only screen and (max-width: 600) {
     .fp_pagehead {
+        clear: both;
+        width: 100%;
         line-height: 15px !important;
     }
 }
 
 @media only screen and (max-width: 990) {
     .fp_pagehead {
+        clear: both;
+        width: 100%;
         line-height: 41px !important;
+    }
+}
+
+
+@media only screen and (min-width: 991) {
+    .fp_pagehead {
+        clear: both;
+        width: 100%;
+        line-height: 51px !important;
     }
 }
