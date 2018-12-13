@@ -44,7 +44,7 @@
           ${phrase(9)}
         </h5>
 
-        <table>
+        <table class="firstColNoWrap">
           <tbody>
             <tr>
               <td>
