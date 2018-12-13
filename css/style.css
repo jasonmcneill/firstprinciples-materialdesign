@@ -151,4 +151,5 @@ blockquote {
 
 table.firstColNoWrap td:nth-child(1) {
   white-space: nowrap;
+  vertical-align: top;
 }
