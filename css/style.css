@@ -6,6 +6,10 @@
  * Made By MaterializeCSS.com
  */
 
+strong {
+  font-weight: bold;
+}
+
 .fp_pagecontent a {
   text-decoration: underline;
 }
