@@ -115,6 +115,7 @@ fp.language = {
           const $data = $(data);
           const pageTitle = $data.find('phrase[id=3] translated')[0].innerHTML.trim();
           $('.fp_pagehead').html(pageTitle);
+          $('title').text(pageTitle);
         }
       });
     },
