@@ -104,7 +104,7 @@ fp.language = {
 
     loadTitle: function() {
       fromKey = 'index';
-      lang = fp.keys.lang;
+      lang = fp.language.current;
       path = fp.getPath(fromKey, lang);
       url = path + 'global/content.xml';
       $.ajax({
