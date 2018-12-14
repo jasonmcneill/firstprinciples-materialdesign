@@ -18,26 +18,34 @@ fp.loadKeys = async function(fromKey) {
   let url = path + 'keys.json';
   const absoluteUrl = document.location.hostname + '/lang/' + lang + '/keys.json';
   return new Promise(function(resolve, reject) {
-    $.ajax({
-      url: url,
-      error: function(err) {
-        console.error(err);
-      },
-      beforeSend: function() {
-        let keysInSession;
-        keysInSession = sessionStorage.getItem(absoluteUrl);
-        if (typeof keysInSession !== 'undefined') {
-          resolve(keysInSession);
+    const idbKeys = await localForage.getItem('keys');
+    if (! idbKeys) {
+      $.ajax({
+        url: url,
+        error: function(err) {
+          console.error(err);
+        },
+        beforeSend: function() {
+          let keysInSession;
+          keysInSession = sessionStorage.getItem(absoluteUrl);
+          if (typeof keysInSession !== 'undefined') {
+            resolve(keysInSession);
+          }
+        },
+        success: async function(data) {
+          const storeData = localForage.setItem('keys', data);
+          sessionStorage.setItem(absoluteUrl, JSON.stringify(data));
+          fp.keys = data;
+          fp.language.set(fp.keys.lang);
+          resolve(data);
         }
-      },
-      success: function(data) {
-
-        sessionStorage.setItem(absoluteUrl, JSON.stringify(data));
-        fp.keys = data;
-        fp.language.set(fp.keys.lang);
-        resolve(data);
-      }
-    });
+      });
+    } else {
+      sessionStorage.setItem(absoluteUrl, JSON.stringify(idbKeys));
+      fp.keys = idbKeys;
+      fp.language.set(fp.keys.lang);
+      resolve(idbKeys);
+    }
   });
 };
 
