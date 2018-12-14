@@ -267,12 +267,10 @@ fp.events = {
 };
 
 fp.init = async function(fromKey) {
-  if (fromKey === 'dashboard') {
+  if (fromKey === 'index') {
     fp.language.current = await fp.language.get();
     fp.language.indexPage.loadTitle();
     fp.language.indexPage.loadContent();
-    await fp.showContent(fromKey, fp.keys.lang);
-    await fp.events.listeners.attach();
     return;
   }
   fp.keys = await fp.loadKeys(fromKey);
