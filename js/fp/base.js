@@ -16,13 +16,23 @@ fp.loadKeys = async function(fromKey) {
   let lang = await fp.language.get();
   let path = fp.getPath(fromKey, lang);
   let url = path + 'keys.json';
+  const absoluteUrl = document.location.hostname + '/lang/' + lang + '/keys.json';
   return new Promise(function(resolve, reject) {
     $.ajax({
       url: url,
       error: function(err) {
         console.error(err);
       },
+      beforeSend: function() {
+        let keysInSession;
+        keysInSession = sessionStorage.getItem(absoluteUrl);
+        if (typeof keysInSession !== 'undefined') {
+          resolve(keysInSession);
+        }
+      },
       success: function(data) {
+
+        sessionStorage.setItem(absoluteUrl, JSON.stringify(data));
         fp.keys = data;
         fp.language.set(fp.keys.lang);
         resolve(data);
@@ -255,13 +265,13 @@ fp.events = {
 
 fp.init = async function(fromKey) {
   await fp.loadKeys(fromKey);
-  fp.language.global.setAppTitle(fromKey, fp.keys.lang);
-  fp.language.global.setExpandButton(fromKey, fp.keys.lang);
+  fp.language.global.setAppTitle(fromKey, fp.language.current);
+  fp.language.global.setExpandButton(fromKey, fp.language.current);
   if (fromKey === 'index') {
     fp.language.indexPage.loadTitle();
     fp.language.indexPage.loadContent();
     return;
   }
-  await fp.showContent(fromKey, fp.keys.lang);
+  await fp.showContent(fromKey, fp.language.current);
   await fp.events.listeners.attach();
 };
