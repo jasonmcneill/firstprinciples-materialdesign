@@ -31,10 +31,11 @@ fp.loadKeys = async function(fromKey) {
   }
   if ((typeof fpKeys === 'string') && (fpKeys.length > 0)) {
     return new Promise(function(resolve, reject){
+      window.fp = {};
       fp.keys = fpKeys;
       fp.language.set(fpKeys.lang);
       resolve(fpKeys);
-      localforage.setItem(absoluteUrl, fp.keys);
+      localforage.setItem(absoluteUrl, fpKeys);
     });
   }
 
