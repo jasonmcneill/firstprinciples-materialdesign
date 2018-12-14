@@ -17,7 +17,7 @@ fp.loadKeys = async function(fromKey) {
   let path = fp.getPath(fromKey, lang);
   let url = path + 'keys.json';
   const absoluteUrl = document.location.hostname + '/lang/' + lang + '/keys.json';
-  return new Promise(function(resolve, reject) {
+  return new Promise(async function(resolve, reject) {
     const idbKeys = await localForage.getItem('keys');
     if (! idbKeys) {
       $.ajax({
