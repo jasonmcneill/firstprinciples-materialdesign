@@ -64,7 +64,13 @@ fp.showContent = async function(key, lang, selector) {
   $.ajax({
     url: urlLogic,
     dataType: 'script',
-    cache: true
+    cache: true,
+    error: function(err) {
+      console.error(err);
+    },
+    success: function(data) {
+      console.log('fp.showContent()', data);
+    }
   });
 }
 
