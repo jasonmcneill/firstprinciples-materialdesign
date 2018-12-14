@@ -13,33 +13,37 @@ fp.getPath = function(fromKey, lang) {
 }
 
 fp.loadKeys = async function(fromKey) {
+  
   let lang = await fp.language.get();
   let path = fp.getPath(fromKey, lang);
   let url = path + 'keys.json';
   const absoluteUrl = document.location.hostname + '/lang/' + lang + '/keys.json';
-  return new Promise(async function(resolve, reject) {
-    let fpKeys = sessionStorage.getItem(absoluteUrl);
-    if (! fpKeys) {
-      fpKeys = await localforage.getItem(absoluteUrl);
-    }
-    if (! fpKeys) {
-      $.ajax({
-        url: url,
-        error: function(err) {
-          console.error(err);
-        },
-        success: function(data) {
-          sessionStorage.setItem(absoluteUrl, JSON.stringify(data));
-          fp.keys = data;
-          fp.language.set(fp.keys.lang);
-          resolve(data);
-        },
-        complete: function() {
-          localforage.setItem(absoluteUrl, fp.keys);
-        }
-      });
+  let fpKeys = '';
+  
+  fpKeys = sessionStorage.getItem(absoluteUrl);
+  if ((typeof fpKeys === 'string') && (fpKeys.length > 0)) {
+    return new Promise(function(resolve, reject){
+      sessionStorage.setItem(absoluteUrl, JSON.stringify(data));
+      resolve(fpKeys);
+    });
+  }
+
+  $.ajax({
+    url: url,
+    error: function(err) {
+      console.error(err);
+    },
+    success: function(data) {
+      sessionStorage.setItem(absoluteUrl, JSON.stringify(data));
+      fp.keys = data;
+      fp.language.set(fp.keys.lang);
+      return(data);
+    },
+    complete: async function() {
+      await localforage.setItem(absoluteUrl, fp.keys);
     }
   });
+
 };
 
 fp.showContent = async function(key, lang, selector) {
