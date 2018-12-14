@@ -18,7 +18,7 @@ fp.loadKeys = async function(fromKey) {
   let url = path + 'keys.json';
   const absoluteUrl = document.location.hostname + '/lang/' + lang + '/keys.json';
   return new Promise(async function(resolve, reject) {
-    const idbKeys = await localForage.getItem('keys');
+    const idbKeys = await localforage.getItem('keys');
     if (! idbKeys) {
       $.ajax({
         url: url,
@@ -33,7 +33,7 @@ fp.loadKeys = async function(fromKey) {
           }
         },
         success: async function(data) {
-          const storeData = localForage.setItem('keys', data);
+          const storeData = localforage.setItem('keys', data);
           sessionStorage.setItem(absoluteUrl, JSON.stringify(data));
           fp.keys = data;
           fp.language.set(fp.keys.lang);
