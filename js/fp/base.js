@@ -18,30 +18,26 @@ fp.loadKeys = async function(fromKey) {
   let url = path + 'keys.json';
   const absoluteUrl = document.location.hostname + '/lang/' + lang + '/keys.json';
   return new Promise(async function(resolve, reject) {
-    let fpKeys = '';
-    keys = localStorage.getItem('fpKeys');
+    let fpKeys = sessionStorage.getItem(absoluteUrl);
     if (fpKeys === '') {
-      keys = await localforage.getItem('fpKeys');
+      fpKeys = await localforage.getItem(absoluteUrl);
     }
-    if ((fpKeys === '') || (typeof fpKeys === 'undefined')) {;
+    if (fpKeys === '') {
       $.ajax({
         url: url,
         error: function(err) {
           console.error(err);
         },
-        success: async function(data) {
-          const storeData = localforage.setItem('fpKeys', data);
+        success: function(data) {
           sessionStorage.setItem(absoluteUrl, JSON.stringify(data));
           fp.keys = data;
           fp.language.set(fp.keys.lang);
-          resolve(data);
+        },
+        complete: async function() {
+          await localforage.setItem(absoluteUrl, fp.keys);
+          resolve(fp.keys);
         }
       });
-    } else {
-      sessionStorage.setItem(absoluteUrl, JSON.stringify(fpKeys));
-      fp.keys = fpKeys;
-      fp.language.set(fp.keys.lang);
-      resolve(fpKeys);
     }
   });
 };
