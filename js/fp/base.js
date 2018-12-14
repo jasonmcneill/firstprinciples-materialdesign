@@ -17,12 +17,12 @@ fp.loadKeys = async function(fromKey) {
   let path = fp.getPath(fromKey, lang);
   let url = path + 'keys.json';
   const absoluteUrl = document.location.hostname + '/lang/' + lang + '/keys.json';
-  return new Promise(async function(resolve, reject) {
+  return new Promise(function(resolve, reject) {
     let fpKeys = sessionStorage.getItem(absoluteUrl);
-    if (fpKeys === '') {
+    if (! fpKeys) {
       fpKeys = await localforage.getItem(absoluteUrl);
     }
-    if (fpKeys === '') {
+    if (! fpKeys) {
       $.ajax({
         url: url,
         error: function(err) {
@@ -32,10 +32,10 @@ fp.loadKeys = async function(fromKey) {
           sessionStorage.setItem(absoluteUrl, JSON.stringify(data));
           fp.keys = data;
           fp.language.set(fp.keys.lang);
+          resolve(data);
         },
-        complete: async function() {
-          await localforage.setItem(absoluteUrl, fp.keys);
-          resolve(fp.keys);
+        complete: function() {
+          localforage.setItem(absoluteUrl, fp.keys);
         }
       });
     }
