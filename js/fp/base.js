@@ -14,11 +14,17 @@ fp.getPath = function(fromKey, lang) {
 
 fp.loadKeys = async function(fromKey) {
   
-  let lang = await fp.language.get();
-  let path = fp.getPath(fromKey, lang);
-  let url = path + 'keys.json';
+  let url;
+  if (fromKey === 'index') {
+    url = './keys.json';
+  } else {
+    url = '../keys.json';
+  };
+  const fpKeys = await $.ajax({url: url});
+  const lang = fpKeys.lang;
   const absoluteUrl = document.location.hostname + '/lang/' + lang + '/keys.json';
-  let fpKeys = '';
+
+  fp.language.current = lang;
   
   fpKeys = sessionStorage.getItem(absoluteUrl);
   if ((typeof fpKeys === 'string') && (fpKeys.length > 0)) {
