@@ -23,7 +23,6 @@ fp.loadKeys = async function(fromKey) {
   fpKeys = sessionStorage.getItem(absoluteUrl);
   if ((typeof fpKeys === 'string') && (fpKeys.length > 0)) {
     return new Promise(function(resolve, reject){
-      sessionStorage.setItem(absoluteUrl, JSON.stringify(data));
       resolve(fpKeys);
     });
   }
