@@ -13,32 +13,35 @@ fp.getPath = function(fromKey, lang) {
 }
 
 fp.loadKeys = async function(fromKey) {
-  
+  if (fromKey === 'dashboard') return;
   let url;
-  let absoluteUrl;
   let lang;
-  let fpKeys;
-  if (fromKey === 'index') {
-    lang = await fp.language.get();
-    url = './lang/' + lang + '/keys.json';
-  } else {
-    url = '../keys.json';
-  };
+  let keys;
+  let absoluteUrl;
+  lang = await fp.language.get();
+  url = '../keys.json';
   absoluteUrl = document.location.hostname + '/lang/' + lang + '/keys.json';
-  fpKeys = sessionStorage.getItem(absoluteUrl);
-  if (! fpKeys) {
-    fpKeys = await $.ajax({url: url});
+  keys = sessionStorage.getItem(absoluteUrl);
+  if (! keys) {
+    console.log("Keys not found in session storage. Trying localforage...");
+    keys = await localforage.getItem(absoluteUrl);
   }
-  if ((typeof fpKeys === 'string') && (fpKeys.length > 0)) {
-    return new Promise(function(resolve, reject){
-      window.fp = {};
-      fp.keys = fpKeys;
-      fp.language.set(fpKeys.lang);
-      resolve(fpKeys);
-      localforage.setItem(absoluteUrl, fpKeys);
-    });
+  if (! keys) {
+    console.log("Keys not found in localforage.  Trying ajax...");
+    keys = await $.ajax({url: url});
   }
-
+  if (! keys) {
+    console.log("Keys not found via ajax.  Check for coding errors.");
+  }
+  return new Promise(async function(resolve, reject){
+    if (! keys) reject("Keys not found.");
+    window.fp = {};
+    fp.keys = keys;
+    fp.language.set(keys.lang);
+    sessionStorage.setItem(absoluteUrl, keys);
+    await localforage.setItem(absoluteUrl, keys);
+    resolve(keys);
+  });
 };
 
 fp.showContent = async function(key, lang, selector) {
