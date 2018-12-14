@@ -13,7 +13,6 @@ fp.getPath = function(fromKey, lang) {
 }
 
 fp.loadKeys = async function(fromKey) {
-  if (fromKey === 'dashboard') return;
   let url;
   let lang;
   let keys;
