@@ -114,9 +114,11 @@ fp.language = {
         },
         success: function(data) {
           const $data = $(data);
+          const appTitle = $data.find('phrase[id=1] translated')[0].innerHTML.trim();
           const pageTitle = $data.find('phrase[id=3] translated')[0].innerHTML.trim();
-          $('.fp_pagehead').html(pageTitle);
           $('title').text(pageTitle);
+          $('.brand-logo').html(appTitle);
+          $('.fp_pagehead').html(pageTitle);
         }
       });
     },
