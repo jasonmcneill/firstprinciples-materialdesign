@@ -38,7 +38,7 @@ fp.loadKeys = async function(fromKey) {
     window.fp = {};
     fp.keys = keys;
     fp.language.set(keys.lang);
-    sessionStorage.setItem(absoluteUrl, keys);
+    sessionStorage.setItem(absoluteUrl, JSON.stringify(keys));
     await localforage.setItem(absoluteUrl, keys);
     resolve(keys);
   });
