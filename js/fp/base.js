@@ -61,7 +61,11 @@ fp.showContent = async function(key, lang, selector) {
     },
     content: content
   };
-  $.getScript(urlLogic);
+  $.ajax({
+    url: urlLogic,
+    dataType: 'script',
+    cache: true
+  });
 }
 
 fp.phrase = function(phraseObj) {
