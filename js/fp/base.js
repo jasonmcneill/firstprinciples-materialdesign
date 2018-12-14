@@ -17,7 +17,7 @@ fp.loadKeys = async function(fromKey) {
   let url;
   if (fromKey === 'index') {
     const detectedLang = await fp.language.get();
-    url = './' + detectedLang + '/keys.json';
+    url = './lang/' + detectedLang + '/keys.json';
   } else {
     url = '../keys.json';
   };
