@@ -267,14 +267,17 @@ fp.events = {
 };
 
 fp.init = async function(fromKey) {
-  await fp.loadKeys(fromKey);
-  fp.language.global.setAppTitle(fromKey, fp.language.current);
-  fp.language.global.setExpandButton(fromKey, fp.language.current);
-  if (fromKey === 'index') {
+  if (fromKey === 'dashboard') {
+    fp.language.current = await fp.language.get();
     fp.language.indexPage.loadTitle();
     fp.language.indexPage.loadContent();
+    await fp.showContent(fromKey, fp.keys.lang);
+    await fp.events.listeners.attach();
     return;
   }
-  await fp.showContent(fromKey, fp.language.current);
+  fp.keys = await fp.loadKeys(fromKey);
+  fp.language.global.setAppTitle(fromKey, fp.keys.lang);
+  fp.language.global.setExpandButton(fromKey, fp.keys.lang);
+  await fp.showContent(fromKey, fp.keys.lang);
   await fp.events.listeners.attach();
 };
