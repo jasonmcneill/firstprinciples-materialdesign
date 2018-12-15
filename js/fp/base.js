@@ -266,6 +266,9 @@ fp.events = {
 
 fp.init = async function(fromKey) {
   window.fp = {};
+  $.ajaxSetup({
+    cache: true
+  });
   if (fromKey === 'index') {
     fp.language.current = await fp.language.get();
     fp.language.indexPage.loadTitle();
