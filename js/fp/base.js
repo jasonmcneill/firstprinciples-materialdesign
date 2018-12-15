@@ -17,28 +17,17 @@ fp.loadKeys = async function(fromKey) {
   let lang;
   let keys;
   let absoluteUrl;
+  if (fromKey === 'dashboard') {
+    url = './keys.json';
+  } else {
+    url = '../keys.json';
+  }
   lang = await fp.language.get();
-  url = '../keys.json';
-  absoluteUrl = document.location.hostname + '/lang/' + lang + '/keys.json';
-  keys = sessionStorage.getItem(absoluteUrl);
-  if (! keys) {
-    console.log("Keys not found in session storage. Trying localforage...");
-    keys = await localforage.getItem(absoluteUrl);
-  }
-  if (! keys) {
-    console.log("Keys not found in localforage.  Trying ajax...");
-    keys = await $.ajax({url: url});
-  }
-  if (! keys) {
-    console.log("Keys not found via ajax.  Check for coding errors.");
-  }
+  keys = await $.ajax({url: url});
+  console.log(keys);
   return new Promise(async function(resolve, reject){
     if (! keys) reject("Keys not found.");
-    window.fp = {};
-    fp.keys = keys;
     fp.language.set(keys.lang);
-    sessionStorage.setItem(absoluteUrl, JSON.stringify(keys));
-    await localforage.setItem(absoluteUrl, keys);
     resolve(keys);
   });
 };
@@ -276,6 +265,7 @@ fp.events = {
 };
 
 fp.init = async function(fromKey) {
+  window.fp = {};
   if (fromKey === 'index') {
     fp.language.current = await fp.language.get();
     fp.language.indexPage.loadTitle();
@@ -283,8 +273,9 @@ fp.init = async function(fromKey) {
     return;
   }
   fp.keys = await fp.loadKeys(fromKey);
-  fp.language.global.setAppTitle(fromKey, fp.keys.lang);
-  fp.language.global.setExpandButton(fromKey, fp.keys.lang);
-  await fp.showContent(fromKey, fp.keys.lang);
-  await fp.events.listeners.attach();
+  fp.language.set(fp.keys.lang);
+  fp.language.global.setAppTitle(fromKey, fp.language.current);
+  fp.language.global.setExpandButton(fromKey, fp.language.current);
+  await fp.showContent(fromKey, fp.language.current);
+  fp.events.listeners.attach();
 };
