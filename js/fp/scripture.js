@@ -18,6 +18,7 @@ fp.scripture = {
       for(let i=0; i<verses.length; i++) {
         const num = $(verses[i]).attr('number');
         const txt = $(verses[i]).html().trim();
+        if (txt.length === 0) continue;
 
         html += `
           <div class="row scripture">
