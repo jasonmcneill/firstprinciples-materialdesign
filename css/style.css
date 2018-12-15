@@ -163,3 +163,11 @@ table.firstColNoWrap td:nth-child(1) {
   white-space: nowrap;
   vertical-align: top;
 }
+
+.modal {
+  min-width: 300px;
+}
+
+.scripture_headline {
+  font-size: 21px;
+}

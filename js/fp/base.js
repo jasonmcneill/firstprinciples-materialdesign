@@ -219,36 +219,13 @@ fp.media = function(mediaObj) {
 
 fp.events = {
 
-  handlers: {
-
-    showScripture: function(evt) {
-      return new Promise(function(resolve, reject){
-        var scripturekey = evt.currentTarget.attributes['data-scripturekey'].value;
-        $.ajax({
-          url: '../scriptures/' + scripturekey + '/content.xml',
-          error: function(err){
-            console.error(err);
-            reject(err);
-          },
-          success: function(xml) {
-            const $xml = $(xml);
-            console.log($xml);
-            resolve($xml);
-          }
-        });
-      });
-    }
-
-  },
-
   listeners: {
 
     scriptureClicked: function() {
-      $('.fp_pagecontent').on('click', 'a[data-scripturekey]', function(evt) {
+      $('.fp_pagecontent').on('click', 'a[data-scripturekey][data-modal]', function(evt) {
         const key = $(evt.currentTarget).data('scripturekey');
         evt.preventDefault();
-        fp.events.handlers.showScripture(evt);
-        console.log("Clicked:", key);
+        fp.scripture.showScripture(evt);
       });
     },
 
