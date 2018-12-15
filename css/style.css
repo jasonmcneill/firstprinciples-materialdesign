@@ -127,7 +127,8 @@ div.verseref > span {
 
 .scripture-expand {
   font-size: 1.2rem;
-  margin-bottom: 6rem;
+  border-top: 1px solid #ddd;
+  padding: 2rem 0 0.5rem 0;
 }
 
 .scripture-expand .btn {
