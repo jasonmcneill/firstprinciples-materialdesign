@@ -24,7 +24,6 @@ fp.loadKeys = async function(fromKey) {
   }
   lang = await fp.language.get();
   keys = await $.ajax({url: url});
-  console.log(keys);
   return new Promise(async function(resolve, reject){
     if (! keys) reject("Keys not found.");
     fp.language.set(keys.lang);
@@ -56,9 +55,6 @@ fp.showContent = async function(key, lang, selector) {
     cache: true,
     error: function(err) {
       console.error(err);
-    },
-    success: function(data) {
-      console.log('fp.showContent()', data);
     }
   });
 }
