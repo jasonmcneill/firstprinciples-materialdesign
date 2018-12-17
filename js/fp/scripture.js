@@ -34,7 +34,7 @@ fp.scripture = {
       html += `
         <br>
         <div class="right-align scripture-expand">
-          <a href="http://www.biblegateway.com/passage/?search=${encodeURI(book + ' ' + chapter)}&version=${version}" class="btn light-blue lighten-1 waves-effect waves-light">
+          <a href="http://www.biblegateway.com/passage/?search=${encodeURI(book + '+' + chapter)}&version=${version}" class="btn light-blue lighten-1 waves-effect waves-light">
           </a>
         </div>
       `;
