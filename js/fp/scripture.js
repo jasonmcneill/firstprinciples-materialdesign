@@ -13,6 +13,8 @@ fp.scripture = {
     }).success(function(data){
       let html = '';
       const passageTitle = $(data).find('passage').attr('title');
+      const book = $(data).find('passage').attr('book');
+      const chapter = $(data).find('chapter')[0].attributes['number'].value;
       const verses = $(data).find('verse');
       const version = $(data).find('scripture').attr('version');
       for(let i=0; i<verses.length; i++) {
@@ -32,7 +34,7 @@ fp.scripture = {
       html += `
         <br>
         <div class="right-align scripture-expand">
-          <a href="http://www.biblegateway.com/passage/?search=${encodeURI(passageTitle)}&version=${version}" class="btn light-blue lighten-1 waves-effect waves-light">
+          <a href="http://www.biblegateway.com/passage/?search=${encodeURI(book + ' ' + chapter)}&version=${version}" class="btn light-blue lighten-1 waves-effect waves-light">
           </a>
         </div>
       `;
