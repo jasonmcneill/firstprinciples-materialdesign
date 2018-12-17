@@ -16,9 +16,14 @@
   const html = `
 
     <style type="text/css">
+
+    @media only screen and (max-width: 600px) {
+      .light-darkness_fourcorners {
+        font-size: .8rem;
+      }
+    }
     .light-darkness_fourcorners {
       width: auto;
-      font-size: .8rem;
       border: 0;
       margin: 2rem 0;
     }
@@ -59,7 +64,8 @@
     }
 
     .wall-of-sin {
-      margin: 2rem 0;
+      margin: 1rem 0 0 0;
+      display: inline-block;
     }
     .wall-of-sin tr {
       border: 0;
@@ -68,17 +74,40 @@
       font-weight: bold;
       text-align: center;
     }
+
+    /* Max 600px: */
+    @media only screen and (max-width: 600px) {
+      .wall-of-sin {
+        display: table;
+      }
+      .pile-of-sin {
+        display: table;
+      }
+    }
+    /* Above 600px: */
+    @media only screen and (min-width: 601px) {
+      .wall-of-sin td {
+        min-width: 15rem;
+      }
+      .pile-of-sin {
+        display: inline-block;
+      }
+      .pile-of-sin td {
+        min-width: 10rem;
+      }
+    }
+
     .wall-of-sin td {
       width: 50%;
       font-weight: bold;
       border: 1px solid black;
     }
     .wall-of-sin td:nth-child(1) {
-      border-right: 25px solid black;
+      border-right: 2.5rem solid black;
       text-align: left;
     }
     .wall-of-sin td:nth-child(2) {
-      border-left: 25px solid black;
+      border-left: 2.5rem solid black;
       text-align: right;
     }
 
@@ -175,6 +204,73 @@
                         </tfoot>
                       </table>
                   </li>
+                  <li>${phrase(27)}</li>
+                  <li>${phrase(28)}</li>
+                </ol>
+              </li>
+              <li>${phrase(29)}
+                <ol>
+                  <li>
+                    ${phrase(30)}
+                    <style type="text/css">
+                    .pile-of-sin {
+                      margin: 1rem 0;
+                    }
+                    .pile-of-sin tr {
+                      border: 0;
+                    }
+                    .pile-of-sin td {
+                      padding: 0;
+                      vertical-align: bottom;
+                    }
+                    .pile-of-sin tr:nth-child(1) td {
+                      border-bottom: 3px solid black;
+                    }
+                    .pile-of-sin_person-a {
+                      height: 3rem;
+                    }
+                    .pile-of-sin_person-b {
+                      height: 6rem;
+                    }
+                    .pile-of-sin_person-c {
+                      height: 9rem;
+                    }
+                    .pile-of-sin_pile {
+                      width: 4.5rem;
+                      max-width: 80%;
+                      margin: auto;
+                      padding-bottom: 0;
+                      background-color: black;
+                      border: 3px solid black;
+                      border-radius: 20px 20px 0 0;
+                    }
+                    </style>
+                    <table class="pile-of-sin">
+                      <tbody>
+                        <tr>
+                          <td class="center">
+                            ${phrase(31)}<br>
+                            <div class="pile-of-sin_pile pile-of-sin_person-a"></div>
+                          </td>
+                          <td class="center">
+                            ${phrase(32)}<br>
+                            <div class="pile-of-sin_pile pile-of-sin_person-b"></div>
+                          </td>
+                          <td class="center">
+                            ${phrase(33)}<br>
+                            <div class="pile-of-sin_pile pile-of-sin_person-c"></div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="center">${phrase(34)}</td>
+                          <td class="center">${phrase(35)}</td>
+                          <td class="center">${phrase(36)}</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </li>
+                  <li>${phrase(37)}</li>
+                  <li>${phrase(38)}</li>
                 </ol>
               </li>
             </ol>
