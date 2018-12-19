@@ -219,11 +219,9 @@ fp.media = function(mediaObj) {
 
 fp.events = {
   listeners: {
-    onScriptureClicked: fp.scripture.onScriptureClicked,
-    onScriptureExpandButtonClicked: fp.scripture.onScriptureExpandButtonClicked,
     attach: function() {
-      fp.events.listeners.onScriptureClicked();
-      fp.events.listeners.onScriptureExpandButtonClicked();
+      fp.scripture.onScriptureClicked();
+      fp.scripture.onScriptureExpandButtonClicked();
     }
   }
 };
