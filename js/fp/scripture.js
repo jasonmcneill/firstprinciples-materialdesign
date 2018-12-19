@@ -54,7 +54,7 @@ fp.scripture = {
         onOpenStart: function() {
           $(window).on('popstate', function() {
             $('#scriptureModal').modal('close');
-          }
+          });
         },
         onOpenEnd: function() {
           window.location.hash = 'scripture';
