@@ -52,15 +52,19 @@ fp.scripture = {
       fp.language.global.setExpandButton(key, fp.language.current);
       $('#scriptureModal').modal({
         onOpenStart: function() {
-          window.location.hash = 'scripture=' + key;
-        },
-        onOpenEnd: function() {
           window.onhashchange = function() {
-            $('#scriptureModal').modal('close');
+            var hashVal = window.location.hash;
+            if (hashVal === '') {
+              $('#scriptureModal').modal('close');
+            }
           }
         },
+        onOpenEnd: function() {
+          window.location.hash = 'scripture=' + key;
+        },
         onCloseEnd: function() {
-          if (window.location.hash !== '') {
+          var hashVal = window.location.hash;
+          if (hashVal !== '') {
             history.back();
           }
         }
