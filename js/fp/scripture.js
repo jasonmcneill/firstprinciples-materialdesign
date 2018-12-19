@@ -52,21 +52,16 @@ fp.scripture = {
       fp.language.global.setExpandButton(key, fp.language.current);
       $('#scriptureModal').modal({
         onOpenStart: function() {
-          window.onhashchange = function(evt) {
-            const hash = window.location.hash;
-            if (hash === '') {
-              $('#scriptureModal').modal('close');
-            }
-          };
+          $(window).on('popstate', function() {
+            $('#scriptureModal').modal('close');
+          }
         },
         onOpenEnd: function() {
           window.location.hash = 'scripture';
+          history.pushState(null, null, '#scripture');
         },
         onCloseStart: function() {
-          const hash = window.location.hash;
-          if (hash === '#scripture') {
-            history.go(-1);
-          }
+          history.replaceState(null, null, null);
         }
       });
       $('#scriptureModal').modal('open');
