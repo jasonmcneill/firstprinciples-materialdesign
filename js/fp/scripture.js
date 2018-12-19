@@ -57,10 +57,14 @@ fp.scripture = {
           });
         },
         onOpenEnd: function() {
-          history.pushState(null, null, '#scripture');
+          var pushStateObj = {
+            modal: 'scripture',
+            key: key
+          };
+          history.pushState(pushStateObj, null);
         },
         onCloseStart: function() {
-          history.go(-1);
+          history.replaceState(null, null, null);
         }
       });
       $('#scriptureModal').modal('open');
