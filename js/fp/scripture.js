@@ -61,13 +61,10 @@ fp.scripture = {
             modal: 'scripture',
             key: key
           };
-          history.pushState(pushStateObj, null);
+          window.location.hash = 'scripture=' + key;
         },
-        onCloseStart: function(evt) {
-          console.log(evt);
-          console.log('Before', history);
-          replaceState(null, null, null);
-          console.log('After', history);
+        onCloseEnd: function(evt) {
+          history.back();
         }
       });
       $('#scriptureModal').modal('open');
