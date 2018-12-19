@@ -64,7 +64,7 @@ fp.scripture = {
           history.pushState(pushStateObj, null);
         },
         onCloseStart: function() {
-          history.go(-1);
+          replaceState(null, null, null);
         }
       });
       $('#scriptureModal').modal('open');
