@@ -78,6 +78,12 @@ fp.scripture = {
         },
         onOpenEnd: function() {
           window.location.hash = 'scripture=' + key;
+          $('.scripture-expand > a').on('click', function(evt){
+            evt.preventDefault();
+            history.back();
+            console.log(evt.target.attributes['href'].value);
+            location.href = evt.target.attributes['href'].value;
+          });
         },
         onCloseEnd: function() {
           var hashVal = window.location.hash;
