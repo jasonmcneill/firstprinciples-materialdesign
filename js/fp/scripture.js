@@ -63,8 +63,11 @@ fp.scripture = {
           };
           history.pushState(pushStateObj, null);
         },
-        onCloseStart: function() {
+        onCloseStart: function(evt) {
+          console.log(evt);
+          console.log('Before', history);
           replaceState(null, null, null);
+          console.log('After', history);
         }
       });
       $('#scriptureModal').modal('open');
