@@ -229,8 +229,18 @@ fp.events = {
       });
     },
 
+    scriptureExpandButtonClicked: function() {
+      $('.scripture-expand a').on('click', function(evt) {
+        var url = evt.target.attributes['href'].value;
+        evt.preventDefault();
+        location.go(-1);
+        location.href = url;
+      });
+    },
+
     attach: function() {
       fp.events.listeners.scriptureClicked();
+      fp.events.listeners.scriptureExpandButtonClicked();
     }
 
   }
