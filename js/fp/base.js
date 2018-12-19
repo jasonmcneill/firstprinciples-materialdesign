@@ -218,35 +218,14 @@ fp.media = function(mediaObj) {
 };
 
 fp.events = {
-
   listeners: {
-
-    scriptureClicked: function() {
-      $('.fp_pagecontent').on('click', 'a[data-scripturekey][data-modal]', function(evt) {
-        const key = $(evt.currentTarget).data('scripturekey');
-        evt.preventDefault();
-        fp.scripture.showScripture(evt);
-      });
-    },
-
-    scriptureExpandButtonClicked: function() {
-      $('.scripture-expand a').on('click', function(evt) {
-        var url = evt.target.attributes['href'].value;
-        evt.preventDefault();
-        console.log('About to go back...');
-        history.back();
-        console.log('About to to to:\n' + url);
-        // location.href = url;
-      });
-    },
-
+    scriptureClicked: fp.scripture.scriptureClicked,
+    scriptureExpandButtonClicked: fp.scripture.scriptureButtonClicked,
     attach: function() {
-      fp.events.listeners.scriptureClicked();
-      fp.events.listeners.scriptureExpandButtonClicked();
+      fp.events.listeners.onScriptureClicked();
+      fp.events.listeners.onScriptureExpandButtonClicked();
     }
-
   }
-
 };
 
 fp.init = async function(fromKey) {
