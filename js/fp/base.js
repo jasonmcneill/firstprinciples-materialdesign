@@ -234,7 +234,7 @@ fp.events = {
         var url = evt.target.attributes['href'].value;
         evt.preventDefault();
         console.log('About to go back...');
-        location.back();
+        history.back();
         console.log('About to to to:\n' + url);
         // location.href = url;
       });
