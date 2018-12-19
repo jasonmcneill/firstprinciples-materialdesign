@@ -233,8 +233,10 @@ fp.events = {
       $('.scripture-expand a').on('click', function(evt) {
         var url = evt.target.attributes['href'].value;
         evt.preventDefault();
-        location.go(-1);
-        location.href = url;
+        console.log('About to go back...');
+        location.back();
+        console.log('About to to to:\n' + url);
+        // location.href = url;
       });
     },
 
