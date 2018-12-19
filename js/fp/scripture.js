@@ -14,10 +14,6 @@ fp.scripture = {
       var url = evt.target.attributes['href'].value;
       console.log('Scripture expand button clicked', url);
       evt.preventDefault();
-      history.back();
-      setTimeout(function(){
-        location.href = url;
-      }, 1000);
     });
   },
 
