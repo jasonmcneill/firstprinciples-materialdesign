@@ -57,11 +57,10 @@ fp.scripture = {
           });
         },
         onOpenEnd: function() {
-          window.location.hash = 'scripture';
           history.pushState(null, null, '#scripture');
         },
         onCloseStart: function() {
-          history.replaceState(null, null, null);
+          history.go(-1);
         }
       });
       $('#scriptureModal').modal('open');
