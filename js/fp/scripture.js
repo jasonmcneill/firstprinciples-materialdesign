@@ -54,8 +54,15 @@ fp.scripture = {
         onOpenStart: function() {
           window.location.hash = 'scripture=' + key;
         },
+        onOpenEnd: function() {
+          window.onhashchange = function() {
+            $('#scriptureModal').modal('close');
+          }
+        },
         onCloseEnd: function() {
-          history.back();
+          if (window.location.hash !== '') {
+            history.back();
+          }
         }
       });
       $('#scriptureModal').modal('open');
