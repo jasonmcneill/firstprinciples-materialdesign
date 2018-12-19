@@ -52,18 +52,9 @@ fp.scripture = {
       fp.language.global.setExpandButton(key, fp.language.current);
       $('#scriptureModal').modal({
         onOpenStart: function() {
-          $(window).on('popstate', function() {
-            $('#scriptureModal').modal('close');
-          });
-        },
-        onOpenEnd: function() {
-          var pushStateObj = {
-            modal: 'scripture',
-            key: key
-          };
           window.location.hash = 'scripture=' + key;
         },
-        onCloseEnd: function(evt) {
+        onCloseEnd: function() {
           history.back();
         }
       });
