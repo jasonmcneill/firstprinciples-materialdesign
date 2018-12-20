@@ -341,7 +341,7 @@
                     ${phrase(67)}<br>
                     ${phrase(68)}
                     <br>
-                    <table class="light-darkness_baptism-buried-earth responsive-table">
+                    <table class="light-darkness_baptism-buried-earth">
                       <tbody>
                         <tr>
                           <td width="1%">${phrase(69)}</td>
