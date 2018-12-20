@@ -72,10 +72,11 @@ span.jesuswords {
 
 span.scripturequote {
   color: #1A55A4;
-  display: inline-block;
+  display: block;
   width: 90%;
   border-left: 4px solid #bbb;
   margin-top: 1rem;
+  margin-bottom: 1rem;
   margin-left: 2rem;
   padding-left: 2rem;
   padding-right: 2rem;
