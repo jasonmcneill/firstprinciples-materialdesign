@@ -143,6 +143,13 @@
       border-radius: 20px 20px 0 0;
     }
 
+    .light-darkness_baptism-buried-earth {
+        font-size: 75%;
+    }
+    .light-darkness_baptism-buried-earth tr {
+        border: 0;
+    }
+
     </style>
 
     <br>
