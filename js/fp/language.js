@@ -81,23 +81,10 @@ fp.language = {
     },
     setExpandButton: function(fromKey, lang) {
       return new Promise(async function(resolve, reject) {
-        let url = fp.getPath(fromKey, lang) + 'global/content.xml';
-        $.ajax({
-          url: url,
-          error: function(err) {
-            console.error(err);
-          },
-          success: function(data) {
-            let $data = $(data);
-            let text = {
-              expandButton: $data.find('phrase[id=2] translated')[0].textContent.trim()
-            };
-            $('html')
-              .find('.scripture-expand .btn').html(text.expandButton + '<i class="fas fa-angle-right"></i>').end()
-            ;
-          }
-        });
-      })
+        const expandText = $(fp.$global).find('phrase[id=2] translated').text().trim();
+        $('html').find('.scripture-expand .btn').html(expandText + '<i class="fas fa-angle-right"></i>').end();
+        resolve(expandText);
+      });
     }
   },
 
