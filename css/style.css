@@ -113,6 +113,10 @@ audio {
   padding: 5px 15px 0 0;
 }
 
+.scripture_border0 {
+  border: border-top: 0;
+}
+
 div.verseref {
   position: relative;
 }
