@@ -70,6 +70,7 @@ fp.language = {
               appTitle: $data.find('phrase[id=1] translated')[0].textContent.trim(),
               expandButton: $data.find('phrase[id=2] translated')[0].textContent.trim()
             };
+            fp.$global = $data;
             $('html')
               .find('.brand-logo').text(text.appTitle).end()
               .find('title').text(text.appTitle).end()
