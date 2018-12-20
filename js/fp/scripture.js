@@ -2,7 +2,6 @@ fp.scripture = {
 
   onScriptureClicked: function() {
     $('.fp_pagecontent').on('click', 'a[data-scripturekey][data-modal]', function(evt) {
-      const key = $(evt.currentTarget).data('scripturekey');
       evt.preventDefault();
       fp.scripture.showScripture(evt);
     });

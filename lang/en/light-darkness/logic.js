@@ -111,6 +111,38 @@
       text-align: right;
     }
 
+    .pile-of-sin {
+      margin: 1rem 0;
+    }
+    .pile-of-sin tr {
+      border: 0;
+    }
+    .pile-of-sin td {
+      padding: 0;
+      vertical-align: bottom;
+    }
+    .pile-of-sin tr:nth-child(1) td {
+      border-bottom: 3px solid black;
+    }
+    .pile-of-sin_person-a {
+      height: 3rem;
+    }
+    .pile-of-sin_person-b {
+      height: 6rem;
+    }
+    .pile-of-sin_person-c {
+      height: 9rem;
+    }
+    .pile-of-sin_pile {
+      width: 4.5rem;
+      max-width: 80%;
+      margin: auto;
+      padding-bottom: 0;
+      background-color: black;
+      border: 3px solid black;
+      border-radius: 20px 20px 0 0;
+    }
+
     </style>
 
     <br>
@@ -166,7 +198,7 @@
         <br>
 
         <ol>
-          <li>${phrase(18)}
+          <li><strong>${phrase(18)}</strong>
             <ol>
               <li>${phrase(19)}
                 <ol>
@@ -212,39 +244,6 @@
                 <ol>
                   <li>
                     ${phrase(30)}
-                    <style type="text/css">
-                    .pile-of-sin {
-                      margin: 1rem 0;
-                    }
-                    .pile-of-sin tr {
-                      border: 0;
-                    }
-                    .pile-of-sin td {
-                      padding: 0;
-                      vertical-align: bottom;
-                    }
-                    .pile-of-sin tr:nth-child(1) td {
-                      border-bottom: 3px solid black;
-                    }
-                    .pile-of-sin_person-a {
-                      height: 3rem;
-                    }
-                    .pile-of-sin_person-b {
-                      height: 6rem;
-                    }
-                    .pile-of-sin_person-c {
-                      height: 9rem;
-                    }
-                    .pile-of-sin_pile {
-                      width: 4.5rem;
-                      max-width: 80%;
-                      margin: auto;
-                      padding-bottom: 0;
-                      background-color: black;
-                      border: 3px solid black;
-                      border-radius: 20px 20px 0 0;
-                    }
-                    </style>
                     <table class="pile-of-sin">
                       <tbody>
                         <tr>
@@ -271,6 +270,97 @@
                   </li>
                   <li>${phrase(37)}</li>
                   <li>${phrase(38)}</li>
+                </ol>
+              </li>
+              <li>${phrase(39)}
+                <ol>
+                  <li>${phrase(40)}</li>
+                  <li>${phrase(41)}</li>
+                  <li>${phrase(42)}</li>
+              </li>
+              <li>${phrase(43)}
+                <table class="light-darkness_fourcorners">
+                  <tbody>
+                    <tr>
+                      <td>${phrase(44)}</td>
+                      <td>${phrase(45)}</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        ${phrase(46)}<br>
+                        ${phrase(47)}<br>
+                        ${phrase(48)}<br>
+                      </td>
+                      <td>
+                        ${phrase(49)}<br>
+                        ${phrase(50)}<br>
+                        ${phrase(51)}<br>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </li>
+            </ol>
+          </li>
+          <li><strong>${phrase(52)}</strong>
+            <ol>
+              <li>${phrase(53)}</li>
+              <li>${phrase(54)}</li>
+              <li>${phrase(55)}
+                <ol>
+                  <li>${phrase(56)}</li>
+                  <li>${phrase(57)}</li>
+                  <li>${phrase(58)}</li>
+                </ol>
+              </li>
+              <li>${phrase(59)}
+                <ol>
+                  <li>${phrase(60)}</li>
+                  <li>${phrase(61)}</li>
+                </ol>
+              </li>
+              <li>${phrase(62)}
+                <ol>
+                  <li>${phrase(63)}</li>
+                  <li>${phrase(64)}
+                    <ol>
+                      <li>${phrase(65)}</li>
+                      <li>${phrase(66)}</li>
+                    </ol>
+                  </li>
+                  <li>
+                    ${phrase(67)}<br>
+                    ${phrase(68)}
+                    <br>
+                    <table class="light-darkness_baptism-buried-earth">
+                      <tbody>
+                        <tr>
+                          <td width="1%">${phrase(69)}</td>
+                          <td class="center"><i class="fas fa-cross fa-3x"></i></td>
+                          <td valign="bottom">
+                            ${phrase(70)}<br>
+                            <i class="fas fa-share fa-rotate-90 fa-2x"></i>
+                          </td>
+                          <td>&nbsp;</td>
+                          <td class="right" style="vertical-align: bottom">
+                            <i class="fas fa-share fa-3x"></i>
+                          </td>
+                          <td>
+                            <div style="margin-top: -15px">
+                              ${phrase(72)}
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td colspan="2">&nbsp;</td>
+                          <td colspan="3" class="center brown white-text">
+                            <strong>${phrase(71)}</strong>
+                          </td>
+                          <td>&nbsp;</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </li>
                 </ol>
               </li>
             </ol>
