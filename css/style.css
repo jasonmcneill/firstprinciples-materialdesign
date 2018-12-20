@@ -75,6 +75,7 @@ span.scripturequote {
   display: inline-block;
   width: 90%;
   border-left: 4px solid #bbb;
+  margin-top: 1rem;
   margin-left: 2rem;
   padding-left: 2rem;
   padding-right: 2rem;
