@@ -47,7 +47,7 @@ fp.scripture = {
           </div>
         `;
         if (verses.length === 1) {
-          html = html.replace('<div class="col s11">${txt}</div>', '<div class="col s12">${txt}</div>');
+          html = html.replace('<div class="col s11">', '<div class="col s12">');
           html = html.replace('class="col s1 right-align verseref"', 'class="col s1 right-align verseref hide"');
         }
       };
