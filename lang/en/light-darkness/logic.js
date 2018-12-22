@@ -14,146 +14,7 @@
   };
   media();
   const html = `
-
-    <style type="text/css">
-
-    @media only screen and (max-width: 600px) {
-      .light-darkness_fourcorners {
-        font-size: .8rem;
-      }
-    }
-    .light-darkness_fourcorners {
-      width: auto;
-      border: 0;
-      margin: 2rem 0;
-    }
-    .light-darkness_fourcorners tr {
-      border: 0;
-    }
-    .light-darkness_fourcorners tr:nth-child(1) td:nth-child(1) {
-      width: 50%;
-      text-align: left;
-      vertical-align: top;
-      border: 0;
-      border-right: 5px solid black;
-      border-bottom: 5px solid black;
-      padding-right: 3rem;
-    }
-    .light-darkness_fourcorners tr:nth-child(1) td:nth-child(2) {
-      width: 50%;
-      text-align: right;
-      vertical-align: top;
-      border: 0;
-      border-left: 5px solid black;
-      border-bottom: 5px solid black;
-      padding-left: 3rem;
-    }
-    .light-darkness_fourcorners tr:nth-child(2) td:nth-child(1) {
-      text-align: left;
-      vertical-align: bottom;
-      border: 0;
-      border-right: 5px solid black;
-      border-top: 5px solid black;
-    }
-    .light-darkness_fourcorners tr:nth-child(2) td:nth-child(2) {
-      text-align: right;
-      vertical-align: bottom;
-      border: 0;
-      border-left: 5px solid black;
-      border-top: 5px solid black;
-    }
-
-    .wall-of-sin {
-      margin: 1rem 0 0 0;
-      display: inline-block;
-    }
-    .wall-of-sin tr {
-      border: 0;
-    }
-    .wall-of-sin th {
-      font-weight: bold;
-      text-align: center;
-    }
-
-    /* Max 600px: */
-    @media only screen and (max-width: 600px) {
-      .wall-of-sin {
-        display: table;
-      }
-      .pile-of-sin {
-        display: table;
-      }
-    }
-    /* Above 600px: */
-    @media only screen and (min-width: 601px) {
-      .wall-of-sin td {
-        min-width: 15rem;
-      }
-      .pile-of-sin {
-        display: inline-block;
-      }
-      .pile-of-sin td {
-        min-width: 10rem;
-      }
-    }
-
-    .wall-of-sin td {
-      width: 50%;
-      font-weight: bold;
-      border: 1px solid black;
-    }
-    .wall-of-sin td:nth-child(1) {
-      border-right: 2.5rem solid black;
-      text-align: left;
-    }
-    .wall-of-sin td:nth-child(2) {
-      border-left: 2.5rem solid black;
-      text-align: right;
-    }
-
-    .pile-of-sin {
-      margin: 1rem 0;
-    }
-    .pile-of-sin tr {
-      border: 0;
-    }
-    .pile-of-sin td {
-      padding: 0;
-      vertical-align: bottom;
-    }
-    .pile-of-sin tr:nth-child(1) td {
-      border-bottom: 3px solid black;
-    }
-    .pile-of-sin_person-a {
-      height: 3rem;
-    }
-    .pile-of-sin_person-b {
-      height: 6rem;
-    }
-    .pile-of-sin_person-c {
-      height: 9rem;
-    }
-    .pile-of-sin_pile {
-      width: 4.5rem;
-      max-width: 80%;
-      margin: auto;
-      padding-bottom: 0;
-      background-color: black;
-      border: 3px solid black;
-      border-radius: 20px 20px 0 0;
-    }
-
-    .light-darkness_baptism-buried-earth tr {
-      border: 0;
-    }
-    @media only screen and (max-device-width: 600px) and (orientation: portrait) { 
-      .light-darkness_baptism-buried-earth {
-        font-size: 75%;
-      }
-    }
-
-    </style>
-
+    <link rel="stylesheet" href="../../../css/light-darkness.css">
     <br>
     <div class="row">
       <div class="col xl10 offset-xl1 l8 offset-l2 m8 offset-m2 s12">
@@ -341,31 +202,89 @@
                     ${phrase(67)}<br>
                     ${phrase(68)}
                     <br>
-                    <table class="light-darkness_baptism-buried-earth">
+                    <table class="light-darkness_baptism">
+                      <thead>
+                        <tr>
+                          <th class="center">${phrase(69)}</th>
+                          <th class="center">${phrase(73)}</th>
+                        </tr>
+                      </thead>
                       <tbody>
                         <tr>
-                          <td width="1%">${phrase(69)}</td>
-                          <td class="center"><i class="fas fa-cross fa-3x"></i></td>
-                          <td valign="bottom">
+                          <td class="center">
+                            <br>
+                            <i class="fas fa-cross fa-3x"></i><br>
                             ${phrase(70)}<br>
-                            <i class="fas fa-share fa-rotate-90 fa-2x"></i>
+                            <br>
                           </td>
-                          <td>&nbsp;</td>
-                          <td class="right" style="vertical-align: bottom">
-                            <i class="fas fa-share fa-3x"></i>
-                          </td>
-                          <td>
-                            <div style="margin-top: -15px">
-                              ${phrase(72)}
-                            </div>
+                          <td class="center">
+                            <br>
+                            <i class="fas fa-cross fa-3x"></i><br>
+                            ${phrase(74)}<br>
+                            <br>
                           </td>
                         </tr>
                         <tr>
-                          <td colspan="2">&nbsp;</td>
-                          <td colspan="3" class="center brown white-text">
-                            <strong>${phrase(71)}</strong>
+                          <td class="center">
+                            <br>
+                            <i class="fas fa-share fa-3x fa-rotate-90"></i><br>
+                            <table class="brown light-darkness_baptism-earth" style="margin-top: 2px">
+                              <tbody>
+                                <tr>
+                                  <td class="center white-text">
+                                    <strong>${phrase(71)}</strong>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <br>
                           </td>
-                          <td>&nbsp;</td>
+                          <td class="center">
+                            <br>
+                            <i class="fas fa-share fa-3x fa-rotate-90"></i><br>
+                            <table class="blue light-darkness_baptism-water" style="margin-top: 2px">
+                              <tbody>
+                                <tr>
+                                  <td class="center white-text">
+                                    <strong>${phrase(75)}</strong>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <br>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="center" style="vertical-align: bottom">
+                            <br>
+                            ${phrase(72)}<br>
+                            <i class="fas fa-share fa-3x"></i><br>
+                            <table class="brown light-darkness_baptism-earth">
+                              <tbody>
+                                <tr>
+                                  <td class="center white-text">
+                                    <strong>&nbsp;</strong>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <br>
+                          </td>
+                          <td class="center" style="vertical-align: bottom">
+                            <br>
+                            ${phrase(76)}<br>
+                            <i class="fas fa-share fa-3x"></i><br>
+                            <table class="blue light-darkness_baptism-water">
+                              <tbody>
+                                <tr>
+                                  <td class="center white-text">
+                                    <strong>&nbsp;</strong>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <br>
+                          </td>
                         </tr>
                       </tbody>
                     </table>
