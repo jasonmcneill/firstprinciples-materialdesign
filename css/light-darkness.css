@@ -130,7 +130,7 @@
 
 
 .light-darkness_baptism {
-  display: inline-block;
+  /* display: inline-block; */
   margin: 2rem 0;
 }
 
@@ -163,11 +163,11 @@
 .light-darkness_baptism-earth,
 .light-darkness_baptism-water {
   height: 5.5rem;
+  line-height: 3rem;
 }
 
 .light-darkness_baptism-earth {
   border-top: 3px dotted #333; 
-  line-height: 2rem;
 }
 
 @media only screen and (max-width: 600px) {
@@ -176,7 +176,7 @@
     height: 6rem;
   }
   .light-darkness_baptism-earth {
-    line-height: 3.5rem;
+    line-height: 4rem;
   }
 }
 
