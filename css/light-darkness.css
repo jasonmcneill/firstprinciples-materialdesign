@@ -140,7 +140,7 @@
 
 .light-darkness_baptism th {
   width: 50%;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
 }
 
 .light-darkness_baptism th,
@@ -173,7 +173,8 @@
 @media only screen and (max-width: 600px) {
   .light-darkness_baptism-earth,
   .light-darkness_baptism-water {
-    height: auto;
+    height: 6rem;
+    line-height: 3rem;
   }
   .light-darkness_baptism-earth {
     line-height: 3rem;
