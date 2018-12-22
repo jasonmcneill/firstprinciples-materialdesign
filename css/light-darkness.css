@@ -166,11 +166,18 @@
 }
 
 .light-darkness_baptism-earth {
-  border-top: .3rem dotted #333; 
+  border-top: 3px dotted #333; 
   line-height: 2rem;
 }
+
+@media only screen and (max-width: 600px) {
+  .light-darkness_baptism-earth {
+    line-height: 3rem;
+  }
+}
+
 .light-darkness_baptism-water {
-  border-top: .3rem dotted aqua; 
+  border-top: 3px dotted aqua; 
 }
 
 .light-darkness_baptism-earth td,
