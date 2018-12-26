@@ -36,25 +36,31 @@ fp.showContent = async function(key, lang, selector) {
   let urlPrefix = fp.getPath(key, lang);
   const urlContent = urlPrefix + key + '/content.xml';
   const urlLogic = urlPrefix + key + '/logic.js';
-  const content = await $.ajax({
-    url: urlContent,
-    error: function(err) {
-      console.error(err);
-    }
-  });
   fp.view = {
     containers: {
       title: $('.fp_pagehead'),
       content: $('.fp_pagecontent')
     },
-    content: content
+    content: ''
   };
   $.ajax({
-    url: urlLogic,
-    dataType: 'script',
-    cache: true,
+    url: urlContent,
     error: function(err) {
       console.error(err);
+    },
+    success: function(content) {
+      fp.view.content = content;
+      $.ajax({
+        url: urlLogic,
+        dataType: 'script',
+        cache: true,
+        error: function(err) {
+          console.error(err);
+        },
+        success: function() {
+          fp.scripture.preloadScripturesOnPage();
+        }
+      });
     }
   });
 }
