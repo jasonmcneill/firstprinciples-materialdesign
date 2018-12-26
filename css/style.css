@@ -91,24 +91,25 @@ span.scripturequote {
   padding: 0 15px;
 }
 .icon-block .material-icons {
-	font-size: inherit;
+  font-size: inherit;
 }
 
 nav .brand-logo {
-	font-size: 1.5rem;
+  font-size: 1.5rem;
 }
 
 audio {
-	margin: 1rem 0 1rem 0;
+  margin: 1rem 0 1rem 0;
 }
 
 .fp_pagehead {
-	font-size: 1.2rem;
+  font-size: 1.2rem;
 }
 
 .scripture {
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #eee;
   font-size: 1rem;
+  margin-bottom: 10px;
 }
 
 .scripture > div:nth-child(1) {
@@ -134,10 +135,6 @@ div.verseref > span {
   border: 1px solid #ddd;
   border-top: 0;
   border-radius: 0 0 4px 4px;
-}
-
-#scriptureModal row.scripture {
-  margin-bottom: 10px;
 }
 
 .scripture-expand {
