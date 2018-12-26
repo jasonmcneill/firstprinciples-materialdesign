@@ -59,6 +59,9 @@ fp.showContent = function(key, lang, selector) {
         },
         success: function() {
           fp.scripture.preloadScripturesOnPage();
+          if (key === 'light-darkness') {
+            $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
+          }
         }
       });
     }
