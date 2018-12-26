@@ -45,7 +45,7 @@ fp.scripture = {
   },
   
   renderScripture: async function(key) {
-    const $storedScripture;
+    let $storedScripture = '';
     const successHandler = function(data) {
       let html = '';
       const passageTitle = $(data).find('passage').attr('title');
