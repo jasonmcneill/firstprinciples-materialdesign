@@ -31,27 +31,7 @@ fp.scripture = {
           console.error(err);
         },
         success: function(xml) {
-          
-          const xml2Str = function(xmlNode) {
-            try {
-              // Gecko- and Webkit-based browsers (Firefox, Chrome), Opera.
-              return (new XMLSerializer()).serializeToString(xmlNode);
-            }
-            catch (e) {
-              try {
-                // Internet Explorer.
-                return xmlNode.xml;
-              }
-              catch (e) {  
-                //Other browsers without XML Serializer
-                alert('Xmlserializer not supported');
-              }
-            }
-            return false;
-          };
-          
-          sessionStorage.setItem(key, xml2Str(xml));
-          
+          sessionStorage.setItem(key, fp.xml2Str(xml));
         }
       });
     }
@@ -143,7 +123,10 @@ fp.scripture = {
         error: function(err){
           console.error(err);
         },
-        success: successHandler
+        success: function(data) {
+          sessionStorage.setItem(key, fp.xml2Str(data));
+          successHandler(data);
+        }
       });
     }
   }
