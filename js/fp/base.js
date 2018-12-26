@@ -242,6 +242,6 @@ fp.init = async function(fromKey) {
   fp.language.global.setAppTitle(fromKey, fp.language.current);
   fp.language.global.setExpandButton(fromKey, fp.language.current);
   await fp.showContent(fromKey, fp.language.current);
-  fp.scripture.loadAll();
+  await fp.scripture.loadAll();
   fp.events.listeners.attach();
 };
