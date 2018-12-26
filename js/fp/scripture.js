@@ -25,7 +25,7 @@ fp.scripture = {
       if ((typeof key !== 'string') || (key.length === 0)) continue;
       $.ajax({
         url: url,
-        dataType: 'xml',
+        dataType: 'string',
         cache: true,
         error: function(err) {
           console.error(err);
