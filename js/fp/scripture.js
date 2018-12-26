@@ -15,18 +15,36 @@ fp.scripture = {
       location.href = url;
     });
   },
+  
+  loadAll: function() {
+    const $scriptures = $('a[data-scripturekey]');
+    for (let i = 0; i < $scriptures.length; i++) {
+      const $scripture = $scriptures[i];
+      const key = $scripture.attr('data-scripturekey').trim();
+      const url = '../scriptures/' + key + '/content.xml';
+      if ((typeof key !== 'string') || (key.length === 0)) continue;
+      $.ajax({
+        url: url,
+        dataType: 'xml',
+        cache: true,
+        error: function(err) {
+          console.error(err);
+        },
+        success: function(data) {
+          sessionStorage.setItem(key, data);
+        }
+      });
+    }
+  },
 
   showScripture: function(evt) {
-    var key = evt.currentTarget.attributes['data-scripturekey'].value;
+    const key = evt.currentTarget.attributes['data-scripturekey'].value;
     fp.scripture.renderScripture(key);
   },
   
-  renderScripture(key) {
-    $.ajax({
-      url: '../scriptures/' + key + '/content.xml'
-    }).error(function(err){
-      console.error(err);
-    }).success(function(data){
+  renderScripture: function(key) {
+    const $storedScripture = sessionStorage.getItem(key);
+    const successHandler = function(data) {
       let html = '';
       const passageTitle = $(data).find('passage').attr('title');
       const book = $(data).find('passage').attr('book');
@@ -92,8 +110,21 @@ fp.scripture = {
         }
       });
       $('#scriptureModal').modal('open');
-      
-    });
+    };
+
+    if ($storedScripture) {
+      successHandler($storedScripture);
+    } else {
+      $.ajax({
+        url: '../scriptures/' + key + '/content.xml',
+        cache: true,
+        dataType: 'xml',
+        error: function(err){
+          console.error(err);
+        },
+        success: successHandler
+      });
+    }
   }
 
 }
