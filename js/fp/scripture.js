@@ -42,8 +42,8 @@ fp.scripture = {
     fp.scripture.renderScripture(key);
   },
   
-  renderScripture: function(key) {
-    const $storedScripture = sessionStorage.getItem(key);
+  renderScripture: async function(key) {
+    const $storedScripture;
     const successHandler = function(data) {
       let html = '';
       const passageTitle = $(data).find('passage').attr('title');
@@ -111,7 +111,7 @@ fp.scripture = {
       });
       $('#scriptureModal').modal('open');
     };
-
+    $storedScripture = await localforage.getItem(key);
     if ($storedScripture) {
       successHandler($storedScripture);
     } else {
