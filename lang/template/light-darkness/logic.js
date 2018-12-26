@@ -380,5 +380,6 @@
   $('title').text(title);
   $(fp.view.containers.title).html(title);
   $(fp.view.containers.content).html(html);
+  $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
   if (mediaHTML !== '') $('#fpmedia').removeClass('hide');
 })();
