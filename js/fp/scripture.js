@@ -25,16 +25,13 @@ fp.scripture = {
       if ((typeof key !== 'string') || (key.length === 0)) continue;
       $.ajax({
         url: url,
-        dataType: 'xml',
+        dataType: 'string',
         cache: true,
         error: function(err) {
           console.error(err);
         },
-        success: function(xmlData) {
-          const $xmlData = $(xmlData);
-          localforage.setItem(key, $xmlData).then(function(storedData){
-            console.log(storedData);
-          });
+        success: function(xmlString) {
+          sessionStorage.setItem(key, xmlString);
         }
       });
     }
@@ -46,7 +43,7 @@ fp.scripture = {
   },
   
   renderScripture: async function(key) {
-    let $storedScripture = '';
+    let storedScripture = '';
     const successHandler = function(data) {
       let html = '';
       const passageTitle = $(data).find('passage').attr('title');
@@ -114,10 +111,10 @@ fp.scripture = {
       });
       $('#scriptureModal').modal('open');
     };
-    $storedScripture = sessionStorage.getItem(key);
-    if ($storedScripture !== '') {
-      $storedScripture = $.parseXML(storedScripture);
-      successHandler($storedScripture);
+    storedScripture = sessionStorage.getItem(key);
+    if (storedScripture !== '') {
+      storedScripture = $.parseXML(storedScripture);
+      successHandler(storedScripture);
     } else {
       $.ajax({
         url: '../scriptures/' + key + '/content.xml',
