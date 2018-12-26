@@ -23,15 +23,19 @@ fp.scripture = {
       const key = $tag.attr('data-scripturekey');
       const url = '../scriptures/' + key + '/content.xml';
       if ((typeof key !== 'string') || (key.length === 0)) continue;
-      $.ajax({
-        url: url,
-        dataType: 'xml',
-        cache: true,
-        error: function(err) {
-          console.error(err);
-        },
-        success: function(xml) {
-          localforage.setItem(fp.language.current + '-' + key, fp.xml2Str(xml));
+      localforage.getItem(fp.language.current + '-' + key).then(function(data){
+        if(! data) {
+          $.ajax({
+            url: url,
+            dataType: 'xml',
+            cache: true,
+            error: function(err) {
+              console.error(err);
+            },
+            success: function(xml) {
+              localforage.setItem(fp.language.current + '-' + key, fp.xml2Str(xml));
+            }
+          });
         }
       });
     }
