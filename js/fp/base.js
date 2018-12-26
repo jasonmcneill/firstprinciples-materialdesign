@@ -31,7 +31,7 @@ fp.loadKeys = async function(fromKey) {
   });
 };
 
-fp.showContent = async function(key, lang, selector) {
+fp.showContent = function(key, lang, selector) {
   if (! selector) selector = '.fp_pagecontent';
   let urlPrefix = fp.getPath(key, lang);
   const urlContent = urlPrefix + key + '/content.xml';
