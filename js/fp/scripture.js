@@ -17,10 +17,10 @@ fp.scripture = {
   },
   
   preloadScripturesOnPage: function() {
-    const $scriptures = $('a[data-scripturekey]');
-    for (let i = 0; i < $scriptures.length; i++) {
-      const $scripture = $scriptures[i];
-      const key = $scripture.attr('data-scripturekey').trim();
+    const scriptureLinks = $('a[data-scripturekey]');
+    for (let i = 0; i < scriptureLinks.length; i++) {
+      const $tag = $(scriptureLinks[i]);
+      const key = $tag.attr('data-scripturekey');
       const url = '../scriptures/' + key + '/content.xml';
       if ((typeof key !== 'string') || (key.length === 0)) continue;
       $.ajax({
