@@ -105,5 +105,6 @@
   $('title').text(title);
   $(fp.view.containers.title).html(title);
   $(fp.view.containers.content).html(html);
+  fp.scripture.preloadScripturesOnPage();
   if (mediaHTML !== '') $('#fpmedia').removeClass('hide');
 })();
