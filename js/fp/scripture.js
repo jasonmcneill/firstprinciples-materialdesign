@@ -112,7 +112,7 @@ fp.scripture = {
       $('#scriptureModal').modal('open');
     };
     storedScripture = sessionStorage.getItem(key);
-    if (storedScripture !== '') {
+    if (storedScripture) {
       storedScripture = $.parseXML(storedScripture);
       successHandler(storedScripture);
     } else {
