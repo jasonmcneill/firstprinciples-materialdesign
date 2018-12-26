@@ -16,7 +16,7 @@ fp.scripture = {
     });
   },
   
-  loadAll: function() {
+  preloadScripturesOnPage: function() {
     const $scriptures = $('a[data-scripturekey]');
     for (let i = 0; i < $scriptures.length; i++) {
       const $scripture = $scriptures[i];
