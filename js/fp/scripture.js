@@ -114,8 +114,9 @@ fp.scripture = {
       });
       $('#scriptureModal').modal('open');
     };
-    $storedScripture = await localforage.getItem(key);
-    if ($storedScripture) {
+    $storedScripture = sessionStorage.getItem(key);
+    if ($storedScripture !== '') {
+      $storedScripture = $.parseXML(storedScripture);
       successHandler($storedScripture);
     } else {
       $.ajax({
