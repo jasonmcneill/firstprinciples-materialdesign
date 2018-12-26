@@ -25,13 +25,14 @@ fp.scripture = {
       if ((typeof key !== 'string') || (key.length === 0)) continue;
       $.ajax({
         url: url,
-        dataType: 'string',
+        dataType: 'xml',
         cache: true,
         error: function(err) {
           console.error(err);
         },
-        success: function(data) {
-          localforage.setItem(key, data).then(function(storedData){
+        success: function(xmlData) {
+          const $xmlData = $(xmlData);
+          localforage.setItem(key, $xmlData).then(function(storedData){
             console.log(storedData);
           });
         }
