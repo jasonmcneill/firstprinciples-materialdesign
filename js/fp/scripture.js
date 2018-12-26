@@ -25,13 +25,13 @@ fp.scripture = {
       if ((typeof key !== 'string') || (key.length === 0)) continue;
       $.ajax({
         url: url,
-        dataType: 'string',
+        dataType: 'xml',
         cache: true,
         error: function(err) {
           console.error(err);
         },
         success: function(xmlString) {
-          sessionStorage.setItem(key, xmlString);
+          sessionStorage.setItem(key, JSON.stringify(xmlString));
         }
       });
     }
