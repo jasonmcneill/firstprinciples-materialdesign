@@ -31,7 +31,9 @@ fp.scripture = {
           console.error(err);
         },
         success: function(data) {
-          localforage.setItem(key, data);
+          localforage.setItem(key, data).then(function(storedData){
+            console.log(storedData);
+          });
         }
       });
     }
