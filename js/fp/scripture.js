@@ -31,7 +31,7 @@ fp.scripture = {
           console.error(err);
         },
         success: function(xml) {
-          localforage.setItem(key, fp.xml2Str(xml));
+          localforage.setItem(fp.language.current + '-' + key, fp.xml2Str(xml));
         }
       });
     }
@@ -111,7 +111,7 @@ fp.scripture = {
       });
       $('#scriptureModal').modal('open');
     };
-    storedScripture = await localforage.getItem(key);
+    storedScripture = await localforage.getItem(fp.language.current + '-' + key);
     if (storedScripture) {
       storedScripture = $.parseXML(storedScripture);
       successHandler(storedScripture);
@@ -125,7 +125,7 @@ fp.scripture = {
         },
         success: function(data) {
           successHandler(data);
-          localforage.setItem(key, fp.xml2Str(data));
+          localforage.setItem(fp.language.current + '-' + key, fp.xml2Str(data));
         }
       });
     }
