@@ -232,6 +232,24 @@ fp.events = {
   }
 };
 
+fp.xml2Str = function(xmlNode) {
+  try {
+    // Gecko- and Webkit-based browsers (Firefox, Chrome), Opera.
+    return (new XMLSerializer()).serializeToString(xmlNode);
+  }
+  catch (e) {
+    try {
+      // Internet Explorer.
+      return xmlNode.xml;
+    }
+    catch (e) {  
+      //Other browsers without XML Serializer
+      console.log('XMLSerializer not supported');
+    }
+  }
+  return false;
+};
+
 fp.init = async function(fromKey) {
   window.fp = {};
   $.ajaxSetup({
