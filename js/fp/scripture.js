@@ -31,7 +31,7 @@ fp.scripture = {
           console.error(err);
         },
         success: function(data) {
-          sessionStorage.setItem(key, data);
+          localforage.setItem(key, data);
         }
       });
     }
