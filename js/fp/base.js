@@ -59,6 +59,9 @@ fp.showContent = function(key, lang, selector) {
           console.error(err);
         },
         success: function() {
+          if (fp.view.key === 'light-darkness') {
+            $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
+          }
           fp.scripture.preloadScripturesOnPage();
         }
       });
@@ -225,11 +228,6 @@ fp.media = function(mediaObj) {
 };
 
 fp.events = {
-  lightDarkness: function() {
-    if (fp.view.key === 'light-darkness') {
-      $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
-    }
-  },
   listeners: {
     attach: function() {
       fp.scripture.onScriptureClicked();
