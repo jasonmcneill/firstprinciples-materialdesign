@@ -63,7 +63,7 @@ fp.showContent = function(key, lang, selector) {
             console.log('Fixing "buried" graphic for light/darkness study');
             setTimeout(function(){
               $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
-            }, 3000);
+            }, 500);
           }
           fp.scripture.preloadScripturesOnPage();
         }
