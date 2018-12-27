@@ -60,7 +60,10 @@ fp.showContent = function(key, lang, selector) {
         },
         success: function() {
           if (fp.view.key === 'light-darkness') {
-            $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
+            console.log('Fixing "buried" graphic for light/darkness study');
+            setTimeout(function(){
+              $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
+            }, 3000);
           }
           fp.scripture.preloadScripturesOnPage();
         }
