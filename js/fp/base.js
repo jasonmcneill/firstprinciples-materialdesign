@@ -232,7 +232,6 @@ fp.events = {
     attach: function() {
       fp.scripture.onScriptureClicked();
       fp.scripture.onScriptureExpandButtonClicked();
-      fp.events.lightDarkness();
     }
   }
 };
