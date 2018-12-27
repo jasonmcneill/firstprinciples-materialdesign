@@ -37,6 +37,7 @@ fp.showContent = function(key, lang, selector) {
   const urlContent = urlPrefix + key + '/content.xml';
   const urlLogic = urlPrefix + key + '/logic.js';
   fp.view = {
+    key: key,
     containers: {
       title: $('.fp_pagehead'),
       content: $('.fp_pagecontent')
@@ -225,7 +226,9 @@ fp.media = function(mediaObj) {
 
 fp.events = {
   lightDarkness: function() {
-    $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
+    if (fp.view.key === 'light-darkness') {
+      $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
+    }
   },
   listeners: {
     attach: function() {
