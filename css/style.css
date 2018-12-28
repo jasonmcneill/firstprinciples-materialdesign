@@ -15,8 +15,8 @@ strong {
 }
 
 @media only screen and (max-width: 991px) {
-  .fp_pagecontent, .modal-content {
-    font-size: 16px;
+  .fp_pagecontent, .modal-content .scripture {
+    font-size: 1.2rem;
   }
 }
 
