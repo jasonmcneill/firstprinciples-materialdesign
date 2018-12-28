@@ -117,7 +117,6 @@
 			</original>
 			<translated>
 				Hechos 10
-		</translated>
 			</translated>
 		</change>
 	</phrase>
@@ -173,7 +172,7 @@
 		<translated>
 			Su propósito: anunciar la venida del Reino con poder. (Marcos 9:1, Hechos 1:8)
 		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="mark-9">
+		<change bold="true" italic="false" modal="true" scripturekey="mark-9-1">
 			<original>
 				Mark 9:1
 			</original>
@@ -468,7 +467,7 @@
 				Los Dones Milagrosos del Espíritu Santo
 			</translated>
 		</change>
-		<change bold="true" italic="false" modal="false" href="#miraculousgiftsholyspirit">
+		<change bold="true" italic="false" modal="false" href="../miraculous-gifts-holy-spirit/">
 			<original>
 				miraculous gifts of the Holy Spirit
 			</original>
