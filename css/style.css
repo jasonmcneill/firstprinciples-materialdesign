@@ -14,9 +14,12 @@ strong {
   font-size: 1rem;
 }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 991px) {
   .fp_pagecontent {
     font-size: 16px;
+  }
+  .modal {
+    font-size: 15px;
   }
 }
 
