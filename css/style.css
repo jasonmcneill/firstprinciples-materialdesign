@@ -66,6 +66,11 @@ ol ol ol li {
   margin-bottom: 1rem;
 }
 
+ol.compact li,
+ul.compact li {
+  margin-bottom: 0;
+}
+
 .homeicon {
   margin: 4px 18px;
   float: left;
