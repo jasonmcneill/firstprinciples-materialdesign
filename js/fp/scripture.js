@@ -34,10 +34,6 @@ fp.scripture = {
             },
             success: function(xml) {
               let xmlSerialized = fp.xml2Str(xml);
-              if (typeof xmlSerializer === 'function') {
-                const xmlSerializer = new XMLSerializer();
-                xmlSerialized = xmlSerializer.serializeToString(xml);
-              }
               localforage.setItem(fp.language.current + '-' + key, xmlSerialized);
             }
           });
