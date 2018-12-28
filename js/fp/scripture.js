@@ -33,7 +33,12 @@ fp.scripture = {
               console.error(err);
             },
             success: function(xml) {
-              localforage.setItem(fp.language.current + '-' + key, fp.xml2Str(xml));
+              let xmlSerialized = fp.xml2Str(xml);
+              if (typeof xmlSerializer === 'function') {
+                const xmlSerializer = new XMLSerializer();
+                xmlSerialized = xmlSerializer.serializeToString(xml);
+              }
+              localforage.setItem(fp.language.current + '-' + key, xmlSerialized);
             }
           });
         }
