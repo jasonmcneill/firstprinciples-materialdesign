@@ -14,6 +14,12 @@ strong {
   font-size: 1rem;
 }
 
+@media only screen and (max-width: 600px) {
+  .fp_pagecontent {
+    font-size: 14px;
+  }
+}
+
 .fp_pagecontent a {
   text-decoration: underline;
 }
