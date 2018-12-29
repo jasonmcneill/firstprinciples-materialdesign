@@ -1,0 +1,42 @@
+.fpmodule_the-church table {
+  display: inline-block;
+}
+.fpmodule_the-church table tr {
+  border-bottom: 0;
+}
+.fpmodule_the-church table tr:nth-child(1) td {
+  vertical-align: top;
+  height: 1rem;
+}
+.fpmodule_the-church table tr:nth-child(1) td:nth-child(3) img {
+  min-width: 50px;
+}
+.fpmodule_the-church table tr:nth-child(2) td {
+  vertical-align: top;
+}
+.fpmodule_the-church .body {
+  margin-top: 1rem;
+}
+.fpmodule_the-church .fas {
+  margin-top: -3px;
+}
+@media only screen and (max-width: 480px) {
+  .fpmodule_the-church .body {
+    margin-top: -1rem;
+  }
+}
+@media only screen and (max-width: 799px) {
+  .fpmodule_the-church .body {
+    margin-top: 1.25rem;
+  }
+}
+@media only screen and (min-width: 800px) {
+  .fpmodule_the-church .body {
+    margin-top: 0.5rem;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .fpmodule_the-church .body {
+    margin-top: 2rem;
+  }
+}
