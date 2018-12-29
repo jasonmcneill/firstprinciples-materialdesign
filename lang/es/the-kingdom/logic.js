@@ -23,15 +23,16 @@
         </div>
 
         <p>
-          <strong>
-            ${phrase(2)}<br>
-            ${phrase(3)}
-          </strong>
+          ${phrase(2)}
+        </p>
+
+        <p>
+          ${phrase(3)}
         </p>
 
         <ol>
 
-          <li><strong>${phrase(4)}</strong>
+          <li>${phrase(4)}
             <ol>
               <li>${phrase(5)}
                 <ol>
