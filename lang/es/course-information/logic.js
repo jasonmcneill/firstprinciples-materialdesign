@@ -159,20 +159,6 @@
             </tr>
           </tbody>
         </table>
-        
-        <h5>
-          ${phrase(9)}
-        </h5>
-
-        <p>
-          ${phrase(40)}
-        </p>
-
-        <ul>
-          <li>${phrase(41)}: ${phrase(42)}</li>
-          <li>${phrase(43)}: ${phrase(44)}</li>
-          <li>${phrase(45)}: ${phrase(46)}</li>
-        </ul>
 
       </div>
     </div>

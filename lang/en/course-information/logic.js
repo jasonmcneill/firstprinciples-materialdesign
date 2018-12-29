@@ -174,7 +174,7 @@
           ${phrase(39)}
         </p>
 
-        <ul>
+        <ul class="showdiscs">
           <li>
             ${phrase(40)} &mdash; ${phrase(41)}
           </li>
