@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-19-6" lang="en" version="niv" edition="1984">
+	<passage title="Acts 19:6" book="Acts" book-en="Acts">
+		<chapter number="19" number-en="19">
+			<verse number="6" number-en="6">
+				When Paul placed his hands on them, the Holy Spirit came on them, and they spoke in tongues and prophesied.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->

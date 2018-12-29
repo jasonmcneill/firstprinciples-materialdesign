@@ -93,15 +93,15 @@ span.jesuswords {
 }
 
 span.scripturequote {
-  color: #333;
+  color: #666;
   display: block;
   width: 90%;
   border-left: 4px solid #bbb;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  margin-left: 2rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+  margin-left: 1.5rem;
+  padding-left: 1.5rem;
+  padding-right: 1rem;
 }
 
 .container.main,
