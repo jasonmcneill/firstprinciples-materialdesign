@@ -8,8 +8,7 @@
   const key = data.find('content')[0].attributes['key'].value;
   const title = phrase(1);
   const html = `
-    <br>
-    <div class="row">
+    <div class="row fpmodule fpmodule_${key}">
       <div class="col xl6 offset-xl3 l8 offset-l2 m8 offset-m2 s12">
         <div class="collection">
           <a href="introduction/" class="collection-item darken-3">${phrase(2)}</a>

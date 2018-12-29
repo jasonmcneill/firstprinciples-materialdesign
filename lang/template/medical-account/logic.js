@@ -14,8 +14,7 @@
   };
   media();
   const html = `
-    <br>
-    <div class="row">
+    <div class="row fpmodule fpmodule_${key}">
       <div class="col xl10 offset-xl1 l8 offset-l2 m8 offset-m2 s12">
 
         <div class="center hide" id="fpmedia">

@@ -6,16 +6,22 @@
  * Made By MaterializeCSS.com
  */
 
+.fpmodule {
+  margin-top: 2rem;
+}
+
+.fpmodule_dashboard .collection a.collection-item {
+  color: black;
+  font-weight: 400;
+  font-size: .9rem;
+}
+
 strong {
   font-weight: bold;
 }
 
 .fp_pagecontent {
   font-size: 1rem;
-}
-
-.collection a.collection-item {
-  color: #1565C0;
 }
 
 @media only screen and (max-width: 991px) {
