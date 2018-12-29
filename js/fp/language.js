@@ -114,9 +114,8 @@ fp.language = {
     loadContent: function() {
       let html = '';
       html += `
-        <div class="row">
+        <div class="row fpmodule fpmodule_index">
           <div class="col xl4 offset-xl4 l4 offset-l4 m4 offset-m4 s12">
-            <br>
             <div class="collection">
       `;
       fp.language.available.forEach(function(language){

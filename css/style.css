@@ -10,10 +10,11 @@
   margin-top: 2rem;
 }
 
+.fpmodule_index .collection a.collection-item,
 .fpmodule_dashboard .collection a.collection-item {
   color: black;
   font-weight: 400;
-  font-size: .9rem;
+  font-size: 1rem;
 }
 
 strong {
