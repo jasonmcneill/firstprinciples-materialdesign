@@ -130,7 +130,7 @@ audio {
 }
 
 .fp_pagehead {
-  font-size: 100%;
+  font-size: 1.2rem;
   white-space: nowrap;
   overflow: hidden;
 }
