@@ -120,6 +120,14 @@
           <li>${phrase(46)}</li>
         </ol>
 
+        <p>
+          ${phrase(47)} ${phrase(48)}
+        </p>
+
+        <p>
+          ${phrase(49)}
+        </p>
+
       </div>
     </div>
   `;
