@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scripture key="acts-5-38-42" lang="en" version="niv" edition="1984">
+	<passage title="Acts 5:38-42" book="Acts" book-en="Acts">
+		<chapter number="5" number-en="5">
+			<verse number="38" number-en="38">
+				"Therefore, in the present case I advise you: Leave these men alone! Let them go! For if their purpose or activity is of human origin, it will fail.
+			</verse>
+			<verse number="39" number-en="39">
+				But if it is from God, you will not be able to stop these men; you will only find yourselves fighting against God."
+			</verse>
+			<verse number="40" number-en="40">
+				His speech persuaded them. They called the apostles in and had them flogged. Then they ordered them not to speak in the name of Jesus, and let them go.
+			</verse>
+			<verse number="41" number-en="41">
+				The apostles left the Sanhedrin, rejoicing because they had been counted worthy of suffering disgrace for the Name.
+			</verse>
+			<verse number="42" number-en="42">
+				Day after day, in the temple courts and from house to house, they never stopped teaching and proclaiming the good news that Jesus is the Christ.
+			</verse>
+		</chapter>
+	</passage>
+</scripture>
+
+<!--
+			<verse number="" number-en="">
+				
+			</verse>
+			<verse number="" number-en="">
+				<p class="scripture-heading">
+					Heading text
+				</p>
+			</verse>
+-->
