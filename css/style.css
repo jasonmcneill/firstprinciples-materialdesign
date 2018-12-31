@@ -6,6 +6,11 @@
  * Made By MaterializeCSS.com
  */
 
+ body,
+ #scriptureModal {
+  background-color: #efefef;
+ }
+
 .fpmodule {
   margin-top: 2rem;
 }

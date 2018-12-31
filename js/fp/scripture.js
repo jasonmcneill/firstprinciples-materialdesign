@@ -78,14 +78,14 @@ fp.scripture = {
       html += `
         <br>
         <div class="right-align scripture-expand">
-          <a href="http://www.biblegateway.com/passage/?search=${encodeURI(book + '+' + chapter)}&version=${version}" class="btn light-blue lighten-1 waves-effect waves-light">
+          <a href="http://www.biblegateway.com/passage/?search=${encodeURI(book + '+' + chapter)}&version=${version}" class="btn blue darken-3 waves-effect waves-light">
           </a>
         </div>
       `;
       let modalHTML = `
         <div id="scriptureModal" class="modal">
           <div class="modal-content">
-            <nav class="center scripture_headline flow-text light-blue">${passageTitle}</nav>
+            <nav class="center scripture_headline flow-text blue darken-3">${passageTitle}</nav>
             <br>
             ${html}
           </div>
