@@ -60,6 +60,23 @@
                   <li>${phrase(20)}</li>
                 </ol>
               </li>
+              <li><strong>${phrase(21)}</strong>
+                <ol>
+                  <li>${phrase(22)}</li>
+                  <li>${phrase(23)}</li>
+                  <li>${phrase(24)}</li>
+                </ol>
+              </li>
+            </ol>
+          </li>
+          <li><strong>${phrase(25)}</strong>
+            <ol>
+              <li><strong>${phrase(26)}</strong>
+                <ol>
+                  <li>${phrase(27)}</li>
+                  <li>${phrase(28)}</li>
+                </ol>
+              </li>
             </ol>
           </li>
         </ol>
