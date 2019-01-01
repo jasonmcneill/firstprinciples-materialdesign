@@ -136,7 +136,7 @@ audio {
 }
 
 .scripture {
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #ddd;
   font-size: 1rem;
   margin-bottom: 10px;
 }
@@ -161,7 +161,7 @@ div.verseref > span {
   font-weight: 600;
   font-size: .7rem;
   font-family: verdana, sans-serif;
-  border: 1px solid #ccc;
+  border: 1px solid #ddd;
   border-top: 0;
   border-radius: 0 0 4px 4px;
 }
@@ -174,7 +174,7 @@ div.verseref > span {
 }
 .scripture-expand {
   font-size: 1.2rem;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #ddd;
   padding: 2rem 0 0.5rem 0;
 }
 
