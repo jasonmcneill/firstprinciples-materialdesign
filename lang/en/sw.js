@@ -3,7 +3,7 @@ const CACHE = 'fp_v1';
 self.addEventListener('fetch', function(event){
 	event.respondWith(
 		fetch(event.request).catch(function(){
-			return catches.match('./index-offline.html');
+			return caches.match('./index-offline.html');
 		})
 	);
 });

@@ -60,36 +60,36 @@
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="http://usd21.org/m/lang/en/fp/audio/ogg/12-Acts_ch._1-8.ogg" />
-	        <source type="audio/aac" url="http://usd21.org/m/lang/en/fp/audio/m4a/12-Acts_ch._1-8.m4a" />
-	        <source type="audio/mp3" url="http://usd21.org/m/lang/en/fp/audio/mp3/12-Acts_ch._1-8.mp3" />
+	        <source type="audio/ogg" url="https://usd21.org/m/lang/en/fp/audio/ogg/12-Acts_ch._1-8.ogg" />
+	        <source type="audio/aac" url="https://usd21.org/m/lang/en/fp/audio/m4a/12-Acts_ch._1-8.m4a" />
+	        <source type="audio/mp3" url="https://usd21.org/m/lang/en/fp/audio/mp3/12-Acts_ch._1-8.mp3" />
 	      </embed>
 	    </recording>
 	    <recording uuid="b8f6cd1d-9477-402e-8628-83bbd77c4757" label="Chapters 9-15">
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="http://usd21.org/m/lang/en/fp/audio/ogg/13-Acts_ch._9-15.ogg" />
-	        <source type="audio/aac" url="http://usd21.org/m/lang/en/fp/audio/m4a/12-Acts_ch._1-8.m4a" />
-	        <source type="audio/mp3" url="http://usd21.org/m/lang/en/fp/audio/mp3/12-Acts_ch._1-8.mp3" />
+	        <source type="audio/ogg" url="https://usd21.org/m/lang/en/fp/audio/ogg/13-Acts_ch._9-15.ogg" />
+	        <source type="audio/aac" url="https://usd21.org/m/lang/en/fp/audio/m4a/12-Acts_ch._1-8.m4a" />
+	        <source type="audio/mp3" url="https://usd21.org/m/lang/en/fp/audio/mp3/12-Acts_ch._1-8.mp3" />
 	      </embed>
 	    </recording>
 	    <recording uuid="e4a4a0ac-4ab6-40b4-9d9e-3b3a3ba4f6c2" label="Chapters 16-21">
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="http://usd21.org/m/lang/en/fp/audio/ogg/14-Acts_ch._16-21.ogg" />
-	        <source type="audio/aac" url="http://usd21.org/m/lang/en/fp/audio/m4a/14-Acts_ch._16-21.m4a" />
-	        <source type="audio/mp3" url="http://usd21.org/m/lang/en/fp/audio/m4a/14-Acts_ch._16-21.m4a" />
+	        <source type="audio/ogg" url="https://usd21.org/m/lang/en/fp/audio/ogg/14-Acts_ch._16-21.ogg" />
+	        <source type="audio/aac" url="https://usd21.org/m/lang/en/fp/audio/m4a/14-Acts_ch._16-21.m4a" />
+	        <source type="audio/mp3" url="https://usd21.org/m/lang/en/fp/audio/m4a/14-Acts_ch._16-21.m4a" />
 	      </embed>
 	    </recording>
 	    <recording uuid="a581d5fd-6860-484d-9e6a-2c55351d8be3" label="Chapters 22-28">
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="http://usd21.org/m/lang/en/fp/audio/ogg/15-Acts_ch._22-28.ogg" />
-	        <source type="audio/aac" url="http://usd21.org/m/lang/en/fp/audio/m4a/15-Acts_ch._22-28.m4a" />
-	        <source type="audio/mp3" url="http://usd21.org/m/lang/en/fp/audio/m4a/15-Acts_ch._22-28.m4a" />
+	        <source type="audio/ogg" url="https://usd21.org/m/lang/en/fp/audio/ogg/15-Acts_ch._22-28.ogg" />
+	        <source type="audio/aac" url="https://usd21.org/m/lang/en/fp/audio/m4a/15-Acts_ch._22-28.m4a" />
+	        <source type="audio/mp3" url="https://usd21.org/m/lang/en/fp/audio/m4a/15-Acts_ch._22-28.m4a" />
 	      </embed>
 	    </recording>
 	  </item>

@@ -935,9 +935,9 @@
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="http://usd21.org/m/lang/en/fp/audio/ogg/11-The_Church.ogg" />
-	        <source type="audio/aac" url="http://usd21.org/m/lang/en/fp/audio/m4a/11-The_Church.m4a" />
-	        <source type="audio/mp3" url="http://usd21.org/m/lang/en/fp/audio/mp3/11-The_Church.mp3" />
+	        <source type="audio/ogg" url="https://usd21.org/m/lang/en/fp/audio/ogg/11-The_Church.ogg" />
+	        <source type="audio/aac" url="https://usd21.org/m/lang/en/fp/audio/m4a/11-The_Church.m4a" />
+	        <source type="audio/mp3" url="https://usd21.org/m/lang/en/fp/audio/mp3/11-The_Church.mp3" />
 	      </embed>
 	    </recording>
 	  </item>
