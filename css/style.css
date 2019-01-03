@@ -7,7 +7,8 @@
  */
 
  body,
- #scriptureModal {
+ #scriptureModal,
+ .collection .collection-item {
   background-color: #efefef;
  }
 
@@ -20,6 +21,7 @@
   color: black;
   font-weight: 400;
   font-size: 1rem;
+  background-color: #fff;
 }
 
 strong {
