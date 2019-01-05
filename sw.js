@@ -1,9 +1,9 @@
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const CACHE_NAME = `${registration.scope}!${CACHE_VERSION}`;
 
 self.addEventListener('install', event => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => {
+    caches.open(CACHE_NAME).then(async cache => {
       const itemsToCache = [
         './',
         'css/light-darkness.css',
@@ -25,10 +25,20 @@ self.addEventListener('install', event => {
         'js/fp/language.js',
         'js/fp/scripture.js'
       ];
-      cache
-        .addAll(itemsToCache).catch(function(err){
-          console.error(err);
+      itemsToCache.map(itemToCache => {
+        const itemUrl = `${itemToCache}`;
+        fetch(itemUrl).then(response => {
+          return response.text();
+        }).then(itemText => {
+          cache.add(itemUrl, itemText).catch(err => {
+            console.error('cache.add() for ' + itemUrl + ' failed:', err);
+          })
+        }).catch(err => {
+          console.error('fetch failed for ' + itemUrl + ':', err);
         })
+      });
+    }).catch(err => {
+      console.error('caches.open() failed:', err);
     })
   );
 });
@@ -37,7 +47,7 @@ self.addEventListener('activate', function(event) {
   event.waitUntil(
     caches.keys().then(function(strCacheNames){
       let strCachesToDelete = [];
-      strCachesToDelete.map(function(strCacheName){
+      strCacheNames.map(function(strCacheName){
         const startsWithName = strCacheName.startsWith(`${registration.scope}!`);
         const notEqualToName = strCacheName !== CACHE_NAME;
         const bothTrue = (startsWithName && notEqualToName);
@@ -50,4 +60,11 @@ self.addEventListener('activate', function(event) {
       }))
     })
   );
+});
+
+self.addEventListener('fetch', event => {
+  event.respondWith(async function() {
+    const response = await caches.match(event.request);
+    return response || fetch(event.request);
+  }());
 });
