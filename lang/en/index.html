@@ -15,6 +15,7 @@
       <div class="nav-wrapper blue darken-3">
         <a href="./" class="brand-logo center"></a>
         <a href="./" class="homeicon hide"><i class="fas fa-home"></i></a>
+        <a href="#" id="install-button" class="waves-effect waves-light btn-small lighten-1 btn right hide"></a>
       </div>
     </nav>
     <nav class="light-blue darken-1" role="name">
@@ -53,6 +54,22 @@
     <script src="../../js/fp/language.js"></script>
     <script src="../../js/fp/scripture.js"></script>
     <script>
+      if ('serviceWorker' in navigator) {
+        let installPromptEvent;
+        window.addEventListener('beforeinstallprompt', (event) => {
+          event.preventDefault();
+          installPromptEvent = event;
+          document.querySelector('#install-button').disabled = false;
+        });
+        navigator.serviceWorker.register('../../sw.js').then(registration => {
+          navigator.serviceWorker.addEventListener('message', event => {
+            console.log("Client 1 Received Message: " + event.data);
+            event.ports[0].postMessage("Client 1 Says 'Hello back!'");
+          });
+        }).catch(error => {
+          console.error('Error in registering First Principles service worker:', error);
+        });
+      }
       fp.init('dashboard');
       M.AutoInit();
     </script>

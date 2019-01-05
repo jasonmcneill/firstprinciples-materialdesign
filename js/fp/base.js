@@ -1,6 +1,20 @@
 const fp = {};
 
-fp.getPath = function(fromKey, lang) {
+fp.sendMessageToSW = msg => {
+  return new Promise((resolve, reject) => {
+    const msg_chan = new MessageChannel();
+    msg_chan.port1.onmessage = event => {
+      if (event.data.error) {
+        reject(event.data.error);
+      } else {
+        resolve(event.data);
+      }
+    };
+    navigator.serviceWorker.controller.postMessage(`Client 1 says ${msg}`, [msg_chan.port2]);
+  });
+};
+
+fp.getPath = (fromKey, lang) => {
   let path;
   if (fromKey === 'index') {
     path = 'lang/' + lang + '/';
@@ -10,9 +24,9 @@ fp.getPath = function(fromKey, lang) {
     path = '../';
   }
   return path;
-}
+};
 
-fp.loadKeys = async function(fromKey) {
+fp.loadKeys = async fromKey => {
   let url;
   let lang;
   let keys;
@@ -31,7 +45,7 @@ fp.loadKeys = async function(fromKey) {
   });
 };
 
-fp.showContent = function(key, lang, selector) {
+fp.showContent = (key, lang, selector) => {
   if (! selector) selector = '.fp_pagecontent';
   let urlPrefix = fp.getPath(key, lang);
   const urlContent = urlPrefix + key + '/content.xml';
@@ -46,22 +60,22 @@ fp.showContent = function(key, lang, selector) {
   };
   $.ajax({
     url: urlContent,
-    error: function(err) {
+    error: err => {
       console.error(err);
     },
-    success: function(content) {
+    success: content => {
       fp.view.content = content;
       $.ajax({
         url: urlLogic,
         dataType: 'script',
         cache: true,
-        error: function(err) {
+        error: err => {
           console.error(err);
         },
-        success: function() {
+        success: () => {
           if (fp.view.key === 'light-darkness') {
             console.log('Fixing "buried" graphic for light/darkness study');
-            setTimeout(function(){
+            setTimeout(() => {
               $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
             }, 500);
           }
@@ -70,9 +84,9 @@ fp.showContent = function(key, lang, selector) {
       });
     }
   });
-}
+};
 
-fp.phrase = function(phraseObj) {
+fp.phrase = phraseObj => {
   let phraseHTML;
   if (fp.language.current === 'en') {
     phraseHTML = $(phraseObj).find('original')[0].innerHTML.trim();
@@ -136,9 +150,9 @@ fp.phrase = function(phraseObj) {
     phraseHTML = phraseHTML.replace(changeHTMLBefore, changeHTMLAfter);
   }
   return phraseHTML;
-}
+};
 
-fp.media = function(mediaObj) {
+fp.media = mediaObj => {
   let mediaHTML = '';
   if (mediaObj.length === 0) return mediaHTML;
   const recordings = mediaObj.find('recording');
@@ -239,7 +253,7 @@ fp.events = {
   }
 };
 
-fp.xml2Str = function(xmlNode) {
+fp.xml2Str = xmlNode => {
   try {
     // Gecko- and Webkit-based browsers (Firefox, Chrome), Opera.
     return (new XMLSerializer()).serializeToString(xmlNode);
@@ -257,7 +271,7 @@ fp.xml2Str = function(xmlNode) {
   return false;
 };
 
-fp.init = async function(fromKey) {
+fp.init = async fromKey => {
   window.fp = {};
   $.ajaxSetup({
     cache: true
