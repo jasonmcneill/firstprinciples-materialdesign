@@ -1,5 +1,6 @@
-const CACHE_VERSION = 'v2';
+const CACHE_VERSION = 'v1';
 const CACHE_NAME = `${registration.scope}!${CACHE_VERSION}`;
+let LANG = '';
 
 self.addEventListener('message', function(event){
   console.log("SW Received Message: " + event.data);
@@ -11,10 +12,7 @@ self.addEventListener('install', event => {
     caches.open(CACHE_NAME).then(async cache => {
       const itemsToCache = [
         './',
-        './_assets/css/light-darkness.css',
-        './_assets/css/materialize.min.css',
         './_assets/css/style.css',
-        './_assets/css/the-church.css',
         './_assets/css/fontawesome-free-5.5.0-web/css/all.min.css',
         './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-brands-400.woff',
         './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-brands-400.woff2',
@@ -22,7 +20,6 @@ self.addEventListener('install', event => {
         './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-regular-400.woff2',
         './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-solid-900.woff',
         './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-solid-900.woff2',
-        './_assets/img/body.png',
         './_assets/js/jquery-2.1.1.min.js',
         './_assets/js/localforage.min.js',
         './_assets/js/materialize.min.js',
@@ -36,10 +33,10 @@ self.addEventListener('install', event => {
           return response.text();
         }).then(itemText => {
           cache.add(itemUrl, itemText).catch(err => {
-            console.error('cache.add() for ' + itemUrl + ' failed:', err);
+            console.error('cache.add() failed for ' + itemUrl + ':', err);
           })
         }).catch(err => {
-          console.error('fetch failed for ' + itemUrl + ':', err);
+          console.error('fetch() failed for ' + itemUrl + ':', err);
         })
       });
     }).catch(err => {

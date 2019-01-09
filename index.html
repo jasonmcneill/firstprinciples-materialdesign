@@ -52,6 +52,13 @@
     <script src="./_assets/js/fp/language.js"></script>
     <script src="./_assets/js/fp/scripture.js"></script>
     <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('./sw.js').then(registration => {
+          console.log('Registered First Principles language selection page service worker', registration);
+        }).catch(error => {
+          console.error('Error in registering First Principles language selection page service worker:', error);
+        });
+      }
       fp.init('index');
       M.AutoInit();
     </script>
