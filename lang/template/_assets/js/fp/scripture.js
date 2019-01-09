@@ -116,24 +116,18 @@ fp.scripture = {
       });
       $('#scriptureModal').modal('open');
     };
-    storedScripture = await localforage.getItem(fp.language.current + '-' + key);
-    if (storedScripture) {
-      storedScripture = $.parseXML(storedScripture);
-      successHandler(storedScripture);
-    } else {
-      $.ajax({
-        url: '../scriptures/' + key + '/content.xml',
-        cache: true,
-        dataType: 'xml',
-        error: function(err){
-          console.error(err);
-        },
-        success: function(data) {
-          successHandler(data);
-          localforage.setItem(fp.language.current + '-' + key, fp.xml2Str(data));
-        }
-      });
-    }
+    $.ajax({
+      url: '../scriptures/' + key + '/content.xml',
+      cache: true,
+      dataType: 'xml',
+      error: function(err){
+        console.error(err);
+      },
+      success: function(data) {
+        successHandler(data);
+        localforage.setItem(fp.language.current + '-' + key, fp.xml2Str(data));
+      }
+    });
   }
 
 }

@@ -79,7 +79,7 @@ fp.showContent = (key, lang, selector) => {
               $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
             }, 500);
           }
-          fp.scripture.preloadScripturesOnPage();
+          // fp.scripture.preloadScripturesOnPage();
         }
       });
     }
