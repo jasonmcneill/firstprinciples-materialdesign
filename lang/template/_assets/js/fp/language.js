@@ -11,13 +11,6 @@ fp.language = {
         native: 'English',
         en: 'English'
       }
-    },
-    {
-      iso: 'es',
-      name: {
-        native: 'Español',
-        en: 'Spanish'
-      }
     }
   ],
 

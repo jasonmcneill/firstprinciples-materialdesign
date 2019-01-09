@@ -14,7 +14,7 @@
   };
   media();
   const html = `
-    <link rel="stylesheet" href="../../../css/light-darkness.css">
+    <link rel="stylesheet" href="../_assets/css/light-darkness.css">
     <div class="row fpmodule fpmodule_${key}">
       <div class="col xl10 offset-xl1 l8 offset-l2 m8 offset-m2 s12">
 
