@@ -19,27 +19,13 @@ fp.language = {
     if(! iso) return isAvailable;
     if(typeof iso !== 'string') return isAvailable;
     if(iso.length !== 2) return isAvailable;
-    $.ajax({
-      url: '../../../languages.json',
-      fileType: 'json',
-      error: function(err) {
-        console.error('Failed to retrieve languages.json', err);
-      },
-      success: function(languages) {
-        console.log('Retrieved languages.json', languages);
-        fp.language.available = [];
-        languages.map(language => {
-          fp.language.available.push(language);
-        });
-        fp.language.available.map(function(lang) {
-          if(lang.iso === iso) {
-            isAvailable = true;
-            return;
-          }
-        });      
-        return isAvailable;
+    fp.language.available.map(language => {
+      if(lang.iso === iso) {
+        isAvailable = true;
+        return;
       }
     });
+    return isAvailable;
   },
 
   detect: function() {
