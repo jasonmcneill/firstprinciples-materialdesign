@@ -11,27 +11,30 @@ fp.language = {
         native: 'English',
         en: 'English'
       }
-    },
-    {
-      iso: 'es',
-      name: {
-        native: 'Español',
-        en: 'Spanish'
-      }
     }
   ],
 
-  isAvailable: function(iso) {
+  isAvailable: async function(iso) {
     let isAvailable = false;
     if(! iso) return isAvailable;
     if(typeof iso !== 'string') return isAvailable;
     if(iso.length !== 2) return isAvailable;
+    if (fp.language.available.length === 1) {
+      await fetch('../../../languages.json').then(response => {
+        return response.json();
+      }).then(languages => {
+        fp.language.available = [];
+        languages.map(language => {
+          fp.language.available.push(language);
+        });
+      });
+    }
     fp.language.available.map(function(lang) {
       if(lang.iso === iso) {
         isAvailable = true;
         return;
       }
-    });
+    });      
     return isAvailable;
   },
 

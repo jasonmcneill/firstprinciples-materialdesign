@@ -12,6 +12,8 @@ self.addEventListener('install', event => {
     caches.open(CACHE_NAME).then(async cache => {
       const itemsToCache = [
         './',
+        './languages.json',
+        './_assets/css/materialize.min.css',
         './_assets/css/style.css',
         './_assets/css/fontawesome-free-5.5.0-web/css/all.min.css',
         './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-brands-400.woff',
@@ -27,6 +29,13 @@ self.addEventListener('install', event => {
         './_assets/js/fp/language.js',
         './_assets/js/fp/scripture.js'
       ];
+      await fetch('./languages.json').then(response => {
+        return response.json();
+      }).then(languages => {
+        languages.map(language => {
+          itemsToCache.push(`./lang/${language.iso}/global/content.xml`);
+        });
+      });
       itemsToCache.map(itemToCache => {
         const itemUrl = `${itemToCache}`;
         fetch(itemUrl).then(response => {
