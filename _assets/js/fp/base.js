@@ -275,6 +275,19 @@ fp.init = async fromKey => {
   $.ajaxSetup({
     cache: true
   });
+  await $.ajax({
+    url: '../../../languages.json',
+    fileType: 'json',
+    error: function(err) {
+      console.error('Failed to load languages.json', err);
+    },
+    success: function(languages) {
+      fp.language.available = [];
+      languages.map(language => {
+        fp.language.available.push(language);
+      });
+    }
+  });
   if (fromKey === 'index') {
     fp.language.current = await fp.language.get();
     fp.language.indexPage.loadTitle();
