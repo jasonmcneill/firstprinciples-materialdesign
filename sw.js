@@ -32,11 +32,13 @@ self.addEventListener('install', event => {
       await fetch('./languages.json').then(response => {
         return response.json();
       }).then(languages => {
+        console.log('languages:', languages);
         languages.map(language => {
           itemsToCache.push(`./lang/${language.iso}/global/content.xml`);
         });
+        console.log('itemsToCache:', itemsToCache);
       });
-      itemsToCache.map(itemToCache => {
+      await itemsToCache.map(itemToCache => {
         const itemUrl = `${itemToCache}`;
         fetch(itemUrl).then(response => {
           return response.text();
