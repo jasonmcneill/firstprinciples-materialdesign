@@ -14,7 +14,7 @@
   };
   media();
   const html = `
-    <link rel="stylesheet" type="text/css" href="../../../css/the-church.css">
+    <link rel="stylesheet" type="text/css" href="../_assets/css/the-church.css">
     <div class="row fpmodule fpmodule_${key}">
       <div class="col xl10 offset-xl1 l8 offset-l2 m8 offset-m2 s12">
 
@@ -30,7 +30,7 @@
                 <tr>
                   <td><div>${phrase(4)}</div></td>
                   <td class="right"><div class="head"><i class="fas fa-long-arrow-alt-right fa-2x"></i></div></td>
-                  <td rowspan="2"><img src="../../../img/body.png" width="86" height="187" class="responsive-img"></td>
+                  <td rowspan="2"><img src="../_assets/img/body.png" width="86" height="187" class="responsive-img"></td>
                   <td><div class="head"><i class="fas fa-long-arrow-alt-left fa-2x"></i></div></td>
                   <td><div class="head">${phrase(5)}</div></td>
                 </tr>
