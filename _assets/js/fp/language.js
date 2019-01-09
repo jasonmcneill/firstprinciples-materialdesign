@@ -19,25 +19,28 @@ fp.language = {
     if(! iso) return isAvailable;
     if(typeof iso !== 'string') return isAvailable;
     if(iso.length !== 2) return isAvailable;
-    if (fp.language.available.length === 1) {
-      await fetch('../../../languages.json').then(response => {
-        return response.json();
-      }).then(languages => {
-        if (languages.length > 0) {
+      $.ajax({
+        url: '../../../languages.json',
+        fileType: 'json',
+        error: function(err) {
+          console.error('Failed to retrieve languages.json', err);
+        },
+        success: function(languages) {
+          console.log('Retrieved languages.json', languages);
           fp.language.available = [];
           languages.map(language => {
             fp.language.available.push(language);
           });
+          fp.language.available.map(function(lang) {
+            if(lang.iso === iso) {
+              isAvailable = true;
+              return;
+            }
+          });      
+          return isAvailable;
         }
       });
     }
-    fp.language.available.map(function(lang) {
-      if(lang.iso === iso) {
-        isAvailable = true;
-        return;
-      }
-    });      
-    return isAvailable;
   },
 
   detect: function() {
