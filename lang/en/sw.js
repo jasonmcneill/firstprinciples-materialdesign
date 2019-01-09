@@ -37,11 +37,11 @@ self.addEventListener('install', event => {
       }).then(items => {
         LANG = items.lang;
         items.pages.map(page => {
-          if (item.key === 'dashboard') {
+          if (page.key === 'dashboard') {
             itemsToCache.push(`./${page.key}/content.xml`);
             itemsToCache.push('./');
             itemsToCache.push(`./${page.key}/logic.js`);
-          } else if (item.key === 'global') {
+          } else if (page.key === 'global') {
             itemsToCache.push(`./${page.key}/content.xml`);
           } else {
             itemsToCache.push(`./${page.key}/content.xml`);

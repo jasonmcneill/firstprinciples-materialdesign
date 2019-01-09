@@ -11,24 +11,24 @@ self.addEventListener('install', event => {
     caches.open(CACHE_NAME).then(async cache => {
       const itemsToCache = [
         './',
-        'css/light-darkness.css',
-        'css/materialize.min.css',
-        'css/style.css',
-        'css/the-church.css',
-        'css/fontawesome-free-5.5.0-web/css/all.min.css',
-        'css/fontawesome-free-5.5.0-web/webfonts/fa-brands-400.woff',
-        'css/fontawesome-free-5.5.0-web/webfonts/fa-brands-400.woff2',
-        'css/fontawesome-free-5.5.0-web/webfonts/fa-regular-400.woff',
-        'css/fontawesome-free-5.5.0-web/webfonts/fa-regular-400.woff2',
-        'css/fontawesome-free-5.5.0-web/webfonts/fa-solid-900.woff',
-        'css/fontawesome-free-5.5.0-web/webfonts/fa-solid-900.woff2',
-        'img/body.png',
-        'js/jquery-2.1.1.min.js',
-        'js/localforage.min.js',
-        'js/materialize.min.js',
-        'js/fp/base.js',
-        'js/fp/language.js',
-        'js/fp/scripture.js'
+        './_assets/css/light-darkness.css',
+        './_assets/css/materialize.min.css',
+        './_assets/css/style.css',
+        './_assets/css/the-church.css',
+        './_assets/css/fontawesome-free-5.5.0-web/css/all.min.css',
+        './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-brands-400.woff',
+        './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-brands-400.woff2',
+        './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-regular-400.woff',
+        './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-regular-400.woff2',
+        './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-solid-900.woff',
+        './_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-solid-900.woff2',
+        './_assets/img/body.png',
+        './_assets/js/jquery-2.1.1.min.js',
+        './_assets/js/localforage.min.js',
+        './_assets/js/materialize.min.js',
+        './_assets/js/fp/base.js',
+        './_assets/js/fp/language.js',
+        './_assets/js/fp/scripture.js'
       ];
       itemsToCache.map(itemToCache => {
         const itemUrl = `${itemToCache}`;
