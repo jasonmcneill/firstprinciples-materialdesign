@@ -294,6 +294,7 @@ fp.init = async fromKey => {
     fp.language.indexPage.loadContent();
     return;
   }
+  fp.language.set(fp.language.current);
   fp.language.global.setAppTitle(fromKey, fp.language.current);
   fp.language.global.setExpandButton(fromKey, fp.language.current);
   await fp.showContent(fromKey, fp.language.current);
