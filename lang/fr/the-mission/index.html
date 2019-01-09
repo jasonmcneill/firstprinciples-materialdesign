@@ -53,6 +53,19 @@
     <script src="../_assets/js/fp/language.js"></script>
     <script src="../_assets/js/fp/scripture.js"></script>
     <script>
+      if ('serviceWorker' in navigator) {
+        let installPromptEvent;
+        window.addEventListener('beforeinstallprompt', (event) => {
+          event.preventDefault();
+          installPromptEvent = event;
+          document.querySelector('#install-button').disabled = false;
+        });
+        navigator.serviceWorker.register('../sw.js').then(registration => {
+          // console.log('Registered First Principles service worker', registration);
+        }).catch(error => {
+          console.error('Error in registering First Principles service worker:', error);
+        });
+      }
       fp.init('the-mission');
       M.AutoInit();
     </script>

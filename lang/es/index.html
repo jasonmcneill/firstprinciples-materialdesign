@@ -61,7 +61,7 @@
           document.querySelector('#install-button').disabled = false;
         });
         navigator.serviceWorker.register('./sw.js').then(registration => {
-          console.log('Registered First Principles service worker', registration);
+          // console.log('Registered First Principles service worker', registration);
         }).catch(error => {
           console.error('Error in registering First Principles service worker:', error);
         });
