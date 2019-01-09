@@ -54,7 +54,7 @@
     <script>
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('./sw.js').then(registration => {
-          console.log('Registered First Principles language selection page service worker', registration);
+          // console.log('Registered First Principles language selection page service worker', registration);
         }).catch(error => {
           console.error('Error in registering First Principles language selection page service worker:', error);
         });
