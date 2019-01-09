@@ -26,7 +26,7 @@
           <a href="baptism-holy-spirit/" class="collection-item">${phrase(13)}</a>
           <a href="miraculous-gifts-holy-spirit/" class="collection-item">${phrase(14)}</a>
           <a href="the-church/" class="collection-item">${phrase(15)}</a>
-          <a href="book-of-acts/" class="collection-item">${phrase(16)}</a>
+          <a href="book-of-acts/" class="collection-item hide">${phrase(16)}</a>
           <a href="after-baptism-now-what/" class="collection-item">${phrase(17)}</a>
           <a href="christ-is-your-life/" class="collection-item">${phrase(18)}</a>
           <a href="best-friends-all-time/" class="collection-item">${phrase(19)}</a>
