@@ -19,7 +19,7 @@ fp.language = {
     if(! iso) return isAvailable;
     if(typeof iso !== 'string') return isAvailable;
     if(iso.length !== 2) return isAvailable;
-    fp.language.available.map(language => {
+    fp.language.available.map(lang => {
       if(lang.iso === iso) {
         isAvailable = true;
         return;
