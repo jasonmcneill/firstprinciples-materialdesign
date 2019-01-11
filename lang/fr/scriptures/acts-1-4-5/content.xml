@@ -4,10 +4,10 @@
 	<passage title="Actes 1:4-5" book="Actes" title-en="Acts 1:4-5" book-en="Acts">
 		<chapter number="1" number-en="1">
 			<verse number="4" number-en="4" jesuswords="true">
-				Alors qu’il se trouvait en leur compagnie, il leur recommanda de ne pas s'éloigner de Jérusalem, mais d'attendre ce que le Père avait promis, «ce que je vous ai annoncé, leur dit-il,
+				Alors qu’il se trouvait en leur compagnie, il leur recommanda de ne pas s'éloigner de Jérusalem, mais d'attendre ce que le Père avait promis, <span class="jesuswords">«ce que je vous ai annoncé, leur dit-il,</span>
 			</verse>
 			<verse number="5" number-en="5" jesuswords="true">
-				car Jean a baptisé d'eau, mais vous, dans peu de jours, vous serez baptisés du Saint-Esprit.»
+				<span class="jesuswords">car Jean a baptisé d'eau, mais vous, dans peu de jours, vous serez baptisés du Saint-Esprit.»</span>
 			</verse>
 		</chapter>
 	</passage>

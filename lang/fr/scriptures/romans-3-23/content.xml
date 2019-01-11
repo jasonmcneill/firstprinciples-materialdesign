@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="romans-3-23" lang="fr" version="SG21" edition="2007">
-	<passage title="" book="" title-en="Romans 3:23" book-en="Romans">
+	<passage title="Romains 3:23" book="Romains" title-en="Romans 3:23" book-en="Romans">
 		<chapter number="3" number-en="3">
 			<verse number="23" number-en="23">
-				
+				tous ont péché et sont privés de la gloire de Dieu,
 			</verse>
 		</chapter>
 	</passage>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="john-17-20-23" lang="fr" version="SG21" edition="2007">
-	<passage title="" book="" title-en="John 17:20-23" book-en="John">
+	<passage title="Jean 17:20-23" book="Jean" title-en="John 17:20-23" book-en="John">
 		<chapter number="17" number-en="17">
 			<verse number="20" number-en="20" jesuswords="true">
-				
+				»Je ne prie pas pour eux seulement, mais encore pour ceux qui croiront en moi à travers leur parole,
 			</verse>
 			<verse number="21" number-en="21" jesuswords="true">
-				
+				afin que tous soient un comme toi, Père, tu es en moi et comme je suis en toi, afin qu'eux aussi soient [un] en nous pour que le monde croie que tu m'as envoyé.
 			</verse>
 			<verse number="22" number-en="22" jesuswords="true">
-				
+				Je leur ai donné la gloire que tu m'as donnée afin qu'ils soient un comme nous sommes un
 			</verse>
 			<verse number="23" number-en="23" jesuswords="true">
-				
+				( moi en eux et toi en moi (, afin qu'ils soient parfaitement un et qu’ainsi le monde reconnaisse que tu m'as envoyé et que tu les as aimés comme tu m'as aimé.
 			</verse>
 		</chapter>
 	</passage>

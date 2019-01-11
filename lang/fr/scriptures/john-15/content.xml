@@ -1,88 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="john-15" lang="fr" version="SG21" edition="2007">
-	<passage title="" book="" title-en="John 15" book-en="John">
+	<passage title="Jean 15" book="Jean" title-en="John 15" book-en="John">
 		<chapter number="15" number-en="15">
 			<verse number="1" number-en="1" jesuswords="true">
-				
+				<p class="scripture-heading">
+					Le cep et les sarments
+				</p>
+				»C’est moi qui suis le vrai cep, et mon Père est le vigneron.
 			</verse>
 			<verse number="2" number-en="2" jesuswords="true">
-				
+				Tout sarment qui est en moi et qui ne porte pas de fruit, il l’enlève; et tout sarment qui porte du fruit, il le taille afin qu'il porte encore plus de fruit.
 			</verse>
 			<verse number="3" number-en="3" jesuswords="true">
-				
+				Déjà vous êtes purs à cause de la parole que je vous ai annoncée.
 			</verse>
 			<verse number="4" number-en="4" jesuswords="true">
-				
+				Demeurez en moi et je demeurerai en vous. Le sarment ne peut pas porter de fruit par lui-même, sans rester attaché au cep; il en va de même pour vous si vous ne demeurez pas en moi.
 			</verse>
 			<verse number="5" number-en="5" jesuswords="true">
-				
+				Je suis le cep, vous êtes les sarments. Celui qui demeure en moi et en qui je demeure porte beaucoup de fruit, car sans moi vous ne pouvez rien faire.
 			</verse>
 			<verse number="6" number-en="6" jesuswords="true">
-				
+				Si quelqu'un ne demeure pas en moi, il est jeté dehors comme le sarment et il sèche; puis on ramasse les sarments, on les jette au feu et ils brûlent.
 			</verse>
 			<verse number="7" number-en="7" jesuswords="true">
-				
+				Si vous demeurez en moi et que mes paroles demeurent en vous, vous demanderez ce que vous voudrez et cela vous sera accordé.
 			</verse>
 			<verse number="8" number-en="8" jesuswords="true">
-				
+				Ce qui manifeste la gloire de mon Père, c'est que vous portiez beaucoup de fruit. Vous serez alors vraiment mes disciples.
 			</verse>
 			<verse number="9" number-en="9" jesuswords="true">
-				
+				»Tout comme le Père m'a aimé, moi aussi, je vous ai aimés. Demeurez dans mon amour.
 			</verse>
 			<verse number="10" number-en="10" jesuswords="true">
-				
+				Si vous gardez mes commandements, vous demeurerez dans mon amour, de même que j'ai gardé les commandements de mon Père et que je demeure dans son amour.
 			</verse>
 			<verse number="11" number-en="11" jesuswords="true">
-				
+				Je vous ai dit cela afin que ma joie demeure en vous et que votre joie soit complète.
 			</verse>
 			<verse number="12" number-en="12" jesuswords="true">
-				
+				»Voici mon commandement: aimez-vous les uns les autres comme je vous ai aimés.
 			</verse>
 			<verse number="13" number-en="13" jesuswords="true">
-				
+				Il n'y a pas de plus grand amour que de donner votre vie pour vos amis. 
 			</verse>
 			<verse number="14" number-en="14" jesuswords="true">
-				
+				Vous êtes mes amis si vous faites ce que je vous commande.
 			</verse>
 			<verse number="15" number-en="15" jesuswords="true">
-				
+				Je ne vous appelle plus serviteurs parce que le serviteur ne sait pas ce que fait son seigneur, mais je vous ai appelés amis parce que je vous ai fait connaître tout ce que j'ai appris de mon Père.
 			</verse>
 			<verse number="16" number-en="16" jesuswords="true">
-				
+				Ce n'est pas vous qui m'avez choisi, mais c'est moi qui vous ai choisis, et je vous ai établis afin que vous alliez, que vous portiez du fruit et que votre fruit demeure. Alors, ce que vous demanderez au Père en mon nom, il vous le donnera.
 			</verse>
 			<verse number="17" number-en="17" jesuswords="true">
-				
+				Ce que je vous commande, c'est de vous aimer les uns les autres.
 			</verse>
 			<verse number="18" number-en="18" jesuswords="true">
-				
+				<p class="scripture-heading">
+					L’œuvre du Saint-Esprit et la mort de Jésus
+				</p>
+				»Si le monde vous déteste, sachez qu'il m'a détesté avant vous.
 			</verse>
 			<verse number="19" number-en="19" jesuswords="true">
-				
+				Si vous étiez du monde, le monde vous aimerait car vous seriez à lui. Vous n'êtes pas du monde, mais je vous ai choisis du milieu du monde; c'est pour cela que le monde vous déteste.
 			</verse>
 			<verse number="20" number-en="20" jesuswords="true">
-				
+				Souvenez-vous de la parole que je vous ai dite: ‘Le serviteur n'est pas plus grand que son seigneur.’ S'ils m'ont persécuté, ils vous persécuteront aussi; s'ils ont gardé ma parole, ils garderont aussi la vôtre.
 			</verse>
 			<verse number="21" number-en="21" jesuswords="true">
-				
+				Mais ils vous feront tout cela à cause de moi, parce qu'ils ne connaissent pas celui qui m'a envoyé.
 			</verse>
 			<verse number="22" number-en="22" jesuswords="true">
-				
+				Si je n'étais pas venu et ne leur avais pas parlé, ils ne seraient pas coupables, mais maintenant ils n'ont aucune excuse pour leur péché.
 			</verse>
 			<verse number="23" number-en="23" jesuswords="true">
-				
+				Celui qui me déteste déteste aussi mon Père.
 			</verse>
 			<verse number="24" number-en="24" jesuswords="true">
-				
+				Si je n'avais pas fait parmi eux des œuvres qu'aucun autre n'a faites, ils ne seraient pas coupables, mais maintenant ils les ont vues et ils nous ont détestés, moi et mon Père.
 			</verse>
 			<verse number="25" number-en="25" jesuswords="true" scripturequote="true">
-				
+				C'est ainsi que s'accomplit la parole écrite dans leur loi: <span class="scripturequote">Ils m'ont détesté sans raison.</span>
 			</verse>
 			<verse number="26" number-en="26" jesuswords="true">
-				
+				»Quand sera venu le défenseur que je vous enverrai de la part du Père, l'Esprit de la vérité qui vient du Père, il rendra témoignage de moi.
 			</verse>
 			<verse number="27" number-en="27" jesuswords="true">
-				
+				Et vous aussi, vous me rendrez témoignage, parce que vous êtes avec moi depuis le début.
 			</verse>
 		</chapter>
 	</passage>

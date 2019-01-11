@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <scripture key="titus-1-5" lang="fr" version="SG21" edition="2007">
-	<passage title="" book="" title-en="Titus 1:5" book-en="Titus">
+	<passage title="Tite 1:5" book="Tite" title-en="Titus 1:5" book-en="Titus">
 		<chapter number="1" number-en="1">
 			<verse number="5" number-en="5">
-				
+				<p class="scripture-heading">
+					Mission de Tite
+				</p>
+				Je t'ai laissé en Crète afin que tu mettes en ordre ce qui reste à régler et que tu établisses des anciens dans chaque ville en suivant mes instructions:
 			</verse>
 		</chapter>
 	</passage>
