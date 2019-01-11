@@ -7,10 +7,10 @@
 				<p class="scripture-heading">
 					L’entrée dans le royaume
 				</p>
-				»Entrez par la porte étroite! En effet, large est la porte, spacieux le chemin menant à la perdition, et il y en a beaucoup qui entrent par là,
+				<span class="jesuswords">»Entrez par la porte étroite! En effet, large est la porte, spacieux le chemin menant à la perdition, et il y en a beaucoup qui entrent par là,</span>
 			</verse>
 			<verse number="14" number-en="14" jesuswords="true">
-				mais étroite est la porte, resserré le chemin menant à la vie, et il y en a peu qui les trouvent.
+				<span class="jesuswords">mais étroite est la porte, resserré le chemin menant à la vie, et il y en a peu qui les trouvent.</span>
 			</verse>
 		</chapter>
 	</passage>

@@ -4,7 +4,7 @@
 	<passage title="Matthieu 27:46" book="Matthieu" title-en="Matthew 27:46" book-en="Matthew">
 		<chapter number="27" number-en="27">
 			<verse number="46" number-en="46" jesuswords="true">
-				Vers trois heures de l'après-midi, Jésus s'écria d'une voix forte: «Eli, Eli, lama sabachthani?» – c'est-à-dire: Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné?
+				Vers trois heures de l'après-midi, Jésus s'écria d'une voix forte: <span class="jesuswords">«Eli, Eli, lama sabachthani?»</span> – c'est-à-dire: Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné?
 			</verse>
 		</chapter>
 	</passage>

@@ -4,10 +4,10 @@
 	<passage title="Matthieu 7:7-8" book="Matthieu" title-en="Matthew 7:7-8" book-en="Matthew">
 		<chapter number="7" number-en="7">
 			<verse number="7" number-en="7" jesuswords="true">
-				»Demandez et l'on vous donnera, cherchez et vous trouverez, frappez et l'on vous ouvrira.
+				<span class="jesuswords">»Demandez et l'on vous donnera, cherchez et vous trouverez, frappez et l'on vous ouvrira.</span>
 			</verse>
 			<verse number="8" number-en="8" jesuswords="true">
-				En effet, toute personne qui demande reçoit, celui qui cherche trouve et l'on ouvre à celui qui frappe.
+				<span class="jesuswords">En effet, toute personne qui demande reçoit, celui qui cherche trouve et l'on ouvre à celui qui frappe.</span>
 			</verse>
 		</chapter>
 	</passage>

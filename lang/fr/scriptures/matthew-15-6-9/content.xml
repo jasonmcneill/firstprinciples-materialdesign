@@ -4,16 +4,16 @@
 	<passage title="Matthieu 15:6-9" book="Matthieu" title-en="Matthew 15:6-9" book-en="Matthew">
 		<chapter number="15" number-en="15">
 			<verse number="6" number-en="6" jesuswords="true">
-				n'est pas tenu d'honorer son père [ou sa mère]. Vous annulez ainsi la parole de Dieu au profit de votre tradition.
+				<span class="jesuswords">n'est pas tenu d'honorer son père [ou sa mère]. Vous annulez ainsi la parole de Dieu au profit de votre tradition.</span>
 			</verse>
 			<verse number="7" number-en="7" jesuswords="true">
-				Hypocrites, Esaïe a bien prophétisé sur vous, quand il a dit:
+				<span class="jesuswords">Hypocrites, Esaïe a bien prophétisé sur vous, quand il a dit:</span>
 			</verse>
 			<verse number="8" number-en="8" jesuswords="true" scripturequote="true">
-				<span class="scripturequote">Ce peuple [prétend s'approcher de moi et] m'honore des lèvres, mais son cœur est éloigné de moi.</span>
+				<span class="jesuswords"><span class="scripturequote">Ce peuple [prétend s'approcher de moi et] m'honore des lèvres, mais son cœur est éloigné de moi.</span></span>
 			</verse>
 			<verse number="9" number-en="9" jesuswords="true" scripturequote="true">
-				<span class="scripturequote">C'est faussement qu'ils m'honorent en donnant des enseignements qui sont des commandements humains.»</span>
+				<span class="jesuswords"><span class="scripturequote">C'est faussement qu'ils m'honorent en donnant des enseignements qui sont des commandements humains.»</span></span>
 			</verse>
 		</chapter>
 	</passage>

@@ -4,7 +4,7 @@
 	<passage title="Jean 3:5" book="Jean" title-en="John 3:5" book-en="John">
 		<chapter number="3" number-en="3">
 			<verse number="5" number-en="5" jesuswords="true">
-				Jésus répondit: «En vérité, en vérité, je te le dis, à moins de naître d'eau et d'Esprit, on ne peut entrer dans le royaume de Dieu.
+				Jésus répondit: <span class="jesuswords">«En vérité, en vérité, je te le dis, à moins de naître d'eau et d'Esprit, on ne peut entrer dans le royaume de Dieu.</span>
 			</verse>
 		</chapter>
 	</passage>

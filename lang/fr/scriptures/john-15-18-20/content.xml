@@ -7,13 +7,13 @@
 				<p class="scripture-heading">
 					L’œuvre du Saint-Esprit et la mort de Jésus
 				</p>
-				»Si le monde vous déteste, sachez qu'il m'a détesté avant vous.
+				<span class="jesuswords">»Si le monde vous déteste, sachez qu'il m'a détesté avant vous.</span>
 			</verse>
 			<verse number="19" number-en="19" jesuswords="true">
-				Si vous étiez du monde, le monde vous aimerait car vous seriez à lui. Vous n'êtes pas du monde, mais je vous ai choisis du milieu du monde; c'est pour cela que le monde vous déteste.
+				<span class="jesuswords">Si vous étiez du monde, le monde vous aimerait car vous seriez à lui. Vous n'êtes pas du monde, mais je vous ai choisis du milieu du monde; c'est pour cela que le monde vous déteste.</span>
 			</verse>
 			<verse number="20" number-en="20" jesuswords="true">
-				Souvenez-vous de la parole que je vous ai dite: ‘Le serviteur n'est pas plus grand que son seigneur.’ S'ils m'ont persécuté, ils vous persécuteront aussi; s'ils ont gardé ma parole, ils garderont aussi la vôtre.
+				<span class="jesuswords">Souvenez-vous de la parole que je vous ai dite: ‘Le serviteur n'est pas plus grand que son seigneur.’ S'ils m'ont persécuté, ils vous persécuteront aussi; s'ils ont gardé ma parole, ils garderont aussi la vôtre.</span>
 			</verse>
 		</chapter>
 	</passage>

@@ -4,7 +4,7 @@
 	<passage title="Marc 9:1" book="Marc" title-en="Mark 9:1" book-en="Mark">
 		<chapter number="9" number-en="9">
 			<verse number="1" number-en="1" jesuswords="true">
-				Il leur dit encore: «Je vous le dis en vérité, quelques-uns de ceux qui sont ici ne mourront pas avant d'avoir vu le royaume de Dieu venir avec puissance.»
+				Il leur dit encore: <span class="jesuswords">«Je vous le dis en vérité, quelques-uns de ceux qui sont ici ne mourront pas avant d'avoir vu le royaume de Dieu venir avec puissance.»</span>
 			</verse>
 		</chapter>
 	</passage>

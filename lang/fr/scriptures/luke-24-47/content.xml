@@ -4,7 +4,7 @@
 	<passage title="Luc 24:47" book="Luc" title-en="Luke 24:47" book-en="Luke">
 		<chapter number="24" number-en="24">
 			<verse number="47" number-en="47" jesuswords="true">
-				et que la repentance[a] et le pardon des péchés seraient prêchés en son nom à toutes les nations, à commencer par Jérusalem.
+				<span class="jesuswords">et que la repentance[a] et le pardon des péchés seraient prêchés en son nom à toutes les nations, à commencer par Jérusalem.</span>
 			</verse>
 		</chapter>
 	</passage>

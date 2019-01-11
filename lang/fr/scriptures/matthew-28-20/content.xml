@@ -4,7 +4,7 @@
 	<passage title="Matthieu 28:20" book="Matthieu" title-en="Matthew 28:20" book-en="Matthew">
 		<chapter number="28" number-en="28">
 			<verse number="20" number-en="20" jesuswords="true">
-				et enseignez-leur à mettre en pratique tout ce que je vous ai prescrit. Et moi, je suis avec vous tous les jours, jusqu'à la fin du monde.»
+				<span class="jesuswords">et enseignez-leur à mettre en pratique tout ce que je vous ai prescrit. Et moi, je suis avec vous tous les jours, jusqu'à la fin du monde.»</span>
 			</verse>
 		</chapter>
 	</passage>

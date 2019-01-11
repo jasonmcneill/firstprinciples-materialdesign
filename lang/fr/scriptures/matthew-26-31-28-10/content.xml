@@ -4,16 +4,16 @@
 	<passage title="Matthieu 26:31-28:10" book="Matthieu" title-en="Matthew 26:31 - 28:10" book-en="Matthew">
 		<chapter number="26" number-en="26">
 			<verse number="31" number-en="31" jesuswords="true" scripturequote="true">
-				Alors Jésus leur dit: «Vous trébucherez tous, cette nuit, à cause de moi, car il est écrit: <span class="scripturequote">Je frapperai le berger et les brebis du troupeau seront dispersées.</span>
+				Alors Jésus leur dit: <span class="jesuswords">«Vous trébucherez tous, cette nuit, à cause de moi, car il est écrit: <span class="scripturequote">Je frapperai le berger et les brebis du troupeau seront dispersées.</span></span>
 			</verse>
 			<verse number="32" number-en="32" jesuswords="true">
-				Mais, après ma résurrection, je vous précéderai en Galilée.»
+				<span class="jesuswords">Mais, après ma résurrection, je vous précéderai en Galilée.»</span>
 			</verse>
 			<verse number="33" number-en="33">
 				Pierre prit la parole et lui dit: «Même si tous trébuchent à cause de toi, ce ne sera jamais mon cas.»
 			</verse>
 			<verse number="34" number-en="34" jesuswords="true">
-				Jésus lui dit: «Je te le dis en vérité, cette nuit même, avant que le coq chante, trois fois tu me renieras.»
+				Jésus lui dit: <span class="jesuswords">«Je te le dis en vérité, cette nuit même, avant que le coq chante, trois fois tu me renieras.»</span>
 			</verse>
 			<verse number="35" number-en="35">
 				Pierre lui répondit: «Même s'il me faut mourir avec toi, je ne te renierai pas.» Et tous les disciples dirent la même chose.
@@ -22,25 +22,25 @@
 				<p class="scripture-heading">
 					Arrestation de Jésus
 				</p>
-				Là-dessus, Jésus se rendit avec eux dans un endroit appelé Gethsémané et il dit aux disciples: «Asseyez-vous [ici] pendant que je m'éloignerai pour prier.»
+				Là-dessus, Jésus se rendit avec eux dans un endroit appelé Gethsémané et il dit aux disciples: <span class="jesuswords">«Asseyez-vous [ici] pendant que je m'éloignerai pour prier.»</span>
 			</verse>
 			<verse number="37" number-en="37">
 				Il prit avec lui Pierre et les deux fils de Zébédée et il commença à être saisi de tristesse et d’angoisse.
 			</verse>
 			<verse number="38" number-en="38" jesuswords="true">
-				Il leur dit alors: «Mon âme est triste à en mourir. Restez ici, éveillés avec moi.»
+				Il leur dit alors: <span class="jesuswords">«Mon âme est triste à en mourir. Restez ici, éveillés avec moi.»</span>
 			</verse>
 			<verse number="39" number-en="39" jesuswords="true">
-				Puis il avança de quelques pas, se jeta le visage contre terre et fit cette prière: «Mon Père, si cela est possible, que cette coupe s'éloigne de moi! Toutefois, non pas ce que je veux, mais ce que tu veux.»
+				Puis il avança de quelques pas, se jeta le visage contre terre et fit cette prière: <span class="jesuswords">«Mon Père, si cela est possible, que cette coupe s'éloigne de moi! Toutefois, non pas ce que je veux, mais ce que tu veux.»</span>
 			</verse>
 			<verse number="40" number-en="40" jesuswords="true">
-				Il revint vers les disciples, qu'il trouva endormis, et dit à Pierre: «Vous n'avez donc pas pu rester éveillés une seule heure avec moi!
+				Il revint vers les disciples, qu'il trouva endormis, et dit à Pierre: <span class="jesuswords">«Vous n'avez donc pas pu rester éveillés une seule heure avec moi!</span>
 			</verse>
 			<verse number="41" number-en="41" jesuswords="true">
-				Restez vigilants et priez pour ne pas céder à la tentation. L'esprit est bien disposé, mais par nature l’homme est faible.»
+				<span class="jesuswords">Restez vigilants et priez pour ne pas céder à la tentation. L'esprit est bien disposé, mais par nature l’homme est faible.»</span>
 			</verse>
 			<verse number="42" number-en="42" jesuswords="true">
-				Il s'éloigna une deuxième fois et fit cette prière: «Mon Père, s'il n'est pas possible que cette coupe s'éloigne [de moi] sans que je la boive, que ta volonté soit faite!» 
+				Il s'éloigna une deuxième fois et fit cette prière: <span class="jesuswords">«Mon Père, s'il n'est pas possible que cette coupe s'éloigne [de moi] sans que je la boive, que ta volonté soit faite!»</span>
 			</verse>
 			<verse number="43" number-en="43">
 				Il revint et les trouva encore endormis, car ils avaient les paupières lourdes.
@@ -49,10 +49,10 @@
 				Il les quitta, s'éloigna de nouveau et pria pour la troisième fois, répétant les mêmes paroles.
 			</verse>
 			<verse number="45" number-en="45" jesuswords="true">
-				Puis il revint vers ses disciples et leur dit: «Vous dormez maintenant et vous vous reposez! Voici, l'heure est proche et le Fils de l'homme est livré entre les mains des pécheurs.
+				Puis il revint vers ses disciples et leur dit: <span class="jesuswords">«Vous dormez maintenant et vous vous reposez! Voici, l'heure est proche et le Fils de l'homme est livré entre les mains des pécheurs.</span>
 			</verse>
 			<verse number="46" number-en="46" jesuswords="true">
-				Levez-vous, allons-y! Celui qui me trahit s'approche.»
+				<span class="jesuswords">Levez-vous, allons-y! Celui qui me trahit s'approche.»</span>
 			</verse>
 			<verse number="47" number-en="47">
 				Il parlait encore quand Judas, l'un des douze, arriva avec une foule nombreuse armée d'épées et de bâtons, envoyée par les chefs des prêtres et par les anciens du peuple.
@@ -64,25 +64,25 @@
 				Aussitôt, il s'approcha de Jésus en disant: «Salut, maître!», et il l'embrassa.
 			</verse>
 			<verse number="50" number-en="50" jesuswords="true">
-				Jésus lui dit: «Mon ami, ce que tu es venu faire, fais-le.» Alors ces gens s'avancèrent, mirent la main sur Jésus et l'arrêtèrent.
+				Jésus lui dit: <span class="jesuswords">«Mon ami, ce que tu es venu faire, fais-le.»</span> Alors ces gens s'avancèrent, mirent la main sur Jésus et l'arrêtèrent.
 			</verse>
 			<verse number="51" number-en="51">
 				Un de ceux qui étaient avec Jésus mit la main sur son épée et la tira; il frappa le serviteur du grand-prêtre et lui emporta l'oreille.
 			</verse>
 			<verse number="52" number-en="52" jesuswords="true">
-				Alors Jésus lui dit: «Remets ton épée à sa place, car tous ceux qui prendront l'épée mourront par l'épée.
+				Alors Jésus lui dit: <span class="jesuswords">«Remets ton épée à sa place, car tous ceux qui prendront l'épée mourront par l'épée.</span>
 			</verse>
 			<verse number="53" number-en="53" jesuswords="true">
-				Penses-tu que je ne puisse pas faire appel à mon Père, qui me donnerait à l'instant plus de douze légions d'anges?
+				<span class="jesuswords">Penses-tu que je ne puisse pas faire appel à mon Père, qui me donnerait à l'instant plus de douze légions d'anges?</span>
 			</verse>
 			<verse number="54" number-en="54" jesuswords="true">
-				Comment donc s'accompliraient les Ecritures, d'après lesquelles cela doit se passer ainsi?»
+				<span class="jesuswords">Comment donc s'accompliraient les Ecritures, d'après lesquelles cela doit se passer ainsi?»</span>
 			</verse>
 			<verse number="55" number-en="55" jesuswords="true">
-				A ce moment, Jésus dit à la foule: «Vous êtes venus vous emparer de moi avec des épées et des bâtons, comme pour un brigand. J'étais tous les jours assis [parmi vous], enseignant dans le temple, et vous ne m'avez pas arrêté.
+				A ce moment, Jésus dit à la foule: <span class="jesuswords">«Vous êtes venus vous emparer de moi avec des épées et des bâtons, comme pour un brigand. J'étais tous les jours assis [parmi vous], enseignant dans le temple, et vous ne m'avez pas arrêté.</span>
 			</verse>
 			<verse number="56" number-en="56" jesuswords="true">
-				Mais tout cela est arrivé afin que les écrits des prophètes soient accomplis.» Alors tous les disciples l'abandonnèrent et prirent la fuite.
+				<span class="jesuswords">Mais tout cela est arrivé afin que les écrits des prophètes soient accomplis.» Alors tous les disciples l'abandonnèrent et prirent la fuite.</span>
 			</verse>
 			<verse number="57" number-en="57">
 				<p class="scripture-heading">
@@ -109,7 +109,7 @@
 				Mais Jésus gardait le silence. Le grand-prêtre [prit la parole et] lui dit: «Je t'adjure, par le Dieu vivant, de nous dire si tu es le Messie, le Fils de Dieu.»
 			</verse>
 			<verse number="64" number-en="64" jesuswords="true">
-				Jésus lui répondit: «Tu le dis. De plus, je vous le déclare, vous verrez désormais le Fils de l'homme assis à la droite du Tout-Puissant et venant sur les nuées du ciel.»
+				Jésus lui répondit: <span class="jesuswords">«Tu le dis. De plus, je vous le déclare, vous verrez désormais le Fils de l'homme assis à la droite du Tout-Puissant et venant sur les nuées du ciel.»</span>
 			</verse>
 			<verse number="65" number-en="65">
 				Alors le grand-prêtre déchira ses vêtements en disant: «Il a blasphémé! Qu'avons-nous encore besoin de témoins? Vous venez d'entendre son blasphème.
@@ -142,7 +142,7 @@
 				Alors il se mit à jurer en lançant des malédictions: «Je ne connais pas cet homme.» Aussitôt un coq chanta.
 			</verse>
 			<verse number="75" number-en="75" jesuswords="true">
-				Pierre se souvint alors de ce que Jésus [lui] avait dit: «Avant que le coq chante, tu me renieras trois fois.» Il sortit et pleura amèrement.
+				Pierre se souvint alors de ce que Jésus [lui] avait dit: <span class="jesuswords">«Avant que le coq chante, tu me renieras trois fois.»</span> Il sortit et pleura amèrement.
 			</verse>
 		</chapter>
 		<chapter number="27" number-en="27">
@@ -180,7 +180,7 @@
 				et ils les ont données pour le champ du potier, comme le Seigneur me l'avait ordonné.
 			</verse>
 			<verse number="11" number-en="11" jesuswords="true">
-				Jésus comparut devant le gouverneur. Celui-ci l'interrogea: «Es-tu le roi des Juifs?» Jésus lui répondit: «Tu le dis.»
+				Jésus comparut devant le gouverneur. Celui-ci l'interrogea: <span class="jesuswords">«Es-tu le roi des Juifs?»</span> Jésus lui répondit: «Tu le dis.»
 			</verse>
 			<verse number="12" number-en="12">
 				Mais il ne répondit rien aux accusations des chefs des prêtres et des anciens.
@@ -288,7 +288,7 @@
 				De midi jusqu'à trois heures de l'après-midi, il y eut des ténèbres sur tout le pays.
 			</verse>
 			<verse number="46" number-en="46" jesuswords="true">
-				Vers trois heures de l'après-midi, Jésus s'écria d'une voix forte: «Eli, Eli, lama sabachthani?» – c'est-à-dire: Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné?
+				Vers trois heures de l'après-midi, Jésus s'écria d'une voix forte: <span class="jesuswords">«Eli, Eli, lama sabachthani?»</span> – c'est-à-dire: Mon Dieu, mon Dieu, pourquoi m'as-tu abandonné?
 			</verse>
 			<verse number="47" number-en="47">
 				Quelques-uns de ceux qui étaient là, après l'avoir entendu, disaient: «Il appelle Elie.» 
@@ -383,10 +383,10 @@
 				Elles s'éloignèrent rapidement du tombeau, avec crainte et une grande joie, et elles coururent porter la nouvelle aux disciples.
 			</verse>
 			<verse number="9" number-en="9" jesuswords="true">
-				Et voici que Jésus vint à leur rencontre et dit: «Je vous salue.» Elles s'approchèrent, s’agrippèrent à ses pieds et se prosternèrent devant lui.
+				Et voici que Jésus vint à leur rencontre et dit: <span class="jesuswords">«Je vous salue.»</span> Elles s'approchèrent, s’agrippèrent à ses pieds et se prosternèrent devant lui.
 			</verse>
 			<verse number="10" number-en="10" jesuswords="true">
-				Alors Jésus leur dit: «N’ayez pas peur! Allez dire à mes frères de se rendre en Galilée: c'est là qu'ils me verront.»
+				Alors Jésus leur dit: <span class="jesuswords">«N’ayez pas peur! Allez dire à mes frères de se rendre en Galilée: c'est là qu'ils me verront.»</span>
 			</verse>
 		</chapter>
 	</passage>
