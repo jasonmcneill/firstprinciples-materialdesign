@@ -2,11 +2,6 @@ const CACHE_VERSION = 'v2';
 const CACHE_NAME = `${registration.scope}!${CACHE_VERSION}`;
 let LANG = '';
 
-self.addEventListener('message', function(event){
-  console.log("SW Received Message: " + event.data);
-  event.ports[0].postMessage("SW Says 'Hello back!'");
-});
-
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME).then(async cache => {
@@ -79,27 +74,3 @@ self.addEventListener('fetch', event => {
     return fetch(event.request) || response;
   }());
 });
-
-function send_message_to_client(client, msg) {
-  return new Promise((resolve, reject) => {
-    var msg_chan = new MessageChannel();
-
-    msg_chan.port1.onmessage = event => {
-      if (event.data.error) {
-        reject(event.data.error);
-      } else {
-        resolve(event.data);
-      }
-    };
-
-    client.postMessage("SW Says: '"+msg+"'", [msg_chan.port2]);
-  });
-}
-
-function send_message_to_all_clients(msg) {
-  clients.matchAll().then(clients => {
-    clients.forEach(client => {
-      send_message_to_client(client, msg).then(m => console.log("SW Received Message: "+m));
-    });
-  });
-}
