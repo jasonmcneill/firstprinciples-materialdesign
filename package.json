@@ -8,7 +8,7 @@
   },
   "scripts": {
     "cors": true,
-    "start": "browser-sync --start --watch"
+    "start": "browser-sync --start --watch --no-notify"
   },
   "devDependencies": {
     "browser-sync": "^2.26.0"
