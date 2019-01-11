@@ -80,7 +80,6 @@
             <ol>
               <li>${phrase(25)}</li>
               <li>${phrase(26)}</li>
-              <li>${phrase(27)}</li>
             </ol>
           </li>
 
