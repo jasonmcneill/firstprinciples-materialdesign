@@ -168,20 +168,20 @@
           ${phrase(39)}
         </p>
 
-        <ul>
-          <li>
+        <ul class="collection">
+          <li class="collection-item">
             ${phrase(40)}
           </li>
-          <li>
+          <li class="collection-item">
             ${phrase(41)}
           </li>
-          <li>
+          <li class="collection-item">
             ${phrase(42)}
           </li>
-          <li>
+          <li class="collection-item">
             ${phrase(43)}
           </li>
-          <li>
+          <li class="collection-item">
             ${phrase(44)}
           </li>
         </ul>
