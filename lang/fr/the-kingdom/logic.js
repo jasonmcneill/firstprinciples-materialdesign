@@ -36,14 +36,12 @@
               <li>${phrase(5)}
                 <ol>
                   <li>${phrase(6)}</li>
-                  <li>${phrase(7)}</li>
                   <li>${phrase(8)}</li>
                   <li>${phrase(9)}</li>
                 </ol>
               </li>
               <li>${phrase(10)}
                 <ol>
-                  <li>${phrase(11)}</li>
                   <li>${phrase(12)}</li>
                   <li>${phrase(13)}
                     <ol>
