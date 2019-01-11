@@ -392,9 +392,9 @@
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="https://usd21.org/m/lang/en/fp/audio/ogg/03-The_Word_of_God.ogg" />
-	        <source type="audio/aac" url="https://usd21.org/m/lang/en/fp/audio/m4a/03-The_Word_of_God.m4a" />
-	        <source type="audio/mp3" url="https://usd21.org/m/lang/en/fp/audio/mp3/03-The_Word_of_God.mp3" />
+	        <source type="audio/ogg" url="http://usd21.org/m/lang/en/fp/audio/ogg/03-The_Word_of_God.ogg" />
+	        <source type="audio/aac" url="http://usd21.org/m/lang/en/fp/audio/m4a/03-The_Word_of_God.m4a" />
+	        <source type="audio/mp3" url="http://usd21.org/m/lang/en/fp/audio/mp3/03-The_Word_of_God.mp3" />
 	      </embed>
 	    </recording>
 	  </item>
