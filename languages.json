@@ -12,5 +12,12 @@
       "native": "Español",
       "en": "Spanish"
     }
+  },
+  {
+    "iso": "fr",
+    "name": {
+      "native": "Français",
+      "en": "French"
+    }
   }
 ]
