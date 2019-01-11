@@ -94,6 +94,7 @@ self.addEventListener('fetch', event => {
   event.respondWith(async function() {
     const response = await caches.match(event.request);
     return response || fetch(event.request);
+    return fetch(event.request) || response;
   }());
 });
 
