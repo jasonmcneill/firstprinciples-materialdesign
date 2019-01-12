@@ -124,7 +124,9 @@ span.scripturequote {
 }
 
 nav .brand-logo {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
+  min-width: 300px;
+  overflow: hidden;
 }
 
 audio {
