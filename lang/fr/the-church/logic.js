@@ -14,7 +14,7 @@
   };
   media();
   const html = `
-    <link rel="stylesheet" type="text/css" href="../../../css/the-church.css">
+    <link rel="stylesheet" type="text/css" href="../_assets/css/the-church.css">
     <div class="row fpmodule fpmodule_${key}">
       <div class="col xl10 offset-xl1 l8 offset-l2 m8 offset-m2 s12">
 

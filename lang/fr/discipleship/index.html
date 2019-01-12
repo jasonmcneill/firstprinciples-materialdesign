@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="fr" dir="ltr">
+<html lang="en" dir="ltr">
   <head>
     <title></title>
     <meta charset="utf-8">
@@ -14,13 +14,13 @@
     <nav>
       <div class="nav-wrapper blue darken-3">
         <a href="./" class="brand-logo center"></a>
-        <a href="./" class="homeicon hide"><i class="fas fa-home"></i></a>
+        <a href="../" class="homeicon"><i class="fas fa-home show-on-large"></i></a>
       </div>
     </nav>
     <nav class="light-blue darken-1" role="name">
-    	<div class="nav-wrapper container">
-    		<div class="center flow-text fp_pagehead"></div>
-    	</div>
+      <div class="nav-wrapper container">
+        <div class="center flow-text fp_pagehead"></div>
+      </div>
     </nav>
 
     <div class="container main">
@@ -61,7 +61,7 @@
           document.querySelector('#install-button').disabled = false;
         });
         navigator.serviceWorker.register('../sw.js').then(registration => {
-          // console.log('Registered First Principles service worker', registration);
+          console.log('Registered First Principles service worker', registration);
         }).catch(error => {
           console.error('Error in registering First Principles service worker:', error);
         });
