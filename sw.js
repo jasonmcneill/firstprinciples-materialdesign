@@ -71,6 +71,6 @@ self.addEventListener('activate', function(event) {
 self.addEventListener('fetch', event => {
   event.respondWith(async function() {
     const response = await caches.match(event.request);
-    return fetch(event.request) || response;
+    return response || fetch(event.request);
   }());
 });
