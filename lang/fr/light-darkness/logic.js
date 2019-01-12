@@ -23,10 +23,6 @@
         </div>
 
         <p>
-          <strong>${phrase(2)}</strong>
-        </p>
-
-        <p>
           ${phrase(3)}
         </p>
 

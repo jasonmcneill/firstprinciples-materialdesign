@@ -7,16 +7,7 @@
 			Light and Darkness
 		</original>
 		<translated>
-			
-		</translated>
-	</phrase>
-
-	<phrase id="2" desc="">
-		<original>
-			It is often helpful to begin this study by constructing a "spiritual timeline" with the person whom you are helping to become a disciple.
-		</original>
-		<translated>
-			
+			Lumière et ténèbres
 		</translated>
 	</phrase>
 
@@ -25,14 +16,14 @@
 			Introduction: 1 Peter 2:9-10
 		</original>
 		<translated>
-			
+			Introduction : 1 Pierre 2:9-10
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
 				Introduction:
 			</original>
 			<translated>
-				
+				Introduction :
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="1-peter-2-9-10">
@@ -40,7 +31,7 @@
 				1 Peter 2:9-10
 			</original>
 			<translated>
-				
+				1 Pierre 2:9-10
 			</translated>
 		</change>
 	</phrase>
@@ -50,7 +41,7 @@
 			Darkness
 		</original>
 		<translated>
-			
+			Ténèbres
 		</translated>
 	</phrase>
 
@@ -59,7 +50,7 @@
 			Not a people of God
 		</original>
 		<translated>
-			
+			Pas le peuple de Dieu
 		</translated>
 	</phrase>
 
@@ -68,7 +59,7 @@
 			No Mercy
 		</original>
 		<translated>
-			
+			Pas obtenu miséricorde
 		</translated>
 	</phrase>
 
@@ -77,7 +68,7 @@
 			Light
 		</original>
 		<translated>
-			
+			Lumière
 		</translated>
 	</phrase>
 
@@ -86,7 +77,7 @@
 			People of God
 		</original>
 		<translated>
-			
+			Le peuple de Dieu
 		</translated>
 	</phrase>
 
@@ -95,7 +86,7 @@
 			Mercy
 		</original>
 		<translated>
-			
+			Obtenu miséricorde
 		</translated>
 	</phrase>
 
@@ -104,7 +95,7 @@
 			Lost
 		</original>
 		<translated>
-			
+			Perdu
 		</translated>
 	</phrase>
 
@@ -113,7 +104,7 @@
 			Not a Christian
 		</original>
 		<translated>
-			
+			Pas chrétien
 		</translated>
 	</phrase>
 
@@ -122,7 +113,7 @@
 			Not a Disciple
 		</original>
 		<translated>
-			
+			Pas disciple
 		</translated>
 	</phrase>
 
@@ -131,7 +122,7 @@
 			Saved
 		</original>
 		<translated>
-			
+			Sauvé
 		</translated>
 	</phrase>
 
@@ -140,7 +131,7 @@
 			Christian
 		</original>
 		<translated>
-			
+			Chrétien
 		</translated>
 	</phrase>
 
@@ -149,7 +140,7 @@
 			Disciple
 		</original>
 		<translated>
-			
+			Disciple
 		</translated>
 	</phrase>
 
@@ -158,7 +149,7 @@
 			Every person is either in the darkness or the light. There is no twilight zone.
 		</original>
 		<translated>
-			
+			Chaque personne est soit dans les ténèbres, soit dans la lumière ; il n’y a pas de zone intermédiaire.
 		</translated>
 	</phrase>
 
@@ -167,7 +158,7 @@
 			Where are you?
 		</original>
 		<translated>
-			
+			Où te trouves-tu ?
 		</translated>
 	</phrase>
 
@@ -176,7 +167,7 @@
 			Darkness
 		</original>
 		<translated>
-			
+			Ténèbres
 		</translated>
 	</phrase>
 
@@ -185,14 +176,14 @@
 			Isaiah 59:1-2
 		</original>
 		<translated>
-			
+			Ésaïe 59:1-2
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="isaiah-59-1-2">
 			<original>
 				Isaiah 59:1-2
 			</original>
 			<translated>
-				
+				Ésaïe 59:1-2
 			</translated>
 		</change>
 	</phrase>
@@ -202,7 +193,7 @@
 			Sin separates us from God. 
 		</original>
 		<translated>
-			
+			Le péché nous sépare de Dieu
 		</translated>
 	</phrase>
 
@@ -211,7 +202,7 @@
 			WALL
 		</original>
 		<translated>
-			
+			MUR
 		</translated>
 	</phrase>
 
@@ -220,7 +211,7 @@
 			DARKNESS 
 		</original>
 		<translated>
-			
+			TÉNÈBRES
 		</translated>
 	</phrase>
 
@@ -229,7 +220,7 @@
 			MAN 
 		</original>
 		<translated>
-			
+			HOMME
 		</translated>
 	</phrase>
 
@@ -238,7 +229,7 @@
 			LIGHT 
 		</original>
 		<translated>
-			
+			LUMIERE
 		</translated>
 	</phrase>
 
@@ -247,7 +238,7 @@
 			GOD 
 		</original>
 		<translated>
-			
+			DIEU
 		</translated>
 	</phrase>
 
@@ -256,7 +247,7 @@
 			SIN
 		</original>
 		<translated>
-			
+			PÉCHÉ
 		</translated>
 	</phrase>
 
@@ -265,7 +256,7 @@
 			In order for a man to have a relationship with God the wall must be broken down — sin must be forgiven.
 		</original>
 		<translated>
-			
+			Pour qu'un individu puisse avoir une relation avec Dieu, le mur doit être détruit :le péché doit être pardonné.
 		</translated>
 	</phrase>
 
@@ -274,7 +265,7 @@
 			The point in time that sin is forgiven is the point in time a person is saved.
 		</original>
 		<translated>
-			
+			On passe des ténèbres à la lumière au moment où nos péchés sont pardonnés.
 		</translated>
 	</phrase>
 
@@ -283,14 +274,14 @@
 			Romans 3:23-25
 		</original>
 		<translated>
-			
+			Romains 3:23-25
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="romans-3-23-25">
 			<original>
 				Romans 3:23-25
 			</original>
 			<translated>
-				
+				Romains 3:23-25
 			</translated>
 		</change>
 	</phrase>
@@ -300,7 +291,7 @@
 			Who has sinned? Everyone!
 		</original>
 		<translated>
-			
+			Qui a péché? Tous!
 		</translated>
 	</phrase>
 
@@ -309,7 +300,7 @@
 			SIN 
 		</original>
 		<translated>
-			
+			PÉCHÉ
 		</translated>
 	</phrase>
 
@@ -318,7 +309,7 @@
 			SIN
 		</original>
 		<translated>
-			
+			PÉCHÉ
 		</translated>
 	</phrase>
 	
@@ -327,7 +318,7 @@
 			SIN
 		</original>
 		<translated>
-			
+			PÉCHÉ
 		</translated>
 	</phrase>
 
@@ -336,7 +327,7 @@
 			Person A
 		</original>
 		<translated>
-			
+			Personne A
 		</translated>
 	</phrase>
 
@@ -345,7 +336,7 @@
 			Person B
 		</original>
 		<translated>
-			
+			Personne B
 		</translated>
 	</phrase>
 
@@ -354,7 +345,7 @@
 			Person C
 		</original>
 		<translated>
-			
+			Personne C
 		</translated>
 	</phrase>
 
@@ -363,7 +354,7 @@
 			Who is further away from God: a person who sins a little, or a person who sins a lot? All are equal, all lost. Therefore a good moral life does not save you. You cannot earn your salvation by your good deeds.
 		</original>
 		<translated>
-			
+			Qui parmi ces trois personnes est le plus loin de Dieu? Tous sont au même niveau, tous sont perdus. Par conséquent, même une vie sainte ne sauvera personne. Tu ne peux pas gagner ton salut en faisant de bonnes actions.
 		</translated>
 	</phrase>
 
@@ -372,14 +363,14 @@
 			Faith in the blood of Jesus saves you (v. 25).
 		</original>
 		<translated>
-			
+			La foi dans le sang de Jésus te sauve (v. 25).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="romans-3-25">
 			<original>
 				v. 25
 			</original>
 			<translated>
-				
+				v. 25
 			</translated>
 		</change>
 	</phrase>
@@ -389,7 +380,7 @@
 			What is Sin?
 		</original>
 		<translated>
-			
+			Qu'est ce que le péché?
 		</translated>
 	</phrase>
 
@@ -398,14 +389,14 @@
 			Galatians 5:19-21 (sins of commission)
 		</original>
 		<translated>
-			
+			Galates 5:19-21 (les actions)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="galatians-5-19-21">
 			<original>
 				Galatians 5:19-21
 			</original>
 			<translated>
-				
+				Galates 5:19-21
 			</translated>
 		</change>
 	</phrase>
@@ -415,14 +406,14 @@
 			2 Timothy 3:1-5 (sins of commission)
 		</original>
 		<translated>
-			
+			2 Timothée 3:1-5 (les actions)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="2-timothy-3-1-5">
 			<original>
 				2 Timothy 3:1-5
 			</original>
 			<translated>
-				
+				2 Timothée 3:1-5
 			</translated>
 		</change>
 	</phrase>
@@ -432,14 +423,14 @@
 			James 4:17 (sins of omission)
 		</original>
 		<translated>
-			
+			Jacques 4:17 (l'omission)
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="james-4-17">
 			<original>
 				James 4:17
 			</original>
 			<translated>
-				
+				Jacques 4:17
 			</translated>
 		</change>
 	</phrase>
@@ -449,14 +440,14 @@
 			What is the eternal consequence of sin? Romans 6:23
 		</original>
 		<translated>
-			
+			Quelle est la conséquence éternelle du péché ? Romains 6:23
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="romans-6-23">
 			<original>
 				Romans 6:23
 			</original>
 			<translated>
-				
+				Romains 6:23
 			</translated>
 		</change>
 	</phrase>
@@ -466,7 +457,7 @@
 			WAGES OF SIN
 		</original>
 		<translated>
-			
+			Salaire du péché
 		</translated>
 	</phrase>
 
@@ -475,7 +466,7 @@
 			GIFT OF GOD
 		</original>
 		<translated>
-			
+			Don de Dieu
 		</translated>
 	</phrase>
 
@@ -484,7 +475,7 @@
 			Death
 		</original>
 		<translated>
-			
+			Mort
 		</translated>
 	</phrase>
 
@@ -493,7 +484,7 @@
 			Hell
 		</original>
 		<translated>
-			
+			Enfer
 		</translated>
 	</phrase>
 
@@ -502,7 +493,7 @@
 			Darkness
 		</original>
 		<translated>
-			
+			Ténèbres
 		</translated>
 	</phrase>
 
@@ -511,7 +502,7 @@
 			Eternal Life
 		</original>
 		<translated>
-			
+			Vie éternelle
 		</translated>
 	</phrase>
 
@@ -520,7 +511,7 @@
 			Heaven
 		</original>
 		<translated>
-			
+			Paradis
 		</translated>
 	</phrase>
 
@@ -529,7 +520,7 @@
 			Light
 		</original>
 		<translated>
-			
+			Lumière
 		</translated>
 	</phrase>
 
@@ -538,7 +529,7 @@
 			Light
 		</original>
 		<translated>
-			
+			Lumière
 		</translated>
 	</phrase>
 
@@ -547,14 +538,14 @@
 			John 3:1-7: Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)
 		</original>
 		<translated>
-			
+			Jean 3:1-7 - Né de nouveau (vs.3, 7) d’eau et d’Esprit (v. 5).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="john-3-1-7">
 			<original>
 				John 3:1-7
 			</original>
 			<translated>
-				
+				Jean 3:1-7
 			</translated>
 		</change>
 	</phrase>
@@ -564,7 +555,7 @@
 			Personal decision as an adult
 		</original>
 		<translated>
-			
+			Décision personnelle en tant qu’adulte.
 		</translated>
 	</phrase>
 
@@ -573,14 +564,14 @@
 			What message must one believe to be in the light (to be saved)? Acts 2:22-24
 		</original>
 		<translated>
-			
+			A quel message devons-nous croire afin d'être dans la lumière (d'être sauvé?) - Actes 2:22-24.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-22-24">
 			<original>
 				Acts 2:22-24
 			</original>
 			<translated>
-				
+				Actes 2:22-24
 			</translated>
 		</change>
 	</phrase>
@@ -590,14 +581,14 @@
 			Jesus is from God. (v. 22)
 		</original>
 		<translated>
-			
+			Jésus est le fils de Dieu (v. 22).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-22">
 			<original>
 				v. 22
 			</original>
 			<translated>
-				
+				v. 22
 			</translated>
 		</change>
 	</phrase>
@@ -607,14 +598,14 @@
 			Jesus raised physically from the dead. (v. 24)
 		</original>
 		<translated>
-			
+			Dieu a ressuscité Jésus d’entre les morts (v. 24).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-24">
 			<original>
 				v. 24
 			</original>
 			<translated>
-				
+				v. 24
 			</translated>
 		</change>
 	</phrase>
@@ -624,14 +615,14 @@
 			Everyone is responsible for the crucifixion of Christ. (v. 23) All have sinned. (Romans 3:23)
 		</original>
 		<translated>
-			
+			Nous sommes tous responsables de la crucifixion du Christ (v. 23). Nous avons tous péché (Romains 3:23).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-23">
 			<original>
 				v. 23
 			</original>
 			<translated>
-				
+				v. 23
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="romans-3-23">
@@ -639,7 +630,7 @@
 				Romans 3:23
 			</original>
 			<translated>
-				
+				Romains 3:23
 			</translated>
 		</change>
 	</phrase>
@@ -649,14 +640,14 @@
 			Response of people: Acts 2:36-37
 		</original>
 		<translated>
-			
+			Réponse du peuple Actes 2:37
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-36-37">
 			<original>
 				Acts 2:36-37
 			</original>
 			<translated>
-				
+				Actes 2:37
 			</translated>
 		</change>
 	</phrase>
@@ -666,7 +657,7 @@
 			Cut to the heart
 		</original>
 		<translated>
-			
+			Leurs cœurs ont été vivement touchés
 		</translated>
 	</phrase>
 
@@ -675,7 +666,7 @@
 			What shall we do?
 		</original>
 		<translated>
-			
+			”Que ferons-nous?”
 		</translated>
 	</phrase>
 
@@ -684,14 +675,14 @@
 			Once the people believed, what did they do? Acts 2:38-42
 		</original>
 		<translated>
-			
+			Une fois que le peuple a cru, qu’est-ce qu’ils ont fait? Actes 2:38-42
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38-42">
 			<original>
 				Acts 2:38-42
 			</original>
 			<translated>
-				
+				Actes 2:38-42
 			</translated>
 		</change>
 	</phrase>
@@ -701,7 +692,7 @@
 			Repent (Greek = to turn)
 		</original>
 		<translated>
-			
+			Ils se sont repentis (Grec = faire demi-tour)
 		</translated>
 	</phrase>
 
@@ -710,7 +701,7 @@
 			Be baptized (Greek = to be immersed) 
 		</original>
 		<translated>
-			
+			Ils ont été baptisé (Grec = être immergé)
 		</translated>
 	</phrase>
 
@@ -719,7 +710,7 @@
 			Sin forgiven. Therefore this is the point in time a person is saved.
 		</original>
 		<translated>
-			
+			C’est à cet instant que les péchés sont pardonnés et que la personne est sauvée
 		</translated>
 	</phrase>
 
@@ -728,7 +719,7 @@
 			Holy Spirit given to each who responded — power to live as God commands.
 		</original>
 		<translated>
-			
+			C’est à cet instant que l’on reçoit l’Esprit Saint qui nous donne la capacité de vivre selon les commandements de Dieu.
 		</translated>
 	</phrase>
 
@@ -737,14 +728,14 @@
 			Baptism: Romans 6:1-4
 		</original>
 		<translated>
-			
+			Baptême - Romains 6:1-4
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="romans-6-1-4">
 			<original>
 				Romans 6:1-4
 			</original>
 			<translated>
-				
+				Romains 6:1-4
 			</translated>
 		</change>
 	</phrase>
@@ -754,7 +745,7 @@
 			Baptism is the sharing (a participation) in the death, burial and resurrection of Christ. (More than just a symbol.) 
 		</original>
 		<translated>
-			
+			Le baptême est la participation spirituelle à la mort, à l’ensevelissement et à la résurrection de Jésus. C’est bien plus qu'un symbole.
 		</translated>
 	</phrase>
 
@@ -763,7 +754,7 @@
 			JESUS
 		</original>
 		<translated>
-			
+			JÉSUS
 		</translated>
 	</phrase>
 
@@ -772,7 +763,7 @@
 			DIED
 		</original>
 		<translated>
-			
+			MORT
 		</translated>
 	</phrase>
 
@@ -781,7 +772,7 @@
 			BURIED
 		</original>
 		<translated>
-			
+			ENSEVELI
 		</translated>
 	</phrase>
 
@@ -790,7 +781,7 @@
 			RESURRECTED
 		</original>
 		<translated>
-			
+			RESSUSCITÉ
 		</translated>
 	</phrase>
 
@@ -799,7 +790,7 @@
 			OLD LIFE
 		</original>
 		<translated>
-			
+			NOTRE ANCIENNE VIE
 		</translated>
 	</phrase>
 
@@ -808,7 +799,7 @@
 			"DIED WITH CHRIST"
 		</original>
 		<translated>
-			
+			"MORT AVEC CHRIST"
 		</translated>
 	</phrase>
 
@@ -817,7 +808,7 @@
 			"BURIED WITH CHRIST"
 		</original>
 		<translated>
-			
+			ENSEVELI AVEC JÉSUS
 		</translated>
 	</phrase>
 
@@ -826,7 +817,7 @@
 			"RAISED TO A NEW LIFE"
 		</original>
 		<translated>
-			
+			RESSUSCITÉ AVEC JÉSUS
 		</translated>
 	</phrase>
 
@@ -835,7 +826,7 @@
 			DARKNESS
 		</original>
 		<translated>
-			
+			TÉNÈBRES
 		</translated>
 	</phrase>
 
@@ -844,7 +835,7 @@
 			LIGHT
 		</original>
 		<translated>
-			
+			LUMIÈRE
 		</translated>
 	</phrase>
 
@@ -853,7 +844,7 @@
 			Sin
 		</original>
 		<translated>
-			
+			les péchés
 		</translated>
 	</phrase>
 
@@ -862,7 +853,7 @@
 			Separates us from God
 		</original>
 		<translated>
-			
+			séparé(e) de Dieu
 		</translated>
 	</phrase>
 
@@ -871,14 +862,14 @@
 			Acts 2:38
 		</original>
 		<translated>
-			
+			Actes 2 : 38
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
 			<original>
 				Acts 2:38
 			</original>
 			<translated>
-				
+				Actes 2 : 38
 			</translated>
 		</change>
 	</phrase>
@@ -888,7 +879,7 @@
 			Sin is Forgiven
 		</original>
 		<translated>
-			
+			les péchés sont pardonnés
 		</translated>
 	</phrase>
 
@@ -897,7 +888,7 @@
 			Born Again of Water and Spirit
 		</original>
 		<translated>
-			
+			né(e) de nouveau d’eau et d’Esprit
 		</translated>
 	</phrase>
 
@@ -906,14 +897,14 @@
 			John 3:5
 		</original>
 		<translated>
-			
+			Jean 3 : 5
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="john-3-5">
 			<original>
 				John 3:5
 			</original>
 			<translated>
-				
+				Jean 3 : 5
 			</translated>
 		</change>
 	</phrase>
@@ -923,14 +914,14 @@
 			Acts 2:38
 		</original>
 		<translated>
-			
+			Actes 2 : 38
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
 			<original>
 				Acts 2:38
 			</original>
 			<translated>
-				
+				Actes 2 : 38
 			</translated>
 		</change>
 	</phrase>
@@ -940,7 +931,7 @@
 			Water = Baptism
 		</original>
 		<translated>
-			
+			eau = baptême
 		</translated>
 	</phrase>
 
@@ -949,7 +940,7 @@
 			Spirit = Received at Baptism
 		</original>
 		<translated>
-			
+			Esprit Saint : reçu au moment du baptême
 		</translated>
 	</phrase>
 
@@ -958,14 +949,14 @@
 			Romans 3:25
 		</original>
 		<translated>
-			
+			Romains 3 : 25
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="romans-3-25">
 			<original>
 				Romans 3:25
 			</original>
 			<translated>
-				
+				Romains 3 : 25
 			</translated>
 		</change>
 	</phrase>
@@ -975,7 +966,7 @@
 			Faith in the Blood of Jesus Saves Us
 		</original>
 		<translated>
-			
+			La foi dans le sang de Jésus te sauve
 		</translated>
 	</phrase>
 
@@ -984,7 +975,7 @@
 			Jesus shed His blood when He died. In baptism we share by faith in the death, burial and resurrection of Jesus. Thus we contact the blood of baptism and are forgiven of our sins and SAVED!
 		</original>
 		<translated>
-			
+			Jésus a versé son sang au moment d’expirer. Le baptême est la participation spirituelle à la mort, à l’ensevelissement et à la résurrection de Jésus. C’est dans l’eau qu’on entre en contact avec le sang de Jésus, qu’on est pardonné(e) de nos péchés et sauvé(e)
 		</translated>
 	</phrase>
 
@@ -993,14 +984,14 @@
 			Traditions/False Doctrines — Matthew 15:6-9
 		</original>
 		<translated>
-			
+			Traditions et fausses doctrines - Matthieu 15:6-9
 		</translated>
 		<change bold="true" italic="false" modal="false">
 			<original>
 				Traditions/False Doctrines
 			</original>
 			<translated>
-				
+				Traditions et fausses doctrines
 			</translated>
 		</change>
 		<change bold="true" italic="false" modal="true" scripturekey="matthew-15-6-9">
@@ -1008,7 +999,7 @@
 				Matthew 15:6-9
 			</original>
 			<translated>
-				
+				Matthieu 15:6-9
 			</translated>
 		</change>
 	</phrase>
@@ -1018,7 +1009,7 @@
 			Infant Baptism
 		</original>
 		<translated>
-			
+			Baptême des enfants
 		</translated>
 	</phrase>
 
@@ -1027,14 +1018,14 @@
 			Personal faith is needed (Colossians 2:12)
 		</original>
 		<translated>
-			
+			Il faut avoir une foi personnelle (Colossiens 2:12).
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="colossians-2-12">
 			<original>
 				Colossians 2:12
 			</original>
 			<translated>
-				
+				Colossiens 2:12
 			</translated>
 		</change>
 	</phrase>
@@ -1044,7 +1035,7 @@
 			Began approximately third century A.D.
 		</original>
 		<translated>
-			
+			Son origine provient du 3ème siècle ap.-J.C
 		</translated>
 	</phrase>
 
@@ -1053,7 +1044,7 @@
 			Original sin
 		</original>
 		<translated>
-			
+			Doctrine du péché originel
 		</translated>
 	</phrase>
 
@@ -1062,14 +1053,14 @@
 			Ezekiel 18:20
 		</original>
 		<translated>
-			
+			Ezéchiel 18:20
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="ezekiel-18-20">
 			<original>
 				Ezekiel 18:20
 			</original>
 			<translated>
-				
+				Ezéchiel 18:20
 			</translated>
 		</change>
 	</phrase>
@@ -1079,7 +1070,7 @@
 			Became "church doctrine" in 549 A.D.
 		</original>
 		<translated>
-			
+			Est devenue une doctrine de l'Église en 549 ap.-J.C.
 		</translated>
 	</phrase>
 
@@ -1088,7 +1079,7 @@
 			Praying Jesus into your heart
 		</original>
 		<translated>
-			
+			Prier Jésus d’entrer dans son cœur
 		</translated>
 	</phrase>
 
@@ -1097,14 +1088,14 @@
 			Revelation 3:20 — taken out of context. This verse is addressed to Christians.
 		</original>
 		<translated>
-			
+			Apocalypse 3:20 : verset cité hors de son contexte. Il s’adresse à des personnes qui sont déjà chrétiennes.
 		</translated>
 		<change bold="true" italic="false" modal="true" scripturekey="revelation-3-20">
 			<original>
 				Revelation 3:20
 			</original>
 			<translated>
-				
+				Apocalypse 3:20
 			</translated>
 		</change>
 	</phrase>
@@ -1114,7 +1105,7 @@
 			Began in the early 1800s in America.
 		</original>
 		<translated>
-			
+			Cette forme de conversion est apparue au cours du 19e siècle en Amérique.
 		</translated>
 	</phrase>
 
@@ -1123,7 +1114,7 @@
 			Sinful nature
 		</original>
 		<translated>
-			
+			Notre nature pécheresse
 		</translated>
 	</phrase>
 
@@ -1132,7 +1123,7 @@
 			Suggest to the individual with whom you are studying that he or she write out and be specific about various sins that they have committed during their life. This is so they might see the gravity and magnitude of their sin. This is confidential and should only be shared with those who are studying with the person.
 		</original>
 		<translated>
-			
+			La personne qui étudie la Bible doit écrire une liste précise des péchés qu'elle a pu commettre durant toute sa vie. L'objectif est de lui faire prendre conscience du nombre et de la gravité des péchés commis. Cette liste est strictement confidentielle et ne doit pas sortir du cadre de l'étude.
 		</translated>
 	</phrase>
 
