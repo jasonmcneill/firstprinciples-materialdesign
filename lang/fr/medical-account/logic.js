@@ -76,24 +76,6 @@
 
         <p>${phrase(28)}</p>
 
-        <p>${phrase(29)}</p>
-
-        <p>${phrase(30)}</p>
-
-        <p>${phrase(31)}</p>
-
-        <p>${phrase(32)}</p>
-
-        <p>${phrase(33)}</p>
-
-        <p>${phrase(34)}</p>
-
-        <p>${phrase(35)}</p>
-
-        <p>${phrase(36)}</p>
-
-        <p>${phrase(37)}</p>
-
         <p><em>${phrase(38)}</em></p>
 
       </div>
