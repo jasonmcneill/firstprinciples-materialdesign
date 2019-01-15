@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="" dir="">
+  <head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit: cover">
+    <meta name="google" content="notranslate">
+    <link type="text/css" rel="stylesheet" href="../_assets/css/fontawesome-free-5.5.0-web/css/all.min.css">
+    <link type="text/css" rel="stylesheet" href="../_assets/css/materialize.min.css"  media="screen,projection">
+    <link type="text/css" rel="stylesheet" href="../_assets/css/style.css" media="screen,projection">
+  </head>
+  <body>
+
+    <nav>
+      <div class="nav-wrapper blue darken-3">
+        <a href="./" class="brand-logo center"></a>
+        <a href="../" class="homeicon"><i class="fas fa-home show-on-large"></i></a>
+      </div>
+    </nav>
+    <nav class="light-blue darken-1" role="name">
+      <div class="nav-wrapper container">
+        <div class="center flow-text fp_pagehead"></div>
+      </div>
+    </nav>
+
+    <div class="container main">
+      <div class="fp_pagecontent">
+        <br>
+        <div class="row">
+          <div class="col s12 center">
+            <div class="preloader-wrapper big active">
+                <div class="spinner-layer spinner-blue-only">
+                  <div class="circle-clipper left">
+                    <div class="circle"></div>
+                  </div><div class="gap-patch">
+                    <div class="circle"></div>
+                  </div><div class="circle-clipper right">
+                    <div class="circle"></div>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!--  Scripts -->
+    <script src="../_assets/js/jquery-2.1.1.min.js"></script>
+    <script src="../_assets/js/localforage.min.js"></script>
+    <script src="../_assets/js/materialize.min.js"></script>
+    <script src="../_assets/js/fp/base.js"></script>
+    <script src="../_assets/js/fp/language.js"></script>
+    <script src="../_assets/js/fp/scripture.js"></script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        let installPromptEvent;
+        window.addEventListener('beforeinstallprompt', (event) => {
+          event.preventDefault();
+          installPromptEvent = event;
+          document.querySelector('#install-button').disabled = false;
+        });
+        navigator.serviceWorker.register('../sw.js').then(registration => {
+          // console.log('Registered First Principles service worker', registration);
+        }).catch(error => {
+          console.error('Error in registering First Principles service worker:', error);
+        });
+      }
+      fp.init('persecution');
+      M.AutoInit();
+    </script>
+
+  </body>
+</html>
