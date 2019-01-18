@@ -4,10 +4,13 @@
 	<passage title="" book="" title-en="Acts 5:17-18" book-en="Acts">
 		<chapter number="5" number-en="5">
 			<verse number="17" number-en="17">
-				
+				<p class="scripture-heading">
+					Os Apóstolos São Perseguidos
+				</p>
+				Então o sumo sacerdote e todos os seus companheiros, membros do partido dos saduceus, ficaram cheios de inveja.
 			</verse>
 			<verse number="18" number-en="18">
-				
+				Por isso, mandaram prender os apóstolos, colocando-os numa prisão pública.
 			</verse>
 		</chapter>
 	</passage>
