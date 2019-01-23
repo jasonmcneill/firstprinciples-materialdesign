@@ -12,10 +12,13 @@ router.get('/', function(req, res, next) {
   const globals = fs.readFileSync(__dirname + '/../../lang/template/global/content.xml', 'UTF-8', function(xml) {
   	return xml;
   });
-  // const globalsConsole = util.inspect(JSON.parse(parser.toJson(globals)), true, 7, true);
-  // console.log(globalsConsole);
+  const dashboard = fs.readFileSync(__dirname + '/../../lang/template/dashboard/content.xml', 'UTF-8', function(xml) {
+    return xml;
+  });
   res.render('index', { 
-  	title: 'Express'
+  	title: 'Express',
+    globals: parser.toJson(globals),
+    dashboard: parser.toJson(dashboard)
   });
 });
 
