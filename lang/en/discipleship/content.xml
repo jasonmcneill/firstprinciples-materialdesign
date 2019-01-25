@@ -589,9 +589,9 @@
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="http://usd21.org/m/lang/en/fp/audio/ogg/04-Discipleship.ogg" />
-	        <source type="audio/aac" url="http://usd21.org/m/lang/en/fp/audio/m4a/04-Discipleship.m4a" />
-	        <source type="audio/mp3" url="http://usd21.org/m/lang/en/fp/audio/mp3/04-Discipleship.mp3" />
+	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/discipleship/kip-mckean/discipleship.ogg" />
+	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/discipleship/kip-mckean/discipleship.m4a" />
+	        <source type="audio/mp3" url="https://media.fp.usd21.org/fp/media/lang/en/discipleship/kip-mckean/discipleship.mp3" />
 	      </embed>
 	    </recording>
 	  </item>

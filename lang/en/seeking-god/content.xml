@@ -385,9 +385,9 @@
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="http://usd21.org/m/lang/en/fp/audio/ogg/02-Seeking_God.ogg" />
-	        <source type="audio/aac" url="http://usd21.org/m/lang/en/fp/audio/m4a/02-Seeking_God.m4a" />
-	        <source type="audio/mp3" url="http://usd21.org/m/lang/en/fp/audio/mp3/02-Seeking_God.mp3" />
+	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/seeking-god/kip-mckean/seeking-god.ogg" />
+	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/seeking-god/kip-mckean/seeking-god.m4a" />
+	        <source type="audio/mp3" url="https://media.fp.usd21.org/fp/media/lang/en/seeking-god/kip-mckean/seeking-god.mp3" />
 	      </embed>
 	    </recording>
 	  </item>
