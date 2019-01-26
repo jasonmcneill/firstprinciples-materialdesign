@@ -85,7 +85,7 @@ self.addEventListener('activate', function(event) {
   );
 });
 
-self.addEventListener('fetch', event => {
+self.addEventListener('fetch', {mode: 'no-cors', credentials: 'omit'}, event => {
   event.respondWith(async function() {
     const response = await caches.match(event.request);
     return response || fetch(event.request);
