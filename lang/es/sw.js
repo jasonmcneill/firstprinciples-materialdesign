@@ -60,6 +60,7 @@ self.addEventListener('install', event => {
           console.error('fetch() failed for ' + itemUrl + ':', err);
         })
       });
+      await self.skipWaiting();
     }).catch(err => {
       console.error('caches.open() failed:', err);
     })
