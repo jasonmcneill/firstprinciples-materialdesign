@@ -178,7 +178,7 @@ fp.media = mediaObj => {
             >`;
           for (let j=0; j<sources.length; j++) {
             let source = sources[j];
-            embedHTML += `<source type="${source.attributes['type'].value}" src="${source.attributes['url'].value}">`;
+            embedHTML += `<source crossorigin="anonymous" type="${source.attributes['type'].value}" src="${source.attributes['url'].value}">`;
           }
           embedHTML += `</audio>`;
         } else if (embedType === 'video') {
@@ -216,7 +216,7 @@ fp.media = mediaObj => {
           }
           for (let j=0; j<sources.length; j++) {
             let source = sources[j];
-            embedHTML += `<source type="${source.attributes['type'].value}" src="${source.attributes['url'].value}">`;
+            embedHTML += `<source crossorigin="anonymous" type="${source.attributes['type'].value}" src="${source.attributes['url'].value}">`;
           }
           embedHTML += `</video>`;
         }

@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'v5';
+const CACHE_VERSION = 'v6';
 const CACHE_NAME = `${registration.scope}!${CACHE_VERSION}`;
 let LANG = '';
 
@@ -88,6 +88,8 @@ self.addEventListener('activate', function(event) {
 self.addEventListener('fetch', event => {
   event.respondWith(async function() {
     const response = await caches.match(event.request);
-    return response || fetch(event.request);
+    return response || fetch(event.request, {
+      mode: 'no-cors' // 'cors' by default
+    });
   }());
 });
