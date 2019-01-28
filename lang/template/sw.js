@@ -79,7 +79,7 @@ self.addEventListener('activate', function(event) {
       });
       Promise.all(strCachesToDelete.map(function(item){
         caches.open(item).then(function(deleteItem) {
-          deleteItem.delete();
+          deleteItem.delete(item);
         });
       }))
     })
