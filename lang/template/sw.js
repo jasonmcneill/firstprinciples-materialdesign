@@ -89,7 +89,8 @@ self.addEventListener('fetch', event => {
   event.respondWith(async function() {
     const response = await caches.match(event.request);
     return response || fetch(event.request, {
-      mode: 'no-cors' // 'cors' by default
+      mode: 'cors',
+      credentials: 'same-origin'
     });
   }());
 });
