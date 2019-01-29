@@ -93,9 +93,9 @@
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/introduction/kip-mckean/introduction.ogg" />
-	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/introduction/kip-mckean/introduction.m4a" />
 	        <source type="audio/mp3" url="https://media.fp.usd21.org/fp/media/lang/en/introduction/kip-mckean/introduction.mp3" />
+	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/introduction/kip-mckean/introduction.m4a" />
+	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/introduction/kip-mckean/introduction.ogg" />
 	      </embed>
 	    </recording>
 	  </item>

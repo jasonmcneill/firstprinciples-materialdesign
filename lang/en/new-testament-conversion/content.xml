@@ -592,9 +592,9 @@
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/new-testament-conversion/kip-mckean/new-testament-conversion.ogg" />
-	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/new-testament-conversion/kip-mckean/new-testament-conversion.m4a" />
 	        <source type="audio/mp3" url="https://media.fp.usd21.org/fp/media/lang/en/new-testament-conversion/kip-mckean/new-testament-conversion.mp3" />
+	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/new-testament-conversion/kip-mckean/new-testament-conversion.m4a" />
+	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/new-testament-conversion/kip-mckean/new-testament-conversion.ogg" />
 	      </embed>
 	    </recording>
 	  </item>

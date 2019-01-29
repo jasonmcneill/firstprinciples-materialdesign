@@ -1149,9 +1149,9 @@
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/light-darkness/kip-mckean/light-darkness.ogg" />
-	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/light-darkness/kip-mckean/light-darkness.m4a" />
 	        <source type="audio/mp3" url="https://media.fp.usd21.org/fp/media/lang/en/light-darkness/kip-mckean/light-darkness.mp3" />
+	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/light-darkness/kip-mckean/light-darkness.m4a" />
+	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/light-darkness/kip-mckean/light-darkness.ogg" />
 	      </embed>
 	    </recording>
 	  </item>

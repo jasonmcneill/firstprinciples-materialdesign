@@ -322,9 +322,9 @@
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
-	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/the-cross/kip-mckean/the-cross.ogg" />
-	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/the-cross/kip-mckean/the-cross.m4a" />
 	        <source type="audio/mp3" url="https://media.fp.usd21.org/fp/media/lang/en/the-cross/kip-mckean/the-cross.mp3" />
+	        <source type="audio/aac" url="https://media.fp.usd21.org/fp/media/lang/en/the-cross/kip-mckean/the-cross.m4a" />
+	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/the-cross/kip-mckean/the-cross.ogg" />
 	      </embed>
 	    </recording>
 	  </item>
