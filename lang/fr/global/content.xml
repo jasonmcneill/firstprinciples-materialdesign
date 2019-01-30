@@ -38,6 +38,24 @@
 		</translated>
 	</phrase>
 
+	<phrase id="5" desc="">
+		<original>
+			An internet connection is required in order to listen to this audio. Please connect to the internet, then try again.
+		</original>
+		<translated>
+			Une connexion Internet est requise pour pouvoir écouter cet audio. Veuillez vous connecter à Internet, puis réessayez.
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			An internet connection is required in order to watch this video. Please connect to the internet, then try again.
+		</original>
+		<translated>
+			Une connexion Internet est nécessaire pour regarder cette vidéo. Veuillez vous connecter à Internet, puis réessayez.
+		</translated>
+	</phrase>
+
 	<!--
 	<phrase id="" desc="">
 		<original>

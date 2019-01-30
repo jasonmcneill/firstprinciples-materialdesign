@@ -2,6 +2,15 @@ const CACHE_VERSION = 'v3';
 const CACHE_NAME = `${registration.scope}!${CACHE_VERSION}`;
 let LANG = '';
 
+const fetchWithTimeout = function(url, options, timeout = 7000) {
+  return Promise.race([
+      fetch(url, options),
+      new Promise((_, reject) =>
+          setTimeout(() => reject(new Error('timeout')), timeout)
+      )
+  ]);
+};
+
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME).then(async cache => {
@@ -89,7 +98,7 @@ self.addEventListener('activate', function(event) {
 self.addEventListener('fetch', event => {
   event.respondWith(async function() {
     const response = await caches.match(event.request);
-    return response || fetch(event.request, {
+    return response || fetchWithTimeout(event.request, {
       mode: 'cors',
       credentials: 'same-origin'
     });
