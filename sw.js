@@ -81,7 +81,7 @@ self.addEventListener('activate', function(event) {
 self.addEventListener('fetch', event => {
   event.respondWith(async function() {
     const response = await caches.match(event.request);
-    return response || fetchWithTimeout(event.request, {
+    return response || fetch(event.request, {
       mode: 'cors',
       credentials: 'same-origin'
     });
