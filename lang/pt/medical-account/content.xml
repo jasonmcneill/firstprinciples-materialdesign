@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="medical-account" lang-original="en" lang-translated="" last-updated="2018-09-28" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="medical-account" lang-original="en" lang-translated="pt" last-updated="2019-02-18" last-updated-by="Waldir Caro" last-updated-by-email="edisone11.fc@gmail.com" created="2018-09-28" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
 			The Medical Account of the Crucifixion of Christ
 		</original>
 		<translated>
-			
+			O Sofrimento de Cristo Sob o Ponto de Vista Médico
 		</translated>
 	</phrase>
 
@@ -16,7 +16,7 @@
 			Dr. C. Truman Davis
 		</original>
 		<translated>
-			
+			DAVIS, C. Trumman. A Paixão de Cristo sob o ponto de vista médico. Artigo resumido da revista Arizona Medicine, março/65
 		</translated>
 	</phrase>
 
@@ -25,7 +25,7 @@
 			A Physician Analyzes the Crucifixion
 		</original>
 		<translated>
-			
+			Uma Médico Analiza a Crucificação
 		</translated>
 	</phrase>
 
