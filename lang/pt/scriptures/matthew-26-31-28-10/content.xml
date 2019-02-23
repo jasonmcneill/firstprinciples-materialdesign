@@ -7,10 +7,14 @@
 				<p class="scripture-heading">
 					Jesus Prediz que Pedro o Negará
 				</p>
-				Então Jesus lhes disse: <span class="jesuswords">"Ainda esta noite todos vocês me abandonarão. Pois está escrito:<span class="scripturequote">
-				<br />‘Ferirei o pastor,
-    			<br />    e as ovelhas do rebanho
-    			<br />    serão dispersas’</span></span>
+				Então Jesus lhes disse: 
+				<span class="jesuswords">"Ainda esta noite todos vocês me abandonarão. Pois está escrito:
+					<span class="scripturequote">
+						‘Ferirei o pastor,
+						<br />e as ovelhas do rebanho
+						<br />serão dispersas’
+					</span>
+				</span>
 			</verse>
 			<verse number="32" number-en="32" jesuswords="true">
 				<span class="jesuswords">Mas, depois de ressuscitar, irei adiante de vocês para a Galiléia".</span>
@@ -192,7 +196,7 @@
 				e as usaram para comprar o campo do Oleiro, como o Senhor me ordenou".
 			</verse>
 			<verse number="11" number-en="11" jesuswords="true">
-				<p>
+				<p class="scripture-heading">
 					Jesus diante de Pilatos
 				</p>
 				Jesus foi posto diante do governador, e este lhe perguntou: "Você é o rei dos judeus?" Respondeu-lhe Jesus: <span class="jesuswords">"Tu o dizes".</span>
@@ -246,7 +250,7 @@
 				Então Pilatos soltou-lhes Barrabás, mandou açoitar Jesus e o entregou para ser crucificado.
 			</verse>
 			<verse number="27" number-en="27">
-				<p>
+				<p class="scripture-heading">
 					Os Soldados Zombam de Jesus
 				</p>
 				Então, os soldados do governador levaram Jesus ao Pretório e reuniram toda a tropa ao seu redor.
@@ -264,7 +268,7 @@
 				Depois de terem zombado dele, tiraram-lhe o manto e vestiram-lhe suas próprias roupas. Então o levaram para crucificá-lo.
 			</verse>
 			<verse number="32" number-en="32">
-				<p>
+				<p class="scripture-heading">
 					A Crucificação
 				</p>
 				Ao saírem, encontraram um homem de Cirene, chamado Simão, e o forçaram a carregar a cruz.
@@ -306,7 +310,7 @@
 				Igualmente o insultavam os ladrões que haviam sido crucificados com ele.
 			</verse>
 			<verse number="45" number-en="45">
-				<p>
+				<p class="scripture-heading">
 					A Morte de Jesus
 				</p>
 				E houve trevas sobre toda a terra, do meio dia às três horas da tarde.
@@ -345,7 +349,7 @@
 				Entre elas estavam Maria Madalena; Maria, mãe de Tiago e de José; e a mãe dos filhos de Zebedeu.
 			</verse>
 			<verse number="57" number-en="57">
-				<p>
+				<p class="scripture-heading">
 					O Sepultamento de Jesus
 				</p>
 				Ao cair da tarde chegou um homem rico, de Arimatéia, chamado José, que se tornara discípulo de Jesus.
@@ -363,7 +367,7 @@
 				Maria Madalena e a outra Maria estavam assentadas ali, em frente do sepulcro.
 			</verse>
 			<verse number="62" number-en="62">
-				<p>
+				<p class="scripture-heading">
 					A Guarda do Sepulcro
 				</p>
 				No outro dia, que era o seguinte ao da Preparação, os chefes dos sacerdotes e os fariseus dirigiram-se a Pilatos
@@ -383,7 +387,7 @@
 		</chapter>
 		<chapter number="28" number-en="28">
 			<verse number="1" number-en="1">
-				<p>
+				<p class="scripture-heading">
 					A Ressurreição
 				</p>
 				Depois do sábado, tendo começado o primeiro dia da semana, Maria Madalena e a outra Maria foram ver o sepulcro.

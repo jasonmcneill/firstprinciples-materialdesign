@@ -327,7 +327,7 @@
                       </td>
                     </tr>
                     <tr>
-                      <td class="center">
+                      <td class="center" style="vertical-align: top">
                         ${phrase(88)}<br>
                         ${phrase(89)}<br>
                       </td>
