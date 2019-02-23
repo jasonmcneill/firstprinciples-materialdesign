@@ -34,7 +34,15 @@ self.addEventListener('install', event => {
         './_assets/js/materialize.min.js',
         './_assets/js/fp/base.js',
         './_assets/js/fp/language.js',
-        './_assets/js/fp/scripture.js'
+        './_assets/js/fp/scripture.js',
+        './medical-account/img/batismo.png',
+        './medical-account/img/igreja1.png',
+        './medical-account/img/igreja2.png',
+        './medical-account/img/muro-pecado.png',
+        './medical-account/img/pecadosABC.png',
+        './medical-account/img/relato1.png',
+        './medical-account/img/relato2.png',
+        './medical-account/img/relato3.png'
       ];
       await fetch('./keys.json').then(response => {
         return response.json();
