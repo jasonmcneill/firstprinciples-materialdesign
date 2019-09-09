@@ -11,7 +11,7 @@
     "start": "browser-sync --start --watch --no-notify"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.0"
+    "browser-sync": "^2.26.7"
   },
   "dependencies": {}
 }
