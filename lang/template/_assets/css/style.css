@@ -102,6 +102,12 @@ ul.compact li {
   z-index: 100;
 }
 
+@media screen and (max-width: 600px) { 
+  .homeicon {
+    top: 3px;
+  }
+}
+
 .homeicon .fa-home {
   height: auto;
 }
