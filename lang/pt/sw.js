@@ -71,7 +71,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/css/style.css",
-    "revision": "9af6a45af737e504dedd762599bbcb53"
+    "revision": "43aed07d342bfb274f8a5de44d40e999"
   },
   {
     "url": "_assets/css/the-church.css",
@@ -80,6 +80,174 @@ self.__precacheManifest = [
   {
     "url": "_assets/img/body.png",
     "revision": "e6306fcce46e83649d86e4726ad73dc7"
+  },
+  {
+    "url": "_assets/img/icons/launch/adaptive/icon-128x128.png",
+    "revision": "6f42067836c2915c4769069cb873bbf8"
+  },
+  {
+    "url": "_assets/img/icons/launch/adaptive/icon-144x144.png",
+    "revision": "319d1863b59dbff63b18115556ad2481"
+  },
+  {
+    "url": "_assets/img/icons/launch/adaptive/icon-152x152.png",
+    "revision": "702baadd3f55cbeb400b045744b906df"
+  },
+  {
+    "url": "_assets/img/icons/launch/adaptive/icon-192x192.png",
+    "revision": "eab2d392f742a6163ff7a639332eb0a7"
+  },
+  {
+    "url": "_assets/img/icons/launch/adaptive/icon-384x384.png",
+    "revision": "d2a3ffa66e63aa39bd926d397c98b72f"
+  },
+  {
+    "url": "_assets/img/icons/launch/adaptive/icon-512x512.png",
+    "revision": "1e5cbe66b29622b12d77c2bad03586ec"
+  },
+  {
+    "url": "_assets/img/icons/launch/adaptive/icon-72x72.png",
+    "revision": "9c448f4ec994471d8bd0b601e2c0d001"
+  },
+  {
+    "url": "_assets/img/icons/launch/adaptive/icon-96x96.png",
+    "revision": "6923a8da3063fffdc7441e5c693b41df"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/apple-icon-120.png",
+    "revision": "13e133ae7270e019357855fa3637b9e6"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/apple-icon-152.png",
+    "revision": "ce8854fb8c0a1aad570836cae622ff54"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/apple-icon-167.png",
+    "revision": "106e3ac5997e759a0430cdeeb542c6dc"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/apple-icon-180.png",
+    "revision": "5d4f25cbadc3820f9cb99fd66f81b14d"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/icon-128x128.png",
+    "revision": "f6c8f8a1bb099f721eb532566ed694b3"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/icon-144x144.png",
+    "revision": "22fc33d41b8ca0c9157aac3dbc9ac4f3"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/icon-152x152.png",
+    "revision": "dabdf7addb12a70f4d1a559023c9cce3"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/icon-192x192.png",
+    "revision": "e6b13e3e00a53d87c80d3d230cd09f20"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/icon-384x384.png",
+    "revision": "f31a8c83b5eb168469d9d7915da0eabd"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/icon-512x512.png",
+    "revision": "593045e287fe9abcb7d0d4e73d12b5f9"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/icon-72x72.png",
+    "revision": "017655b68989092abd164340c9e2e12d"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/icon-96x96.png",
+    "revision": "76434b75f780c4b491e70e3f75ddefe7"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/manifest-icon-192.png",
+    "revision": "68028f5e7ea43bfe4a2b51f9d1a6162e"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/manifest-icon-512.png",
+    "revision": "0ce14771c477be19151b459a20848353"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-1125-2436.png",
+    "revision": "1cf4ee5266dd823647209c38f0b01a63"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-1136-640.png",
+    "revision": "caa8c58f62dcc63932ece48259be7e76"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-1242-2208.png",
+    "revision": "b3bf42a9d615ef82ca17a3c513360312"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-1242-2688.png",
+    "revision": "e319683cea8437ad5186dd8825bdd335"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-1334-750.png",
+    "revision": "a8a20bf07f79952f905782be706a95ed"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-1536-2048.png",
+    "revision": "72ba5fe249bf10b34b1195daf20d9e1e"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-1668-2224.png",
+    "revision": "b34e472e48112c5be6afeef61d2cabf5"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-1668-2388.png",
+    "revision": "ccf556ac7e2c81cabdc160eafeffdd84"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-1792-828.png",
+    "revision": "db5790d774c84346da18e38c8158dfcc"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-2048-1536.png",
+    "revision": "e75c56911ab7aa31f9be7d6ae71d4dab"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-2048-2732.png",
+    "revision": "616748a604d4c80046006b1d6afe8f5e"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-2208-1242.png",
+    "revision": "fc0e5f5d12365cb535acc681b8084625"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-2224-1668.png",
+    "revision": "a5ebc0d11725def99f86a2f1528dffc3"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-2388-1668.png",
+    "revision": "637fabf4a86c7e226d9824ac7776f301"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-2436-1125.png",
+    "revision": "cc1ca1c8db2d07ac838b997250d85c15"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-2688-1242.png",
+    "revision": "7d0da54809b99f970b71989f7239fe49"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-2732-2048.png",
+    "revision": "42c8cd1d14b47e238f0aed032e5cfdb4"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-640-1136.png",
+    "revision": "163286cb18a0567c833773b28f0ef13c"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-750-1334.png",
+    "revision": "931e5513904566ff8bf1db77382af5a8"
+  },
+  {
+    "url": "_assets/img/splashscreens/apple-splash-828-1792.png",
+    "revision": "09621d9d9309ce79ff552914e0919fb7"
   },
   {
     "url": "_assets/js/fp/base.js",
@@ -111,7 +279,7 @@ self.__precacheManifest = [
   },
   {
     "url": "after-baptism-now-what/index.html",
-    "revision": "701d36d1a9d1dad45546195a4825ff2d"
+    "revision": "02b795a11ac42647c7d674ec6220ff69"
   },
   {
     "url": "after-baptism-now-what/logic.js",
@@ -123,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "baptism-holy-spirit/index.html",
-    "revision": "b33490787db4920dddbc6d6fa68d6deb"
+    "revision": "aedffae015d466aedff1c832a486ebb4"
   },
   {
     "url": "baptism-holy-spirit/logic.js",
@@ -135,7 +303,7 @@ self.__precacheManifest = [
   },
   {
     "url": "best-friends-all-time/index.html",
-    "revision": "b211f930b7d9b2be42c883ab92d82b5b"
+    "revision": "1fd9b9243d6a5e73bb0c2888df52da90"
   },
   {
     "url": "best-friends-all-time/logic.js",
@@ -147,7 +315,7 @@ self.__precacheManifest = [
   },
   {
     "url": "book-of-acts/index.html",
-    "revision": "d26ba5c3ea8b703b8ea91eea75417fe0"
+    "revision": "31f2cc89ad74384e2def209ad417e436"
   },
   {
     "url": "book-of-acts/logic.js",
@@ -159,7 +327,7 @@ self.__precacheManifest = [
   },
   {
     "url": "book-of-john/index.html",
-    "revision": "092e639735c835de7d140c7aec62228b"
+    "revision": "454c1570a54adca859bee16db7c7ae62"
   },
   {
     "url": "book-of-john/logic.js",
@@ -171,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "christ-is-your-life/index.html",
-    "revision": "eb499498181716292a44abed0f91587b"
+    "revision": "503f9b5dc7cc156117a2dfb2ec55ecc6"
   },
   {
     "url": "christ-is-your-life/logic.js",
@@ -183,7 +351,7 @@ self.__precacheManifest = [
   },
   {
     "url": "course-information/index.html",
-    "revision": "d1310368c742ef3e66624ccac7c089fb"
+    "revision": "a6f009d525c11850a38409d0286a7176"
   },
   {
     "url": "course-information/logic.js",
@@ -203,7 +371,7 @@ self.__precacheManifest = [
   },
   {
     "url": "discipleship/index.html",
-    "revision": "03983e37f56ca23b70d561f1c2ccd5bc"
+    "revision": "6d5609b4c37c19fd98bf6bad0aaa1c31"
   },
   {
     "url": "discipleship/logic.js",
@@ -215,7 +383,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c993c37e6e987520ddbd3e99862beb59"
+    "revision": "fff7732020514af431271f327ce36e08"
   },
   {
     "url": "introduction/content.xml",
@@ -223,7 +391,7 @@ self.__precacheManifest = [
   },
   {
     "url": "introduction/index.html",
-    "revision": "88ee36fbea228e93574c21c0fb2dcea1"
+    "revision": "94e12f6c6acc3f503d64ce37245afba2"
   },
   {
     "url": "introduction/logic.js",
@@ -239,11 +407,15 @@ self.__precacheManifest = [
   },
   {
     "url": "light-darkness/index.html",
-    "revision": "5cb96d688aaa7e1714f64b08e0cb986e"
+    "revision": "c7bec0642df484be24a92fcf7ca449e5"
   },
   {
     "url": "light-darkness/logic.js",
     "revision": "d1487357c2b03b69f43a09b423faef33"
+  },
+  {
+    "url": "manifest.json",
+    "revision": "52a3df37955a346a147a6de7967418ff"
   },
   {
     "url": "medical-account/content.xml",
@@ -283,7 +455,7 @@ self.__precacheManifest = [
   },
   {
     "url": "medical-account/index.html",
-    "revision": "379b105be125c6294cd215e6e40a9047"
+    "revision": "fef428fd1f1095e8cd04a1d97afe4d71"
   },
   {
     "url": "medical-account/logic.js",
@@ -295,7 +467,7 @@ self.__precacheManifest = [
   },
   {
     "url": "memory-scriptures/index.html",
-    "revision": "93536f021d844bc8931f95e04f4eb723"
+    "revision": "febb7c6b9ba779b89c160da9a9d9edf5"
   },
   {
     "url": "memory-scriptures/logic.js",
@@ -307,7 +479,7 @@ self.__precacheManifest = [
   },
   {
     "url": "miraculous-gifts-holy-spirit/index.html",
-    "revision": "796dcfd0b1a5252c42ba8c1fce11b49d"
+    "revision": "b7f0565e498095c2282ced6ddfd8f9f1"
   },
   {
     "url": "miraculous-gifts-holy-spirit/logic.js",
@@ -319,7 +491,7 @@ self.__precacheManifest = [
   },
   {
     "url": "new-testament-conversion/index.html",
-    "revision": "cbeaa2a6f1d349f3cedd9aabe5a5372e"
+    "revision": "6566022626198fbc26796df9434d45c0"
   },
   {
     "url": "new-testament-conversion/logic.js",
@@ -331,7 +503,7 @@ self.__precacheManifest = [
   },
   {
     "url": "persecution/index.html",
-    "revision": "e329755965dc21b0d0cf0d3486ec0e45"
+    "revision": "01c736b24a272a7e64b1426295aab19a"
   },
   {
     "url": "persecution/logic.js",
@@ -1251,7 +1423,7 @@ self.__precacheManifest = [
   },
   {
     "url": "seeking-god/index.html",
-    "revision": "6d2e57a02ff0cc5814dd8e3e23738b80"
+    "revision": "b90db0d31b9facf46b4b605d02771bae"
   },
   {
     "url": "seeking-god/logic.js",
@@ -1263,7 +1435,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-church/index.html",
-    "revision": "43aa970fea65a6b5f3deb26557b9160e"
+    "revision": "db6e86801b4ecd0474472026fe45e927"
   },
   {
     "url": "the-church/logic.js",
@@ -1275,7 +1447,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-cross/index.html",
-    "revision": "b9cfab9ad767e0e90fe39350c7d3ffe0"
+    "revision": "a09ae3971b15b86aa9fc2f952587800c"
   },
   {
     "url": "the-cross/logic.js",
@@ -1287,7 +1459,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-kingdom/index.html",
-    "revision": "bdce571729667e9442e38650d417bc15"
+    "revision": "0e051efa802fcbfd8066164a0108f59c"
   },
   {
     "url": "the-kingdom/logic.js",
@@ -1299,7 +1471,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-mission/index.html",
-    "revision": "15541e965894f2a1085d2132615b3240"
+    "revision": "c3da3d556950693fa1c5775d8422019f"
   },
   {
     "url": "the-mission/logic.js",
@@ -1311,7 +1483,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-word/index.html",
-    "revision": "d9a021063c3fe216f113c86ca4eba401"
+    "revision": "ba7990dc0712eb7d42ef7ae47596bb1e"
   },
   {
     "url": "the-word/logic.js",
