@@ -7,80 +7,18 @@
   "start_url": "./?source=pwa",
   "icons": [
     {
-      "src": "_assets/img/icons/launch/normal/icon-72x72.png",
-      "sizes": "72x72",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/normal/icon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/normal/icon-128x128.png",
-      "sizes": "128x128",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/normal/icon-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/normal/icon-152x152.png",
-      "sizes": "152x152",
-      "type": "image/png",
-      "purpose": "maskable any"
+      "src": "_assets/img/icons/launch/normal/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     },
     {
       "src": "_assets/img/icons/launch/normal/icon-192x192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable any"
+      "type": "image/png"
     },
     {
-      "src": "_assets/img/icons/launch/normal/icon-384x384.png",
-      "sizes": "384x384",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/normal/icon-512x512.png",
+      "src": "_assets/img/icons/launch/adaptive/icon-512x512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/adaptive/icon-72x72.png",
-      "sizes": "72x72",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/adaptive/icon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/adaptive/icon-128x128.png",
-      "sizes": "128x128",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/adaptive/icon-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/adaptive/icon-152x152.png",
-      "sizes": "152x152",
       "type": "image/png",
       "purpose": "maskable any"
     },
@@ -89,19 +27,7 @@
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/adaptive/icon-384x384.png",
-      "sizes": "384x384",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "_assets/img/icons/launch/adaptive/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable any"
     }
-  ],
+   ],
   "splash_pages": null
 }
