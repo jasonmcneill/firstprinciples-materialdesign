@@ -26,42 +26,6 @@ self.addEventListener('message', (event) => {
  */
 self.__precacheManifest = [
   {
-    "url": "_assets/css/fontawesome-free-5.5.0-web/css/all.min.css",
-    "revision": "1cc6c92172d124fbd305ba3d8e263333"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.5.0-web/js/all.min.js",
-    "revision": "02dc00e986773a2294d5ce33ef02e442"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.5.0-web/LICENSE.txt",
-    "revision": "a26077e534d7a5b2bbf9c0fa32aad750"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-brands-400.woff",
-    "revision": "8b7a9afd7b95f62e6ee8a72930bfb9ed"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-brands-400.woff2",
-    "revision": "659c4d58b00226541ef95c3a76e169c5"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-regular-400.woff",
-    "revision": "0b5e3a5451fc62d9023ccafc85bc89db"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-regular-400.woff2",
-    "revision": "bdadb6ce95c5a2e7b673940721450d3c"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-solid-900.woff",
-    "revision": "bcb927a742a8370b76642fd1a9a749c0"
-  },
-  {
-    "url": "_assets/css/fontawesome-free-5.5.0-web/webfonts/fa-solid-900.woff2",
-    "revision": "fb493903265cad425ccdf8e04fc2de61"
-  },
-  {
     "url": "_assets/css/light-darkness.css",
     "revision": "a6e332d609b28c056013ee71a4100ec0"
   },
@@ -71,11 +35,19 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/css/style.css",
-    "revision": "43aed07d342bfb274f8a5de44d40e999"
+    "revision": "8617be871f840fe7c844c9e95b9f5d1d"
   },
   {
     "url": "_assets/css/the-church.css",
     "revision": "4ff3843cf295d1944c8bee4ace95bd2a"
+  },
+  {
+    "url": "_assets/font/home.woff",
+    "revision": "926a17462a873cb754c8319040459acf"
+  },
+  {
+    "url": "_assets/font/home.woff2",
+    "revision": "d8521629f0d22adc1dbcc314b724c245"
   },
   {
     "url": "_assets/img/body.png",
@@ -138,92 +110,12 @@ self.__precacheManifest = [
     "revision": "0ce14771c477be19151b459a20848353"
   },
   {
-    "url": "_assets/img/splashscreens/apple-splash-1125-2436.png",
-    "revision": "1cf4ee5266dd823647209c38f0b01a63"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-1136-640.png",
-    "revision": "caa8c58f62dcc63932ece48259be7e76"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-1242-2208.png",
-    "revision": "b3bf42a9d615ef82ca17a3c513360312"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-1242-2688.png",
-    "revision": "e319683cea8437ad5186dd8825bdd335"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-1334-750.png",
-    "revision": "a8a20bf07f79952f905782be706a95ed"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-1536-2048.png",
-    "revision": "72ba5fe249bf10b34b1195daf20d9e1e"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-1668-2224.png",
-    "revision": "b34e472e48112c5be6afeef61d2cabf5"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-1668-2388.png",
-    "revision": "ccf556ac7e2c81cabdc160eafeffdd84"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-1792-828.png",
-    "revision": "db5790d774c84346da18e38c8158dfcc"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-2048-1536.png",
-    "revision": "e75c56911ab7aa31f9be7d6ae71d4dab"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-2048-2732.png",
-    "revision": "616748a604d4c80046006b1d6afe8f5e"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-2208-1242.png",
-    "revision": "fc0e5f5d12365cb535acc681b8084625"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-2224-1668.png",
-    "revision": "a5ebc0d11725def99f86a2f1528dffc3"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-2388-1668.png",
-    "revision": "637fabf4a86c7e226d9824ac7776f301"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-2436-1125.png",
-    "revision": "cc1ca1c8db2d07ac838b997250d85c15"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-2688-1242.png",
-    "revision": "7d0da54809b99f970b71989f7239fe49"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-2732-2048.png",
-    "revision": "42c8cd1d14b47e238f0aed032e5cfdb4"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-640-1136.png",
-    "revision": "163286cb18a0567c833773b28f0ef13c"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-750-1334.png",
-    "revision": "931e5513904566ff8bf1db77382af5a8"
-  },
-  {
-    "url": "_assets/img/splashscreens/apple-splash-828-1792.png",
-    "revision": "09621d9d9309ce79ff552914e0919fb7"
-  },
-  {
     "url": "_assets/js/fp/base.js",
     "revision": "411280b2ffe32ab123715fc94f5a894c"
   },
   {
     "url": "_assets/js/fp/language.js",
-    "revision": "028ab573e7fa9326313024000a8276ed"
+    "revision": "fd494af3b03ec370eea4c49d8570e729"
   },
   {
     "url": "_assets/js/fp/scripture.js",
@@ -247,7 +139,7 @@ self.__precacheManifest = [
   },
   {
     "url": "after-baptism-now-what/index.html",
-    "revision": "cfda75d966292f4a83a350d1658f7719"
+    "revision": "01b21b092eb0c512cbda14886fc93002"
   },
   {
     "url": "after-baptism-now-what/logic.js",
@@ -259,7 +151,7 @@ self.__precacheManifest = [
   },
   {
     "url": "baptism-holy-spirit/index.html",
-    "revision": "c2e7420616274f2d1ab5684c238211fd"
+    "revision": "97edab05c3e5639549c2134cd389378c"
   },
   {
     "url": "baptism-holy-spirit/logic.js",
@@ -271,7 +163,7 @@ self.__precacheManifest = [
   },
   {
     "url": "best-friends-all-time/index.html",
-    "revision": "ad31b9266df6571bc863c5c13501d3df"
+    "revision": "24707220c27efb6a1315cb298912d7f8"
   },
   {
     "url": "best-friends-all-time/logic.js",
@@ -283,7 +175,7 @@ self.__precacheManifest = [
   },
   {
     "url": "book-of-acts/index.html",
-    "revision": "5018bc369a4c46f16b7e96e14eea99ed"
+    "revision": "73b48a4adfea0321dfcf814781c429ae"
   },
   {
     "url": "book-of-acts/logic.js",
@@ -295,7 +187,7 @@ self.__precacheManifest = [
   },
   {
     "url": "book-of-john/index.html",
-    "revision": "521aba97ab10dcab08e8d7a958081ed2"
+    "revision": "1cef3e12eadae572569f530843aa00a0"
   },
   {
     "url": "book-of-john/logic.js",
@@ -307,7 +199,7 @@ self.__precacheManifest = [
   },
   {
     "url": "christ-is-your-life/index.html",
-    "revision": "9440d438036aca4cdc1c613b0a02c79d"
+    "revision": "cad31902ccc5af4bdb97d8068a722540"
   },
   {
     "url": "christ-is-your-life/logic.js",
@@ -319,7 +211,7 @@ self.__precacheManifest = [
   },
   {
     "url": "course-information/index.html",
-    "revision": "83600fd937ce68af62d5c2c2245207e4"
+    "revision": "49de92597021773bc7cacc82ca13f4c5"
   },
   {
     "url": "course-information/logic.js",
@@ -339,7 +231,7 @@ self.__precacheManifest = [
   },
   {
     "url": "discipleship/index.html",
-    "revision": "b88b771be0abc600be5654438db955c8"
+    "revision": "0955d488ea5f5bfea4ff0379933fd3f1"
   },
   {
     "url": "discipleship/logic.js",
@@ -351,7 +243,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "e92adaabeae4c5fc639136e2459fc9a9"
+    "revision": "5a8862923ac8985565bf475f51271756"
   },
   {
     "url": "introduction/content.xml",
@@ -359,7 +251,7 @@ self.__precacheManifest = [
   },
   {
     "url": "introduction/index.html",
-    "revision": "a83513adbeafc053c5ed1d5254a9ec4a"
+    "revision": "d6ab707fb3d122c21141387499ac4e9c"
   },
   {
     "url": "introduction/logic.js",
@@ -375,7 +267,7 @@ self.__precacheManifest = [
   },
   {
     "url": "light-darkness/index.html",
-    "revision": "57686188adfc57a590d7a9980ab352fa"
+    "revision": "666380bee8a71bc363bf0a3822d540c6"
   },
   {
     "url": "light-darkness/logic.js",
@@ -383,7 +275,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "a7815ce9df6b39526ec8673049e35900"
+    "revision": "c6aa084aaf86811bc2df9b6d34ddb795"
   },
   {
     "url": "medical-account/content.xml",
@@ -423,7 +315,7 @@ self.__precacheManifest = [
   },
   {
     "url": "medical-account/index.html",
-    "revision": "174324c0acb89ae503f7921480aa3223"
+    "revision": "bd7a3369a9b3a6bba845b09f1b1dfb72"
   },
   {
     "url": "medical-account/logic.js",
@@ -435,7 +327,7 @@ self.__precacheManifest = [
   },
   {
     "url": "memory-scriptures/index.html",
-    "revision": "fd9f94349740b32694fa8a03db2b9997"
+    "revision": "c1d102e3548a0bfeca6bec2b09e4c1e5"
   },
   {
     "url": "memory-scriptures/logic.js",
@@ -447,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "miraculous-gifts-holy-spirit/index.html",
-    "revision": "97565d774a53ce5a762fd9220a98fe36"
+    "revision": "e125f12b49dbe595419de60399e15691"
   },
   {
     "url": "miraculous-gifts-holy-spirit/logic.js",
@@ -459,7 +351,7 @@ self.__precacheManifest = [
   },
   {
     "url": "new-testament-conversion/index.html",
-    "revision": "3a6de9dfa2a5152e9d65844852bf35bc"
+    "revision": "b1f6ce0f652204b7ff1b094289f12fb0"
   },
   {
     "url": "new-testament-conversion/logic.js",
@@ -471,7 +363,7 @@ self.__precacheManifest = [
   },
   {
     "url": "persecution/index.html",
-    "revision": "e82169178f841ed788e862e3a2e80036"
+    "revision": "34743f9d2be5301fb01a13975d6dee80"
   },
   {
     "url": "persecution/logic.js",
@@ -1391,7 +1283,7 @@ self.__precacheManifest = [
   },
   {
     "url": "seeking-god/index.html",
-    "revision": "9657a03b5a1bbfcfc6829d5630098006"
+    "revision": "46e6038a65e31b3f4ea250438f19e8e2"
   },
   {
     "url": "seeking-god/logic.js",
@@ -1403,7 +1295,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-church/index.html",
-    "revision": "70021fee3a29ee67f3ea0ddcd9b68a97"
+    "revision": "8b53563a94532affab19ea174b7ee462"
   },
   {
     "url": "the-church/logic.js",
@@ -1415,7 +1307,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-cross/index.html",
-    "revision": "8dda0cf85f23d6e2a30a36eda9c927b4"
+    "revision": "028784fe4597b7e07f1926a5c98f273a"
   },
   {
     "url": "the-cross/logic.js",
@@ -1427,7 +1319,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-kingdom/index.html",
-    "revision": "6b1c219cb18fa100e1af04f7619fabe2"
+    "revision": "1646b5209ad4256d26bad9ca0710e5d3"
   },
   {
     "url": "the-kingdom/logic.js",
@@ -1439,7 +1331,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-mission/index.html",
-    "revision": "e96d26827019a145161c3b1c979e7442"
+    "revision": "86f1266f269d84b20dce3a2f1ad433f4"
   },
   {
     "url": "the-mission/logic.js",
@@ -1451,7 +1343,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-word/index.html",
-    "revision": "34cd56f8b04c6afcf3b70529d952b5f3"
+    "revision": "6af521408f049fd51b594ab0dc22bc75"
   },
   {
     "url": "the-word/logic.js",
@@ -1459,7 +1351,7 @@ self.__precacheManifest = [
   },
   {
     "url": "workbox-config.js",
-    "revision": "830a8bf6b37e348ff1e2a65e3ea0bf48"
+    "revision": "76adbd24f95d46478faf8fc02484b828"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
