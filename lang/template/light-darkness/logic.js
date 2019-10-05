@@ -214,13 +214,13 @@
                     <tr>
                       <td class="center">
                         <br>
-                        <i class="fas fa-cross fa-3x"></i><br>
+                        <i class="fa fa-cross fa-3x"></i><br>
                         ${phrase(70)}<br>
                         <br>
                       </td>
                       <td class="center">
                         <br>
-                        <i class="fas fa-cross fa-3x"></i><br>
+                        <i class="fa fa-cross fa-3x"></i><br>
                         ${phrase(73)}<br>
                         ${phrase(74)}<br>
                         <br>
@@ -229,7 +229,7 @@
                     <tr>
                       <td class="center">
                         <br>
-                        <i class="fas fa-share fa-3x fa-rotate-90"></i><br>
+                        <i class="fa fa-share fa-3x fa-rotate-90"></i><br>
                         <div class="earth"></div>
                         <table class="brown light-darkness_baptism-earth">
                           <tbody>
@@ -244,7 +244,7 @@
                       </td>
                       <td class="center">
                         <br>
-                        <i class="fas fa-share fa-3x fa-rotate-90"></i><br>
+                        <i class="fa fa-share fa-3x fa-rotate-90"></i><br>
                         <div class="wave"></div>
                         <table class="blue light-darkness_baptism-water">
                           <tbody>
@@ -262,7 +262,7 @@
                       <td class="center" style="vertical-align: bottom">
                         <br>
                         ${phrase(72)}<br>
-                        <i class="fas fa-share fa-3x"></i><br>
+                        <i class="fa fa-share fa-3x"></i><br>
                         <div class="earth"></div>
                         <table class="brown light-darkness_baptism-earth">
                           <tbody>
@@ -278,7 +278,7 @@
                       <td class="center" style="vertical-align: bottom">
                         <br>
                         ${phrase(76)}<br>
-                        <i class="fas fa-share fa-3x"></i><br>
+                        <i class="fa fa-share fa-3x"></i><br>
                         <div class="wave"></div>
                         <table class="blue light-darkness_baptism-water">
                           <tbody>

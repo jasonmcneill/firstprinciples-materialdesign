@@ -271,7 +271,7 @@ self.__precacheManifest = [
   },
   {
     "url": "light-darkness/logic.js",
-    "revision": "d1487357c2b03b69f43a09b423faef33"
+    "revision": "3107547ffd26e6a9f33b7cee41dc92fa"
   },
   {
     "url": "manifest.json",
@@ -1267,7 +1267,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-church/logic.js",
-    "revision": "13cd4f8e700dd5f9ec5372b7ac3fc868"
+    "revision": "9e7f39c9dc952c37caa25e9638fcb317"
   },
   {
     "url": "the-cross/content.xml",
