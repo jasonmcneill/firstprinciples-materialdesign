@@ -214,13 +214,13 @@
                     <tr>
                       <td class="center">
                         <br>
-                        <i class="fas fa-cross fa-3x"></i><br>
+                        <i class="fa fa-cross fa-3x"></i><br>
                         ${phrase(70)}<br>
                         <br>
                       </td>
                       <td class="center">
                         <br>
-                        <i class="fas fa-cross fa-3x"></i><br>
+                        <i class="fa fa-cross fa-3x"></i><br>
                         ${phrase(73)}<br>
                         ${phrase(74)}<br>
                         <br>
@@ -229,7 +229,7 @@
                     <tr>
                       <td class="center">
                         <br>
-                        <i class="fas fa-share fa-3x fa-rotate-90"></i><br>
+                        <img src="../_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg" style="width: 80px; height: auto" />
                         <div class="earth"></div>
                         <table class="brown light-darkness_baptism-earth">
                           <tbody>
