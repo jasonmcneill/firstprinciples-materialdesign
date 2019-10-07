@@ -271,7 +271,7 @@ self.__precacheManifest = [
   },
   {
     "url": "light-darkness/logic.js",
-    "revision": "3cf3186cc8cec8f0e6c788858795b23c"
+    "revision": "7ce7e63a1cfdd929694d317abbeed465"
   },
   {
     "url": "manifest.json",
