@@ -7,6 +7,7 @@
     <meta name="google" content="notranslate">
     <link type="text/css" rel="stylesheet" href="./_assets/css/materialize.min.css"  media="screen,projection">
     <link type="text/css" rel="stylesheet" href="./_assets/css/style.css" media="screen,projection">
+    <link type="text/css" rel="stylesheet" href="./_assets/css/fontawesome-free-5.11.2-web/css/all.min.css">
     <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
     <link rel="icon" href="./favicon.ico" type="image/x-icon">
     <link rel="icon" type="image/png" sizes="512x512"  href="./_assets/img/icons/launch/normal/manifest-icon-512.png">
@@ -31,7 +32,7 @@
     <nav>
       <div class="nav-wrapper blue darken-3">
         <a href="./" class="brand-logo center"></a>
-        <a href="./" class="homeicon hide"><i class="icon-home"></i></a>
+        <a href="./" class="homeicon hide"><i class="fas fa-home"></i></a>
       </div>
     </nav>
     <nav class="light-blue darken-1" role="name">
@@ -69,13 +70,6 @@
     <script src="./_assets/js/fp/language.js"></script>
     <script src="./_assets/js/fp/scripture.js"></script>
     <script>
-      if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('./sw.js').then(registration => {
-          // console.log('Registered First Principles language selection page service worker', registration);
-        }).catch(error => {
-          console.error('Error in registering First Principles language selection page service worker:', error);
-        });
-      }
       fp.init('index');
       M.AutoInit();
     </script>
