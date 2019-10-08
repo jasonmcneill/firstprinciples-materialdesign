@@ -206,3 +206,12 @@
   background-color: #795548;
   border-top: 2px dotted darkslategray;
 }
+
+.l-d-arrow {
+  width: 60px;
+  height: auto;
+}
+
+.l-d-arrow-down {
+  transform: rotate(90deg);
+}

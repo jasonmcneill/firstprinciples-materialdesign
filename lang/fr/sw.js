@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "_assets/css/light-darkness.css",
-    "revision": "a6e332d609b28c056013ee71a4100ec0"
+    "revision": "bfdf5556f367e41dcd655fafb2e09699"
   },
   {
     "url": "_assets/css/materialize.min.css",
@@ -263,7 +263,7 @@ self.__precacheManifest = [
   },
   {
     "url": "light-darkness/content.xml",
-    "revision": "22a94b1c8c944bcde9a36808393f9bcb"
+    "revision": "08911d746c8084c168088afdb363ffde"
   },
   {
     "url": "light-darkness/index.html",
@@ -271,7 +271,7 @@ self.__precacheManifest = [
   },
   {
     "url": "light-darkness/logic.js",
-    "revision": "3a7f553ed5ef457199b003e46d1deecc"
+    "revision": "4a3f11f000469396999ad281bb4c88c6"
   },
   {
     "url": "manifest.json",

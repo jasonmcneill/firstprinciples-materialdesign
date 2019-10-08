@@ -229,7 +229,7 @@
                     <tr>
                       <td class="center">
                         <br>
-                        <i class="fa fa-share fa-3x fa-rotate-90"></i><br>
+                        <img src="../_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg" class="l-d-arrow l-d-arrow-down" />
                         <div class="earth"></div>
                         <table class="brown light-darkness_baptism-earth">
                           <tbody>
@@ -244,7 +244,7 @@
                       </td>
                       <td class="center">
                         <br>
-                        <i class="fa fa-share fa-3x fa-rotate-90"></i><br>
+                        <img src="../_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg" class="l-d-arrow l-d-arrow-down" />
                         <div class="wave"></div>
                         <table class="blue light-darkness_baptism-water">
                           <tbody>
@@ -262,7 +262,7 @@
                       <td class="center" style="vertical-align: bottom">
                         <br>
                         ${phrase(72)}<br>
-                        <i class="fa fa-share fa-3x"></i><br>
+                        <img src="../_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg" class="l-d-arrow" />
                         <div class="earth"></div>
                         <table class="brown light-darkness_baptism-earth">
                           <tbody>
@@ -278,7 +278,7 @@
                       <td class="center" style="vertical-align: bottom">
                         <br>
                         ${phrase(76)}<br>
-                        <i class="fa fa-share fa-3x"></i><br>
+                        <img src="../_assets/css/fontawesome-free-5.11.2-web/svgs/solid/share.svg" class="l-d-arrow" />
                         <div class="wave"></div>
                         <table class="blue light-darkness_baptism-water">
                           <tbody>
