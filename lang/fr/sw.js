@@ -263,7 +263,7 @@ self.__precacheManifest = [
   },
   {
     "url": "light-darkness/content.xml",
-    "revision": "08911d746c8084c168088afdb363ffde"
+    "revision": "eb5a49db537f321c653d8f59bf974326"
   },
   {
     "url": "light-darkness/index.html",
@@ -271,7 +271,7 @@ self.__precacheManifest = [
   },
   {
     "url": "light-darkness/logic.js",
-    "revision": "4a3f11f000469396999ad281bb4c88c6"
+    "revision": "4dfe6722e4feb37bc7cddc9f32ed70bf"
   },
   {
     "url": "manifest.json",
