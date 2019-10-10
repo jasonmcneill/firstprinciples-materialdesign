@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "_assets/css/light-darkness.css",
-    "revision": "bfdf5556f367e41dcd655fafb2e09699"
+    "revision": "4912b6ceb96e8e033b2b54395a11046a"
   },
   {
     "url": "_assets/css/materialize.min.css",

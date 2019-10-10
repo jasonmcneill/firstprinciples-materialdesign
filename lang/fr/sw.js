@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "_assets/css/light-darkness.css",
-    "revision": "bfdf5556f367e41dcd655fafb2e09699"
+    "revision": "13eb06d6a71ffac00822a3b462350557"
   },
   {
     "url": "_assets/css/materialize.min.css",
@@ -271,7 +271,7 @@ self.__precacheManifest = [
   },
   {
     "url": "light-darkness/logic.js",
-    "revision": "4dfe6722e4feb37bc7cddc9f32ed70bf"
+    "revision": "2c2a7895f8e0af9132a4fa1067d156db"
   },
   {
     "url": "manifest.json",
