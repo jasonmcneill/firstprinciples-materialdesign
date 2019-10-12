@@ -211,7 +211,7 @@ self.__precacheManifest = [
   },
   {
     "url": "course-information/index.html",
-    "revision": "0cc6a222740fc3db6d2e55b0160c891d"
+    "revision": "74b085c7f398fe72323f2404bd4978bd"
   },
   {
     "url": "course-information/logic.js",
