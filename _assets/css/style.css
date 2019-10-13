@@ -316,8 +316,6 @@ ul.showdiscs li {
   padding-left: 5px;
 }
 
-#install-button {
-  margin: .85rem .55rem;
-  float: right;
-  position: relative; 
+#install-button-container {
+  margin-bottom: 50px;
 }

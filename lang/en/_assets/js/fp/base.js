@@ -45,6 +45,32 @@ fp.loadKeys = async fromKey => {
   });
 };
 
+fp.showFooter = (key, lang) => {
+  const urlPrefix = fp.getPath(key, lang);
+  const urlContent = urlPrefix + 'global/footer/content.xml';
+  const urlLogic = urlPrefix + 'global/footer/logic.js';
+  $.ajax({
+    url: urlContent,
+    error: err => {
+      console.error(err);
+    },
+    success: content => {
+      fp.view.footer = content;
+      $.ajax({
+        url: urlLogic,
+        dataType: 'script',
+        cache: true,
+        error: err => {
+          console.error(err);
+        },
+        success: parsedFooter => {
+          $('page-footer').html(parsedFooter);
+        }
+      });
+    }
+  });
+};
+
 fp.showContent = (key, lang, selector) => {
   if (! selector) selector = '.fp_pagecontent';
   let urlPrefix = fp.getPath(key, lang);
@@ -287,5 +313,6 @@ fp.init = async fromKey => {
   fp.language.global.setAppTitle(fromKey, fp.language.current);
   fp.language.global.setExpandButton(fromKey, fp.language.current);
   await fp.showContent(fromKey, fp.language.current);
+  await fp.showFooter(fromKey, fp.language.current);
   fp.events.listeners.attach();
 };
