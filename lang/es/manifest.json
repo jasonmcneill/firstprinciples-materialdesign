@@ -3,8 +3,8 @@
   "short_name": "Principios Básicos",
   "theme_color": "#0d47a1",
   "background_color": "#333333",
-  "display": "minimal-ui",
-  "start_url": "./?source=pwa",
+  "display": "browser",
+  "start_url": "./",
   "icons": [
     {
       "src": "_assets/img/icons/launch/normal/manifest-icon-512.png",
