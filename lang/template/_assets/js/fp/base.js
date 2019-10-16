@@ -45,6 +45,32 @@ fp.loadKeys = async fromKey => {
   });
 };
 
+fp.showFooter = (key, lang) => {
+  const urlPrefix = fp.getPath(key, lang);
+  const urlContent = urlPrefix + 'global/footer/content.xml';
+  const urlLogic = urlPrefix + 'global/footer/logic.js';
+  $.ajax({
+    url: urlContent,
+    error: err => {
+      console.error(err);
+    },
+    success: content => {
+      fp.view.footer = content;
+      $.ajax({
+        url: urlLogic,
+        dataType: 'script',
+        cache: true,
+        error: err => {
+          console.error(err);
+        },
+        success: parsedFooter => {
+          $('page-footer').html(parsedFooter).removeClass('hide');
+        }
+      });
+    }
+  });
+};
+
 fp.showContent = (key, lang, selector) => {
   if (! selector) selector = '.fp_pagecontent';
   let urlPrefix = fp.getPath(key, lang);
@@ -73,8 +99,8 @@ fp.showContent = (key, lang, selector) => {
           console.error(err);
         },
         success: () => {
+          fp.showFooter(fp.view.key, fp.language.current);
           if (fp.view.key === 'light-darkness') {
-            console.log('Fixing "buried" graphic for light/darkness study');
             setTimeout(() => {
               $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
             }, 500);

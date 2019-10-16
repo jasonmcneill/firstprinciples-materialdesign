@@ -64,7 +64,7 @@ fp.showFooter = (key, lang) => {
           console.error(err);
         },
         success: parsedFooter => {
-          $('page-footer').html(parsedFooter);
+          $('.page-footer').html(parsedFooter).removeClass('hide');
         }
       });
     }
@@ -99,8 +99,8 @@ fp.showContent = (key, lang, selector) => {
           console.error(err);
         },
         success: () => {
+          fp.showFooter(fp.view.key, fp.language.current);
           if (fp.view.key === 'light-darkness') {
-            console.log('Fixing "buried" graphic for light/darkness study');
             setTimeout(() => {
               $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
             }, 500);
@@ -313,6 +313,5 @@ fp.init = async fromKey => {
   fp.language.global.setAppTitle(fromKey, fp.language.current);
   fp.language.global.setExpandButton(fromKey, fp.language.current);
   await fp.showContent(fromKey, fp.language.current);
-  await fp.showFooter(fromKey, fp.language.current);
   fp.events.listeners.attach();
 };

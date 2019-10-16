@@ -117,6 +117,8 @@
     </div>
 
 
+    <footer class="page-footer blue darken-3 hide"></footer>
+
     <!--  Scripts -->
     <script src="../_assets/js/jquery-2.1.1.min.js"></script>
     <script src="../_assets/js/localforage.min.js"></script>
@@ -125,7 +127,7 @@
     <script src="../_assets/js/fp/language.js"></script>
     <script src="../_assets/js/fp/scripture.js"></script>
     <script>
-      /*if ('serviceWorker' in navigator) {
+      if ('serviceWorker' in navigator) {
         let installPromptEvent;
         window.addEventListener('beforeinstallprompt', (event) => {
           event.preventDefault();
@@ -137,7 +139,7 @@
         }).catch(error => {
           console.error('Error in registering First Principles service worker:', error);
         });
-      }*/
+      }
       fp.init('the-word');
       M.AutoInit();
     </script>
