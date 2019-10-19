@@ -314,7 +314,7 @@ fp.enableInstall = () => {
     e.preventDefault();
     fp.installPromptEvent = event;
     if (isMobileDevice) {
-      $('#install-button-container').fadeIn();
+      $('#install-button-container').show();
     }
   });
 
@@ -327,7 +327,7 @@ fp.onInstall = () => {
   window.addEventListener('appinstalled', (evt) => {
     const installDate = new Date().toJSON();
     localStorage.setItem('installDate', installDate);
-    $('#install-button-container').fadeOut();
+    $('#install-button-container').hide();
   });
 }
 
