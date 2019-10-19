@@ -300,22 +300,25 @@ fp.xml2Str = xmlNode => {
 };
 
 fp.enableInstall = () => {
-  fp.installPromptEvent = null;
-  window.addEventListener('beforeinstallprompt', (event) => {
-    event.preventDefault();
+  const installDateStored = localStorage.getItem('installDate');
+  if (!!installDateStored) document.querySelector('#install-button-container').classList.add('hide');
+  window.addEventListener('beforeinstallprompt', e => {
+    e.preventDefault();
     fp.installPromptEvent = event;
+  });
+  document.querySelector('#install-button').addEventListener('click', () => {
+    console.log('Adding to home screen...');
+    if (!! fp.installPromptEvent) fp.installPromptEvent.prompt();
   });
 }
 
 fp.onInstall = () => {
   window.addEventListener('appinstalled', (evt) => {
-
-  })
-}
-
-fp.install = () => {
-  // TODO
-  console.log("Installing...");
+    const installDate = new Date().toJSON();
+    localStorage.setItem('installDate', installDate);
+    document.querySelector('#install-button-container').classList.add('hide');
+    console.log('Added to home screen');
+  });
 }
 
 fp.registerServiceWorker = fromKey => {
