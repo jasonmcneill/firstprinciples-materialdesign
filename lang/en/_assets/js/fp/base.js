@@ -63,8 +63,8 @@ fp.showFooter = (key, lang) => {
         error: err => {
           console.error(err);
         },
-        success: parsedFooter => {
-          $('.page-footer').html(parsedFooter).removeClass('hide');
+        success: () => {
+          $('.page-footer').removeClass('hide');
         }
       });
     }

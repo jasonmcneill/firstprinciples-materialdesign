@@ -35,7 +35,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/css/style.css",
-    "revision": "8617be871f840fe7c844c9e95b9f5d1d"
+    "revision": "995f51bda3d0ec3296f950b7c0055bcc"
   },
   {
     "url": "_assets/css/the-church.css",
@@ -111,7 +111,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/js/fp/base.js",
-    "revision": "832695f0008a5508363ebd49960ca4a5"
+    "revision": "816a13f85e2bdcca9d106189cca4ca6a"
   },
   {
     "url": "_assets/js/fp/language.js",
@@ -139,7 +139,7 @@ self.__precacheManifest = [
   },
   {
     "url": "after-baptism-now-what/index.html",
-    "revision": "4986ab1da3a3da885790880f08ab50c0"
+    "revision": "6cf60d58e3f81a26e3a8fd5c345cfddf"
   },
   {
     "url": "after-baptism-now-what/logic.js",
@@ -151,7 +151,7 @@ self.__precacheManifest = [
   },
   {
     "url": "baptism-holy-spirit/index.html",
-    "revision": "f0acf1d87e6a84da83500315bc305455"
+    "revision": "3f822cc715fa318a39fe8657f9a29b5a"
   },
   {
     "url": "baptism-holy-spirit/logic.js",
@@ -163,7 +163,7 @@ self.__precacheManifest = [
   },
   {
     "url": "best-friends-all-time/index.html",
-    "revision": "22538eb2a8f283e252cec0b499c74798"
+    "revision": "da549ba9cbd7af9ffb782bcb4d45bfac"
   },
   {
     "url": "best-friends-all-time/logic.js",
@@ -175,7 +175,7 @@ self.__precacheManifest = [
   },
   {
     "url": "book-of-acts/index.html",
-    "revision": "6b31c5c477311ccd6d0d24f8acfcd6e0"
+    "revision": "c3932a311cd91a5943760db4ea5e439a"
   },
   {
     "url": "book-of-acts/logic.js",
@@ -187,7 +187,7 @@ self.__precacheManifest = [
   },
   {
     "url": "book-of-john/index.html",
-    "revision": "e9e131c814b79b025ee37d7dfb0c0875"
+    "revision": "13b0a732bcaa497b5b7a911b58e79984"
   },
   {
     "url": "book-of-john/logic.js",
@@ -199,7 +199,7 @@ self.__precacheManifest = [
   },
   {
     "url": "christ-is-your-life/index.html",
-    "revision": "96ae12c014a07df4287c56578900c1c5"
+    "revision": "4981f483fb65d916492259dcb3834613"
   },
   {
     "url": "christ-is-your-life/logic.js",
@@ -211,7 +211,7 @@ self.__precacheManifest = [
   },
   {
     "url": "course-information/index.html",
-    "revision": "7b5636d4a81276ad7aeb266bfe64896c"
+    "revision": "aee9ac98a9c4af1f344f5f69a0c48f73"
   },
   {
     "url": "course-information/logic.js",
@@ -231,7 +231,7 @@ self.__precacheManifest = [
   },
   {
     "url": "discipleship/index.html",
-    "revision": "20e9adc55cad50b72257e16d94430722"
+    "revision": "6926abd0cacf9917bc4ab83cc7f1059b"
   },
   {
     "url": "discipleship/logic.js",
@@ -239,11 +239,19 @@ self.__precacheManifest = [
   },
   {
     "url": "global/content.xml",
-    "revision": "0a090a75c22c0cc7638b16e2f6163799"
+    "revision": "b566d92e9257be04bb6bd3d8cc063cc4"
+  },
+  {
+    "url": "global/footer/content.xml",
+    "revision": "cae650b5f1c56ffedc4eff9ace34ee7d"
+  },
+  {
+    "url": "global/footer/logic.js",
+    "revision": "a35c296a1ea52f5126f6726b5c4c2e45"
   },
   {
     "url": "index.html",
-    "revision": "d57d52b9dba7f63d649e795311127961"
+    "revision": "cf07aff84dcce1dfe96cc924378272a4"
   },
   {
     "url": "introduction/content.xml",
@@ -251,7 +259,7 @@ self.__precacheManifest = [
   },
   {
     "url": "introduction/index.html",
-    "revision": "b676c0c006bdbce330a4624522d5ca5e"
+    "revision": "8335f69e5f3a412641fd7cc1db5dc9ed"
   },
   {
     "url": "introduction/logic.js",
@@ -267,7 +275,7 @@ self.__precacheManifest = [
   },
   {
     "url": "light-darkness/index.html",
-    "revision": "bbcbff1a58f4bec1e21c418265b925dc"
+    "revision": "33d6464f44411c7faf3a5301b78d716b"
   },
   {
     "url": "light-darkness/logic.js",
@@ -275,7 +283,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "58f88006844d184d3d367f4d6f5501e0"
+    "revision": "59f5c0f59a83e3ca33cd108f7022af15"
   },
   {
     "url": "medical-account/content.xml",
@@ -283,7 +291,7 @@ self.__precacheManifest = [
   },
   {
     "url": "medical-account/index.html",
-    "revision": "437e10c6ad795e004b4386cf1540e48b"
+    "revision": "85b7612dc826b9c50e55d2a110403457"
   },
   {
     "url": "medical-account/logic.js",
@@ -295,7 +303,7 @@ self.__precacheManifest = [
   },
   {
     "url": "memory-scriptures/index.html",
-    "revision": "5c08e532ffd9da08f732c0d4f5bf9753"
+    "revision": "8f4107bd1ef77f5e4968da18f6cb49d0"
   },
   {
     "url": "memory-scriptures/logic.js",
@@ -307,7 +315,7 @@ self.__precacheManifest = [
   },
   {
     "url": "miraculous-gifts-holy-spirit/index.html",
-    "revision": "c6d232d7287306a88fcbd8bbc895c23c"
+    "revision": "ca3daa03fefa5292d3647a56809e13cb"
   },
   {
     "url": "miraculous-gifts-holy-spirit/logic.js",
@@ -319,7 +327,7 @@ self.__precacheManifest = [
   },
   {
     "url": "new-testament-conversion/index.html",
-    "revision": "4b7d19921350d129de12f3b556339b4a"
+    "revision": "e5b6f40007f474c0c726a9b7f3b3ccae"
   },
   {
     "url": "new-testament-conversion/logic.js",
@@ -331,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "persecution/index.html",
-    "revision": "ce06fa26f83f50c2289e6140693c158f"
+    "revision": "f24f54a90155ff199bb38e19172e87ea"
   },
   {
     "url": "persecution/logic.js",
@@ -1251,7 +1259,7 @@ self.__precacheManifest = [
   },
   {
     "url": "seeking-god/index.html",
-    "revision": "8d3c5c3c089600d217a211b7306ae15d"
+    "revision": "fc4256f36a1cfc3578bc4755da35c523"
   },
   {
     "url": "seeking-god/logic.js",
@@ -1263,7 +1271,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-church/index.html",
-    "revision": "2c53dc50861a44d2657c2005be518f2f"
+    "revision": "f82acc8908c4ed45ffe39f60e2fa77e6"
   },
   {
     "url": "the-church/logic.js",
@@ -1275,7 +1283,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-cross/index.html",
-    "revision": "64b45895e6a8b7471acb862753f9a0f3"
+    "revision": "63a52026311ca87615c8fdbb211d7d99"
   },
   {
     "url": "the-cross/logic.js",
@@ -1287,7 +1295,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-kingdom/index.html",
-    "revision": "831120646a6f8d003ffd60f2f8452062"
+    "revision": "ac92fa01d5f7dfa5c3346f16b826bf7f"
   },
   {
     "url": "the-kingdom/logic.js",
@@ -1299,7 +1307,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-mission/index.html",
-    "revision": "518dc796cbf6ed4af43306e71dc2ccb7"
+    "revision": "218d6fec33d4fcdec7401de0e194dfba"
   },
   {
     "url": "the-mission/logic.js",
