@@ -258,6 +258,7 @@ ul.showdiscs li {
 }
 
 #install-button-container {
+  display: none;
   margin-top: 50px;
   margin-bottom: 50px;
 }

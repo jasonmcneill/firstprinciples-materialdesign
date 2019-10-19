@@ -309,14 +309,14 @@ fp.isMobileDevice = () => {
 
 fp.enableInstall = () => {
   const isMobileDevice = fp.isMobileDevice();
-  document.querySelector('#install-button-container').classList.add('hide');
+
   window.addEventListener('beforeinstallprompt', e => {
     e.preventDefault();
     fp.installPromptEvent = event;
-    if (isMobileDevice) document.querySelector('#install-button-container').classList.remove("hide");
+    if (isMobileDevice) {
+      $('#install-button-container').fadeIn();
+    }
   });
-  const installDateStored = localStorage.getItem('installDate');
-  if (!!installDateStored) document.querySelector('#install-button-container').classList.add('hide');
 
   document.querySelector('#install-button').addEventListener('click', () => {
     if (!! fp.installPromptEvent) fp.installPromptEvent.prompt();
@@ -327,8 +327,7 @@ fp.onInstall = () => {
   window.addEventListener('appinstalled', (evt) => {
     const installDate = new Date().toJSON();
     localStorage.setItem('installDate', installDate);
-    document.querySelector('#install-button-container').classList.add('hide');
-    console.log('Added to home screen');
+    $('#install-button-container').fadeOut();
   });
 }
 
