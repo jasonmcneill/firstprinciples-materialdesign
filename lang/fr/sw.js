@@ -243,7 +243,7 @@ self.__precacheManifest = [
   },
   {
     "url": "global/footer/content.xml",
-    "revision": "cae650b5f1c56ffedc4eff9ace34ee7d"
+    "revision": "89ca9f7bb9cf2dc84edecdd4de6a0e79"
   },
   {
     "url": "global/footer/logic.js",
