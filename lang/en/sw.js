@@ -35,7 +35,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/css/style.css",
-    "revision": "e1016988c863cf27bdf4830d9edd8f71"
+    "revision": "55a8d8b54d6d7bcf7235d9572835a4ae"
   },
   {
     "url": "_assets/css/the-church.css",
