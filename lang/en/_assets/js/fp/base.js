@@ -49,25 +49,29 @@ fp.showFooter = (key, lang) => {
   const urlPrefix = fp.getPath(key, lang);
   const urlContent = urlPrefix + 'global/footer/content.xml';
   const urlLogic = urlPrefix + 'global/footer/logic.js';
-  $.ajax({
-    url: urlContent,
-    error: err => {
-      console.error(err);
-    },
-    success: content => {
-      fp.view.footer = content;
-      $.ajax({
-        url: urlLogic,
-        dataType: 'script',
-        cache: true,
-        error: err => {
-          console.error(err);
-        },
-        success: () => {
-          $('.page-footer').removeClass('hide');
-        }
-      });
-    }
+  return new Promise((resolve, reject) => {
+    $.ajax({
+      url: urlContent,
+      error: err => {
+        console.error(err);
+        reject(error);
+      },
+      success: content => {
+        fp.view.footer = content;
+        $.ajax({
+          url: urlLogic,
+          dataType: 'script',
+          cache: true,
+          error: err => {
+            console.error(err);
+          },
+          success: () => {
+            $('.page-footer').removeClass('hide');
+            resolve();
+          }
+        });
+      }
+    });  
   });
 };
 
@@ -99,15 +103,15 @@ fp.showContent = (key, lang, selector) => {
           console.error(err);
         },
         success: () => {
-          fp.showFooter(fp.view.key, fp.language.current);
-          fp.enableInstall();
-          fp.onInstall();
+          fp.showFooter(fp.view.key, fp.language.current).then(() => {
+            fp.enableInstall();
+            fp.onInstall();
+          });
           if (fp.view.key === 'light-darkness') {
             setTimeout(() => {
               $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
             }, 500);
           }
-          // fp.scripture.preloadScripturesOnPage();
         }
       });
     }
@@ -299,15 +303,22 @@ fp.xml2Str = xmlNode => {
   return false;
 };
 
+fp.isMobileDevice = () => {
+  return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
+};
+
 fp.enableInstall = () => {
-  const installDateStored = localStorage.getItem('installDate');
-  if (!!installDateStored) document.querySelector('#install-button-container').classList.add('hide');
+  const isMobileDevice = fp.isMobileDevice();
+  document.querySelector('#install-button-container').classList.add('hide');
   window.addEventListener('beforeinstallprompt', e => {
     e.preventDefault();
     fp.installPromptEvent = event;
+    if (isMobileDevice) document.querySelector('#install-button-container').classList.remove("hide");
   });
+  const installDateStored = localStorage.getItem('installDate');
+  if (!!installDateStored) document.querySelector('#install-button-container').classList.add('hide');
+
   document.querySelector('#install-button').addEventListener('click', () => {
-    console.log('Adding to home screen...');
     if (!! fp.installPromptEvent) fp.installPromptEvent.prompt();
   });
 }
