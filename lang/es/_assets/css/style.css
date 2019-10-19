@@ -227,7 +227,7 @@ blockquote {
 }
 
 .page-footer {
-  padding-top: 20px;
+  padding-top: 10px;
   padding-bottom: 10px;
 }
 
@@ -258,6 +258,7 @@ ul.showdiscs li {
 }
 
 #install-button-container {
-  margin-top: 40px;
+  display: none;
+  margin-top: 50px;
   margin-bottom: 50px;
 }
