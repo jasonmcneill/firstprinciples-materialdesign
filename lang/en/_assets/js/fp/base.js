@@ -177,7 +177,7 @@ fp.phrase = phraseObj => {
       }
     }
     if (href.length > 0) {
-      changeHTMLAfter = '<a href="' + href + '">' + changeHTMLAfter + '</a>';
+      changeHTMLAfter = '<a href="' + href + '" target="_blank" rel="noreferrer">' + changeHTMLAfter + '</a>';
     }
     phraseHTML = phraseHTML.replace(changeHTMLBefore, changeHTMLAfter);
   }

@@ -111,7 +111,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/js/fp/base.js",
-    "revision": "4ef9d491d8c6ce5edc69eb9d467212b0"
+    "revision": "4f3d0b4bb08b5a664116d77ce53b7802"
   },
   {
     "url": "_assets/js/fp/language.js",
@@ -119,7 +119,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/js/fp/scripture.js",
-    "revision": "0c916f4c17151ddb8c4a075ff28e12da"
+    "revision": "33f326673a71791f42f06eb412649314"
   },
   {
     "url": "_assets/js/jquery-2.1.1.min.js",
