@@ -111,7 +111,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/js/fp/base.js",
-    "revision": "8066f397b66e99dbfa9ed33583237c65"
+    "revision": "390e2f9c8a412b91649746f1280284ca"
   },
   {
     "url": "_assets/js/fp/language.js",
@@ -283,7 +283,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "39fc1c65cf35bad0fed8afd97bbc55b8"
+    "revision": "acb84b1100199eb95995f4aa534e948c"
   },
   {
     "url": "medical-account/content.xml",

@@ -100,6 +100,8 @@ fp.showContent = (key, lang, selector) => {
         },
         success: () => {
           fp.showFooter(fp.view.key, fp.language.current);
+          fp.enableInstall();
+          fp.onInstall();
           if (fp.view.key === 'light-darkness') {
             setTimeout(() => {
               $('.light-darkness_baptism-earth').first().css('height', $('.light-darkness_baptism-water').first().outerHeight());
@@ -275,8 +277,6 @@ fp.events = {
     attach: function() {
       fp.scripture.onScriptureClicked();
       fp.scripture.onScriptureExpandButtonClicked();
-      fp.enableInstall();
-      fp.onInstall();
     }
   }
 };
