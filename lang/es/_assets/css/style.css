@@ -1,4 +1,4 @@
- body,
+body,
  #scriptureModal,
  .collection .collection-item {
   background-color: #efefef;
@@ -226,6 +226,11 @@ blockquote {
   position: absolute;
 }
 
+.page-footer {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
 table.firstColNoWrap td:nth-child(1) {
   white-space: nowrap;
   vertical-align: top;
@@ -247,12 +252,12 @@ ul.showdiscs li {
   padding-left: 5px;
 }
 
-#install-button-container {
-  margin-bottom: 50px;
-}
-
 .fpmodule_footer {
+  margin-top: 0;
   margin-bottom: 0;
 }
 
-#install-button {}
+#install-button-container {
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
