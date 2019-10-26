@@ -295,7 +295,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "c39e9e991391a3bb24f9940dd126cc25"
+    "revision": "650c8d9e24baddf127a859b24bfef16a"
   },
   {
     "url": "medical-account/content.xml",
