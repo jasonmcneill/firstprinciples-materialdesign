@@ -111,11 +111,15 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/img/icons/launch/normal/manifest-icon-192.png",
-    "revision": "986946589f29ad5bcb50247cf6450038"
+    "revision": "8bc3fa9dab3bb57b1fa9d708ac33dda0"
+  },
+  {
+    "url": "_assets/img/icons/launch/normal/manifest-icon-384.png",
+    "revision": "13845a42ab502339b91a68f7db3b139c"
   },
   {
     "url": "_assets/img/icons/launch/normal/manifest-icon-512.png",
-    "revision": "17f86fa4f1bcbd0b0df452155e666de2"
+    "revision": "fad6e501867a29b8b459b2f96c5c6ad8"
   },
   {
     "url": "_assets/js/fp/base.js",
