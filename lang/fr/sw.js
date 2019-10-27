@@ -151,7 +151,7 @@ self.__precacheManifest = [
   },
   {
     "url": "after-baptism-now-what/index.html",
-    "revision": "d4d03d1f09dd2fae5106c49cd1b53096"
+    "revision": "8586aac2a3cb5e1bfabe3cce9c22c0b0"
   },
   {
     "url": "after-baptism-now-what/logic.js",
@@ -163,7 +163,7 @@ self.__precacheManifest = [
   },
   {
     "url": "baptism-holy-spirit/index.html",
-    "revision": "c4d1e710b0a05466fd4bfb1d9c6a8e44"
+    "revision": "50f8f9f22996f914c896f193d32804d1"
   },
   {
     "url": "baptism-holy-spirit/logic.js",
@@ -175,7 +175,7 @@ self.__precacheManifest = [
   },
   {
     "url": "best-friends-all-time/index.html",
-    "revision": "5341fc9a1cdbab4e2ac17fe0126e010b"
+    "revision": "4fa50c54d6d7610b643cbbf04c49fdae"
   },
   {
     "url": "best-friends-all-time/logic.js",
@@ -187,7 +187,7 @@ self.__precacheManifest = [
   },
   {
     "url": "book-of-acts/index.html",
-    "revision": "48036bcefe475b625191e020c6529ed3"
+    "revision": "01c3910aa4afebdfb6b4f98cd47b57db"
   },
   {
     "url": "book-of-acts/logic.js",
@@ -199,7 +199,7 @@ self.__precacheManifest = [
   },
   {
     "url": "book-of-john/index.html",
-    "revision": "fa642c1695edc45733a0d557a8d72356"
+    "revision": "c34c19cbf7458a5c9265da398f3d0e37"
   },
   {
     "url": "book-of-john/logic.js",
@@ -211,7 +211,7 @@ self.__precacheManifest = [
   },
   {
     "url": "christ-is-your-life/index.html",
-    "revision": "c0c2f3f3c6c00c0357dba8fd12a6bb2e"
+    "revision": "ec098db87991249e0f9c776f4b891beb"
   },
   {
     "url": "christ-is-your-life/logic.js",
@@ -223,7 +223,7 @@ self.__precacheManifest = [
   },
   {
     "url": "course-information/index.html",
-    "revision": "b0e35e9b6dd6cf7b8b63d7543ecb370f"
+    "revision": "fc7ebe4c65014ff03129543076f9c7dc"
   },
   {
     "url": "course-information/logic.js",
@@ -243,7 +243,7 @@ self.__precacheManifest = [
   },
   {
     "url": "discipleship/index.html",
-    "revision": "e7bdf62e9ff106f35482e7b044add0a3"
+    "revision": "3893bda897f79997b664d5dc35af23fc"
   },
   {
     "url": "discipleship/logic.js",
@@ -263,7 +263,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "d0079c064846034a747f977956ddeaf1"
+    "revision": "8908339028b5976132c58b15a4b1af5e"
   },
   {
     "url": "introduction/content.xml",
@@ -271,7 +271,7 @@ self.__precacheManifest = [
   },
   {
     "url": "introduction/index.html",
-    "revision": "fd14203828a437ecc396c90dc3c4d7be"
+    "revision": "131f763b41dd1fa0dd9acffa751962f1"
   },
   {
     "url": "introduction/logic.js",
@@ -287,7 +287,7 @@ self.__precacheManifest = [
   },
   {
     "url": "light-darkness/index.html",
-    "revision": "af969c4265152328e014c5a75325239a"
+    "revision": "4846a2ef1df0f7fe7483acab081936de"
   },
   {
     "url": "light-darkness/logic.js",
@@ -295,7 +295,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "981aff40237b9449960c2b597d92e956"
+    "revision": "b117830a30747dd73264a0a2c31a6a91"
   },
   {
     "url": "medical-account/content.xml",
@@ -303,7 +303,7 @@ self.__precacheManifest = [
   },
   {
     "url": "medical-account/index.html",
-    "revision": "8d05aeed819d2886a47c2a9c163b23a8"
+    "revision": "a59337b90f90e5edf0ebbb5ccb96a155"
   },
   {
     "url": "medical-account/logic.js",
@@ -315,7 +315,7 @@ self.__precacheManifest = [
   },
   {
     "url": "memory-scriptures/index.html",
-    "revision": "c54bd44b9f26f006d501aa14a37a44f7"
+    "revision": "2cce73841793d95477164feb353dd8e8"
   },
   {
     "url": "memory-scriptures/logic.js",
@@ -327,7 +327,7 @@ self.__precacheManifest = [
   },
   {
     "url": "miraculous-gifts-holy-spirit/index.html",
-    "revision": "a599324603f2eaaa1e9a751d5596aec2"
+    "revision": "513a7683ae3c624870119ad8b869f6d7"
   },
   {
     "url": "miraculous-gifts-holy-spirit/logic.js",
@@ -339,7 +339,7 @@ self.__precacheManifest = [
   },
   {
     "url": "new-testament-conversion/index.html",
-    "revision": "9c15fa00e10da257545c20fcfae30f69"
+    "revision": "ca9a6c704c044a58a586ffbd4a4c5733"
   },
   {
     "url": "new-testament-conversion/logic.js",
@@ -351,7 +351,7 @@ self.__precacheManifest = [
   },
   {
     "url": "persecution/index.html",
-    "revision": "c9c5df6382c5393dc97046e2bf290e61"
+    "revision": "1be58d2b668aa3470610f8d0841862f2"
   },
   {
     "url": "persecution/logic.js",
@@ -1271,7 +1271,7 @@ self.__precacheManifest = [
   },
   {
     "url": "seeking-god/index.html",
-    "revision": "b1c6721bb2af3f6491d49f34580d0bb7"
+    "revision": "e2faf51b8064d0ece336e299f90ce9f2"
   },
   {
     "url": "seeking-god/logic.js",
@@ -1283,7 +1283,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-church/index.html",
-    "revision": "50b7c2654b1edf600ccb846835be75e3"
+    "revision": "90324e11046f73a29beb1cd1d632f5c6"
   },
   {
     "url": "the-church/logic.js",
@@ -1295,7 +1295,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-cross/index.html",
-    "revision": "71ec0dca173b3eebc81077caf4aa27e9"
+    "revision": "921f8bc27c0af09c5fc9bed1f2c238e0"
   },
   {
     "url": "the-cross/logic.js",
@@ -1307,7 +1307,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-kingdom/index.html",
-    "revision": "bc171064a4cbec5266191f6adca24b07"
+    "revision": "5a350bf9da14dcfb66ac9692b7045bbe"
   },
   {
     "url": "the-kingdom/logic.js",
@@ -1319,7 +1319,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-mission/index.html",
-    "revision": "cc68fef8016e381bae8e3cfefa7f2c94"
+    "revision": "944b0585f33ff40f60b445ff381605c5"
   },
   {
     "url": "the-mission/logic.js",
@@ -1331,7 +1331,7 @@ self.__precacheManifest = [
   },
   {
     "url": "the-word/index.html",
-    "revision": "8db2b443b50a9822b67c59cbf1e199e5"
+    "revision": "507c3568dc6aaf5c36de40b98bfc951e"
   },
   {
     "url": "the-word/logic.js",
