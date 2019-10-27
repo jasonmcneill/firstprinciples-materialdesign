@@ -62,35 +62,35 @@ self.__precacheManifest = [
     "revision": "e6306fcce46e83649d86e4726ad73dc7"
   },
   {
-    "url": "_assets/img/icons/launch/adaptive/icon-128x128.png",
+    "url": "_assets/img/icons/launch/maskable/icon-128x128.png",
     "revision": "6f42067836c2915c4769069cb873bbf8"
   },
   {
-    "url": "_assets/img/icons/launch/adaptive/icon-144x144.png",
+    "url": "_assets/img/icons/launch/maskable/icon-144x144.png",
     "revision": "319d1863b59dbff63b18115556ad2481"
   },
   {
-    "url": "_assets/img/icons/launch/adaptive/icon-152x152.png",
+    "url": "_assets/img/icons/launch/maskable/icon-152x152.png",
     "revision": "702baadd3f55cbeb400b045744b906df"
   },
   {
-    "url": "_assets/img/icons/launch/adaptive/icon-192x192.png",
+    "url": "_assets/img/icons/launch/maskable/icon-192x192.png",
     "revision": "eab2d392f742a6163ff7a639332eb0a7"
   },
   {
-    "url": "_assets/img/icons/launch/adaptive/icon-384x384.png",
+    "url": "_assets/img/icons/launch/maskable/icon-384x384.png",
     "revision": "d2a3ffa66e63aa39bd926d397c98b72f"
   },
   {
-    "url": "_assets/img/icons/launch/adaptive/icon-512x512.png",
+    "url": "_assets/img/icons/launch/maskable/icon-512x512.png",
     "revision": "1e5cbe66b29622b12d77c2bad03586ec"
   },
   {
-    "url": "_assets/img/icons/launch/adaptive/icon-72x72.png",
+    "url": "_assets/img/icons/launch/maskable/icon-72x72.png",
     "revision": "9c448f4ec994471d8bd0b601e2c0d001"
   },
   {
-    "url": "_assets/img/icons/launch/adaptive/icon-96x96.png",
+    "url": "_assets/img/icons/launch/maskable/icon-96x96.png",
     "revision": "6923a8da3063fffdc7441e5c693b41df"
   },
   {
@@ -295,7 +295,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.json",
-    "revision": "650c8d9e24baddf127a859b24bfef16a"
+    "revision": "7d4e9a04c2152087eadbfffc028896b4"
   },
   {
     "url": "medical-account/content.xml",
