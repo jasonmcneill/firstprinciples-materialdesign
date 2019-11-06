@@ -246,10 +246,12 @@ fp.media = mediaObj => {
 fp.onShare = () => {
   document.querySelector('.shareicon').addEventListener('click', e => {
     e.preventDefault();
+    const appTitle = document.querySelector('title').innerText;
+    const appURL = document.URL;
     if (navigator.share) {
       navigator.share({
-        title: 'First Principles',
-        url: 'https://firstprinciples.mobi',
+        title: appTitle,
+        url: appURL,
     })
       .then(() => console.log('Successful share'))
       .catch((error) => console.log('Error sharing', error));
