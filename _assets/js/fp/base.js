@@ -243,11 +243,26 @@ fp.media = mediaObj => {
   return mediaHTML;
 };
 
+fp.onShare = () => {
+  document.querySelector('.shareicon').addEventListener('click', e => {
+    e.preventDefault();
+    if (navigator.share) {
+      navigator.share({
+        title: 'First Principles',
+        url: 'https://firstprinciples.mobi',
+    })
+      .then(() => console.log('Successful share'))
+      .catch((error) => console.log('Error sharing', error));
+    }
+  });
+};
+
 fp.events = {
   listeners: {
     attach: function() {
       fp.scripture.onScriptureClicked();
       fp.scripture.onScriptureExpandButtonClicked();
+      fp.onShare();
     }
   }
 };
