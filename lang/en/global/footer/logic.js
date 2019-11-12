@@ -43,7 +43,7 @@
   if (navigator.share) shareButtonContainer.style.display = 'block';
 
   function share() {
-    if (! navigator.share) return alert('Cannot share using this browser.');
+    if (! navigator.share) return console.error('Cannot share using this browser.');
     navigator.share({
           url: 'https://firstprinciples.mobi',
           text: 'First Principles',
