@@ -17,7 +17,7 @@
             </button>
           </p>
 
-          <p align="center" id="share-button-container">
+          <p align="center" id="share-button-container" style="display: none">
             <button id="share-button" class="waves-effect waves-light btn light-blue darken-1">
               <i class="fas fa-share-alt"></i>
               &nbsp;
@@ -35,7 +35,12 @@
     </div>
   `;
 
+  $('footer').html(html);
+
   const shareButton = document.querySelector('#share-button');
+  const shareButtonContainer = document.querySelector('#share-button-container');
+  
+  if (navigator.share) shareButtonContainer.style.display = 'block';
 
   function share() {
     if (! navigator.share) return alert('Cannot share using this browser.');
@@ -48,5 +53,4 @@
 
   shareButton.addEventListener('click', share, false);
 
-  $('footer').html(html);
 })();
