@@ -244,19 +244,21 @@ fp.media = mediaObj => {
 };
 
 fp.onShare = () => {
-  document.querySelector('.shareicon').addEventListener('click', e => {
-    e.preventDefault();
-    const appTitle = document.querySelector('title').innerText;
-    const appURL = document.URL;
-    if (navigator.share) {
-      navigator.share({
+  const shareIconContainer = document.querySelector('#shareicon-container')
+  const shareIcon = document.querySelector('#shareicon');
+  const appTitle = document.querySelector('title').innerText;
+  const appURL = document.URL;
+  if (navigator.share) {
+    shareIconContainer.classList.remove('hide');
+    shareIcon.addEventListener('click', e => {
+      const shareObj = {
         title: appTitle,
-        url: appURL,
+        text: shareObj + '\n\n',
+        url: appURL
+      };
+      navigator.share(shareObj).catch(error => console.log('Error sharing', error));
     })
-      .then(() => console.log('Successful share'))
-      .catch((error) => console.log('Error sharing', error));
-    }
-  });
+  }
 };
 
 fp.events = {

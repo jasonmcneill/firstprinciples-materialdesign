@@ -7,7 +7,6 @@
     "email": "vrtjason@gmail.com"
   },
   "scripts": {
-    "cors": true,
     "start": "browser-sync --start --no-notify"
   },
   "devDependencies": {

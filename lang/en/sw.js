@@ -219,19 +219,19 @@ self.__precacheManifest = [
   },
   {
     "url": "global/content.xml",
-    "revision": "35ef70190c2fde29eafcce1c287734cf"
+    "revision": "5a5aa61f52121de2fc94b8081ae0b4d1"
   },
   {
     "url": "global/footer/content.xml",
-    "revision": "58c294435d722b2e0724eaf5ba01f606"
+    "revision": "191a9aae5bb2296cdc631f2cca3bd184"
   },
   {
     "url": "global/footer/logic.js",
-    "revision": "a35c296a1ea52f5126f6726b5c4c2e45"
+    "revision": "494436a8a503da72cdec1b1d61fb4c08"
   },
   {
     "url": "index.html",
-    "revision": "80828068d936a4834df4c48c175572ff"
+    "revision": "fc519c562f26417eb00273badb9c7d1c"
   },
   {
     "url": "introduction/content.xml",
