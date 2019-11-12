@@ -17,11 +17,11 @@
             </button>
           </p>
 
-          <p align="center" id="shareicon-container">
-            <button id="shareicon" class="waves-effect waves-light btn light-blue darken-1">
-            <i class="fas fa-share-alt"></i>
-            &nbsp;
-            ${phrase(4)}
+          <p align="center" id="share-button-container">
+            <button id="share-button" class="waves-effect waves-light btn light-blue darken-1">
+              <i class="fas fa-share-alt"></i>
+              &nbsp;
+              ${phrase(4)}
             </button>
           </p>
 
@@ -34,5 +34,19 @@
       </div>
     </div>
   `;
+
+  const shareButton = document.querySelector('#share-button');
+
+  function share() {
+    if (! navigator.share) return alert('Cannot share using this browser.');
+    navigator.share({
+          url: 'https://firstprinciples.mobi',
+          text: 'First Principles',
+          title: 'First Principles'
+      }).catch(error => console.error(error));
+  }
+
+  shareButton.addEventListener('click', share, false);
+
   $('footer').html(html);
 })();
