@@ -246,7 +246,7 @@ fp.media = mediaObj => {
 fp.onShare = () => {
   const shareIconContainer = document.querySelector('#shareicon-container')
   const shareIcon = document.querySelector('#shareicon');
-  const appTitle = document.querySelector('title').innerText;
+  const appTitle = document.querySelector('.brand-logo').innerText;
   let appURL = 'https://firstprinciples.mobi/';
   if (document.location.host !== 'firstprinciples.mobi') {
     appURL = 'https://firstprinciples-materialdesign.herokuapp.com/';
