@@ -91,7 +91,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/js/fp/base.js",
-    "revision": "99cf20386372942f6851dd7684725143"
+    "revision": "ffb46b47cae491524cea54fccd19a269"
   },
   {
     "url": "_assets/js/fp/language.js",
@@ -219,19 +219,19 @@ self.__precacheManifest = [
   },
   {
     "url": "global/content.xml",
-    "revision": "b8550d005a613b59182e6981731c0b61"
+    "revision": "bb3372af3334ad9153fd00114b005e7e"
   },
   {
     "url": "global/footer/content.xml",
-    "revision": "3480ebbe5a7af3486f9e4bf836ea56af"
+    "revision": "d64ab6888254d9e032f4cb518c9a568f"
   },
   {
     "url": "global/footer/logic.js",
-    "revision": "a35c296a1ea52f5126f6726b5c4c2e45"
+    "revision": "3102c22c22561bfad9a627a5d8aededf"
   },
   {
     "url": "index.html",
-    "revision": "f8005615ead416d2c4a6bb3256fcdfc9"
+    "revision": "cafe5ee605c2b7102a2a885fc095acf4"
   },
   {
     "url": "introduction/content.xml",

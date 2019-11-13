@@ -17,6 +17,14 @@
             </button>
           </p>
 
+          <p align="center" id="share-button-container" style="display: none">
+            <button id="share-button" class="waves-effect waves-light btn light-blue darken-1">
+              <i class="fas fa-share-alt"></i>
+              &nbsp;
+              ${phrase(4)}
+            </button>
+          </p>
+
           <p align="center">
             &copy; ${new Date().getFullYear()} ${phrase(2)}<br>
             ${phrase(3)}
