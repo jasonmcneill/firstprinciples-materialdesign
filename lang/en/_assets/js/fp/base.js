@@ -106,6 +106,7 @@ fp.showContent = (key, lang, selector) => {
           fp.showFooter(fp.view.key, fp.language.current).then(() => {
             fp.enableInstall();
             fp.onInstall();
+            fp.enableShare();
           });
           if (fp.view.key === 'light-darkness') {
             setTimeout(() => {
@@ -286,7 +287,6 @@ fp.events = {
     attach: function() {
       fp.scripture.onScriptureClicked();
       fp.scripture.onScriptureExpandButtonClicked();
-      fp.enableShare();
     }
   }
 };
