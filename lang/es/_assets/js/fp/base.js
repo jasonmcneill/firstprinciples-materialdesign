@@ -348,7 +348,10 @@ fp.enableShare = () => {
 
 fp.onShare = () => {
   const appTitle = document.querySelector('title').innerText;
-  const appURL = 'https://firstprinciples.mobi/';
+  let appURL = 'https://firstprinciples.mobi/';
+  if (document.location.host !== 'firstprinciples.mobi') {
+    appURL = 'https://firstprinciples-materialdesign.herokuapp.com/';
+  }
   navigator.share({
     url: appURL,
     text: appTitle + '\n',
