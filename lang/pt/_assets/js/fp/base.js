@@ -351,7 +351,7 @@ fp.onShare = () => {
   const appURL = 'https://firstprinciples.mobi/';
   navigator.share({
     url: appURL,
-    text: appTitle + '\n\n',
+    text: appTitle + '\n',
     title: appTitle
   }).then(() => console.log('fp.onShare')).catch(error => console.error(error));
 }
