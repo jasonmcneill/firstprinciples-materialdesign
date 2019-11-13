@@ -264,6 +264,7 @@ ul.showdiscs li {
   padding-left: 5px;
 }
 
-#install-button-container {
+#install-button-container,
+#share-button-container {
   margin-bottom: 50px;
 }
