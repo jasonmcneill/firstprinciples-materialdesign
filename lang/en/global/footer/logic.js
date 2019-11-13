@@ -37,20 +37,4 @@
 
   $('footer').html(html);
 
-  const shareButton = document.querySelector('#share-button');
-  const shareButtonContainer = document.querySelector('#share-button-container');
-  
-  if (navigator.share) shareButtonContainer.style.display = 'block';
-
-  function share() {
-    if (! navigator.share) return console.error('Cannot share using this browser.');
-    navigator.share({
-          url: 'https://firstprinciples.mobi',
-          text: 'First Principles',
-          title: 'First Principles'
-      }).catch(error => console.error(error));
-  }
-
-  shareButton.addEventListener('click', share, false);
-
 })();
