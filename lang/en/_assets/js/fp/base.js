@@ -348,7 +348,7 @@ fp.enableShare = () => {
 
 fp.onShare = () => {
   const appTitle = document.querySelector('title').innerText;
-  const appURL = fp.getPath('index');
+  const appURL = 'https://firstprinciples.mobi';
   navigator.share({
     url: appURL,
     text: appTitle + '\n\n',
