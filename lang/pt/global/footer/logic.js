@@ -13,6 +13,8 @@
 
           <p align="center" id="install-button-container">
             <button class="waves-effect waves-light btn light-blue darken-1" id="install-button">
+              <i class="fas fa-home"></i>
+              &nbsp;
               ${phrase(1)}
             </button>
           </p>
