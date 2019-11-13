@@ -247,7 +247,10 @@ fp.onShare = () => {
   const shareIconContainer = document.querySelector('#shareicon-container')
   const shareIcon = document.querySelector('#shareicon');
   const appTitle = document.querySelector('title').innerText;
-  const appURL = 'https://firstprinciples.mobi/';
+  let appURL = 'https://firstprinciples.mobi/';
+  if (document.location.host !== 'firstprinciples.mobi') {
+    appURL = 'https://firstprinciples-materialdesign.herokuapp.com/';
+  }
   if (navigator.share) {
     shareIconContainer.classList.remove('hide');
     shareIcon.addEventListener('click', e => {
