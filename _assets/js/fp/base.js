@@ -247,13 +247,13 @@ fp.onShare = () => {
   const shareIconContainer = document.querySelector('#shareicon-container')
   const shareIcon = document.querySelector('#shareicon');
   const appTitle = document.querySelector('title').innerText;
-  const appURL = document.URL;
+  const appURL = 'https://firstprinciples.mobi/';
   if (navigator.share) {
     shareIconContainer.classList.remove('hide');
     shareIcon.addEventListener('click', e => {
       const shareObj = {
         title: appTitle,
-        text: shareObj + '\n\n',
+        text: appTitle + '\n',
         url: appURL
       };
       navigator.share(shareObj).catch(error => console.log('Error sharing', error));
