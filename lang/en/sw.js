@@ -91,7 +91,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/js/fp/base.js",
-    "revision": "ffb46b47cae491524cea54fccd19a269"
+    "revision": "58484dcc4a70a9af32dbb56e72fa7126"
   },
   {
     "url": "_assets/js/fp/language.js",
@@ -227,7 +227,7 @@ self.__precacheManifest = [
   },
   {
     "url": "global/footer/logic.js",
-    "revision": "301e3b4c2e0951fb3201a94ca1fbf815"
+    "revision": "3f7aad24d70e98d4be9d708cb1d1624a"
   },
   {
     "url": "index.html",

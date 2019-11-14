@@ -51,7 +51,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/css/style.css",
-    "revision": "9243fd28b4d3878745ce030afcb8832f"
+    "revision": "8ebe7acb1b4a9734e71f801cc470ae71"
   },
   {
     "url": "_assets/css/the-church.css",
@@ -91,7 +91,7 @@ self.__precacheManifest = [
   },
   {
     "url": "_assets/js/fp/base.js",
-    "revision": "ffb46b47cae491524cea54fccd19a269"
+    "revision": "58484dcc4a70a9af32dbb56e72fa7126"
   },
   {
     "url": "_assets/js/fp/language.js",
@@ -227,7 +227,7 @@ self.__precacheManifest = [
   },
   {
     "url": "global/footer/logic.js",
-    "revision": "3102c22c22561bfad9a627a5d8aededf"
+    "revision": "0fca83aa4cfcd76cb06a5feb8f56d7f5"
   },
   {
     "url": "index.html",
