@@ -244,25 +244,30 @@ fp.media = mediaObj => {
 };
 
 fp.onShare = () => {
-  const shareIconContainer = document.querySelector('#shareicon-container')
-  const shareIcon = document.querySelector('#shareicon');
-  const appTitle = document.querySelector('.brand-logo').innerText;
+  let appTitle = document.querySelector('.brand-logo').innerText;
   let appURL = 'https://firstprinciples.mobi/';
   if (document.location.host === 'firstprinciples-materialdesign.herokuapp.com') {
     appURL = 'https://firstprinciples-materialdesign.herokuapp.com/';
   }
-  if (navigator.share) {
-    shareIconContainer.classList.remove('hide');
-    shareIcon.addEventListener('click', e => {
-      const shareObj = {
-        title: appTitle,
-        text: appTitle + '\n',
-        url: appURL
-      };
-      navigator.share(shareObj).catch(error => console.log('Error sharing', error));
-    })
+  let hasHighASCIICharacters = false;
+  const appTitleCheck = appTitle.split('').map(character => {
+    const characterCode = character.charCodeAt(0);
+    if ((characterCode < 32) || (characterCode > 127)) {
+      hasHighASCIICharacters = true;
+    }
+  });
+  if (hasHighASCIICharacters) {
+    appTitle = appTitle.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
   }
-};
+  if (document.location.host === 'firstprinciples-materialdesign.herokuapp.com') {
+    appURL = 'https://firstprinciples-materialdesign.herokuapp.com/';
+  }
+  navigator.share({
+    url: appURL,
+    text: appTitle + '\n',
+    title: appTitle
+  }).then(() => console.log('fp.onShare')).catch(error => console.error(error));
+}
 
 fp.events = {
   listeners: {
