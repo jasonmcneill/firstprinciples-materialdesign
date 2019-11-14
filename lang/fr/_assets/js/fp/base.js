@@ -347,8 +347,18 @@ fp.enableShare = () => {
 }
 
 fp.onShare = () => {
-  const appTitle = document.querySelector('.brand-logo').innerText;
+  let appTitle = document.querySelector('.brand-logo').innerText;
   let appURL = 'https://firstprinciples.mobi/';
+  let hasHighASCIICharacters = false;
+  const appTitleCheck = appTitle.split('').map(character => {
+    const characterCode = character.charCodeAt(0);
+    if ((characterCode < 32) || (characterCode > 127)) {
+      hasHighASCIICharacters = true;
+    }
+  });
+  if (hasHighASCIICharacters) {
+    appTitle = appTitle.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+  }
   if (document.location.host === 'firstprinciples-materialdesign.herokuapp.com') {
     appURL = 'https://firstprinciples-materialdesign.herokuapp.com/';
   }
