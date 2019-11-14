@@ -362,9 +362,6 @@ fp.onShare = () => {
   if (hasHighASCIICharacters) {
     appTitle = appTitle.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
   }
-  if (document.location.host === 'firstprinciples-materialdesign.herokuapp.com') {
-    appURL = 'https://firstprinciples-materialdesign.herokuapp.com/';
-  }
   navigator.share({
     url: appURL,
     text: appTitle + '\n',
