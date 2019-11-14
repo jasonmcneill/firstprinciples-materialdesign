@@ -349,6 +349,9 @@ fp.enableShare = () => {
 fp.onShare = () => {
   let appTitle = document.querySelector('.brand-logo').innerText;
   let appURL = 'https://firstprinciples.mobi/';
+  if (document.location.host === 'firstprinciples-materialdesign.herokuapp.com') {
+    appURL = 'https://firstprinciples-materialdesign.herokuapp.com/';
+  }
   let hasHighASCIICharacters = false;
   const appTitleCheck = appTitle.split('').map(character => {
     const characterCode = character.charCodeAt(0);
