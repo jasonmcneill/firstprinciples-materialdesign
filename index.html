@@ -67,12 +67,15 @@
 
     <!--  Scripts -->
     <script src="./_assets/js/jquery-2.1.1.min.js"></script>
-    <script src="./_assets/js/localforage.min.js"></script>
     <script src="./_assets/js/materialize.min.js"></script>
     <script src="./_assets/js/fp/base.js"></script>
     <script src="./_assets/js/fp/language.js"></script>
-    <script src="./_assets/js/fp/scripture.js"></script>
     <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('./sw.js').catch(error => {
+          console.error('Error in registering First Principles service worker:', error);
+        });
+      }  
       fp.init('index');
       M.AutoInit();
     </script>
