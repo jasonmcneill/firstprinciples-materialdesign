@@ -16,7 +16,13 @@ module.exports = {
     "**/node_modules/**",
     "**/composer.json",
     "**/package*",
-    "**/workbox-config.js"
+    "**/workbox-config.js",
+    "**/light-darkness.css",
+    "**/the-church.css",
+    "**/body.png",
+    "**/icons/**",
+    "**/scripture.js",
+    "**/localforage*"
   ],
   "swDest": "sw.js"
 };
