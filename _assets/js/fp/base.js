@@ -310,6 +310,17 @@ fp.xml2Str = xmlNode => {
   return false;
 };
 
+fp.registerServiceWorker = fromKey => {
+  const lang = fp.language.current;
+  const basePath = fp.getPath(fromKey, lang);
+  let pathToSW = basePath + 'sw.js';
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register(pathToSW).catch(error => {
+      console.error('Error in registering First Principles service worker:', error);
+    });
+  }  
+}
+
 fp.init = async fromKey => {
   window.fp = {};
   $.ajaxSetup({
@@ -339,4 +350,5 @@ fp.init = async fromKey => {
   fp.language.global.setExpandButton(fromKey, fp.language.current);
   await fp.showContent(fromKey, fp.language.current);
   fp.events.listeners.attach();
+  fp.registerServiceWorker('index');
 };
