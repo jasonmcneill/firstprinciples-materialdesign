@@ -322,7 +322,7 @@ fp.prePopulateTitles = () => {
   if (pageTitleSaved) pageTitle = pageTitleSaved;
   appTitleContainer.innerText = appTitle;
   pageTitleContainer.innerText = pageTitle;
-  htmlTitleTag.innerText = pageTitle;
+  htmlTitleTag.innerText = appTitle;
 };
 
 fp.init = async fromKey => {
