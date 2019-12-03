@@ -1,9 +1,22 @@
 module.exports = {
   "globDirectory": ".",
   "globPatterns": [
-    "**/lang/*/global/content.xml",
-    "**/*.{css,js,txt,woff,woff2,png,xml,html,json,pdf}"
+    "**/*.{css,js,json,svg,woff,woff2,png,ico,html}",
   ],
-  "globIgnores": ['**/icons/high-res.png', '**/lang/*', '**/splashscreens/*', '**/webfonts/*.eot', '**/webfonts/*.svg', '**/webfonts/*.ttf'],
+  "globIgnores": [
+    "**/lang/**",
+    "**/fontawesome-free-5.11.2-web/**",
+    "**/high-res.png",
+    "**/img/body.png",
+    "**/icons/**",
+    "**/splashscreens/**",
+    "**/scripture.js",
+    "**/localforage.**",
+    "**/browser-sync.js",
+    "**/node_modules/**",
+    "**/composer.json",
+    "**/package*",
+    "**/workbox-config.js"
+  ],
   "swDest": "sw.js"
 };
