@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="global" lang-original="en" lang-translated="sv" last-updated="2019-12-30" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="App title">
+		<original>
+			First Principles
+		</original>
+		<translated>
+			De första principerna
+		</translated>
+	</phrase>
+	
+	<phrase id="2" desc="Expand button.  This is shown in a scripture.">
+		<original>
+			Expand
+		</original>
+		<translated>
+			Bygga ut
+		</translated>
+	</phrase>
+	
+	<phrase id="3" desc="">
+		<original>
+			Select Language
+		</original>
+		<translated>
+			Välj språk
+		</translated>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Share
+		</original>
+		<translated>
+			Dela med sig
+		</translated>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			An internet connection is required in order to listen to this audio. Please connect to the internet, then try again.
+		</original>
+		<translated>
+			En internetanslutning krävs för att lyssna på det här ljudet. Anslut till internet och försök sedan igen.
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			An internet connection is required in order to watch this video. Please connect to the internet, then try again.
+		</original>
+		<translated>
+			En internetanslutning krävs för att kunna se den här videon. Anslut till internet och försök sedan igen.
+		</translated>
+	</phrase>
+
+	<phrase id="7" desc="">
+		<original>
+			A Bible study from the International Christian Churches
+		</original>
+		<translated>
+			En bibelstudie från de internationella kristna kyrkorna
+		</translated>
+	</phrase>
+
+	<phrase id="8" desc="">
+		<original>
+			A Bible study series from the International Christian Churches
+		</original>
+		<translated>
+			En bibelstudieserie från de internationella kristna kyrkorna
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="false" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>

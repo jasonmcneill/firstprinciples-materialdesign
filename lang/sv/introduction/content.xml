@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<content key="introduction" lang-original="en" lang-translated="sv" last-updated="2019-12-30" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-26" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+	
+	<phrase id="1" desc="title">
+		<original>
+			Introduction
+		</original>
+		<translated>
+			Introduktion
+		</translated>
+	</phrase>
+
+	<phrase id="2" desc="">
+		<original>
+			"For when by reason of the time you ought to be teachers, you... need to have someone teach you the rudiments of the first principles of the oracles of God... Therefore leaving the doctrine of the first principles of Christ, let us press on to perfection — not laying again a foundation... of faith toward God, of the teaching of baptisms, of laying on of hands, of resurrection of the dead and of eternal judgment. This will we do!"
+		</original>
+		<translated>
+			Ni borde vid det här laget själva vara lärare, men i stället behöver ni nu på nytt någon som lär er de första grunderna i Guds ord... Låt oss därför inte uppehålla oss vid det man först får lära sig om Kristus... läran om dop och handpåläggning, om de dödas uppståndelse och evig dom. Nej, med Guds tillåtelse går vi vidare. Detta kommer vi att göra!
+		</translated>
+	</phrase>
+
+	<phrase id="3" desc="">
+		<original>
+			Hebrews 5:12; 6:1-3 (WEV)
+		</original>
+		<translated>
+			Hebreerbrevet 5:12; 6:1-3 (Bibel 2000)
+		</translated>
+		<change bold="true" italic="false" modal="false">
+			<original>
+				Hebrews 5:12; 6:1-3
+			</original>
+			<translated>
+				Hebreerbrevet 5:12; 6:1-3
+			</translated>
+		</change>
+		<change bold="false" italic="true" modal="false">
+			<original>
+				(WEV)
+			</original>
+			<translated>
+				(Bibel 2000)
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="4" desc="">
+		<original>
+			Originally, the First Principle Studies were written in 1980, while I served the Lord during the formative early days of the Boston Church of Christ. They were revised in 2003 and 2006 to meet the needs and to confront the challenges of the Portland International Church of Christ. In Los Angeles in 2009 and 2012, I made a few more modifications. As of today, these same First Principles Studies are being taught to all the new disciples of the City of Angels International Christian Church. God has greatly blessed these lessons as they have been translated into over 20 languages around the world. May the Lord continue to "solidify, unify and multiply" sold-out disciples everywhere for the evangelization of all the nations in this generation! And to God be the glory! 
+		</original>
+		<translated>
+			De första grundläggande principerna skrev jag när jag tjänade Herren under den första tiden i kyrkan i Boston, 1980. De reviderades sedan 2003 och 2006 för att möta behoven och utmaningarna i Portland. I Los Angeles 2009 och 2012 gjorde jag ytterligare några ändringar. Från och med idag lärs dessa studier till alla nya lärjungar i City of Angels International Christian Church. Gud har verkligen välsignat dessa studier som också översatts till över 20 olika språk runt om i världen. Må Herren fortsätta att "förstärka, förena och förmera" hängivna lärjungar överallt för att evangeliet ska nå alla folk - i vår generation! Och all ära til Gud!
+		</translated>
+		<change bold="true" italic="false" modal="false" href="http://www.caicc.net/">
+			<original>
+				City of Angels International Christian Church
+			</original>
+			<translated>
+				City of Angels International Christian Church
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="5" desc="">
+		<original>
+			Dr. Kip McKean
+		</original>
+		<translated>
+			Dr Kip McKean
+		</translated>
+	</phrase>
+
+	<phrase id="6" desc="">
+		<original>
+			July 1, 2014
+		</original>
+		<translated>
+			Den 1 juli 2014
+		</translated>
+	</phrase>
+
+	<!--
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+	</phrase>
+
+
+
+	<phrase id="" desc="">
+		<original>
+			
+		</original>
+		<translated>
+			
+		</translated>
+		<change bold="false" italic="false" modal="false">
+			<original>
+				
+			</original>
+			<translated>
+
+			</translated>
+		</change>
+	</phrase>
+
+	-->
+
+</content>
