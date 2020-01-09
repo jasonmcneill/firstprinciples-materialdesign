@@ -1235,7 +1235,7 @@ self.__precacheManifest = [
   },
   {
     "url": "scriptures/romans-8-9-rsv/content.xml",
-    "revision": "15e7037970ab3f5cfb33f19a648d39e8"
+    "revision": "99c280944e4b99021fc056f3045f33a5"
   },
   {
     "url": "scriptures/titus-1-5/content.xml",
