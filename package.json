@@ -7,10 +7,12 @@
     "email": "vrtjason@gmail.com"
   },
   "scripts": {
-    "start": "browser-sync --start --no-notify"
+    "start": "browser-sync --start --no-notify",
+    "test": "jest"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.26.7",
+    "jest": "^25.1.0"
   },
   "dependencies": {}
 }
