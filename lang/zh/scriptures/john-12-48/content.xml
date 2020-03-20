@@ -4,7 +4,7 @@
 	<passage title="约翰福音 12:48" book="约翰福音" title-en="John 12:48" book-en="John">
 		<chapter number="12" number-en="12">
 			<verse number="48" number-en="48" jesuswords="true">
-				弃绝我又不接受我的话的人，自有审判他的。我所讲的道在末日要定他的罪；
+				<span class="jesuswords">弃绝我又不接受我的话的人，自有审判他的。我所讲的道在末日要定他的罪；</span>
 			</verse>
 		</chapter>
 	</passage>

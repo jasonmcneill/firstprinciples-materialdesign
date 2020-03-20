@@ -4,10 +4,10 @@
 	<passage title="马太福音 7：7-8" book="马太福音" title-en="Matthew 7:7-8" book-en="Matthew">
 		<chapter number="7" number-en="7">
 			<verse number="7" number-en="7" jesuswords="true">
-				“你们祈求，就给你们；寻找，就寻见；叩门，就给你们开门。
+				<span class="jesuswords">“你们祈求，就给你们；寻找，就寻见；叩门，就给你们开门。</span>
 			</verse>
 			<verse number="8" number-en="8" jesuswords="true">
-				因为凡祈求的就得着，寻找的就寻见，叩门的就给他开门。
+				<span class="jesuswords">因为凡祈求的就得着，寻找的就寻见，叩门的就给他开门。</span>
 			</verse>
 		</chapter>
 	</passage>

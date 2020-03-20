@@ -4,10 +4,10 @@
 	<passage title="约翰福音 4:23-24" book="约翰福音" title-en="John 4:23-24" book-en="John">
 		<chapter number="4" number-en="4">
 			<verse number="23" number-en="23" jesuswords="true">
-				然而时候将到，现在就是了，那用心灵按真理敬拜父的，才是真正敬拜的人；因为父在寻找这样敬拜他的人。
+				<span class="jesuswords">然而时候将到，现在就是了，那用心灵按真理敬拜父的，才是真正敬拜的人；因为父在寻找这样敬拜他的人。</span>
 			</verse>
 			<verse number="24" number-en="24" jesuswords="true">
-				　神是灵，敬拜他的必须借着灵按真理敬拜他。”
+				<span class="jesuswords">神是灵，敬拜他的必须借着灵按真理敬拜他。”</span>
 			</verse>
 		</chapter>
 	</passage>

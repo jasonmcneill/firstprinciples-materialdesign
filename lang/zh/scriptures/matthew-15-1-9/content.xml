@@ -10,26 +10,34 @@
 				“你的门徒为甚么违背古人的传统，在饭前不洗手呢？”
 			</verse>
 			<verse number="3" number-en="3" jesuswords="true">
-				耶稣回答：“你们又为甚么因你们的传统，违背　神的诫命呢？
+				耶稣回答：<span class="jesuswords">“你们又为甚么因你们的传统，违背　神的诫命呢？</span>
 			</verse>
 			<verse number="4" number-en="4" jesuswords="true" scripturequote="true">
-				　神说：‘当孝敬父母’，又说：‘咒骂父母的必被处死’。
+			　<span class="jesuswords">神说：<span class="scripturequote">‘当孝敬父母’，</span>又说：<span class="scripturequote">‘咒骂父母的必被处死’。</span></span>
 			</verse>
 			<verse number="5" number-en="5" jesuswords="true">
-				你们却说：‘人若对父母说：“我应该给你们的，已经作了献给　神的礼物”，
+				<span class="jesuswords">你们却说：‘人若对父母说：“我应该给你们的，已经作了献给　神的礼物”，</span>
 			</verse>
 			<verse number="6" number-en="6" jesuswords="true">
-				他就可以不孝敬父母了。’你们因为你们的传统，就废弃了　神的话。
+				<span class="jesuswords">他就可以不孝敬父母了。’你们因为你们的传统，就废弃了　神的话。</span>
 			</verse>
 			<verse number="7" number-en="7" jesuswords="true">
-				伪君子啊，以赛亚指着你们说的预言说得好：
+				<span class="jesuswords">伪君子啊，以赛亚指着你们说的预言说得好：</span>
 			</verse>
 			<verse number="8" number-en="8" jesuswords="true" scripturequote="true">
-				‘这人民用嘴唇尊敬我，心却远离我；
+				<span class="jesuswords">
+					<span class="scripturequote">
+						‘这人民用嘴唇尊敬我，心却远离我；
+					</span>
+				</span>
 			</verse>
 			<verse number="9" number-en="9" jesuswords="true" scripturequote="true">
-				他们把人的规条当作道理去教导人，
-所以拜我也是徒然。’”
+				<span class="jesuswords">
+					<span class="scripturequote">
+						他们把人的规条当作道理去教导人，
+						所以拜我也是徒然。’”
+					</span>
+				</span>
 			</verse>
 		</chapter>
 	</passage>
