@@ -4,7 +4,7 @@
 	<passage title="马太福音 6：33" book="马太福音" title-en="Matthew 6:33" book-en="Matthew">
 		<chapter number="6" number-en="6">
 			<verse number="33" number-en="33" jesuswords="true">
-				你们要先求他的国和他的义，这一切都必加给你们。
+				<span class="jesuswords">你们要先求他的国和他的义，这一切都必加给你们。</span>
 			</verse>
 		</chapter>
 	</passage>

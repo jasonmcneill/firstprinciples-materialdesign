@@ -4,7 +4,7 @@
 	<passage title="启示录 3:20" book="启示录" title-en="Revelation 3:20" book-en="Revelation">
 		<chapter number="3" number-en="3">
 			<verse number="20" number-en="20" jesuswords="true">
-				看哪！我站在门外敲门；如果有人听见我的声音就开门的，我要进到他那里去，我要跟他在一起，他也要跟我在一起吃饭。
+				<span class="jesuswords">看哪！我站在门外敲门；如果有人听见我的声音就开门的，我要进到他那里去，我要跟他在一起，他也要跟我在一起吃饭。</span>
 			</verse>
 		</chapter>
 	</passage>

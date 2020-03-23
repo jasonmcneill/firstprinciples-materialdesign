@@ -4,7 +4,7 @@
 	<passage title="路加福音 19：10" book="路加福音" title-en="Luke 19:10" book-en="Luke">
 		<chapter number="19" number-en="19">
 			<verse number="10" number-en="10" jesuswords="true">
-				因为人子来，是要寻找拯救失丧的人。”
+				<span class="jesuswords">因为人子来，是要寻找拯救失丧的人。</span>
 			</verse>
 		</chapter>
 	</passage>
