@@ -26,6 +26,27 @@
           <strong>${phrase(2)}</strong>
         </p>
 
+        <table>
+          <tr>
+            <td rowspan="3">
+              ${phrase(2.1)}
+            </td>
+            <td>
+              ${phrase(2.2)}
+            </td>
+          </tr>
+          <tr>
+            <td>
+              ${phrase(2.3)}
+            </td>
+          </tr>
+          <tr>
+            <td>
+              ${phrase(2.4)}
+            </td>
+          </tr>
+        </table>
+
         <p>
           ${phrase(3)}
         </p>
