@@ -3,63 +3,49 @@
 <content key="light-darkness" lang-original="en" lang-translated="es" last-updated="2020-04-26" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-27" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
-		<original>
-			Light and Darkness
-		</original>
+		<original></original>
 		<translated>
 			La Oscuridad y La Luz
 		</translated>
 	</phrase>
 
 	<phrase id="2" desc="">
-		<original>
-			It is often helpful to begin this study by constructing a "spiritual timeline" with the person whom you are helping to become a disciple.
-		</original>
+		<original></original>
 		<translated>
 			Es útil comenzar este estudio armando una “cronología espiritual” con la persona que está estudiando la Biblia.
 		</translated>
 	</phrase>
 
-	<phrase id="2.1" desc="">
-		<original>
-			
-		</original>
+	<phrase id="3" desc="">
+		<original></original>
 		<translated>
 			Preguntas:
 		</translated>
 	</phrase>
 
-	<phrase id="2.2" desc="">
-		<original>
-			
-		</original>
+	<phrase id="4" desc="">
+		<original></original>
 		<translated>
 			¿Cuándo fue tu conversión? ¿Cuándo fue tu bautismo?
 		</translated>
 	</phrase>
 
-	<phrase id="2.3" desc="">
-		<original>
-			
-		</original>
+	<phrase id="5" desc="">
+		<original></original>
 		<translated>
 			¿Hubo más de un bautismo? ¿Cuándo recibiste el perdón de tus pecados?
 		</translated>
 	</phrase>
 
-	<phrase id="2.4" desc="">
-		<original>
-			
-		</original>
+	<phrase id="6" desc="">
+		<original></original>
 		<translated>
 			¿Cuando recibiste el Espíritu Santo? ¿Cuándo fuiste Salvo?
 		</translated>
 	</phrase>
 
-	<phrase id="3" desc="">
-		<original>
-			Introduction: 1 Peter 2:9-10
-		</original>
+	<phrase id="7" desc="">
+		<original></original>
 		<translated>
 			Introducción: 1 Pedro 2:9-10.
 		</translated>
@@ -81,70 +67,56 @@
 		</change>
 	</phrase>
 
-	<phrase id="4" desc="">
-		<original>
-			Darkness
-		</original>
+	<phrase id="8" desc="">
+		<original></original>
 		<translated>
 			Oscuridad
 		</translated>
 	</phrase>
 
-	<phrase id="5" desc="">
-		<original>
-			Not a people of God
-		</original>
+	<phrase id="9" desc="">
+		<original></original>
 		<translated>
 			No pueblo de Dios
 		</translated>
 	</phrase>
 
-	<phrase id="6" desc="">
-		<original>
-			No Mercy
-		</original>
+	<phrase id="10" desc="">
+		<original></original>
 		<translated>
 			No misericordia
 		</translated>
 	</phrase>
 
-	<phrase id="7" desc="">
-		<original>
-			Light
-		</original>
+	<phrase id="11" desc="">
+		<original></original>
 		<translated>
 			Luz
 		</translated>
 	</phrase>
 
-	<phrase id="8" desc="">
-		<original>
-			People of God
-		</original>
+	<phrase id="12" desc="">
+		<original></original>
 		<translated>
 			Pueblo de Dios
 		</translated>
 	</phrase>
 
-	<phrase id="9" desc="">
-		<original>
-			Mercy
-		</original>
+	<phrase id="13" desc="">
+		<original></original>
 		<translated>
 			Misericordia
 		</translated>
 	</phrase>
 
-	<phrase id="10" desc="">
-		<original>
-			Lost
-		</original>
+	<phrase id="14" desc="">
+		<original></original>
 		<translated>
 			Perdido 
 		</translated>
 	</phrase>
 
-	<phrase id="11" desc="">
+	<phrase id="15" desc="">
 		<original>
 			Not a Christian
 		</original>
@@ -153,7 +125,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="12" desc="">
+	<phrase id="16" desc="">
 		<original>
 			Not a Disciple
 		</original>
@@ -162,7 +134,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="13" desc="">
+	<phrase id="17" desc="">
 		<original>
 			Saved
 		</original>
@@ -171,7 +143,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="14" desc="">
+	<phrase id="18" desc="">
 		<original>
 			Christian
 		</original>
@@ -180,7 +152,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="15" desc="">
+	<phrase id="19" desc="">
 		<original>
 			Disciple
 		</original>
@@ -189,7 +161,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="16" desc="">
+	<phrase id="20" desc="">
 		<original>
 			Every person is either in the darkness or the light. There is no twilight zone.
 		</original>
@@ -198,7 +170,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="17" desc="">
+	<phrase id="21" desc="">
 		<original>
 			Where are you?
 		</original>
@@ -207,7 +179,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="18" desc="">
+	<phrase id="22" desc="">
 		<original>
 			Darkness
 		</original>
@@ -216,7 +188,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="19" desc="">
+	<phrase id="23" desc="">
 		<original>
 			Isaiah 59:1-2
 		</original>
@@ -233,7 +205,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="20" desc="">
+	<phrase id="24" desc="">
 		<original>
 			Sin separates us from God. 
 		</original>
@@ -242,7 +214,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="21" desc="">
+	<phrase id="25" desc="">
 		<original>
 			WALL
 		</original>
@@ -251,7 +223,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="22" desc="">
+	<phrase id="26" desc="">
 		<original>
 			DARKNESS 
 		</original>
@@ -260,7 +232,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="23" desc="">
+	<phrase id="27" desc="">
 		<original>
 			MAN 
 		</original>
@@ -269,7 +241,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="24" desc="">
+	<phrase id="28" desc="">
 		<original>
 			LIGHT 
 		</original>
@@ -278,7 +250,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="25" desc="">
+	<phrase id="29" desc="">
 		<original>
 			GOD 
 		</original>
@@ -287,7 +259,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="26" desc="">
+	<phrase id="30" desc="">
 		<original>
 			SIN
 		</original>
@@ -296,7 +268,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="27" desc="">
+	<phrase id="31" desc="">
 		<original>
 			In order for a man to have a relationship with God the wall must be broken down — sin must be forgiven.
 		</original>
@@ -305,7 +277,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="28" desc="">
+	<phrase id="32" desc="">
 		<original>
 			The point in time that sin is forgiven is the point in time a person is saved.
 		</original>
@@ -314,7 +286,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="29" desc="">
+	<phrase id="33" desc="">
 		<original>
 			Romans 3:23-25
 		</original>
@@ -331,7 +303,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="30" desc="">
+	<phrase id="34" desc="">
 		<original>
 			Who has sinned? Everyone!
 		</original>
@@ -340,7 +312,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="31" desc="">
+	<phrase id="35" desc="">
 		<original>
 			SIN 
 		</original>
@@ -349,7 +321,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="32" desc="">
+	<phrase id="36" desc="">
 		<original>
 			SIN
 		</original>
@@ -358,7 +330,7 @@
 		</translated>
 	</phrase>
 	
-	<phrase id="33" desc="">
+	<phrase id="37" desc="">
 		<original>
 			SIN
 		</original>
@@ -367,7 +339,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="34" desc="">
+	<phrase id="38" desc="">
 		<original>
 			Person A
 		</original>
@@ -376,7 +348,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="35" desc="">
+	<phrase id="39" desc="">
 		<original>
 			Person B
 		</original>
@@ -385,7 +357,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="36" desc="">
+	<phrase id="40" desc="">
 		<original>
 			Person C
 		</original>
@@ -394,7 +366,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="37" desc="">
+	<phrase id="41" desc="">
 		<original>
 			Who is further away from God: a person who sins a little, or a person who sins a lot? All are equal, all lost. Therefore a good moral life does not save you. You cannot earn your salvation by your good deeds.
 		</original>
@@ -403,7 +375,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="38" desc="">
+	<phrase id="42" desc="">
 		<original>
 			Faith in the blood of Jesus saves you (v. 25).
 		</original>
@@ -420,7 +392,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="39" desc="">
+	<phrase id="43" desc="">
 		<original>
 			What is Sin?
 		</original>
@@ -429,7 +401,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="40" desc="">
+	<phrase id="44" desc="">
 		<original>
 			Gálatas 5:19-21 (Pecados de Comisión).
 		</original>
@@ -446,7 +418,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="41" desc="">
+	<phrase id="45" desc="">
 		<original>
 			2 Timothy 3:1-5 (sins of commission)
 		</original>
@@ -463,7 +435,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="42" desc="">
+	<phrase id="46" desc="">
 		<original>
 			James 4:17 (sins of omission)
 		</original>
@@ -480,7 +452,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="43" desc="">
+	<phrase id="47" desc="">
 		<original>
 			What is the eternal consequence of sin? Romans 6:23
 		</original>
@@ -497,7 +469,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="44" desc="">
+	<phrase id="48" desc="">
 		<original>
 			WAGES OF SIN
 		</original>
@@ -506,7 +478,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="45" desc="">
+	<phrase id="49" desc="">
 		<original>
 			GIFT OF GOD
 		</original>
@@ -515,7 +487,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="46" desc="">
+	<phrase id="50" desc="">
 		<original>
 			Death
 		</original>
@@ -524,7 +496,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="47" desc="">
+	<phrase id="51" desc="">
 		<original>
 			Hell
 		</original>
@@ -533,7 +505,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="48" desc="">
+	<phrase id="52" desc="">
 		<original>
 			Darkness
 		</original>
@@ -542,7 +514,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="49" desc="">
+	<phrase id="53" desc="">
 		<original>
 			Eternal Life
 		</original>
@@ -551,7 +523,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="50" desc="">
+	<phrase id="54" desc="">
 		<original>
 			Heaven
 		</original>
@@ -560,7 +532,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="51" desc="">
+	<phrase id="55" desc="">
 		<original>
 			Light
 		</original>
@@ -569,7 +541,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="52" desc="">
+	<phrase id="56" desc="">
 		<original>
 			Light
 		</original>
@@ -578,7 +550,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="53" desc="">
+	<phrase id="57" desc="">
 		<original>
 			John 3:1-7: Born again (v. 3), born of water and Spirit (v. 5), born again. (v. 7)
 		</original>
@@ -595,7 +567,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="54" desc="">
+	<phrase id="58" desc="">
 		<original>
 			Personal decision as an adult
 		</original>
@@ -604,7 +576,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="55" desc="">
+	<phrase id="59" desc="">
 		<original>
 			What message must one believe to be in the light (to be saved)? Acts 2:22-24
 		</original>
@@ -621,7 +593,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="56" desc="">
+	<phrase id="60" desc="">
 		<original>
 			Jesus is from God. (v. 22)
 		</original>
@@ -638,7 +610,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="57" desc="">
+	<phrase id="61" desc="">
 		<original>
 			Jesus raised physically from the dead. (v. 24)
 		</original>
@@ -655,7 +627,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="58" desc="">
+	<phrase id="62" desc="">
 		<original>
 			Everyone is responsible for the crucifixion of Christ. (v. 23) All have sinned. (Romans 3:23)
 		</original>
@@ -680,7 +652,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="59" desc="">
+	<phrase id="63" desc="">
 		<original>
 			Response of people: Acts 2:36-37
 		</original>
@@ -697,7 +669,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="60" desc="">
+	<phrase id="64" desc="">
 		<original>
 			Cut to the heart
 		</original>
@@ -706,7 +678,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="61" desc="">
+	<phrase id="65" desc="">
 		<original>
 			What shall we do?
 		</original>
@@ -715,7 +687,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="62" desc="">
+	<phrase id="66" desc="">
 		<original>
 			Once the people believed, what did they do? Acts 2:38-42
 		</original>
@@ -732,7 +704,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="63" desc="">
+	<phrase id="67" desc="">
 		<original>
 			Repent (Greek = to turn)
 		</original>
@@ -741,7 +713,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="64" desc="">
+	<phrase id="68" desc="">
 		<original>
 			Be baptized (Greek = to be immersed) 
 		</original>
@@ -750,7 +722,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="65" desc="">
+	<phrase id="69" desc="">
 		<original>
 			Sin forgiven. Therefore this is the point in time a person is saved.
 		</original>
@@ -759,7 +731,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="66" desc="">
+	<phrase id="70" desc="">
 		<original>
 			Holy Spirit given to each who responded — power to live as God commands.
 		</original>
@@ -768,7 +740,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="67" desc="">
+	<phrase id="71" desc="">
 		<original>
 			Baptism: Romans 6:1-4
 		</original>
@@ -785,7 +757,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="68" desc="">
+	<phrase id="72" desc="">
 		<original>
 			Baptism is the sharing (a participation) in the death, burial and resurrection of Christ. (More than just a symbol.) 
 		</original>
@@ -794,7 +766,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="69" desc="">
+	<phrase id="73" desc="">
 		<original>
 			JESUS
 		</original>
@@ -803,7 +775,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="70" desc="">
+	<phrase id="74" desc="">
 		<original>
 			DIED
 		</original>
@@ -812,7 +784,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="71" desc="">
+	<phrase id="75" desc="">
 		<original>
 			BURIED
 		</original>
@@ -821,7 +793,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="72" desc="">
+	<phrase id="76" desc="">
 		<original>
 			RESURRECTED
 		</original>
@@ -830,7 +802,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="73" desc="">
+	<phrase id="77" desc="">
 		<original>
 			OLD LIFE
 		</original>
@@ -839,7 +811,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="74" desc="">
+	<phrase id="78" desc="">
 		<original>
 			"DIED WITH CHRIST"
 		</original>
@@ -848,7 +820,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="75" desc="">
+	<phrase id="79" desc="">
 		<original>
 			"BURIED WITH CHRIST"
 		</original>
@@ -857,7 +829,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="76" desc="">
+	<phrase id="80" desc="">
 		<original>
 			"RAISED TO A NEW LIFE"
 		</original>
@@ -866,7 +838,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="77" desc="">
+	<phrase id="81" desc="">
 		<original>
 			DARKNESS
 		</original>
@@ -875,7 +847,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="78" desc="">
+	<phrase id="82" desc="">
 		<original>
 			LIGHT
 		</original>
@@ -884,7 +856,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="79" desc="">
+	<phrase id="83" desc="">
 		<original>
 			Sin
 		</original>
@@ -893,65 +865,13 @@
 		</translated>
 	</phrase>
 
-	<phrase id="80" desc="">
+	<phrase id="84" desc="">
 		<original>
 			Separates us from God
 		</original>
 		<translated>
 			Nos separa de Dios
 		</translated>
-	</phrase>
-
-	<phrase id="81" desc="">
-		<original>
-			Acts 2:38
-		</original>
-		<translated>
-			Hechos 2:38
-		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
-			<original>
-				Acts 2:38
-			</original>
-			<translated>
-				Hechos 2:38
-			</translated>
-		</change>
-	</phrase>
-
-	<phrase id="82" desc="">
-		<original>
-			Sin is Forgiven
-		</original>
-		<translated>
-			El pecado es perdonado
-		</translated>
-	</phrase>
-
-	<phrase id="83" desc="">
-		<original>
-			Born Again of Water and Spirit
-		</original>
-		<translated>
-			Nace de Nuevo del Agua y del Espíritu
-		</translated>
-	</phrase>
-
-	<phrase id="84" desc="">
-		<original>
-			John 3:5
-		</original>
-		<translated>
-			Juan 3:5
-		</translated>
-		<change bold="true" italic="false" modal="true" scripturekey="john-3-5">
-			<original>
-				John 3:5
-			</original>
-			<translated>
-				Juan 3:5
-			</translated>
-		</change>
 	</phrase>
 
 	<phrase id="85" desc="">
@@ -973,6 +893,58 @@
 
 	<phrase id="86" desc="">
 		<original>
+			Sin is Forgiven
+		</original>
+		<translated>
+			El pecado es perdonado
+		</translated>
+	</phrase>
+
+	<phrase id="87" desc="">
+		<original>
+			Born Again of Water and Spirit
+		</original>
+		<translated>
+			Nace de Nuevo del Agua y del Espíritu
+		</translated>
+	</phrase>
+
+	<phrase id="88" desc="">
+		<original>
+			John 3:5
+		</original>
+		<translated>
+			Juan 3:5
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="john-3-5">
+			<original>
+				John 3:5
+			</original>
+			<translated>
+				Juan 3:5
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="89" desc="">
+		<original>
+			Acts 2:38
+		</original>
+		<translated>
+			Hechos 2:38
+		</translated>
+		<change bold="true" italic="false" modal="true" scripturekey="acts-2-38">
+			<original>
+				Acts 2:38
+			</original>
+			<translated>
+				Hechos 2:38
+			</translated>
+		</change>
+	</phrase>
+
+	<phrase id="90" desc="">
+		<original>
 			Water = Baptism
 		</original>
 		<translated>
@@ -980,7 +952,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="87" desc="">
+	<phrase id="91" desc="">
 		<original>
 			Spirit = Received at Baptism
 		</original>
@@ -989,7 +961,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="88" desc="">
+	<phrase id="92" desc="">
 		<original>
 			Romans 3:25
 		</original>
@@ -1006,7 +978,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="89" desc="">
+	<phrase id="93" desc="">
 		<original>
 			Faith in the Blood of Jesus Saves Us
 		</original>
@@ -1015,7 +987,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="90" desc="">
+	<phrase id="94" desc="">
 		<original>
 			Jesus shed His blood when He died. In baptism we share by faith in the death, burial and resurrection of Jesus. Thus we contact the blood of baptism and are forgiven of our sins and SAVED!
 		</original>
@@ -1025,7 +997,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="91" desc="">
+	<phrase id="95" desc="">
 		<original>
 			Traditions/False Doctrines — Matthew 15:6-9
 		</original>
@@ -1050,7 +1022,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="92" desc="">
+	<phrase id="96" desc="">
 		<original>
 			Infant Baptism
 		</original>
@@ -1059,7 +1031,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="93" desc="">
+	<phrase id="97" desc="">
 		<original>
 			Personal faith is needed (Colossians 2:12)
 		</original>
@@ -1076,7 +1048,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="94" desc="">
+	<phrase id="98" desc="">
 		<original>
 			Began approximately third century A.D.
 		</original>
@@ -1085,7 +1057,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="95" desc="">
+	<phrase id="99" desc="">
 		<original>
 			Original sin
 		</original>
@@ -1094,7 +1066,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="96" desc="">
+	<phrase id="100" desc="">
 		<original>
 			Ezekiel 18:20
 		</original>
@@ -1111,7 +1083,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="97" desc="">
+	<phrase id="101" desc="">
 		<original>
 			Became "church doctrine" in 549 A.D.
 		</original>
@@ -1120,7 +1092,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="98" desc="">
+	<phrase id="102" desc="">
 		<original>
 			Praying Jesus into your heart
 		</original>
@@ -1129,7 +1101,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="99" desc="">
+	<phrase id="103" desc="">
 		<original>
 			Revelation 3:20 — taken out of context. This verse is addressed to Christians.
 		</original>
@@ -1146,7 +1118,7 @@
 		</change>
 	</phrase>
 
-	<phrase id="100" desc="">
+	<phrase id="104" desc="">
 		<original>
 			Began in the early 1800s in America.
 		</original>
@@ -1155,7 +1127,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="101" desc="">
+	<phrase id="105" desc="">
 		<original>
 			Sinful nature
 		</original>
@@ -1164,7 +1136,7 @@
 		</translated>
 	</phrase>
 
-	<phrase id="102" desc="">
+	<phrase id="106" desc="">
 		<original>
 			Suggest to the individual with whom you are studying that he or she write out and be specific about various sins that they have committed during their life. This is so they might see the gravity and magnitude of their sin. This is confidential and should only be shared with those who are studying with the person.
 		</original>
