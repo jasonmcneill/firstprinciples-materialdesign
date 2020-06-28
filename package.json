@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "browser-sync --start --no-notify",
-    "test": "jest lang/es/ -b"
+    "test": "jest lang/en/_tests -b"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
