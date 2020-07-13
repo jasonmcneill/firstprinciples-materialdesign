@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<content key="book-of-acts" lang-original="en" lang-translated="es" last-updated="2018-09-29" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
+<content key="book-of-acts" lang-original="en" lang-translated="es" last-updated="2020-07-13" last-updated-by="Jason McNeill" last-updated-by-email="vrtjason@gmail.com" created="2018-09-29" created-by="Jason McNeill" created-by-email="vrtjason@gmail.com">
 	
 	<phrase id="1" desc="title">
 		<original>
@@ -83,7 +83,7 @@
 	        <source type="audio/ogg" url="https://media.fp.usd21.org/fp/media/lang/en/book-of-acts/kip-mckean/ch-16-21/book-of-acts-ch-16-21.ogg" />
 	      </embed>
 	    </recording>
-	    <recording uuid="a581d5fd-6860-484d-9e6a-2c55351d8be3" label="Chapters 22-28">
+	    <recording uuid="a581d5fd-6860-484d-9e6a-2c55351d8be3" label="Chapters 21-28">
 	      <link text="" url="" />
 	      <poster width="" height="" url="" />
 	      <embed type="audio">
