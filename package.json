@@ -7,7 +7,7 @@
     "email": "vrtjason@gmail.com"
   },
   "scripts": {
-    "start": "http-server -p 8080 -c-1 -o",
+    "start": "serve",
     "test:en": "jest lang/en/_tests -b",
     "test:es": "jest lang/es/_tests -b",
     "test:fr": "jest lang/fr/_tests -b",
@@ -15,8 +15,8 @@
     "test:zh": "jest lang/zh/_tests -b"
   },
   "devDependencies": {
-    "http-server": "^0.12.3",
-    "jest": "^25.1.0"
+    "jest": "^25.1.0",
+    "serve": "^11.3.2"
   },
   "dependencies": {}
 }
